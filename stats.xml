@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>4003</sentences><tokens>138852</tokens><words>138852</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="10529" /><!-- o, de, ,, en, ., e, que, se, a, un, ser, por, con, para, este -->
+  <forms unique="16135" /><!-- de, a, o, ,, en, ., e, que, os, se, as, por, un, unha, con -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <tags unique="15">
+    <tag name="ADJ">11421</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
+    <tag name="ADP">23171</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
+    <tag name="ADV">3349</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
+    <tag name="CONJ">4266</tag><!-- e, ou, pero, senón, nin, mais, quer, emporiso -->
+    <tag name="DET">23906</tag><!-- o, un, este, seu, outro, todo, mesmo, cada, algún, ese -->
+    <tag name="INTJ">8</tag><!-- epa, ea, ó -->
+    <tag name="NOUN">31954</tag><!-- ano, caso, á, empresa, parte, dous, valor, lei, número, muller -->
+    <tag name="NUM">2360</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
+    <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
+    <tag name="PRON">5913</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
+    <tag name="PROPN">1920</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
+    <tag name="PUNCT">13178</tag><!-- ,, ., ), (, :, ", ;, /, _, ... -->
+    <tag name="SCONJ">1608</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
+    <tag name="SYM">584</tag><!-- %, _, *, =, +, §, ±, ´, &, .... -->
+    <tag name="VERB">14525</tag><!-- ser, poder, ter, estar, deber, facer, realizar, establecer, haber, presentar -->
+  </tags>
+  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="19">
+    <dep name="advmod">1252</dep>
+    <dep name="amod">10475</dep>
+    <dep name="aux">1363</dep>
+    <dep name="case">24553</dep>
+    <dep name="cc">4430</dep>
+    <dep name="ccomp">7169</dep>
+    <dep name="cop">2202</dep>
+    <dep name="dep">3858</dep>
+    <dep name="det">24980</dep>
+    <dep name="dobj">7403</dep>
+    <dep name="foreign">170</dep>
+    <dep name="iobj">563</dep>
+    <dep name="mark">1514</dep>
+    <dep name="neg">120</dep>
+    <dep name="nmod">24778</dep>
+    <dep name="nsubj">6531</dep>
+    <dep name="nummod">138</dep>
+    <dep name="punct">13350</dep>
+    <dep name="root">4003</dep>
+  </deps>
+</treebank>
