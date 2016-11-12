@@ -4,6 +4,12 @@ The bootstrap version of the CTG UD annotated corpus v. 0.1 is obtained by using
 
 The Galician UD treebank  v. 0.1 consists of 4003 sentences (138852 tokens) and covers mainly technical texts of the fields of medicine, sociology, ecology, economy and law.
 
+
+Changelog
+
+  * No changes since UD release 1.3.
+
+
 Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v1.3
