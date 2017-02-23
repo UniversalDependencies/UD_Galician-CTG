@@ -11,11 +11,12 @@
   <forms unique="14029" /><!-- de, a, o, ,, en, ., e, que, os, se, as, por, un, unha, para -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
-  <tags unique="15">
+  <tags unique="16">
     <tag name="ADJ">8945</tag><!-- maior, novo, galego, social, público, económico, xeral, seguinte, primeiro, importante -->
     <tag name="ADP">18266</tag><!-- de, en, a, por, para, con, entre, sobre, sen, ata -->
     <tag name="ADV">2599</tag><!-- máis, tamén, así, xa, tanto, aínda, moi, só, dentro, ademais -->
-    <tag name="CONJ">3349</tag><!-- e, ou, pero, nin, senón, mais, quer, emporiso -->
+    <tag name="AUX">1214</tag><!-- ser, estar -->
+    <tag name="CCONJ">3349</tag><!-- e, ou, pero, nin, senón, mais, quer, emporiso -->
     <tag name="DET">18868</tag><!-- o, un, este, seu, outro, todo, mesmo, cada, ese, algún -->
     <tag name="INTJ">4</tag><!-- epa, ea -->
     <tag name="NOUN">25010</tag><!-- ano, á, caso, empresa, parte, lei, valor, traballo, actividade, muller -->
@@ -26,31 +27,34 @@
     <tag name="PUNCT">10280</tag><!-- ,, ., ), (, ", :, ;, /, _, ... -->
     <tag name="SCONJ">1253</tag><!-- que, como, se, coma, porque, pois, ca, mentres, malia, cando -->
     <tag name="SYM">474</tag><!-- %, _, =, *, §, ±, ´, &, +, < -->
-    <tag name="VERB">11441</tag><!-- ser, poder, ter, estar, deber, facer, realizar, establecer, dar, haber -->
+    <tag name="VERB">10227</tag><!-- poder, ter, ser, deber, facer, realizar, establecer, dar, haber, presentar -->
   </tags>
   <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
-  <feats unique="0">
+  <feats unique="2">
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">123</feat><!-- táboa, 20, 70, Capítulo, como, de, figura, obstante, -11,86, -42,43 -->
+    <feat name="Polarity" value="Neg" upos="PART">96</feat><!-- non -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="19">
-    <dep name="advmod">988</dep>
+  <deps unique="20">
+    <dep name="advmod">1084</dep>
     <dep name="amod">8187</dep>
     <dep name="aux">1079</dep>
     <dep name="case">19359</dep>
     <dep name="cc">3481</dep>
     <dep name="ccomp">5631</dep>
-    <dep name="cop">1740</dep>
+    <dep name="cop">1214</dep>
     <dep name="dep">2977</dep>
     <dep name="det">19693</dep>
-    <dep name="dobj">5832</dep>
-    <dep name="foreign">123</dep>
+    <dep name="flat">123</dep>
     <dep name="iobj">442</dep>
     <dep name="mark">1179</dep>
-    <dep name="neg">96</dep>
-    <dep name="nmod">19483</dep>
+    <dep name="nmod">14208</dep>
     <dep name="nsubj">5152</dep>
     <dep name="nummod">111</dep>
+    <dep name="obj">5832</dep>
+    <dep name="obl">5275</dep>
     <dep name="punct">10414</dep>
     <dep name="root">3139</dep>
+    <dep name="xcomp">526</dep>
   </deps>
 </treebank>
