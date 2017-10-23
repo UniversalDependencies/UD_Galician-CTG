@@ -17039,7 +17039,6 @@
 42	CC.	CC.	NOUN	NCFP000	_	40	obj	_	SpaceAfter=No
 43	AA.	AA.	ADJ	AQ0FP0	_	42	amod	_	_
 
-
 # sent_id = dev-413
 # text = A súa maior operación de marketing tivo lugar entre 1994 e 1995 entre compradores de ordenadores e de revistas especializadas de miles de disquetes que servían gratuitamente as dez primeiras de servizo.
 1	A	o	DET	DA0FS0	_	4	det	_	Treeler:spec
