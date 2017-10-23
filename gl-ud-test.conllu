@@ -815,7 +815,7 @@
 23	de	de	ADP	SPS00	_	25	case	_	_
 24	as	o	DET	DA0FP0	_	25	det	_	_
 25	CC.	CC.	NOUN	NCFP000	_	22	nmod	_	SpaceAfter=No
-26	AA.	AA.	ADJ	AQ0FP0	_	25	amod	_	_
+26	AA.	AA.	ADJ	AQ0FP0	_	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	Fc	_	4	punct	_	_
 28-29	producíndose	_	_	_	_	_	_	_	_
 28	producindo	producir	VERB	VMG0000	_	4	case	_	_
@@ -10166,7 +10166,7 @@
 3	a	a	ADP	SPS00	_	5	case	_	_
 4	as	o	DET	DA0FP0	_	5	det	_	_
 5	CC.	CC.	NOUN	NCFP000	_	2	nmod	_	SpaceAfter=No
-6	AA.	AA.	ADJ	AQ0FP0	_	5	amod	_	_
+6	AA.	AA.	ADJ	AQ0FP0	_	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	Fc	_	2	punct	_	_
 8	a	o	DET	DA0FS0	_	9	det	_	_
 9	CE	ce	NOUN	NCFS000	_	11	nsubj	_	_
@@ -24574,7 +24574,7 @@
 18	de	de	ADP	SPS00	_	20	case	_	_
 19	as	o	DET	DA0FP0	_	20	det	_	_
 20	CC.	CC.	NOUN	NCFP000	_	16	nmod	_	SpaceAfter=No
-21	AA.	AA.	ADJ	AQ0FP0	_	20	amod	_	_
+21	AA.	AA.	ADJ	AQ0FP0	_	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	Fc	_	25	punct	_	_
 23	xenericamente	xenericamente	ADV	RG	_	25	case	_	_
 24	adoitan	adoitar	VERB	VMIP3P0	_	25	aux	_	_
