@@ -1,6 +1,6 @@
 # Summary
 
-The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG) created at the University of Vigo by the the TALG NLP research group. 
+The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG) created at the University of Vigo by the the TALG NLP research group.
 
 Original corpus sentences were selected and shuffled at random, and divided in 60-20-20 splits for the train, dev and test files, respectively.
 
@@ -30,10 +30,21 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 
 * Gómez Guinovart, Xavier (2017): Recursos integrados da lingua galega para a investigación lingüística. Marta Negro Romero, Rosario Álvarez, Eduardo Moscoso Mato (eds.): Gallæcia. Estudos de lingüística portuguesa e galega (ISBN 978-84-16954-41-4), Universidade de Santiago de Compostela, Santiago de Compostela, pp. 1045-1056. DOI: http://dx.doi.org/10.15304/cc.2017.1080.61
 
-Documentation status: partial
-Data source: semi-automatic
+
+
+<pre>
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.3
 License: CC BY-NC-SA 3.0
+Includes text: yes
 Genre: medical legal nonfiction news
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: manual native
+Features: not available
+Relations: converted from manual
 Contributors: Gómez Guinovart, Xavier
+Contributing: elsewhere
 Contact: xgg@uvigo.es
+===============================================================================
+</pre>
