@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Galician-CTG:
-commit 682eaf1b92dca95fadf4f836683388c0548de16e
-Merge: 27853e3 e34a7ed
+commit d1ed2417ee2293af3a42ed0cc698358b0e56b079
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:14:06 2019 +0200
 Size: counted 138837 of 138837 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.86660116630852.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,12 +23,48 @@ Udapi: found 51763 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 138837 words.
 Genres: found 4 out of 17 known.
 validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-dev.conllu
-*** PASSED ***
+[Line 33 Sent dev-1 Node 28]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'NUM'
+[Line 66 Sent dev-2 Node 11]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'NUM'
+[Line 101 Sent dev-3 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 107 Sent dev-3 Node 16]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 109 Sent dev-3 Node 18]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 119 Sent dev-4 Node 2]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (2:vez:case --> 1:Unha:det)
+[Line 120 Sent dev-4 Node 3]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (3:avaliados:case --> 2:vez:case)
+[Line 169 Sent dev-5 Node 17]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
+[Line 244 Sent dev-7 Node 2]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (2:vez:case --> 1:Unha:det)
+...suppressing further errors regarding Syntax
+Syntax errors: 1026
+*** FAILED *** with 1026 errors
+Exit code: 1
 validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-test.conllu
-*** PASSED ***
+[Line 62 Sent test-2 Node 6]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 63 Sent test-2 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 106 Sent test-3 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 201 Sent test-5 Node 9]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (9:asignando:case --> 8:se:obj)
+[Line 204 Sent test-5 Node 9]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (9:asignando:case --> 11:comarca:obj)
+[Line 206 Sent test-5 Node 9]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (9:asignando:case --> 12:a:obj)
+[Line 210 Sent test-5 Node 9]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (9:asignando:case --> 16:teña:ccomp)
+[Line 213 Sent test-5 Node 19]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
+[Line 221 Sent test-6 Node 1]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
+...suppressing further errors regarding Syntax
+Syntax errors: 1049
+*** FAILED *** with 1049 errors
+Exit code: 1
 validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 85 Sent train-2 Node 31]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADV'
+[Line 137 Sent train-4 Node 14]: [L3 Syntax rel-upos-case] 'case' should not be 'PRON'
+[Line 144 Sent train-4 Node 23]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (23:reducen:case --> 21:xa:case)
+[Line 145 Sent train-4 Node 23]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (23:reducen:case --> 22:que:mark)
+[Line 148 Sent train-4 Node 23]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (23:reducen:case --> 25:custo:obj)
+[Line 212 Sent train-6 Node 9]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 215 Sent train-6 Node 12]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 219 Sent train-6 Node 15]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 225 Sent train-6 Node 20]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+...suppressing further errors regarding Syntax
+Syntax errors: 2878
+*** FAILED *** with 2878 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
 (weight=0.0769230769230769) * (score{genres}=0.235294117647059) = 0.0180995475113122
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +73,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.518918918918919) = 0.0399168399168399
-(TOTAL score=0.424183248937342) * (availability=1) * (validity=1) = 0.424183248937342
-STARS = 2
-UD_Galician-CTG	0.424183248937342	2
+(TOTAL score=0.424183248937342) * (availability=1) * (validity=0.01) = 0.00424183248937342
+STARS = 0
+UD_Galician-CTG	0.00424183248937342	0
