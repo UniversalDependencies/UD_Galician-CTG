@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Galician-CTG:
-commit d1ed2417ee2293af3a42ed0cc698358b0e56b079
+commit fecf15950b28ab544eb7e9ded7a2830a22c05f2a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:14:06 2019 +0200
+Date:   Tue Nov 12 17:04:33 2019 +0100
 Size: counted 138837 of 138837 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.86660116630852.
 Size: maximum value 13.815511 is for 1000000 words or more.
