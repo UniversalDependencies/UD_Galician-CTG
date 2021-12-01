@@ -3222,7 +3222,7 @@
 19	os	o	DET	DA0MP0	_	20	det	_	Treeler:spec
 20	HBsAx	hbsax	PROPN	NP00000	_	10	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 21	(	(	PUNCT	Fpa	_	20	punct	_	SpaceAfter=No|Treeler:f
-22	-	_	PUNCT	Fg	_	8	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+22	-	_	PUNCT	Fg	_	8	punct	_	SpaceAfter=No|Treeler:f
 23	)	)	PUNCT	Fpt	_	8	punct	_	Treeler:f
 24	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 25-26	ós	_	_	_	_	_	_	_	_
@@ -3298,7 +3298,7 @@
 15	contén	conter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 16	datos	dato	NOUN	NCMP000	_	15	obj	_	Treeler:cd
 17	económicos	económico	ADJ	AQ0MP0	_	16	amod	_	SpaceAfter=No|Treeler:s.a
-18	-	_	PUNCT	Fg	_	19	punct	_	OrigForm=_|Treeler:f
+18	-	_	PUNCT	Fg	_	19	punct	_	Treeler:f
 19	financeiros	financeiro	ADJ	AQ0MP0	_	16	amod	_	Treeler:s.a
 20	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 21	empresas	empresa	NOUN	NCFP000	_	19	nmod	_	ToDo=nmod|Treeler:sn
@@ -4493,7 +4493,7 @@
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	cualifica	cualificar	VERB	VMIP3S0	_	0	root	_	SpaceAfter=No|Treeler:sentence
-7	-	_	PUNCT	Fg	_	6	punct	_	OrigForm=_|Treeler:f
+7	-	_	PUNCT	Fg	_	6	punct	_	Treeler:f
 8	ción	ción	PROPN	NP00000	_	6	nsubj	_	Treeler:suj
 9	como	como	PRON	PR0CN000	_	11	nsubj	_	Treeler:suj
 10	culpable	culpable	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
@@ -7118,7 +7118,7 @@
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	seguido	seguir	VERB	VMP00SM	_	9	ccomp	_	SpaceAfter=No|Treeler:S
 13	:	:	PUNCT	Fd	_	23	punct	_	Treeler:f
-14	-	_	PUNCT	Fg	_	23	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+14	-	_	PUNCT	Fg	_	23	punct	_	SpaceAfter=No|Treeler:f
 15	A	o	DET	DA0FS0	_	16	det	_	Treeler:spec
 16	realización	realización	NOUN	NCFS000	_	23	nsubj	_	Treeler:suj
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
@@ -10525,7 +10525,7 @@
 # text = Estes criterios -obrigatorios e optativos descríbense na Decisión da comisión para concesión da etiqueta ecolóxica comunitaria aos servizos de aloxamento turístico.
 1	Estes	este	DET	DD0MP0	_	2	det	_	Treeler:spec
 2	criterios	criterio	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
-3	-	_	PUNCT	Fg	_	4	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+3	-	_	PUNCT	Fg	_	4	punct	_	SpaceAfter=No|Treeler:f
 4	obrigatorios	obrigatorio	ADJ	AQ0MP0	_	2	amod	_	Treeler:s.a
 5	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 6	optativos	optativo	ADJ	AQ0MP0	_	4	dep	_	Treeler:grup.a
@@ -11527,12 +11527,12 @@
 4	nos	nos	PRON	PP1CP000	_	3	obj	_	Treeler:cd
 5	un	un	DET	DI0MS0	_	6	det	_	Treeler:spec
 6	decálogo	decálogo	NOUN	NCMS000	_	3	obj	_	Treeler:cd
-7	-	_	PUNCT	Fg	_	16	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+7	-	_	PUNCT	Fg	_	16	punct	_	SpaceAfter=No|Treeler:f
 8	coma	coma	SCONJ	CS	_	16	mark	_	Treeler:conj
 9	sempre	sempre	ADV	RG	_	16	case	_	Treeler:cc
 10	sen	sen	ADP	SPS00	_	11	case	_	Treeler:cc
 11	consensuar	consensuar	VERB	VMN0000	_	16	ccomp	_	SpaceAfter=No|Treeler:S
-12	-	_	PUNCT	Fg	_	16	punct	_	OrigForm=_|Treeler:f
+12	-	_	PUNCT	Fg	_	16	punct	_	Treeler:f
 13	que	que	PRON	PR0CN000	_	16	nsubj	_	Treeler:suj
 14	vai	ir	VERB	VMIP3S0	_	16	aux	_	Treeler:v
 15	dende	dende	ADP	SPS00	_	16	case	_	Treeler:s
@@ -13625,9 +13625,9 @@
 8	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 9	cando	cando	PRON	PR0CN000	_	15	nsubj	_	Treeler:suj
 10	se	se	PRON	PP3CN000	_	9	nmod	_	Treeler:sn
-11	-	_	PUNCT	Fg	_	12	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+11	-	_	PUNCT	Fg	_	12	punct	_	SpaceAfter=No|Treeler:f
 12	absolutiza	absolutiza	PROPN	NP00000	_	15	nsubj	_	SpaceAfter=No|Treeler:suj
-13	-	_	PUNCT	Fg	_	12	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+13	-	_	PUNCT	Fg	_	12	punct	_	SpaceAfter=No|Treeler:f
 14	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 15	conduce	conducir	VERB	VMIP3S0	_	1	ccomp	_	Treeler:S
 16-17	á	_	_	_	_	_	_	_	_
@@ -15420,7 +15420,7 @@
 10	(	(	PUNCT	Fpa	_	11	punct	_	SpaceAfter=No|Treeler:f
 11	Xenebra	xenebra	NOUN	NCFS000	Foreign=Yes	7	flat	_	Treeler:inc
 12	2003	2003	NUM	Z	_	11	nmod	_	SpaceAfter=No|Treeler:sn
-13	-	_	PUNCT	Fg	_	11	punct	_	OrigForm=_|Treeler:f
+13	-	_	PUNCT	Fg	_	11	punct	_	Treeler:f
 14	únez	únez	PROPN	NP00000	_	11	nmod	_	Treeler:sn
 15	2005	2005	NUM	Z	_	14	nmod	_	SpaceAfter=No|Treeler:sn
 16	)	)	PUNCT	Fpt	_	11	punct	_	Treeler:f
@@ -16967,7 +16967,7 @@
 15	as	o	DET	DA0FP0	_	16	det	_	Treeler:spec
 16	seguintes	seguinte	ADJ	AQ0CP0	_	13	xcomp	_	SpaceAfter=No|Treeler:atr
 17	:	:	PUNCT	Fd	_	19	punct	_	Treeler:f
-18	-	_	PUNCT	Fg	_	19	punct	_	OrigForm=_|Treeler:f
+18	-	_	PUNCT	Fg	_	19	punct	_	Treeler:f
 19	Pago	pago	NOUN	NCMS000	_	13	xcomp	_	Treeler:atr
 20	inmediato	inmediato	ADJ	AQ0MS0	_	19	amod	_	Treeler:s.a
 21	ou	ou	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -17571,9 +17571,9 @@
 14	necesidade	necesidade	NOUN	NCFS000	_	11	obl	_	Treeler:sn
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	atribuír	atribuír	VERB	VMN0000	_	14	ccomp	_	Treeler:S
-17	-	_	PUNCT	Fg	_	18	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+17	-	_	PUNCT	Fg	_	18	punct	_	SpaceAfter=No|Treeler:f
 18	males	mal	NOUN	NCMP000	_	16	obj	_	SpaceAfter=No|Treeler:cd
-19	-	_	PUNCT	Fg	_	18	punct	_	OrigForm=_|Treeler:f
+19	-	_	PUNCT	Fg	_	18	punct	_	Treeler:f
 20	a	a	ADP	SPS00	_	16	iobj	_	Treeler:ci
 21	alguén	alguén	PRON	PI0CN000	_	20	nmod	_	ToDo=nmod|Treeler:sn
 22	externo	externo	ADJ	AQ0MS0	_	21	amod	_	Treeler:s.a
@@ -19052,7 +19052,7 @@
 19	condensado	condensar	VERB	VMP00SM	_	18	ccomp	_	Treeler:S
 20	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 21	Brañas	braña	NOUN	NCFP000	_	18	nmod	_	Treeler:sn
-22	-	_	PUNCT	Fg	_	18	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+22	-	_	PUNCT	Fg	_	18	punct	_	SpaceAfter=No|Treeler:f
 23	que	que	PRON	PR0CN000	_	25	nsubj	_	Treeler:suj
 24	sería	ser	VERB	VSIC3S0	_	25	aux	_	Treeler:v
 25	publicado	publicar	VERB	VMP00SM	_	18	ccomp	_	Treeler:S
@@ -19068,7 +19068,7 @@
 34	,	,	PUNCT	Fc	_	36	punct	_	Treeler:f
 35	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
 36	1897	1897	PROPN	NP00000	_	33	obl	_	SpaceAfter=No|Treeler:sn
-37	-	_	PUNCT	Fg	_	40	punct	_	OrigForm=_|Treeler:f
+37	-	_	PUNCT	Fg	_	40	punct	_	Treeler:f
 38	que	que	PRON	PR0CN000	_	40	nsubj	_	Treeler:suj
 39	ben	ben	ADV	RG	_	40	case	_	Treeler:cc
 40	merece	merecer	VERB	VMIP3S0	_	36	ccomp	_	Treeler:S
@@ -24668,7 +24668,7 @@
 3	presentes	presente	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
 4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
 5	endemis	endemis	PROPN	NP00000	_	3	nsubj	_	SpaceAfter=No|Treeler:suj
-6	-	_	PUNCT	Fg	_	8	punct	_	OrigForm=_|Treeler:f
+6	-	_	PUNCT	Fg	_	8	punct	_	Treeler:f
 7-8	mos	_	_	_	_	_	_	_	_
 7	me	me	PRON	PP1CS000	_	8	iobj	_	Treeler:ci
 8	os	o	PRON	PP3MPA00	_	5	nmod	_	Treeler:sn
@@ -24718,7 +24718,7 @@
 8	proceda	proceder	VERB	VMSP1S0	_	3	ccomp	_	Treeler:S
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
 10	procura	procura	NOUN	NCFS000	_	8	nsubj	_	SpaceAfter=No|Treeler:suj
-11	-	_	PUNCT	Fg	_	12	punct	_	OrigForm=_|Treeler:f
+11	-	_	PUNCT	Fg	_	12	punct	_	Treeler:f
 12	lo	lo	NOUN	NCMS000	_	10	nmod	_	Treeler:sn
 13	consentimento	consentimento	NOUN	NCMS000	_	12	amod	_	Treeler:s.a
 14	a	o	DET	DA0FS0	_	17	det	_	Treeler:spec
@@ -25044,7 +25044,7 @@
 17	cidadanía	cidadanía	NOUN	NCFS000	_	15	nmod	_	ToDo=nmod|Treeler:sn
 18	para	para	ADP	SPS00	_	13	case	_	Treeler:cc
 19	xestiona	xestionar	VERB	VMIP3S0	_	7	ccomp	_	SpaceAfter=No|Treeler:S
-20	-	_	PUNCT	Fg	_	21	punct	_	OrigForm=_|Treeler:f
+20	-	_	PUNCT	Fg	_	21	punct	_	Treeler:f
 21	las	la	NOUN	NCFP000	_	19	obj	_	Treeler:cd
 22	súas	seu	DET	DP3FP0	_	24	det	_	Treeler:spec
 23	propias	propio	DET	DI0FP0	_	22	det	_	Treeler:d
@@ -25985,7 +25985,7 @@
 13	A	o	DET	DA0FS0	_	14	det	_	Treeler:spec
 14	Segundo	segundo	ADJ	AO0MS0	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	.	.	PUNCT	Fp	_	1	punct	_	SpaceAfter=No|Treeler:f
-16	-	_	PUNCT	Fg	_	1	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+16	-	_	PUNCT	Fg	_	1	punct	_	SpaceAfter=No|Treeler:f
 17	Tendo	ter	VERB	VMG0000	_	1	ccomp	_	Treeler:S
 18	en	en	ADP	SPS00	_	19	case	_	Treeler:cc
 19	conta	conta	NOUN	NCFS000	_	17	obl	_	SpaceAfter=No|Treeler:sn
@@ -28496,7 +28496,7 @@
 14	así	así	ADV	RG	_	16	case	_	Treeler:cc
 15	poder	poder	VERB	VMN0000	_	16	nsubj	_	Treeler:suj
 16	procesa	procesar	VERB	VMIP3S0	_	7	ccomp	_	SpaceAfter=No|Treeler:S
-17	-	_	PUNCT	Fg	_	18	punct	_	OrigForm=_|Treeler:f
+17	-	_	PUNCT	Fg	_	18	punct	_	Treeler:f
 18	lo	lo	NOUN	NCMS000	_	16	obj	_	Treeler:cd
 19	xurro	xurro	NOUN	NCMS000	_	18	amod	_	Treeler:s.a
 20	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
@@ -28665,14 +28665,14 @@
 42	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 43	disturbios	disturbio	NOUN	NCMP000	_	13	dep	_	Treeler:grup.nom
 44	visuais	visual	ADJ	AQ0CP0	_	43	amod	_	Treeler:s.a
-45	-	_	PUNCT	Fg	_	46	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+45	-	_	PUNCT	Fg	_	46	punct	_	SpaceAfter=No|Treeler:f
 46-47	vese	_	_	_	_	_	_	_	_
 46	ve	ver	VERB	VMIP3S0	Foreign=Yes	43	ccomp	_	Treeler:inc
 47	se	se	PRON	PP3CN000	_	46	obj	_	Treeler:cd
 48	como	como	PRON	PR0CN000	_	46	nsubj	_	Treeler:suj
 49	azul	azul	ADJ	AQ0CS0	_	46	xcomp	_	Treeler:cpred
 50	anubrado	anubrar	VERB	VMP00SM	_	46	flat	_	SpaceAfter=No|Treeler:S
-51	-	_	PUNCT	Fg	_	53	punct	_	OrigForm=_|Treeler:f
+51	-	_	PUNCT	Fg	_	53	punct	_	Treeler:f
 52	(	(	PUNCT	Fpa	_	53	punct	_	SpaceAfter=No|Treeler:f
 53	3	3	NUM	Z	Foreign=Yes	46	flat	_	SpaceAfter=No|Treeler:inc
 54	%	%	SYM	Ft	_	53	punct	_	SpaceAfter=No|Treeler:f
@@ -29546,7 +29546,7 @@
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
 10	biodiversidade	biodiversidade	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
 11	mundial	mundial	ADJ	AQ0CS0	_	10	amod	_	SpaceAfter=No|Treeler:s.a
-12	-	_	PUNCT	Fg	_	13	punct	_	OrigForm=_|Treeler:f
+12	-	_	PUNCT	Fg	_	13	punct	_	Treeler:f
 13	ten	ter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 14	como	como	PRON	PR0CN000	_	13	nsubj	_	Treeler:suj
 15	base	base	NOUN	NCFS000	_	13	obj	_	Treeler:cd
@@ -32056,9 +32056,9 @@
 21	a	o	DET	DA0FS0	_	22	det	_	Treeler:spec
 22	política	política	NOUN	NCFS000	_	25	nsubj	_	Treeler:suj
 23	hoxe	hoxe	ADV	RG	_	25	case	_	Treeler:cc
-24	-	_	PUNCT	Fg	_	25	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+24	-	_	PUNCT	Fg	_	25	punct	_	SpaceAfter=No|Treeler:f
 25	di	dicir	VERB	VMIP3S0	Foreign=Yes	13	ccomp	_	SpaceAfter=No|Treeler:inc
-26	-	_	PUNCT	Fg	_	25	punct	_	OrigForm=_|Treeler:f
+26	-	_	PUNCT	Fg	_	25	punct	_	Treeler:f
 27	debe	deber	VERB	VMIP3S0	_	25	aux	_	Treeler:v
 28	permitir	permitir	VERB	VMN0000	_	25	flat	_	Treeler:S
 29	sobre	sobre	ADP	SPS00	_	31	case	_	Treeler:cc
@@ -32703,9 +32703,9 @@
 23	Países	país	NOUN	NCMP000	_	21	nmod	_	Treeler:sn
 24	Non	non	PART	RN	_	25	advmod	_	Treeler:mod
 25	Aliñados	aliñar	VERB	VMP00PM	_	23	ccomp	_	Treeler:S
-26	-	_	PUNCT	Fg	_	27	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+26	-	_	PUNCT	Fg	_	27	punct	_	SpaceAfter=No|Treeler:f
 27	NOAL	noal	NOUN	NCMS000	_	25	xcomp	_	SpaceAfter=No|Treeler:cpred
-28	-	_	PUNCT	Fg	_	27	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+28	-	_	PUNCT	Fg	_	27	punct	_	SpaceAfter=No|Treeler:f
 29	,	,	PUNCT	Fc	_	31	punct	_	Treeler:f
 30	que	que	PRON	PR0CN000	_	31	nsubj	_	Treeler:suj
 31	fundaron	fundar	VERB	VMIS3P0	_	27	ccomp	_	Treeler:S
@@ -33181,9 +33181,9 @@
 22	amortizacións	amortización	NOUN	NCFP000	_	20	obj	_	Treeler:cd
 23	(	(	PUNCT	Fpa	_	24	punct	_	SpaceAfter=No|Treeler:f
 24	beneficio	beneficio	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
-25	-	_	PUNCT	Fg	_	26	punct	_	OrigForm=_|Treeler:f
+25	-	_	PUNCT	Fg	_	26	punct	_	Treeler:f
 26	impostos	imposto	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
-27	-	_	PUNCT	Fg	_	26	punct	_	OrigForm=_|Treeler:f
+27	-	_	PUNCT	Fg	_	26	punct	_	Treeler:f
 28	dividendos	dividendo	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
 29	+	+	SYM	Fz	_	30	punct	_	Treeler:f
 30	amortizacións	amortización	NOUN	NCFP000	_	28	nmod	_	SpaceAfter=No|Treeler:sn
