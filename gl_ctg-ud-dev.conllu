@@ -4454,7 +4454,7 @@
 # text = Cuarto.-Á vista da impugnación presentada por Marcos Deive Novo, acordouse a anulación das preguntas 43 e 52 (de reserva) do primeiro exercicio de oposición da quenda de promoción interna para o acceso a categoría 006 (xefe de servizo técnico).
 1	Cuarto	cuarto	ADJ	AO0MS0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 2	.	.	PUNCT	Fp	_	1	punct	_	SpaceAfter=No|Treeler:f
-3	-	_	PUNCT	Fg	_	4	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+3	-	_	PUNCT	Fg	_	4	punct	_	SpaceAfter=No|Treeler:f
 4	Á	á	NOUN	NCFS000	_	15	nsubj	_	Treeler:suj
 5	vista	vista	NOUN	NCFS000	_	4	amod	_	Treeler:s.a
 6-7	da	_	_	_	_	_	_	_	_
@@ -10441,7 +10441,7 @@
 32	traten	tratar	VERB	VMSP3P0	_	30	ccomp	_	Treeler:S
 33	de	de	ADP	SPS00	_	36	case	_	Treeler:creg
 34	elimina	eliminar	VERB	VMIP3S0	_	36	nmod	_	SpaceAfter=No|Treeler:sn
-35	-	_	PUNCT	Fg	_	36	punct	_	OrigForm=_|Treeler:f
+35	-	_	PUNCT	Fg	_	36	punct	_	Treeler:f
 36	los	lo	NOUN	NCMP000	_	32	obl	_	Treeler:sn
 37	pasos	paso	NOUN	NCMP000	_	36	amod	_	Treeler:s.a
 38	intermedios	intermedio	ADJ	AQ0MP0	_	37	amod	_	Treeler:s.a
@@ -11096,7 +11096,7 @@
 # text = Segundo.-A Orde do 29 de abril de 2002 (DOG do 15 de maio) establece no seu punto oitavo que para poder percibir as axudas correspondentes é necesario presentar a documentación xustificativa antes do 31 de outubro do exercicio correspondente á anualidade de que se trate.
 1	Segundo	segundo	ADP	SPS00	_	21	case	_	SpaceAfter=No|Treeler:cc
 2	.	.	PUNCT	Fp	_	1	punct	_	SpaceAfter=No|Treeler:f
-3	-	_	PUNCT	Fg	_	5	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+3	-	_	PUNCT	Fg	_	5	punct	_	SpaceAfter=No|Treeler:f
 4	A	o	DET	DA0FS0	_	5	det	_	Treeler:spec
 5	Orde	orde	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
 6-7	do	_	_	_	_	_	_	_	_
@@ -11350,9 +11350,9 @@
 8	nova	novo	ADJ	AQ0FS0	_	7	amod	_	SpaceAfter=No|Treeler:s.a
 9	:	:	PUNCT	Fd	_	28	punct	_	Treeler:f
 10	ofrecer	ofrecer	VERB	VMN0000	_	28	nsubj	_	Treeler:suj
-11	-	_	PUNCT	Fg	_	12	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+11	-	_	PUNCT	Fg	_	12	punct	_	SpaceAfter=No|Treeler:f
 12	di	dicir	VERB	VMIP3S0	Foreign=Yes	10	flat	_	SpaceAfter=No|Treeler:inc
-13	-	_	PUNCT	Fg	_	12	punct	_	OrigForm=_|Treeler:f
+13	-	_	PUNCT	Fg	_	12	punct	_	Treeler:f
 14-15	aos	_	_	_	_	_	_	_	_
 14	a	a	ADP	SPS00	_	10	obj	_	Treeler:cd
 15	os	o	DET	DA0MP0	_	16	det	_	Treeler:spec
@@ -16609,7 +16609,7 @@
 19	a	a	ADP	SPS00	_	23	iobj	_	Treeler:ci
 20	o	o	DET	DA0MS0	_	21	det	_	Treeler:spec
 21	permiti	permiti	PROPN	NP00000	_	19	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
-22	-	_	PUNCT	Fg	_	23	punct	_	OrigForm=_|Treeler:f
+22	-	_	PUNCT	Fg	_	23	punct	_	Treeler:f
 23	la	la	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
 24	cesión	cesión	NOUN	NCFS000	_	23	amod	_	Treeler:s.a
 25	en	en	ADP	SPS00	_	26	case	_	Treeler:sp
@@ -21058,7 +21058,7 @@
 28	30	30	PROPN	NP00000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
 29	]	]	PUNCT	Fct	_	32	punct	_	SpaceAfter=No|Treeler:f
 30	:	:	PUNCT	Fd	_	32	punct	_	Treeler:f
-31	-	_	PUNCT	Fg	_	32	punct	_	OrigForm=_|Treeler:f
+31	-	_	PUNCT	Fg	_	32	punct	_	Treeler:f
 32	Atender	atender	VERB	VMN0000	_	22	ccomp	_	Treeler:S
 33-34	ao	_	_	_	_	_	_	_	_
 33	a	a	ADP	SPS00	_	32	obj	_	Treeler:cd
@@ -25966,7 +25966,7 @@
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
 5	cidade	cidade	NOUN	NCFS000	_	19	nsubj	_	Treeler:suj
-6	-	_	PUNCT	Fg	_	7	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+6	-	_	PUNCT	Fg	_	7	punct	_	SpaceAfter=No|Treeler:f
 7	núcleos	núcleo	NOUN	NCMP000	_	5	nmod	_	Treeler:sn
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	poboación	poboación	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
@@ -25976,7 +25976,7 @@
 13	50	50	NUM	Z	_	11	nummod	_	Treeler:z
 14	mil	mil	NOUN	NCMS000	_	7	nmod	_	Treeler:sn
 15	habitantes	habitante	NOUN	NCMP000	_	14	nmod	_	SpaceAfter=No|Treeler:sn
-16	-	_	PUNCT	Fg	_	7	punct	_	OrigForm=_|Treeler:f
+16	-	_	PUNCT	Fg	_	7	punct	_	Treeler:f
 17	é	ser	AUX	VSIP3S0	_	19	cop	_	Treeler:sentence
 18	o	o	DET	DA0MS0	_	19	det	_	Treeler:spec
 19	hábitat	hábitat	NOUN	NCMS000	_	0	root	_	Treeler:atr
@@ -26140,7 +26140,7 @@
 17	instrumentos	instrumento	NOUN	NCMP000	_	12	nmod	_	Treeler:sn
 18	para	para	ADP	SPS00	_	19	case	_	Treeler:sp
 19	localiza	localizar	VERB	VMIP3S0	_	17	nmod	_	SpaceAfter=No|Treeler:sn
-20	-	_	PUNCT	Fg	_	21	punct	_	OrigForm=_|Treeler:f
+20	-	_	PUNCT	Fg	_	21	punct	_	Treeler:f
 21	los	lo	NOUN	NCMP000	_	19	obj	_	Treeler:cd
 22	ditos	dicir	VERB	VMP00PM	_	21	ccomp	_	Treeler:S
 23	bens	ben	NOUN	NCMP000	_	22	xcomp	_	Treeler:cpred
@@ -30464,7 +30464,7 @@
 20	hai	haber	VERB	VMIP3S0	_	17	ccomp	_	Treeler:S
 21	vivendas	vivenda	NOUN	NCFP000	_	20	obj	_	Treeler:cd
 22	dispoñibles	dispoñible	ADJ	AQ0CP0	_	21	amod	_	Treeler:s.a
-23	-	_	PUNCT	Fg	_	20	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+23	-	_	PUNCT	Fg	_	20	punct	_	SpaceAfter=No|Treeler:f
 24	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 25	que	que	SCONJ	CS	_	29	mark	_	Treeler:conj
 26	a	o	DET	DA0FS0	_	27	det	_	Treeler:spec
@@ -30482,7 +30482,7 @@
 37	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
 38	por	por	ADP	SPS00	_	39	case	_	Treeler:cc
 39	exemplo	exemplo	NOUN	NCMS000	_	29	obl	_	SpaceAfter=No|Treeler:sn
-40	-	_	PUNCT	Fg	_	3	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+40	-	_	PUNCT	Fg	_	3	punct	_	SpaceAfter=No|Treeler:f
 41	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = dev-750
@@ -33464,13 +33464,13 @@
 1	Que	que	PRON	PR0CN000	_	11	nsubj	_	Treeler:suj
 2	axentes	axente	NOUN	NCCP000	_	11	nsubj	_	Treeler:suj
 3	sociais	social	ADJ	AQ0CP0	_	2	amod	_	Treeler:s.a
-4	-	_	PUNCT	Fg	_	5	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+4	-	_	PUNCT	Fg	_	5	punct	_	SpaceAfter=No|Treeler:f
 5	locais	local	ADJ	AQ0CP0	_	2	amod	_	SpaceAfter=No|Treeler:s.a
 6	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 7	rexionais	rexional	ADJ	AQ0CP0	_	5	dep	_	Treeler:grup.a
 8	ou	ou	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 9	estatais	estatal	ADJ	AQ0CP0	_	5	dep	_	SpaceAfter=No|Treeler:grup.a
-10	-	_	PUNCT	Fg	_	5	punct	_	OrigForm=_|Treeler:f
+10	-	_	PUNCT	Fg	_	5	punct	_	Treeler:f
 11	teñen	ter	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 12	a	o	DET	DA0FS0	_	13	det	_	Treeler:spec
 13	responsabilidade	responsabilidade	NOUN	NCFS000	_	11	obj	_	Treeler:cd
@@ -34211,7 +34211,7 @@
 31	os	o	DET	DA0MP0	_	32	det	_	Treeler:spec
 32	grupos	grupo	NOUN	NCMP000	_	29	nmod	_	Treeler:sn
 33	G	g	NOUN	NCMS000	_	32	amod	_	SpaceAfter=No|Treeler:s.a
-34	-	_	PUNCT	Fg	_	33	punct	_	OrigForm=_|Treeler:f
+34	-	_	PUNCT	Fg	_	33	punct	_	Treeler:f
 35	e	e	CCONJ	CC	_	33	cc	_	ToDo=cc-without-conj|Treeler:coord
 36	G+	g+	PROPN	NP00000	_	32	nmod	_	SpaceAfter=No|Treeler:sn
 37	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
@@ -34634,7 +34634,7 @@
 # text = Terceiro.-Conceder as axudas para dotación de laboratorios e departamentos de I+D de empresas, agrupacións de empresas e asociacións sen ánimo de lucro, aos beneficiarios que se relacionan no anexo IV desta resolución.
 1	Terceiro	terceiro	ADJ	AO0MS0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 2	.	.	PUNCT	Fp	_	1	punct	_	SpaceAfter=No|Treeler:f
-3	-	_	PUNCT	Fg	_	1	punct	_	OrigForm=_|SpaceAfter=No|Treeler:f
+3	-	_	PUNCT	Fg	_	1	punct	_	SpaceAfter=No|Treeler:f
 4	Conceder	conceder	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	as	o	DET	DA0FP0	_	6	det	_	Treeler:spec
 6	axudas	axuda	NOUN	NCFP000	_	4	obj	_	Treeler:cd
