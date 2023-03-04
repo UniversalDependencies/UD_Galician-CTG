@@ -308,7 +308,7 @@
 33	"	"	PUNCT	Fe	_	32	punct	_	Treeler:f
 34	(	(	PUNCT	Fpa	_	35	punct	_	SpaceAfter=No|Treeler:f
 35	Granhein	granhein	PROPN	NP00000	_	32	nmod	_	Treeler:sn
-36	&	&	SYM	Fz	_	35	punct	_	Treeler:f
+36	&	&	SYM	Fz	_	35	cc	_	Treeler:f
 37	Lundgren	lundgren	VERB	VMIP3P0	_	32	ccomp	_	SpaceAfter=No|Treeler:S
 38	,	,	PUNCT	Fc	_	41	punct	_	Treeler:f
 39	1992	1992	NUM	Z	_	41	det	_	SpaceAfter=No|Treeler:spec
@@ -9592,7 +9592,7 @@
 32	homes	home	NOUN	NCMP000	_	24	obl	_	Treeler:sn
 33	(	(	PUNCT	Fpa	_	34	punct	_	SpaceAfter=No|Treeler:f
 34	p	p	NOUN	NCMS000	_	32	nmod	_	SpaceAfter=No|Treeler:sn
-35	<	<	SYM	Fz	_	34	punct	_	SpaceAfter=No|Treeler:f
+35	<	<	SYM	Fz	_	34	cc	_	SpaceAfter=No|Treeler:f
 36	0,0001	0,0001	NUM	Z	_	34	nmod	_	SpaceAfter=No|Treeler:sn
 37	)	)	PUNCT	Fpt	_	34	punct	_	SpaceAfter=No|Treeler:f
 38	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
@@ -12711,7 +12711,7 @@
 15	por	por	ADP	SPS00	_	17	case	_	Treeler:sp
 16	a	o	DET	DA0FS0	_	17	det	_	Treeler:spec
 17	liquidez	liquidez	NOUN	NCFS000	_	14	nmod	_	SpaceAfter=No|Treeler:sn
-18	__	__	SYM	Fz	_	14	punct	_	Treeler:f
+18	__	__	PUNCT	Fz	_	14	punct	_	Treeler:f
 19-20	válese	_	_	_	_	_	_	_	_
 19	vale	valer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 20	se	se	PRON	PP3CN000	_	19	dep	_	Treeler:morfema.pronominal

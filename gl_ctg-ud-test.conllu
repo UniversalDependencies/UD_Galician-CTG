@@ -33185,7 +33185,7 @@
 26	impostos	imposto	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
 27	-	_	PUNCT	Fg	_	26	punct	_	Treeler:f
 28	dividendos	dividendo	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
-29	+	+	SYM	Fz	_	30	punct	_	Treeler:f
+29	+	+	SYM	Fz	_	30	cc	_	Treeler:f
 30	amortizacións	amortización	NOUN	NCFP000	_	28	nmod	_	SpaceAfter=No|Treeler:sn
 31	)	)	PUNCT	Fpt	_	28	punct	_	SpaceAfter=No|Treeler:f
 32	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
@@ -34713,12 +34713,12 @@
 22	función	función	NOUN	NCFS000	_	18	nmod	_	SpaceAfter=No|Treeler:sn
 23	:	:	PUNCT	Fd	_	44	punct	_	Treeler:f
 24	L	l	NOUN	NCMS000	_	44	nsubj	_	Treeler:suj
-25	=	=	SYM	Fz	_	27	punct	_	Treeler:f
+25	=	=	SYM	Fz	_	27	cc	_	Treeler:f
 26	-n/2	-n/2	NUM	Z	_	27	det	_	Treeler:spec
 27	Ln	ln	NOUN	NCFS000	_	24	nmod	_	Treeler:sn
 28	s2	s2	NUM	Z	_	29	det	_	Treeler:spec
 29	y	y	NOUN	NCMS000	_	27	nmod	_	Treeler:sn
-30	+	+	SYM	Fz	_	27	punct	_	Treeler:f
+30	+	+	SYM	Fz	_	27	cc	_	Treeler:f
 31	(	(	PUNCT	Fpa	_	32	punct	_	SpaceAfter=No|Treeler:f
 32	lambda-1	lambda-1	NUM	Z	_	27	nmod	_	SpaceAfter=No|Treeler:sn
 33	)	)	PUNCT	Fpt	_	32	punct	_	Treeler:f
