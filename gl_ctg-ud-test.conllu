@@ -1757,7 +1757,7 @@
 32	5	5	NUM	Z	_	28	obl	_	SpaceAfter=No|Treeler:sn
 33	%	%	SYM	Ft	_	32	nmod	_	Treeler:sn
 34	ou	ou	CCONJ	CC	_	28	cc	_	ToDo=cc-without-conj|Treeler:coord
-35	6	6	NUM	Z	_	28	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
+35	6	6	NUM	Z	_	28	nmod	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 36	%	%	SYM	Ft	_	35	nmod	_	Treeler:sn
 37	intera	intera	PROPN	NP00000	_	35	nmod	_	Treeler:sn
 38	nual	nual	ADJ	AQ0CS0	_	37	amod	_	SpaceAfter=No|Treeler:s.a
@@ -14962,7 +14962,7 @@
 12	cambios	cambio	NOUN	NCMP000	_	4	nmod	_	Treeler:sn
 13	operados	operar	VERB	VMP00PM	_	12	ccomp	_	Treeler:S
 14	entre	entre	ADP	SPS00	_	15	cc	_	Treeler:coord
-15	1986	1986	NUM	Z	_	13	case	_	ToDo=case-upos|Treeler:cc
+15	1986	1986	NUM	Z	_	13	nmod	_	ToDo=case-upos|Treeler:cc
 16	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 17	1996	1996	NUM	Z	_	15	dep	_	SpaceAfter=No|Treeler:grup.nom
 18	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
@@ -20677,7 +20677,7 @@
 21	tres	tres	NOUN	NCMS000	_	19	nmod	_	Treeler:sn
 22	ou	ou	CCONJ	CC	_	12	cc	_	ToDo=cc-without-conj|Treeler:coord
 23	menos	menos	ADV	RG	_	24	det	_	Treeler:spec
-24	cuartosxxi	cuartosxxi	NUM	Z	_	22	case	_	ToDo=case-upos|Treeler:s
+24	cuartosxxi	cuartosxxi	NUM	Z	_	22	nmod	_	ToDo=case-upos|Treeler:s
 25	(	(	PUNCT	Fpa	_	26	punct	_	SpaceAfter=No|Treeler:f
 26	fronte	fronte	NOUN	NCFS000	_	24	nmod	_	Treeler:sn
 27	a	a	ADP	SPS00	_	29	case	_	Treeler:sp
@@ -22800,7 +22800,7 @@
 19	é	ser	AUX	VSIP3S0	_	20	cop	_	Treeler:S
 20	maior	maior	ADJ	AQ0CS0	_	8	ccomp	_	Treeler:atr
 21	ca	ca	SCONJ	CS	_	22	mark	_	Treeler:conj
-22	1	1	NUM	Z	_	20	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
+22	1	1	NUM	Z	_	20	nmod	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 23	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
 # sent_id = test-565
@@ -27271,7 +27271,7 @@
 22	este	este	DET	DD0MS0	_	23	det	_	Treeler:spec
 23	apartado	apartado	NOUN	NCMS000	_	21	obj	_	Treeler:cd
 24	[	[	PUNCT	Fca	_	25	punct	_	SpaceAfter=No|Treeler:spec
-25	44	44	NUM	Z	_	21	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
+25	44	44	NUM	Z	_	21	nmod	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 26	]	]	PUNCT	Fct	_	25	punct	_	SpaceAfter=No|Treeler:f
 27	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
