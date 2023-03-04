@@ -19,7 +19,7 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 # Changelog
 
 * 2023-05-15 v2.12
-  * Fixed non-projective punctuation using Udapi ud.FixPunct.
+  * Fixed punctuation-related errors.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Galician to UD_Galician-CTG.
 * 2017-10-23 UD release 2.1:

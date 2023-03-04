@@ -6445,7 +6445,7 @@
 14	anos	ano	NOUN	NCMP000	_	24	nsubj	_	Treeler:suj
 15	[	[	PUNCT	Fca	_	16	punct	_	SpaceAfter=No|Treeler:f
 16	30-83	30-83	NUM	Z	_	24	nsubj	_	SpaceAfter=No|Treeler:suj
-17	]	]	PUNCT	Fct	_	16	obj	_	Treeler:cd
+17	]	]	PUNCT	Fct	_	16	punct	_	Treeler:cd
 18	e	e	CCONJ	CC	_	24	cc	_	Treeler:et
 19	só	só	ADV	RG	_	21	advmod	_	Treeler:sadv
 20	en	en	ADP	SPS00	_	21	case	_	Treeler:cc
@@ -27270,7 +27270,7 @@
 21	definir	definir	VERB	VMN0000	_	19	ccomp	_	Treeler:S
 22	este	este	DET	DD0MS0	_	23	det	_	Treeler:spec
 23	apartado	apartado	NOUN	NCMS000	_	21	obj	_	Treeler:cd
-24	[	[	PUNCT	Fca	_	25	det	_	SpaceAfter=No|Treeler:spec
+24	[	[	PUNCT	Fca	_	25	punct	_	SpaceAfter=No|Treeler:spec
 25	44	44	NUM	Z	_	21	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 26	]	]	PUNCT	Fct	_	25	punct	_	SpaceAfter=No|Treeler:f
 27	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f

@@ -21050,7 +21050,7 @@
 20	son	ser	AUX	VSIP1S0	_	22	cop	_	Treeler:sentence
 21	as	o	DET	DA0FP0	_	22	det	_	Treeler:spec
 22	seguintes	seguinte	NOUN	NCFP000	_	0	root	_	Treeler:atr
-23	[	[	PUNCT	Fca	_	24	det	_	SpaceAfter=No|Treeler:spec
+23	[	[	PUNCT	Fca	_	24	punct	_	SpaceAfter=No|Treeler:spec
 24	28	28	NUM	Z	_	22	xcomp	_	SpaceAfter=No|Treeler:atr
 25	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
 26	29	29	NUM	Z	_	24	dep	_	SpaceAfter=No|Treeler:grup.nom
@@ -24032,7 +24032,7 @@
 18	os	o	DET	DA0MP0	_	20	det	_	Treeler:spec
 19	10	10	NUM	Z	_	18	nummod	_	Treeler:z
 20	anos	ano	NOUN	NCMP000	_	16	obl	_	SpaceAfter=No|Treeler:sn
-21	;	;	PUNCT	Fx	_	23	amod	_	Treeler:s.a
+21	;	;	PUNCT	Fx	_	23	punct	_	Treeler:s.a
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
 23	corazón	corazón	NOUN	NCMS000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 24	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
