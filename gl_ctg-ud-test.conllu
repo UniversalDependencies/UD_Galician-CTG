@@ -3411,7 +3411,7 @@
 4	de	de	ADP	SPS00	_	3	case	_	Treeler:sp
 5	estes	este	DET	DD0MP0	_	6	det	_	Treeler:spec
 6	dependerá	depender	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
-7	non	non	PART	RN	_	8	det	_	Treeler:spec
+7	non	non	PART	RN	_	8	advmod	_	Treeler:spec
 8	só	só	ADV	RG	_	6	case	_	ToDo=case-upos|Treeler:cc
 9	o	o	DET	DA0MS0	_	10	det	_	Treeler:spec
 10	retroceso	retroceso	NOUN	NCMS000	_	6	obj	_	Treeler:cd
@@ -26277,7 +26277,7 @@
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 6	será	ser	AUX	VSIF3S0	_	7	cop	_	Treeler:sentence
 7	posíbel	posíbel	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
-8	non	non	PART	RN	_	9	det	_	Treeler:spec
+8	non	non	PART	RN	_	9	advmod	_	Treeler:spec
 9	só	só	ADV	RG	_	7	case	_	ToDo=case-upos|Treeler:cc
 10	o	o	DET	DA0MS0	_	11	det	_	Treeler:spec
 11	dereito	dereito	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
@@ -26503,7 +26503,7 @@
 7	os	o	DET	DA0MP0	_	8	det	_	Treeler:spec
 8	datos	dato	NOUN	NCMP000	_	6	nsubj	_	Treeler:suj
 9	obtidos	obter	VERB	VMP00PM	_	8	ccomp	_	Treeler:S
-10	non	non	PART	RN	_	11	det	_	Treeler:spec
+10	non	non	PART	RN	_	11	advmod	_	Treeler:spec
 11	só	só	ADV	RG	_	9	case	_	ToDo=case-upos|Treeler:cc
 12-13	das	_	_	_	_	_	_	_	_
 12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
@@ -30201,7 +30201,7 @@
 # text = As opcións non só consistirán en proxectos especiais senón tamén na aplicación de instrumentos reguladores, económicos e de comunicación axeitados para influír positivamente no comportamento.
 1	As	o	DET	DA0FP0	_	2	det	_	Treeler:spec
 2	opcións	opción	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
-3	non	non	PART	RN	_	4	det	_	Treeler:spec
+3	non	non	PART	RN	_	4	advmod	_	Treeler:spec
 4	só	só	ADV	RG	_	5	case	_	ToDo=case-upos|Treeler:cc
 5	consistirán	consistir	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
 6	en	en	ADP	SPS00	_	7	case	_	Treeler:creg
@@ -32828,7 +32828,7 @@
 9	en	en	ADP	SPS00	_	11	case	_	Treeler:creg
 10	gran	gran	ADJ	AQ0CS0	_	11	amod	_	Treeler:s.a
 11	maneira	maneira	NOUN	NCFS000	_	8	obl	_	Treeler:sn
-12	non	non	PART	RN	_	13	det	_	Treeler:spec
+12	non	non	PART	RN	_	13	advmod	_	Treeler:spec
 13	só	só	ADV	RG	_	8	case	_	ToDo=case-upos|Treeler:cc
 14-15	da	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	16	case	_	Treeler:creg

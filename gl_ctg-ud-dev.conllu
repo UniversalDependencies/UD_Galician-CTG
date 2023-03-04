@@ -5072,7 +5072,7 @@
 35	a	a	ADP	SPS00	_	39	case	_	Treeler:cc
 36	a	o	DET	DA0FS0	_	39	det	_	Treeler:spec
 37	outra	outro	DET	DI0FS0	_	39	det	_	Treeler:spec
-38	en	en	ADP	SPS00	_	39	det	_	Treeler:spec
+38	en	en	ADP	SPS00	_	39	case	_	Treeler:spec
 39	virtude	virtude	NOUN	NCFS000	_	32	obl	_	Treeler:sn
 40-41	da	_	_	_	_	_	_	_	_
 40	de	de	ADP	SPS00	_	43	case	_	Treeler:sp
@@ -22611,7 +22611,7 @@
 5	acometer	acometer	VERB	VMN0000	_	3	ccomp	_	Treeler:S
 6	este	este	DET	DD0MS0	_	7	det	_	Treeler:spec
 7	proxecto	proxecto	NOUN	NCMS000	_	5	obj	_	Treeler:cd
-8	non	non	PART	RN	_	9	det	_	Treeler:spec
+8	non	non	PART	RN	_	9	advmod	_	Treeler:spec
 9	tanto	tanto	ADV	RG	_	12	cc	_	Treeler:coord
 10	por	por	ADP	SPS00	_	12	case	_	Treeler:cc
 11	unha	un	DET	DI0FS0	_	12	det	_	Treeler:spec
@@ -33381,7 +33381,7 @@
 5	que	que	SCONJ	CS	_	6	mark	_	Treeler:c
 6	subliñar	subliñar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
-8	non	non	PART	RN	_	9	det	_	Treeler:spec
+8	non	non	PART	RN	_	9	advmod	_	Treeler:spec
 9	só	só	ADV	RG	_	16	case	_	ToDo=case-upos|Treeler:cc
 10	o	o	DET	DA0MS0	_	11	det	_	Treeler:spec
 11	recorte	recorte	NOUN	NCMS000	_	16	nsubj	_	Treeler:suj
@@ -34539,7 +34539,7 @@
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:creg
 6	tratamento	tratamento	NOUN	NCMS000	_	4	obl	_	Treeler:sn
 7	cirúrxico	cirúrxico	ADJ	AQ0MS0	_	6	amod	_	Treeler:s.a
-8	non	non	PART	RN	_	9	det	_	Treeler:spec
+8	non	non	PART	RN	_	9	advmod	_	Treeler:spec
 9	só	só	ADV	RG	_	4	case	_	ToDo=case-upos|Treeler:cc
 10-11	polos	_	_	_	_	_	_	_	_
 10	por	por	ADP	SPS00	_	13	case	_	Treeler:cc
