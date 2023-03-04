@@ -12268,7 +12268,7 @@
 2	eles	el	PRON	PP3MP000	_	3	obl	_	Treeler:sn
 3	temos	ter	VERB	VMIP1P0	_	0	root	_	SpaceAfter=No|Treeler:sentence
 4	:	:	PUNCT	Fd	_	6	punct	_	Treeler:f
-5	~	~	SYM	Fz	_	6	punct	_	Treeler:f
+5	~	~	PUNCT	Fz	_	6	punct	_	Treeler:f
 6	Postos	posto	NOUN	NCMP000	_	3	obj	_	Treeler:cd
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 8	hospital	hospital	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
@@ -20122,7 +20122,7 @@
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 29	fluxos	fluxo	NOUN	NCMP000	_	27	nmod	_	Treeler:sn
 30	subterráneos	subterráneo	ADJ	AQ0MP0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
-31	....	....	SYM	Fz	_	15	punct	_	SpaceAfter=No|Treeler:f
+31	....	....	PUNCT	Fz	_	15	punct	_	SpaceAfter=No|Treeler:f
 32	)	)	PUNCT	Fpt	_	15	punct	_	SpaceAfter=No|Treeler:f
 33	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
@@ -24450,7 +24450,7 @@
 28	(	(	PUNCT	Fpa	_	29	punct	_	SpaceAfter=No|Treeler:f
 29	cfr	cfr	PROPN	NP00000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
 30	.	.	PUNCT	Fp	_	29	punct	_	Treeler:f
-31	§	§	SYM	Fz	_	29	punct	_	Treeler:f
+31	§	§	PUNCT	Fz	_	29	punct	_	Treeler:f
 32	7.1	7.1	NUM	Z	_	29	nmod	_	SpaceAfter=No|Treeler:sn
 33	)	)	PUNCT	Fpt	_	29	punct	_	SpaceAfter=No|Treeler:f
 34	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f

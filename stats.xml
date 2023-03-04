@@ -27,9 +27,9 @@
     <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
     <tag name="PRON">5912</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
     <tag name="PROPN">1902</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
-    <tag name="PUNCT">13304</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
+    <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1607</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
-    <tag name="SYM">440</tag><!-- %, =, +, §, _, ±, ´, &, ...., < -->
+    <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
     <tag name="VERB">12983</tag><!-- poder, ter, deber, ser, facer, realizar, establecer, haber, presentar, dar -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
