@@ -34411,7 +34411,7 @@
 12	seca	seco	ADJ	AQ0FS0	_	11	amod	_	Treeler:s.a
 13-14	dos	_	_	_	_	_	_	_	_
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-14	os	o	DET	DA0MP0	_	15	mark	_	Treeler:conj
+14	os	o	DET	DA0MP0	_	15	det	_	Treeler:conj
 15	RSU	rsu	VERB	VMIS3S0	_	11	nmod	_	Treeler:sn
 16-17	nas	_	_	_	_	_	_	_	_
 16	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
