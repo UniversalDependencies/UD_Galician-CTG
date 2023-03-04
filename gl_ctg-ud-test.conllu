@@ -9870,7 +9870,7 @@
 22	e	e	CCONJ	CC	_	21	cc	_	ToDo=cc-without-conj|Treeler:coord
 23	propostas	proposta	NOUN	NCFP000	_	21	dep	_	SpaceAfter=No|Treeler:grup.nom
 24	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
-25	ó	ó	INTJ	I	_	27	det	_	Treeler:spec
+25	ó	ó	INTJ	I	_	27	discourse	_	Treeler:spec
 26	dito	dicir	VERB	VMP00SM	_	27	ccomp	_	Treeler:S
 27	fenómeno	fenómeno	NOUN	NCMS000	_	21	nmod	_	SpaceAfter=No|Treeler:sn
 28	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
