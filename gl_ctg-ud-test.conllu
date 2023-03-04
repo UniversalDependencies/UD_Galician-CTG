@@ -606,7 +606,7 @@
 17	amortización	amortización	NOUN	NCFS000	_	14	nmod	_	Treeler:sn
 18	fiscal	fiscal	ADJ	AQ0CS0	_	17	amod	_	Treeler:s.a
 19	foron	ser	AUX	VSIS3P0	_	20	cop	_	ToDo=case-upos|Treeler:cc
-20	superiores	superior	ADJ	AQ0CP0	_	4	case	_	ToDo=case-upos|Treeler:atr
+20	superiores	superior	ADJ	AQ0CP0	_	4	amod	_	ToDo=case-upos|Treeler:atr
 21-22	aos	_	_	_	_	_	_	_	_
 21	a	a	ADP	SPS00	_	23	case	_	Treeler:sp
 22	os	o	DET	DA0MP0	_	23	det	_	Treeler:spec
@@ -12682,7 +12682,7 @@
 26	ictus	ictus	NOUN	NCMP000	_	29	obl	_	Treeler:sn
 27	isquémico	isquémico	ADJ	AQ0MS0	_	26	amod	_	Treeler:s.a
 28	é	ser	AUX	VSIP3S0	_	29	cop	_	ToDo=case-upos|Treeler:cc
-29	importante	importante	ADJ	AQ0CS0	_	10	case	_	ToDo=case-upos|Treeler:atr
+29	importante	importante	ADJ	AQ0CS0	_	10	amod	_	ToDo=case-upos|Treeler:atr
 30	realizar	realizar	VERB	VMN0000	_	29	nsubj	_	Treeler:suj
 31	unha	un	DET	DI0FS0	_	33	det	_	Treeler:spec
 32	nova	novo	ADJ	AQ0FS0	_	33	amod	_	Treeler:s.a
@@ -17207,7 +17207,7 @@
 3	dano	dano	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 4	renal	renal	ADJ	AQ0CS0	_	3	amod	_	Treeler:s.a
 5	é	ser	AUX	VSIP3S0	_	6	cop	_	ToDo=case-upos|Treeler:cc
-6	importante	importante	ADJ	AQ0CS0	_	7	case	_	ToDo=case-upos|Treeler:atr
+6	importante	importante	ADJ	AQ0CS0	_	7	amod	_	ToDo=case-upos|Treeler:atr
 7	aparece	aparecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	sangue	sangue	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 9	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -19956,7 +19956,7 @@
 21	productos	productos	NOUN	NCMP000	_	18	nmod	_	Treeler:sn
 22	exportados	exportar	VERB	VMP00PM	_	21	ccomp	_	Treeler:S
 23	son	ser	AUX	VSIP1S0	_	24	cop	_	ToDo=case-upos|Treeler:cc
-24	superiores	superior	ADJ	AQ0CP0	_	15	case	_	ToDo=case-upos|Treeler:atr
+24	superiores	superior	ADJ	AQ0CP0	_	15	amod	_	ToDo=case-upos|Treeler:atr
 25-26	ós	_	_	_	_	_	_	_	_
 25	a	a	ADP	SPS00	_	27	case	_	Treeler:sp
 26	os	o	DET	DA0MP0	_	27	det	_	Treeler:spec
@@ -28520,7 +28520,7 @@
 35	marxes	marxe	NOUN	NCFP000	_	32	obl	_	Treeler:sn
 36	establecidas	establecer	VERB	VMP00PF	_	35	ccomp	_	Treeler:S
 37	é	ser	AUX	VSIP3S0	_	38	cop	_	ToDo=case-upos|Treeler:cc
-38	vital	vital	ADJ	AQ0CS0	_	16	case	_	ToDo=case-upos|Treeler:atr
+38	vital	vital	ADJ	AQ0CS0	_	16	amod	_	ToDo=case-upos|Treeler:atr
 39	para	para	ADP	SPS00	_	42	case	_	Treeler:sp
 40	o	o	DET	DA0MS0	_	42	det	_	Treeler:spec
 41	seu	seu	DET	DP3MS0	_	42	det	_	Treeler:spec
@@ -33493,7 +33493,7 @@
 14	fosen	ser	AUX	VSSI3P0	_	17	cop	_	ToDo=case-upos|Treeler:cc
 15	os	o	DET	DA0MP0	_	17	det	_	Treeler:spec
 16	únicos	único	ADJ	AQ0MP0	_	17	amod	_	Treeler:s.a
-17	posibles	posible	ADJ	AQ0CP0	_	8	case	_	ToDo=case-upos|Treeler:atr
+17	posibles	posible	ADJ	AQ0CP0	_	8	amod	_	ToDo=case-upos|Treeler:atr
 18	ten	ter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 19	necesariamente	necesariamente	ADV	RG	_	18	case	_	Treeler:cc
 20	como	como	PRON	PR0CN000	_	23	obl	_	ToDo=case-upos|Treeler:cc

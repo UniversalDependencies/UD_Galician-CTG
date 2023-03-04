@@ -42,10 +42,10 @@
     <dep name="acl">5</dep>
     <dep name="advcl">3</dep>
     <dep name="advmod">1375</dep>
-    <dep name="amod">10477</dep>
+    <dep name="amod">10502</dep>
     <dep name="appos">5</dep>
     <dep name="aux">1364</dep>
-    <dep name="case">24440</dep>
+    <dep name="case">24415</dep>
     <dep name="cc">4426</dep>
     <dep name="ccomp">7157</dep>
     <dep name="conj">17</dep>

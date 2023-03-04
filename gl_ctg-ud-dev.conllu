@@ -8172,7 +8172,7 @@
 22	computador	computador	NOUN	NCMS000	_	25	obl	_	Treeler:sn
 23	é	ser	AUX	VSIP3S0	_	25	cop	_	ToDo=case-upos|Treeler:cc
 24	sensiblemente	sensible	ADV	RG	_	25	det	_	Treeler:spec
-25	maior	maior	ADJ	AQ0CS0	_	14	case	_	ToDo=case-upos|Treeler:atr
+25	maior	maior	ADJ	AQ0CS0	_	14	amod	_	ToDo=case-upos|Treeler:atr
 26-27	nos	_	_	_	_	_	_	_	_
 26	en	en	ADP	SPS00	_	28	case	_	Treeler:sp
 27	os	o	DET	DA0MP0	_	28	det	_	Treeler:spec
@@ -21247,7 +21247,7 @@
 40	de	de	ADP	SPS00	_	41	case	_	Treeler:sp
 41	significación	significación	NOUN	NCFS000	_	39	nmod	_	Treeler:sn
 42	é	ser	AUX	VSIP3S0	_	43	cop	_	ToDo=case-upos|Treeler:cc
-43	inferior	inferior	ADJ	AQ0CS0	_	24	case	_	ToDo=case-upos|Treeler:atr
+43	inferior	inferior	ADJ	AQ0CS0	_	24	amod	_	ToDo=case-upos|Treeler:atr
 44-45	ao	_	_	_	_	_	_	_	_
 44	a	a	ADP	SPS00	_	46	case	_	Treeler:sp
 45	o	o	DET	DA0MS0	_	46	det	_	Treeler:spec
@@ -21905,7 +21905,7 @@
 10	porque	porque	SCONJ	CS	_	13	mark	_	Treeler:conj
 11	todas	todo	DET	DI0FP0	_	13	case	_	Treeler:cc
 12	son	ser	AUX	VSIP1S0	_	13	cop	_	ToDo=case-upos|Treeler:cc
-13	seductoras	seductoras	ADJ	AQ0FP0	_	8	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:atr
+13	seductoras	seductoras	ADJ	AQ0FP0	_	8	amod	_	SpaceAfter=No|ToDo=case-upos|Treeler:atr
 14	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 15	teñen	ter	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 16	a	o	DET	DA0FS0	_	17	det	_	Treeler:spec
@@ -34424,7 +34424,7 @@
 45	investidos	investir	VERB	VMP00PM	_	42	ccomp	_	Treeler:S
 46	_	_	PUNCT	Fz	_	48	punct	_	Treeler:f
 47	é	ser	AUX	VSIP3S0	_	48	cop	_	ToDo=case-upos|Treeler:cc
-48	menor	menor	ADJ	AQ0CS0	_	31	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:atr
+48	menor	menor	ADJ	AQ0CS0	_	31	amod	_	SpaceAfter=No|ToDo=case-upos|Treeler:atr
 49	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
 # sent_id = dev-847
