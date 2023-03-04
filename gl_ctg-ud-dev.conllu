@@ -104,9 +104,9 @@
 13	os	o	PRON	PP3MPA00	_	12	obj	_	Treeler:cd
 14	como	como	PRON	PR0CN000	_	12	xcomp	_	Treeler:cpred
 15	unha	un	DET	DI0FS0	_	17	det	_	Treeler:spec
-16	_	_	SYM	Fz	_	17	punct	_	SpaceAfter=No|Treeler:f
+16	_	_	PUNCT	Fz	_	17	punct	_	SpaceAfter=No|Treeler:f
 17	atenuación	atenuación	NOUN	NCFS000	_	12	obj	_	SpaceAfter=No|Treeler:cd
-18	_	_	SYM	Fz	_	17	punct	_	Treeler:f
+18	_	_	PUNCT	Fz	_	17	punct	_	Treeler:f
 19-20	dos	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 20	os	o	DET	DA0MP0	_	21	det	_	Treeler:spec
@@ -1931,20 +1931,20 @@
 26	sociedade	sociedade	NOUN	NCFS000	_	24	obj	_	Treeler:cd
 27	en	en	ADP	SPS00	_	28	case	_	Treeler:sp
 28	tres	tres	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
-29	_	_	SYM	Fz	_	30	punct	_	SpaceAfter=No|Treeler:f
+29	_	_	PUNCT	Fz	_	30	punct	_	SpaceAfter=No|Treeler:f
 30	clases	clase	NOUN	NCFP000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
-31	_	_	SYM	Fz	_	30	punct	_	Treeler:f
+31	_	_	PUNCT	Fz	_	30	punct	_	Treeler:f
 32	para	para	ADP	SPS00	_	33	case	_	Treeler:cc
 33-34	demostra-la	_	_	_	_	_	_	_	_
 33	demostrar	demostrar	VERB	VMN0000	_	24	ccomp	_	Treeler:S
 34	a	o	DET	DA0FS0	_	36	det	_	Treeler:spec
-35	_	_	SYM	Fz	_	36	punct	_	SpaceAfter=No|Treeler:f
+35	_	_	PUNCT	Fz	_	36	punct	_	SpaceAfter=No|Treeler:f
 36	circulación	circulación	NOUN	NCFS000	_	33	obj	_	Treeler:cd
 37-38	da	_	_	_	_	_	_	_	_
 37	de	de	ADP	SPS00	_	39	case	_	Treeler:sp
 38	a	o	DET	DA0FS0	_	39	det	_	Treeler:spec
 39	riqueza	riqueza	NOUN	NCFS000	_	36	nmod	_	SpaceAfter=No|Treeler:sn
-40	_	_	SYM	Fz	_	42	punct	_	Treeler:f
+40	_	_	PUNCT	Fz	_	42	punct	_	Treeler:f
 41	(	(	PUNCT	Fpa	_	42	punct	_	SpaceAfter=No|Treeler:f
 42	Brooman	brooman	VERB	VMIP3P0	Foreign=Yes	39	flat	_	SpaceAfter=No|Treeler:inc
 43	,	,	PUNCT	Fc	_	44	punct	_	Treeler:f
@@ -7934,7 +7934,7 @@
 20	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 21	producindo	producir	VERB	VMG0000	_	9	case	_	ToDo=case-upos|Treeler:cc
 22	tamén	tamén	ADV	RG	_	21	case	_	Treeler:cc
-23	_	_	SYM	Fz	_	21	punct	_	SpaceAfter=No|Treeler:f
+23	_	_	PUNCT	Fz	_	21	punct	_	SpaceAfter=No|Treeler:f
 24	con	con	ADP	SPS00	_	25	case	_	Treeler:cc
 25	produto	produto	NOUN	NCMS000	_	21	obl	_	Treeler:sn
 26	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -7946,7 +7946,7 @@
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 33	produción	produción	NOUN	NCFS000	_	31	nmod	_	Treeler:sn
 34	propia	propio	ADJ	AQ0FS0	_	33	amod	_	SpaceAfter=No|Treeler:s.a
-35	_	_	SYM	Fz	_	28	punct	_	Treeler:f
+35	_	_	PUNCT	Fz	_	28	punct	_	Treeler:f
 36	para	para	ADP	SPS00	_	38	case	_	Treeler:sp
 37	o	o	DET	DA0MS0	_	38	det	_	Treeler:spec
 38	consumo	consumo	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
@@ -12693,7 +12693,7 @@
 # text = E Keynes _por exemplo, na súa elaboración da _preferencia pola liquidez__ válese do estudio do comportamento individual do _especulador_ (Delfaud, 1986a, p. 74; Delfaud, 1986b).
 1	E	e	CCONJ	CC	_	19	cc	_	Treeler:et
 2	Keynes	keynes	PROPN	NP00000	_	19	nsubj	_	Treeler:suj
-3	_	_	SYM	Fz	_	2	punct	_	SpaceAfter=No|Treeler:f
+3	_	_	PUNCT	Fz	_	2	punct	_	SpaceAfter=No|Treeler:f
 4	por	por	ADP	SPS00	_	5	case	_	Treeler:cc
 5	exemplo	exemplo	NOUN	NCMS000	_	19	obl	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
@@ -12705,7 +12705,7 @@
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 12	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
-13	_	_	SYM	Fz	_	14	punct	_	SpaceAfter=No|Treeler:f
+13	_	_	PUNCT	Fz	_	14	punct	_	SpaceAfter=No|Treeler:f
 14	preferencia	preferencia	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 15-16	pola	_	_	_	_	_	_	_	_
 15	por	por	ADP	SPS00	_	17	case	_	Treeler:sp
@@ -12727,9 +12727,9 @@
 28-29	do	_	_	_	_	_	_	_	_
 28	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 29	o	o	DET	DA0MS0	_	31	det	_	Treeler:spec
-30	_	_	SYM	Fz	_	31	punct	_	SpaceAfter=No|Treeler:f
+30	_	_	PUNCT	Fz	_	31	punct	_	SpaceAfter=No|Treeler:f
 31	especulador	especulador	NOUN	NCMS000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
-32	_	_	SYM	Fz	_	31	punct	_	Treeler:f
+32	_	_	PUNCT	Fz	_	31	punct	_	Treeler:f
 33	(	(	PUNCT	Fpa	_	34	punct	_	SpaceAfter=No|Treeler:f
 34	Delfaud	delfaud	PROPN	NP00000	_	31	nmod	_	SpaceAfter=No|Treeler:sn
 35	,	,	PUNCT	Fc	_	36	punct	_	Treeler:f
@@ -13100,10 +13100,10 @@
 33-34	coa	_	_	_	_	_	_	_	_
 33	con	con	ADP	SPS00	_	36	case	_	Treeler:creg
 34	a	o	DET	DA0FS0	_	36	det	_	Treeler:spec
-35	_	_	SYM	Fz	_	36	punct	_	SpaceAfter=No|Treeler:f
+35	_	_	PUNCT	Fz	_	36	punct	_	SpaceAfter=No|Treeler:f
 36	capacidade	capacidade	NOUN	NCFS000	_	32	obl	_	Treeler:sn
 37	económica	económico	ADJ	AQ0FS0	_	36	amod	_	SpaceAfter=No|Treeler:s.a
-38	_	_	SYM	Fz	_	36	punct	_	Treeler:f
+38	_	_	PUNCT	Fz	_	36	punct	_	Treeler:f
 39-40	das	_	_	_	_	_	_	_	_
 39	de	de	ADP	SPS00	_	42	case	_	Treeler:sp
 40	as	o	DET	DA0FP0	_	42	det	_	Treeler:spec
@@ -25778,14 +25778,14 @@
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	mando	mando	NOUN	NCMS000	_	14	obl	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
-18	_	_	SYM	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
+18	_	_	PUNCT	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
 19	o	o	DET	DA0MS0	_	22	det	_	Treeler:spec
 20	seu	seu	DET	DP3MS0	_	22	det	_	Treeler:spec
 21	poder	poder	VERB	VMN0000	_	22	aux	_	Treeler:v
 22	originário	originário	NOUN	NCMS000	_	11	obj	_	Treeler:cd
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 24	mando	mando	NOUN	NCMS000	_	22	nmod	_	SpaceAfter=No|Treeler:sn
-25	_	_	SYM	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
+25	_	_	PUNCT	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
 26	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 27	segundo	segundo	ADP	SPS00	_	22	case	_	Treeler:cc
 28	indica	indicar	VERB	VMIP3S0	_	22	nmod	_	Treeler:sn
@@ -26530,7 +26530,7 @@
 26	ou	ou	CCONJ	CC	_	23	cc	_	ToDo=cc-without-conj|Treeler:coord
 27	terapéuticos	terapéutico	ADJ	AQ0MP0	_	23	dep	_	Treeler:grup.a
 28	probados	probado	ADJ	AQ0MP0	_	22	amod	_	SpaceAfter=No|Treeler:s.a
-29	_	_	SYM	Fz	_	31	punct	_	Treeler:f
+29	_	_	PUNCT	Fz	_	31	punct	_	Treeler:f
 30	(	(	PUNCT	Fpa	_	31	punct	_	SpaceAfter=No|Treeler:f
 31	Declaración	declaración	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
@@ -28801,10 +28801,10 @@
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 3	constata	constatar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	os	o	DET	DA0MP0	_	6	det	_	Treeler:spec
-5	_	_	SYM	Fz	_	6	punct	_	SpaceAfter=No|Treeler:f
+5	_	_	PUNCT	Fz	_	6	punct	_	SpaceAfter=No|Treeler:f
 6	cambios	cambio	NOUN	NCMP000	_	3	obj	_	Treeler:cd
 7	erráticos	errático	ADJ	AQ0MP0	_	6	amod	_	SpaceAfter=No|Treeler:s.a
-8	_	_	SYM	Fz	_	6	punct	_	Treeler:f
+8	_	_	PUNCT	Fz	_	6	punct	_	Treeler:f
 9	que	que	PRON	PR0CN000	_	10	nsubj	_	Treeler:suj
 10	tivo	ter	VERB	VMIS3S0	_	6	ccomp	_	Treeler:S
 11	o	o	DET	DA0MS0	_	12	det	_	Treeler:spec
@@ -31423,11 +31423,11 @@
 24	tamén	tamén	ADV	RG	_	26	case	_	Treeler:cc
 25	se	se	PRON	PP3CN000	_	26	obj	_	Treeler:cd
 26	denominan	denominar	VERB	VMIP3P0	_	22	ccomp	_	Treeler:S
-27	_	_	SYM	Fz	_	28	punct	_	SpaceAfter=No|Treeler:f
+27	_	_	PUNCT	Fz	_	28	punct	_	SpaceAfter=No|Treeler:f
 28	formas	forma	NOUN	NCFP000	_	26	nsubj	_	Treeler:suj
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 30	inicio	inicio	NOUN	NCMS000	_	28	nmod	_	SpaceAfter=No|Treeler:sn
-31	_	_	SYM	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
+31	_	_	PUNCT	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
 32	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
 # sent_id = dev-773
@@ -34417,12 +34417,12 @@
 38	que	que	SCONJ	CS	_	48	mark	_	Treeler:conj
 39	a	o	DET	DA0FS0	_	40	det	_	Treeler:spec
 40	relación	relación	NOUN	NCFS000	_	48	nsubj	_	Treeler:suj
-41	_	_	SYM	Fz	_	42	punct	_	SpaceAfter=No|Treeler:f
+41	_	_	PUNCT	Fz	_	42	punct	_	SpaceAfter=No|Treeler:f
 42	benefícios	benefícios	NOUN	NCMP000	_	40	nmod	_	Treeler:sn
 43	/	/	PUNCT	Fh	_	44	punct	_	Treeler:f
 44	capitais	capital	NOUN	NCFP000	_	42	nmod	_	Treeler:sn
 45	investidos	investir	VERB	VMP00PM	_	42	ccomp	_	Treeler:S
-46	_	_	SYM	Fz	_	48	punct	_	Treeler:f
+46	_	_	PUNCT	Fz	_	48	punct	_	Treeler:f
 47	é	ser	AUX	VSIP3S0	_	48	cop	_	ToDo=case-upos|Treeler:cc
 48	menor	menor	ADJ	AQ0CS0	_	31	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:atr
 49	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f

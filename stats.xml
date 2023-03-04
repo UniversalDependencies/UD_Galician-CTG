@@ -27,9 +27,9 @@
     <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
     <tag name="PRON">5912</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
     <tag name="PROPN">1902</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
-    <tag name="PUNCT">13160</tag><!-- ,, ., ), (, :, ", ;, /, _, ... -->
+    <tag name="PUNCT">13295</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1607</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
-    <tag name="SYM">584</tag><!-- %, _, *, =, +, §, ±, ´, &, .... -->
+    <tag name="SYM">449</tag><!-- %, *, =, +, §, _, ±, ´, &, .... -->
     <tag name="VERB">12983</tag><!-- poder, ter, deber, ser, facer, realizar, establecer, haber, presentar, dar -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -42,25 +42,25 @@
     <dep name="acl">2</dep>
     <dep name="advcl">1</dep>
     <dep name="advmod">1373</dep>
-    <dep name="amod">10481</dep>
+    <dep name="amod">10480</dep>
     <dep name="appos">3</dep>
     <dep name="aux">1364</dep>
     <dep name="case">24557</dep>
-    <dep name="cc">4430</dep>
+    <dep name="cc">4429</dep>
     <dep name="ccomp">7165</dep>
     <dep name="conj">4</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">3852</dep>
-    <dep name="det">24976</dep>
+    <dep name="det">24973</dep>
     <dep name="flat">172</dep>
     <dep name="iobj">562</dep>
     <dep name="mark">1513</dep>
     <dep name="nmod">18640</dep>
     <dep name="nsubj">6526</dep>
     <dep name="nummod">138</dep>
-    <dep name="obj">7395</dep>
+    <dep name="obj">7393</dep>
     <dep name="obl">6136</dep>
-    <dep name="punct">13355</dep>
+    <dep name="punct">13362</dep>
     <dep name="root">3993</dep>
     <dep name="xcomp">659</dep>
   </deps>
