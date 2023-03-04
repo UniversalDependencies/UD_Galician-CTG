@@ -30,7 +30,7 @@
 25	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 26	supervivencia	supervivencia	NOUN	NCFS000	_	24	nmod	_	Treeler:sn
 27	en	en	ADP	SPS00	_	29	case	_	Treeler:sp
-28	1.5-2	1.5-2	NUM	Z	_	29	det	_	Treeler:spec
+28	1.5-2	1.5-2	NUM	Z	_	29	nummod	_	Treeler:spec
 29	meses	mes	NOUN	NCMP000	_	26	nmod	_	Treeler:sn
 30	e	e	CCONJ	CC	_	26	cc	_	ToDo=cc-without-conj|Treeler:coord
 31	mellora	mellora	NOUN	NCFS000	_	26	dep	_	Treeler:grup.nom
@@ -63,7 +63,7 @@
 8	con	con	ADP	SPS00	_	9	case	_	Treeler:cc
 9	menores	menor	NOUN	NCCP000	_	7	obl	_	Treeler:sn
 10	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
-11	12	12	NUM	Z	_	12	det	_	Treeler:spec
+11	12	12	NUM	Z	_	12	nummod	_	Treeler:spec
 12	anos	ano	NOUN	NCMP000	_	9	nmod	_	Treeler:sn
 13	situados	situar	VERB	VMP00PM	_	12	ccomp	_	Treeler:S
 14-15	nos	_	_	_	_	_	_	_	_
@@ -311,7 +311,7 @@
 36	&	&	SYM	Fz	_	35	cc	_	Treeler:f
 37	Lundgren	lundgren	VERB	VMIP3P0	_	32	ccomp	_	SpaceAfter=No|Treeler:S
 38	,	,	PUNCT	Fc	_	41	punct	_	Treeler:f
-39	1992	1992	NUM	Z	_	41	det	_	SpaceAfter=No|Treeler:spec
+39	1992	1992	NUM	Z	_	41	nummod	_	SpaceAfter=No|Treeler:spec
 40	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
 41	p	p	NOUN	NCMS000	_	37	obj	_	SpaceAfter=No|Treeler:cd
 42	.	.	PUNCT	Fp	_	43	punct	_	Treeler:f
@@ -955,7 +955,7 @@
 15	un	un	DET	DI0MS0	_	16	det	_	Treeler:spec
 16	conxunto	conxunto	NOUN	NCMS000	_	13	nmod	_	Treeler:sn
 17	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
-18	140	140	NUM	Z	_	19	det	_	Treeler:spec
+18	140	140	NUM	Z	_	19	nummod	_	Treeler:spec
 19	artigos	artigo	NOUN	NCMP000	_	16	nmod	_	Treeler:sn
 20	científicos	científico	ADJ	AQ0MP0	_	19	amod	_	Treeler:s.a
 21	publicados	publicar	VERB	VMP00PM	_	19	ccomp	_	Treeler:S
@@ -4931,9 +4931,9 @@
 31	e	e	CCONJ	CC	_	17	cc	_	ToDo=cc-without-conj|Treeler:coord
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 33	19	19	NUM	Z	_	17	nmod	_	Treeler:sn
-34	d/105	d/105	NUM	Z	_	33	det	_	Treeler:spec
+34	d/105	d/105	NUM	Z	_	33	nummod	_	Treeler:spec
 35	e	e	CCONJ	CC	_	34	cc	_	ToDo=cc-without-conj|Treeler:coord
-36	8	8	NUM	Z	_	34	det	_	Treeler:spec
+36	8	8	NUM	Z	_	34	nummod	_	Treeler:spec
 37	d/105	d/105	NUM	Z	_	34	nmod	_	Treeler:sn
 38-39	nas	_	_	_	_	_	_	_	_
 38	en	en	ADP	SPS00	_	40	case	_	Treeler:sp
@@ -6218,7 +6218,7 @@
 18	depuradoras	depurador	NOUN	NCFP000	_	20	det	_	Treeler:spec
 19	fronte	fronte	NOUN	NCFS000	_	18	amod	_	Treeler:s.a
 20	ás	á	NOUN	NCFP000	_	15	dep	_	Treeler:n
-21	trece	trece	NUM	Z	_	22	det	_	Treeler:spec
+21	trece	trece	NUM	Z	_	22	nummod	_	Treeler:spec
 22	existentes	existente	ADJ	AQ0CP0	_	20	amod	_	Treeler:s.a
 23-24	no	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
@@ -7688,7 +7688,7 @@
 30	resultados	resultado	NOUN	NCMP000	_	28	nmod	_	Treeler:sn
 31	foi	ser	AUX	VSIS3S0	_	32	cop	_	Treeler:S
 32	de	de	ADP	SPS00	_	10	ccomp	_	Treeler:atr
-33	9	9	NUM	Z	_	34	det	_	Treeler:spec
+33	9	9	NUM	Z	_	34	nummod	_	Treeler:spec
 34	días	día	NOUN	NCMP000	_	32	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 35	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 36	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -8238,7 +8238,7 @@
 5	formación	formación	NOUN	NCFS000	_	3	nmod	_	Treeler:sn
 6	2002-2003	2002-2003	NUM	Z	_	5	amod	_	Treeler:s.a
 7	houbo	haber	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
-8	6.019	6.019	NUM	Z	_	9	det	_	Treeler:spec
+8	6.019	6.019	NUM	Z	_	9	nummod	_	Treeler:spec
 9	persoas	persoa	NOUN	NCFP000	_	7	obj	_	Treeler:cd
 10	interesadas	interesado	ADJ	AQ0FP0	_	9	amod	_	SpaceAfter=No|Treeler:s.a
 11	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
@@ -8446,7 +8446,7 @@
 4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
 5	alumnos	alumno	NOUN	NCMP000	_	0	root	_	Treeler:atr
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-7	3º	3º	NUM	Z	_	8	det	_	Treeler:spec
+7	3º	3º	NUM	Z	_	8	nummod	_	Treeler:spec
 8	ciclo	ciclo	NOUN	NCMS000	_	5	nmod	_	ToDo=nmod|Treeler:sn
 9-10	da	_	_	_	_	_	_	_	_
 9	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
@@ -8457,7 +8457,7 @@
 14-15	do	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 15	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
-16	1º	1º	NUM	Z	_	17	det	_	Treeler:spec
+16	1º	1º	NUM	Z	_	17	nummod	_	Treeler:spec
 17	ciclo	ciclo	NOUN	NCMS000	_	8	nmod	_	Treeler:sn
 18-19	da	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
@@ -9852,7 +9852,7 @@
 8	empresas	empresa	NOUN	NCFP000	_	10	nsubj	_	Treeler:suj
 9	apenas	apenas	ADV	RG	_	10	advmod	_	Treeler:mod
 10	facturaban	facturar	VERB	VMII3P0	_	0	root	_	Treeler:sentence
-11	59.000	59.000	NUM	Z	_	12	det	_	Treeler:spec
+11	59.000	59.000	NUM	Z	_	12	nummod	_	Treeler:spec
 12	millóns	millón	NOUN	NCMP000	_	10	obj	_	Treeler:cd
 13	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 14	pesetas	peseta	NOUN	NCFP000	_	12	nmod	_	Treeler:sn
@@ -10639,7 +10639,7 @@
 
 # sent_id = dev-261
 # text = XX Aniversario: con motivo da próxima celebración dos vinte anos do Grupo Naturalista Hábitat, convócase a tódolos socios interesados en colaborar na realización dunha memoria que resuma o traballo desenrolado.
-1	XX	xx	NUM	Z	_	2	det	_	Treeler:spec
+1	XX	xx	NUM	Z	_	2	nummod	_	Treeler:spec
 2	Aniversario	aniversario	NOUN	NCMS000	_	21	nsubj	_	SpaceAfter=No|Treeler:suj
 3	:	:	PUNCT	Fd	_	2	punct	_	Treeler:f
 4	con	con	ADP	SPS00	_	5	case	_	Treeler:cc
@@ -12248,7 +12248,7 @@
 23	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
 24	lactosoro	lactosoro	PROPN	NP00000	_	22	nsubj	_	Treeler:suj
 25	[	[	PUNCT	Fca	_	26	punct	_	SpaceAfter=No|Treeler:f
-26	11	11	NUM	Z	_	13	det	_	SpaceAfter=No|Treeler:spec
+26	11	11	NUM	Z	_	13	nummod	_	SpaceAfter=No|Treeler:spec
 27	]	]	PUNCT	Fct	_	26	punct	_	SpaceAfter=No|Treeler:f
 28	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
 
@@ -13253,8 +13253,8 @@
 21	recomendada	recomendar	VERB	VMP00SF	_	20	ccomp	_	Treeler:S
 22	oscila	oscilar	VERB	VMIP3S0	_	3	ccomp	_	Treeler:S
 23	entre	entre	ADP	SPS00	_	26	case	_	Treeler:cc
-24	60	60	NUM	Z	_	26	det	_	Treeler:spec
-25	-70	-70	NUM	Z	_	26	det	_	Treeler:spec
+24	60	60	NUM	Z	_	26	nummod	_	Treeler:spec
+25	-70	-70	NUM	Z	_	26	nummod	_	Treeler:spec
 26	Grays	grays	NOUN	NCMP000	_	22	obl	_	Treeler:sn
 27	(	(	PUNCT	Fpa	_	28	punct	_	SpaceAfter=No|Treeler:f
 28	Gy	gy	PROPN	NP00000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
@@ -13520,7 +13520,7 @@
 21	pouco	pouco	ADV	RG	_	20	advmod	_	Treeler:r
 22	máis	máis	ADV	RG	_	21	advmod	_	SpaceAfter=No|Treeler:sadv
 23	:	:	PUNCT	Fd	_	20	punct	_	Treeler:f
-24	6.303,9	6.303,9	NUM	Z	_	25	det	_	Treeler:spec
+24	6.303,9	6.303,9	NUM	Z	_	25	nummod	_	Treeler:spec
 25	millóns	millón	NOUN	NCMP000	_	19	obl	_	Treeler:sn
 26	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
 27	euros	euro	NOUN	NCMP000	_	25	nmod	_	SpaceAfter=No|Treeler:sn
@@ -13794,7 +13794,7 @@
 18	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 19	respectivamente	respectivamente	ADV	RG	_	22	advmod	_	SpaceAfter=No|Treeler:sadv
 20	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
-21	97	97	NUM	Z	_	22	det	_	Treeler:spec
+21	97	97	NUM	Z	_	22	nummod	_	Treeler:spec
 22	h	h	NOUN	NCMS000	_	16	obj	_	Treeler:cd
 23-24	no	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
@@ -14145,16 +14145,16 @@
 22	os	o	DET	DA0MP0	_	23	det	_	Treeler:spec
 23	homes	home	NOUN	NCMP000	_	16	obl	_	Treeler:sn
 24	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
-25	40-44	40-44	NUM	Z	_	26	det	_	Treeler:spec
+25	40-44	40-44	NUM	Z	_	26	nummod	_	Treeler:spec
 26	anos	ano	NOUN	NCMP000	_	23	nmod	_	Treeler:sn
 27	(	(	PUNCT	Fpa	_	28	punct	_	SpaceAfter=No|Treeler:f
 28	17	17	NUM	Z	_	26	nmod	_	SpaceAfter=No|Treeler:sn
 29	"	"	PUNCT	Fe	_	31	punct	_	SpaceAfter=No|Treeler:f
-30	3	3	NUM	Z	_	31	det	_	Treeler:spec
+30	3	3	NUM	Z	_	31	nummod	_	Treeler:spec
 31	m/105h	m/105h	PROPN	NP00000	_	28	nmod	_	SpaceAfter=No|Treeler:sn
 32	)	)	PUNCT	Fpt	_	28	punct	_	Treeler:f
 33	foron	ser	AUX	VSIS3P0	_	35	cop	_	Treeler:sentence
-34	20	20	NUM	Z	_	35	det	_	Treeler:spec
+34	20	20	NUM	Z	_	35	nummod	_	Treeler:spec
 35	veces	vez	NOUN	NCFP000	_	0	root	_	Treeler:atr
 36	inferiores	inferior	ADJ	AQ0CP0	_	37	amod	_	Treeler:s.a
 37	ás	á	NOUN	NCFP000	_	35	xcomp	_	Treeler:atr
@@ -14163,12 +14163,12 @@
 39	os	o	DET	DA0MP0	_	40	det	_	Treeler:spec
 40	homes	home	NOUN	NCMP000	_	37	nmod	_	Treeler:sn
 41	de	de	ADP	SPS00	_	43	case	_	Treeler:sp
-42	75-79	75-79	NUM	Z	_	43	det	_	Treeler:spec
+42	75-79	75-79	NUM	Z	_	43	nummod	_	Treeler:spec
 43	anos	ano	NOUN	NCMP000	_	40	nmod	_	Treeler:sn
 44	(	(	PUNCT	Fpa	_	45	punct	_	SpaceAfter=No|Treeler:f
 45	403	403	NUM	Z	_	43	nmod	_	SpaceAfter=No|Treeler:sn
 46	"	"	PUNCT	Fe	_	45	punct	_	SpaceAfter=No|Treeler:f
-47	5	5	NUM	Z	_	48	det	_	Treeler:spec
+47	5	5	NUM	Z	_	48	nummod	_	Treeler:spec
 48	m/105h	m/105h	NOUN	NCCN000	_	45	nmod	_	SpaceAfter=No|Treeler:sn
 49	)	)	PUNCT	Fpt	_	45	punct	_	SpaceAfter=No|Treeler:f
 50	.	.	PUNCT	Fp	_	35	punct	_	Treeler:f
@@ -15810,7 +15810,7 @@
 19	mellor	mellor	ADJ	AQ0CS0	_	20	amod	_	Treeler:s.a
 20	amizade	amizade	NOUN	NCFS000	_	16	obj	_	Treeler:cd
 21	(	(	PUNCT	Fpa	_	23	punct	_	SpaceAfter=No|Treeler:f
-22	70,1	70,1	NUM	Z	_	23	det	_	Treeler:spec
+22	70,1	70,1	NUM	Z	_	23	nummod	_	Treeler:spec
 23	vs	v	NOUN	NCMP000	_	20	nmod	_	Treeler:sn
 24	33,3	33,3	NUM	Z	_	23	amod	_	SpaceAfter=No|Treeler:s.a
 25	%	%	SYM	Ft	_	23	nmod	_	SpaceAfter=No|Treeler:f
@@ -16009,7 +16009,7 @@
 5	14.279	14.279	NUM	Z	_	4	nummod	_	Treeler:z
 6	homes	home	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
 7	e	e	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
-8	13.588	13.588	NUM	Z	_	9	det	_	Treeler:spec
+8	13.588	13.588	NUM	Z	_	9	nummod	_	Treeler:spec
 9	mulleres	muller	NOUN	NCFP000	_	6	nmod	_	Treeler:sn
 10	que	que	PRON	PR0CN000	_	11	nsubj	_	Treeler:suj
 11	morreron	morrer	VERB	VMIS3P0	_	9	ccomp	_	Treeler:S
@@ -16524,7 +16524,7 @@
 21	reducindo	reducir	VERB	VMG0000	_	34	case	_	ToDo=case-upos|Treeler:cc
 22	se	se	PRON	PP3CN000	_	21	dep	_	Treeler:morfema.pronominal
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
-24	1	1	NUM	Z	_	25	det	_	Treeler:spec
+24	1	1	NUM	Z	_	25	nummod	_	Treeler:spec
 25	punto	punto	NOUN	NCMS000	_	21	obl	_	SpaceAfter=No|Treeler:sn
 26	)	)	PUNCT	Fpt	_	21	punct	_	SpaceAfter=No|Treeler:f
 27	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
@@ -16815,7 +16815,7 @@
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
 2	os	o	DET	DA0MP0	_	3	det	_	Treeler:spec
 3	anos	ano	NOUN	NCMP000	_	18	obl	_	Treeler:sn
-4	oitenta	oitenta	NUM	Z	_	6	det	_	Treeler:spec
+4	oitenta	oitenta	NUM	Z	_	6	nummod	_	Treeler:spec
 5	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 6	principios	principio	NOUN	NCMP000	_	3	dep	_	Treeler:grup.nom
 7-8	dos	_	_	_	_	_	_	_	_
@@ -17725,7 +17725,7 @@
 24	a	o	DET	DA0FS0	_	25	det	_	Treeler:spec
 25	obra	obra	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
 26	nº	nº	NOUN	NCCN000	_	25	nmod	_	Treeler:sn
-27	117	117	NUM	Z	_	28	det	_	Treeler:spec
+27	117	117	NUM	Z	_	28	nummod	_	Treeler:spec
 28	Plan	plan	NOUN	NCMS000	_	26	dep	_	Treeler:n
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 30	Obras	obra	NOUN	NCFP000	_	28	nmod	_	Treeler:sn
@@ -17819,7 +17819,7 @@
 22	os	o	DET	DA0MP0	_	26	det	_	Treeler:spec
 23	20	20	NUM	Z	_	22	nummod	_	Treeler:z
 24	e	e	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord
-25	34	34	NUM	Z	_	22	det	_	Treeler:spec
+25	34	34	NUM	Z	_	22	nummod	_	Treeler:spec
 26	anos	ano	NOUN	NCMP000	_	12	nmod	_	SpaceAfter=No|Treeler:sn
 27	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 28	que	que	PRON	PR0CN000	_	29	nsubj	_	Treeler:suj
@@ -17880,7 +17880,7 @@
 7	cifra	cifrar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	se	se	PRON	PP3CN000	_	7	dep	_	Treeler:morfema.pronominal
 9	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
-10	26,3	26,3	NUM	Z	_	11	det	_	Treeler:spec
+10	26,3	26,3	NUM	Z	_	11	nummod	_	Treeler:spec
 11	millóns	millón	NOUN	NCMP000	_	7	obl	_	Treeler:sn
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 13	hectáreas	hectárea	NOUN	NCFP000	_	11	nmod	_	SpaceAfter=No|Treeler:sn
@@ -18799,7 +18799,7 @@
 8	5/2000	5/2000	PROPN	NP00000	_	9	nsubj	_	Treeler:suj
 9	consta	constar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 10	de	de	ADP	SPS00	_	11	cc	_	Treeler:coord
-11	sesenta	sesenta	NUM	Z	_	14	det	_	Treeler:spec
+11	sesenta	sesenta	NUM	Z	_	14	nummod	_	Treeler:spec
 12	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
 13	catro	catro	NOUN	NCMS000	_	11	dep	_	Treeler:grup.nom
 14	artigos	artigo	NOUN	NCMP000	_	9	obj	_	SpaceAfter=No|Treeler:cd
@@ -18859,7 +18859,7 @@
 14	extrema	extremo	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
 15	esquerda	esquerda	NOUN	NCFS000	_	12	obj	_	Treeler:cd
 16	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
-17	10	10	NUM	Z	_	20	det	_	Treeler:spec
+17	10	10	NUM	Z	_	20	nummod	_	Treeler:spec
 18	a	o	DET	DA0FS0	_	20	det	_	Treeler:spec
 19	extrema	extremo	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
 20	dereita	dereita	NOUN	NCFS000	_	15	nmod	_	SpaceAfter=No|Treeler:sn
@@ -19244,7 +19244,7 @@
 32	a	o	DET	DA0FS0	_	33	det	_	Treeler:spec
 33	reacción	reacción	NOUN	NCFS000	_	31	obj	_	Treeler:cd
 34	transcorridos	transcorrer	VERB	VMP00PM	_	36	ccomp	_	Treeler:S
-35	15	15	NUM	Z	_	36	det	_	Treeler:spec
+35	15	15	NUM	Z	_	36	nummod	_	Treeler:spec
 36	minutos	minuto	NOUN	NCMP000	_	31	obj	_	SpaceAfter=No|Treeler:cd
 37	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
@@ -19475,7 +19475,7 @@
 5	en	en	ADP	SPS00	_	4	case	_	Treeler:cc
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
 7	figura	figurar	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
-8	2.4	2.4	NUM	Z	_	11	det	_	SpaceAfter=No|Treeler:spec
+8	2.4	2.4	NUM	Z	_	11	nummod	_	SpaceAfter=No|Treeler:spec
 9	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 10	algúns	algún	DET	DI0MP0	_	11	det	_	Treeler:spec
 11	ambientes	ambiente	NOUN	NCMP000	_	13	nsubj	_	Treeler:suj
@@ -19555,7 +19555,7 @@
 18	unha	un	DET	DI0FS0	_	19	det	_	Treeler:spec
 19	aplicación	aplicación	NOUN	NCFS000	_	17	nsubj	_	Treeler:suj
 20	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
-21	420	420	NUM	Z	_	22	det	_	Treeler:spec
+21	420	420	NUM	Z	_	22	nummod	_	Treeler:spec
 22	millóns	millón	NOUN	NCMP000	_	19	nmod	_	Treeler:sn
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 24	euros	euro	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
@@ -19733,7 +19733,7 @@
 13	exercicio	exercicio	NOUN	NCMS000	_	10	obl	_	Treeler:sn
 14	2003	2003	NUM	Z	_	13	nmod	_	Treeler:sn
 15	con	con	ADP	SPS00	_	17	case	_	Treeler:cc
-16	3,1	3,1	NUM	Z	_	17	det	_	Treeler:spec
+16	3,1	3,1	NUM	Z	_	17	nummod	_	Treeler:spec
 17	millóns	millón	NOUN	NCMP000	_	10	obl	_	Treeler:sn
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19	euros	euro	NOUN	NCMP000	_	17	nmod	_	Treeler:sn
@@ -19875,7 +19875,7 @@
 10	fixeron	facer	VERB	VMIS3P0	_	0	root	_	Treeler:sentence
 11	necesarias	necesario	ADJ	AQ0FP0	_	10	xcomp	_	Treeler:cpred
 12	ata	ata	ADP	SPS00	_	14	case	_	Treeler:cc
-13	120	120	NUM	Z	_	14	det	_	Treeler:spec
+13	120	120	NUM	Z	_	14	nummod	_	Treeler:spec
 14	intervencións	intervención	NOUN	NCFP000	_	10	obl	_	Treeler:sn
 15-16	na	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	17	case	_	Treeler:sp
@@ -20338,7 +20338,7 @@
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:cc
 19	25	25	NUM	Z	_	17	obl	_	Treeler:sn
 20	a	a	ADP	SPS00	_	17	obj	_	Treeler:cd
-21	698	698	NUM	Z	_	22	det	_	Treeler:spec
+21	698	698	NUM	Z	_	22	nummod	_	Treeler:spec
 22	millóns	millón	NOUN	NCMP000	_	20	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 23	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
 24	o	o	DET	DA0MS0	_	26	det	_	Treeler:spec
@@ -21523,7 +21523,7 @@
 3	o	o	DET	DA0MS0	_	4	det	_	Treeler:spec
 4	prazo	prazo	NOUN	NCMS000	_	1	obl	_	Treeler:sn
 5	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
-6	2	2	NUM	Z	_	7	det	_	Treeler:spec
+6	2	2	NUM	Z	_	7	nummod	_	Treeler:spec
 7	meses	mes	NOUN	NCMP000	_	4	nmod	_	Treeler:sn
 8	contados	contado	ADJ	AQ0MP0	_	7	amod	_	Treeler:s.a
 9	a	a	ADP	SPS00	_	10	case	_	Treeler:sp
@@ -21609,7 +21609,7 @@
 33	alleos	alleo	ADJ	AQ0MP0	_	32	amod	_	Treeler:s.a
 34	(	(	PUNCT	Fpa	_	35	punct	_	SpaceAfter=No|Treeler:f
 35	art.	art.	NOUN	NCCN000	_	28	nmod	_	Treeler:sn
-36	23.6	23.6	NUM	Z	_	37	det	_	Treeler:spec
+36	23.6	23.6	NUM	Z	_	37	nummod	_	Treeler:spec
 37	Lei	lei	NOUN	NCFS000	_	35	nmod	_	SpaceAfter=No|Treeler:sn
 38	)	)	PUNCT	Fpt	_	35	punct	_	SpaceAfter=No|Treeler:f
 39	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
@@ -21995,7 +21995,7 @@
 19	se	se	PRON	PP3CN000	_	18	dep	_	Treeler:morfema.pronominal
 20	matriculados	matricular	VERB	VMP00PM	_	18	xcomp	_	Treeler:cpred
 21	en	en	ADP	SPS00	_	23	case	_	Treeler:cc
-22	205	205	NUM	Z	_	23	det	_	Treeler:spec
+22	205	205	NUM	Z	_	23	nummod	_	Treeler:spec
 23	centros	centro	NOUN	NCMP000	_	20	obl	_	Treeler:sn
 24	escolares	escolar	ADJ	AQ0CP0	_	23	amod	_	Treeler:s.a
 25-26	da	_	_	_	_	_	_	_	_
@@ -22302,7 +22302,7 @@
 10	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
 11	Tiruchy	tiruchy	PROPN	NP00000	_	3	obl	_	SpaceAfter=No|Treeler:sn
 12	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
-13	dez	dez	NUM	Z	_	14	det	_	Treeler:spec
+13	dez	dez	NUM	Z	_	14	nummod	_	Treeler:spec
 14	anos	ano	NOUN	NCMP000	_	11	nmod	_	Treeler:sn
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 16	querer	querer	VERB	VMN0000	_	17	dep	_	Treeler:infinitiu
@@ -22329,7 +22329,7 @@
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	Lei	lei	NOUN	NCFS000	_	3	nmod	_	Treeler:sn
 7	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
-8	1881	1881	NUM	Z	_	12	det	_	Treeler:spec
+8	1881	1881	NUM	Z	_	12	nummod	_	Treeler:spec
 9	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 10	as	o	DET	DA0FP0	_	12	det	_	Treeler:spec
 11	súas	seu	DET	DP3FP0	_	12	det	_	Treeler:spec
@@ -22422,7 +22422,7 @@
 7	galego	galego	ADJ	AQ0MS0	_	6	amod	_	Treeler:s.a
 8	é	ser	AUX	VSIP3S0	_	9	cop	_	Treeler:sentence
 9	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
-10	660	660	NUM	Z	_	11	det	_	Treeler:spec
+10	660	660	NUM	Z	_	11	nummod	_	Treeler:spec
 11	m2	m2	NOUN	NCCN000	_	9	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 12	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 13	o	o	DET	DA0MS0	_	15	det	_	Treeler:spec
@@ -22441,7 +22441,7 @@
 24	supermercado	supermercado	NOUN	NCMS000	_	20	nmod	_	Treeler:sn
 25	español	español	ADJ	AQ0MS0	_	24	amod	_	Treeler:s.a
 26	(	(	PUNCT	Fpa	_	28	punct	_	SpaceAfter=No|Treeler:f
-27	815	815	NUM	Z	_	28	det	_	Treeler:spec
+27	815	815	NUM	Z	_	28	nummod	_	Treeler:spec
 28	m2	m2	NOUN	NCCN000	_	17	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 29	)	)	PUNCT	Fpt	_	28	punct	_	SpaceAfter=No|Treeler:f
 30	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
@@ -22473,7 +22473,7 @@
 22	convenio	convenio	NOUN	NCMS000	_	19	nmod	_	Treeler:sn
 23	será	ser	AUX	VSIF3S0	_	24	cop	_	Treeler:sentence
 24	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
-25	12,3579	12,3579	NUM	Z	_	26	det	_	Treeler:spec
+25	12,3579	12,3579	NUM	Z	_	26	nummod	_	Treeler:spec
 26	euros	euro	NOUN	NCMP000	_	24	nmod	_	ToDo=nmod|Treeler:sn
 27	por	por	ADP	SPS00	_	28	case	_	Treeler:sp
 28	día	día	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
@@ -22883,7 +22883,7 @@
 22	berraban	berrar	VERB	VMII3P0	_	19	ccomp	_	Treeler:S
 23	"	"	PUNCT	Fe	_	24	punct	_	SpaceAfter=No|Treeler:f
 24	make	make	PROPN	NP00000	_	22	obj	_	Treeler:cd
-25	G8	g8	NUM	Z	_	26	det	_	Treeler:spec
+25	G8	g8	NUM	Z	_	26	nummod	_	Treeler:spec
 26	history	history	PROPN	NP00000	_	24	nmod	_	SpaceAfter=No|Treeler:sn
 27	"	"	PUNCT	Fe	_	24	punct	_	SpaceAfter=No|Treeler:f
 28	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
@@ -23075,7 +23075,7 @@
 11	cinco	cincar	VERB	VMIP1S0	_	8	ccomp	_	Treeler:S
 12	evaporadores	evaporadores	NOUN	NCMP000	_	11	obj	_	Treeler:cd
 13	traballando	traballar	VERB	VMG0000	_	11	case	_	ToDo=case-upos|Treeler:cc
-14	3.000	3.000	NUM	Z	_	15	det	_	Treeler:spec
+14	3.000	3.000	NUM	Z	_	15	nummod	_	Treeler:spec
 15	horas	hora	NOUN	NCFP000	_	13	obj	_	SpaceAfter=No|Treeler:cd
 16	/	/	PUNCT	Fh	_	17	punct	_	SpaceAfter=No|Treeler:f
 17	ano	ano	NOUN	NCMS000	_	13	obj	_	Treeler:cd
@@ -23095,7 +23095,7 @@
 30	é	ser	AUX	VSIP3S0	_	31	cop	_	Treeler:sentence
 31	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
 32	aproximadamente	aproximadamente	ADV	RG	_	34	advmod	_	Treeler:sadv
-33	100.000	100.000	NUM	Z	_	34	det	_	Treeler:spec
+33	100.000	100.000	NUM	Z	_	34	nummod	_	Treeler:spec
 34	kWh	kwh	NOUN	NCCN000	_	31	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 35	/	/	PUNCT	Fh	_	36	punct	_	SpaceAfter=No|Treeler:f
 36	ano	ano	NOUN	NCMS000	_	34	dep	_	SpaceAfter=No|Treeler:n
@@ -23634,7 +23634,7 @@
 1-2	Notificáronse	_	_	_	_	_	_	_	_
 1	Notificaron	notificar	VERB	VMIS3P0	_	0	root	_	Treeler:sentence
 2	se	se	PRON	PP3CN000	_	1	dep	_	Treeler:morfema.pronominal
-3	8	8	NUM	Z	_	4	det	_	Treeler:spec
+3	8	8	NUM	Z	_	4	nummod	_	Treeler:spec
 4	reaccións	reacción	NOUN	NCFP000	_	1	nsubj	_	Treeler:suj
 5	adversas	adverso	ADJ	AQ0FP0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 6	:	:	PUNCT	Fd	_	8	punct	_	Treeler:f
@@ -23651,7 +23651,7 @@
 17	dermatolóxicas	dermatolóxicas	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
 18	alérxicas	alérxico	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
 19	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
-20	5	5	NUM	Z	_	21	det	_	Treeler:spec
+20	5	5	NUM	Z	_	21	nummod	_	Treeler:spec
 21	reaccións	reacción	NOUN	NCFP000	_	4	nmod	_	Treeler:sn
 22	febrís	febril	ADJ	AQ0CP0	_	21	amod	_	SpaceAfter=No|Treeler:s.a
 23	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
@@ -23686,7 +23686,7 @@
 19	situación	situación	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
 20	é	ser	AUX	VSIP3S0	_	21	cop	_	Treeler:sentence
 21	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
-22	42	42	NUM	Z	_	23	det	_	Treeler:spec
+22	42	42	NUM	Z	_	23	nummod	_	Treeler:spec
 23	millóns	millón	NOUN	NCMP000	_	21	nmod	_	ToDo=nmod|Treeler:sn
 24	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 25	persoas	persoa	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
@@ -23720,7 +23720,7 @@
 11	un	un	DET	DI0MS0	_	12	det	_	Treeler:spec
 12	total	total	NOUN	NCMS000	_	10	obj	_	Treeler:cd
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-14	10,9	10,9	NUM	Z	_	15	det	_	Treeler:spec
+14	10,9	10,9	NUM	Z	_	15	nummod	_	Treeler:spec
 15	accidentes	accidente	NOUN	NCMP000	_	12	nmod	_	Treeler:sn
 16	por	por	ADP	SPS00	_	19	case	_	Treeler:cc
 17	cada	cada	DET	DI0NN0	_	19	det	_	Treeler:spec
@@ -23752,7 +23752,7 @@
 41	de	de	ADP	SPS00	_	42	case	_	Treeler:sp
 42	incidencia	incidencia	NOUN	NCFS000	_	40	nmod	_	ToDo=nmod|Treeler:sn
 43	de	de	ADP	SPS00	_	45	case	_	Treeler:sp
-44	6,3	6,3	NUM	Z	_	45	det	_	Treeler:spec
+44	6,3	6,3	NUM	Z	_	45	nummod	_	Treeler:spec
 45	accidentes	accidente	NOUN	NCMP000	_	42	nmod	_	Treeler:sn
 46-47	no	_	_	_	_	_	_	_	_
 46	en	en	ADP	SPS00	_	48	case	_	Treeler:sp
@@ -24036,14 +24036,14 @@
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
 23	corazón	corazón	NOUN	NCMS000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 24	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
-25	13	13	NUM	Z	_	26	det	_	Treeler:spec
+25	13	13	NUM	Z	_	26	nummod	_	Treeler:spec
 26	anos	ano	NOUN	NCMP000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 27	,	,	PUNCT	Fc	_	28	punct	_	Treeler:f
 28	e	e	CCONJ	CC	_	20	cc	_	ToDo=cc-without-conj|Treeler:coord
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 30	fígado	fígado	NOUN	NCMS000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
-32	17	17	NUM	Z	_	33	det	_	Treeler:spec
+32	17	17	NUM	Z	_	33	nummod	_	Treeler:spec
 33	anos	ano	NOUN	NCMP000	_	30	nmod	_	SpaceAfter=No|Treeler:sn
 34	.	.	PUNCT	Fp	_	16	punct	_	Treeler:f
 
@@ -24316,7 +24316,7 @@
 19	o	o	DET	DA0MS0	_	20	det	_	Treeler:spec
 20	longo	longo	ADJ	AQ0MS0	_	18	nmod	_	ToDo=nmod|Treeler:sn
 21	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
-22	19	19	NUM	Z	_	23	det	_	Treeler:spec
+22	19	19	NUM	Z	_	23	nummod	_	Treeler:spec
 23	puntos	punto	NOUN	NCMP000	_	20	nmod	_	ToDo=nmod|Treeler:sn
 24	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 25	mostraxe	mostraxe	NOUN	NCFS000	_	23	nmod	_	Treeler:sn
@@ -24326,7 +24326,7 @@
 29	ano	ano	NOUN	NCMS000	_	14	obl	_	Treeler:sn
 30	2000	2000	NUM	Z	_	29	nmod	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
-32	18	18	NUM	Z	_	33	det	_	Treeler:spec
+32	18	18	NUM	Z	_	33	nummod	_	Treeler:spec
 33	puntos	punto	NOUN	NCMP000	_	30	nmod	_	Treeler:sn
 34	durante	durante	ADP	SPS00	_	36	case	_	Treeler:cc
 35	o	o	DET	DA0MS0	_	36	det	_	Treeler:spec
@@ -24949,7 +24949,7 @@
 11	supervivencia	supervivencia	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
 12	global	global	ADJ	AQ0CS0	_	11	amod	_	Treeler:s.a
 13	a	a	ADP	SPS00	_	15	case	_	Treeler:sp
-14	5	5	NUM	Z	_	15	det	_	Treeler:spec
+14	5	5	NUM	Z	_	15	nummod	_	Treeler:spec
 15	anos	ano	NOUN	NCMP000	_	12	nmod	_	ToDo=nmod|Treeler:sn
 16-17	naqueles	_	_	_	_	_	_	_	_
 16	en	en	ADP	SPS00	_	18	case	_	Treeler:sp
@@ -25439,7 +25439,7 @@
 19-20	nestes	_	_	_	_	_	_	_	_
 19	en	en	ADP	SPS00	_	22	case	_	Treeler:cc
 20	estes	este	DET	DD0MP0	_	22	det	_	Treeler:spec
-21	dez	dez	NUM	Z	_	20	det	_	Treeler:d
+21	dez	dez	NUM	Z	_	20	nummod	_	Treeler:d
 22	anos	ano	NOUN	NCMP000	_	17	obl	_	Treeler:sn
 23	que	que	PRON	PR0CN000	_	24	nsubj	_	Treeler:suj
 24	leva	levar	VERB	VMIP3S0	_	22	ccomp	_	Treeler:S
@@ -26240,7 +26240,7 @@
 4	as	o	DET	DA0FP0	_	5	det	_	Treeler:spec
 5	ecuacións	ecuación	NOUN	NCFP000	_	11	nsubj	_	Treeler:suj
 6	E.	e.	PROPN	NP00000	_	5	nmod	_	SpaceAfter=No|Treeler:sn
-7	2	2	NUM	Z	_	9	det	_	Treeler:spec
+7	2	2	NUM	Z	_	9	nummod	_	Treeler:spec
 8	e	e	CCONJ	CC	_	7	cc	_	ToDo=cc-without-conj|Treeler:coord
 9	E.	e.	PROPN	NP00000	_	6	dep	_	SpaceAfter=No|Treeler:grup.nom
 10	3	3	PROPN	NP00000	_	11	nsubj	_	Treeler:suj
@@ -26564,7 +26564,7 @@
 18	descargadas	descargar	VERB	VMP00PF	_	16	ccomp	_	SpaceAfter=No|Treeler:S
 19	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 20	con	con	ADP	SPS00	_	22	case	_	Treeler:cc
-21	672,5	672,5	NUM	Z	_	22	det	_	Treeler:spec
+21	672,5	672,5	NUM	Z	_	22	nummod	_	Treeler:spec
 22	miles	mil	NOUN	NCMP000	_	10	obl	_	Treeler:sn
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 24	toneladas	tonelada	NOUN	NCFP000	_	22	nmod	_	SpaceAfter=No|Treeler:sn
@@ -26578,7 +26578,7 @@
 31	Ribadeo	ribadeo	PROPN	NP00000	_	29	nmod	_	SpaceAfter=No|Treeler:sn
 32	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
 33	con	con	ADP	SPS00	_	35	case	_	Treeler:sp
-34	426,8	426,8	NUM	Z	_	35	det	_	Treeler:spec
+34	426,8	426,8	NUM	Z	_	35	nummod	_	Treeler:spec
 35	miles	mil	NOUN	NCMP000	_	29	nmod	_	Treeler:sn
 36	de	de	ADP	SPS00	_	37	case	_	Treeler:sp
 37	toneladas	tonelada	NOUN	NCFP000	_	35	nmod	_	SpaceAfter=No|Treeler:sn
@@ -27296,7 +27296,7 @@
 13	38,1	38,1	NUM	Z	_	21	nsubj	_	SpaceAfter=No|Treeler:suj
 14	%	%	SYM	Ft	_	13	nmod	_	Treeler:sn
 15	(	(	PUNCT	Fpa	_	17	punct	_	SpaceAfter=No|Treeler:f
-16	60,9	60,9	NUM	Z	_	17	det	_	Treeler:spec
+16	60,9	60,9	NUM	Z	_	17	nummod	_	Treeler:spec
 17	miles	mil	NOUN	NCMP000	_	13	nmod	_	Treeler:sn
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19	persoas	persoa	NOUN	NCFP000	_	17	nmod	_	SpaceAfter=No|Treeler:sn
@@ -28378,7 +28378,7 @@
 9	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 10	estos	estos	PROPN	NP00000	_	11	nsubj	_	Treeler:suj
 11	supoñen	supoñer	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-12	19,366	19,366	NUM	Z	_	13	det	_	Treeler:spec
+12	19,366	19,366	NUM	Z	_	13	nummod	_	Treeler:spec
 13	millóns	millón	NOUN	NCMP000	_	11	obj	_	SpaceAfter=No|Treeler:cd
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	que	que	PRON	PR0CN000	_	17	nsubj	_	Treeler:suj
@@ -28725,7 +28725,7 @@
 8	se	se	PRON	PP3CN000	_	10	iobj	_	Treeler:ci
 9	van	ir	VERB	VMIP3P0	_	10	aux	_	Treeler:v
 10	cumpir	cumpir	VERB	VMN0000	_	19	dep	_	Treeler:infinitiu
-11	20	20	NUM	Z	_	12	det	_	Treeler:spec
+11	20	20	NUM	Z	_	12	nummod	_	Treeler:spec
 12	anos	ano	NOUN	NCMP000	_	10	obj	_	Treeler:cd
 13-14	do	_	_	_	_	_	_	_	_
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
@@ -28764,9 +28764,9 @@
 6	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
 7	hai	haber	VERB	VMIP3S0	_	4	obj	_	Treeler:cd
 8	entre	entre	ADP	SPS00	_	9	cc	_	Treeler:coord
-9	110.000	110.000	NUM	Z	_	12	det	_	Treeler:spec
+9	110.000	110.000	NUM	Z	_	12	nummod	_	Treeler:spec
 10	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
-11	150.000	150.000	NUM	Z	_	9	det	_	Treeler:spec
+11	150.000	150.000	NUM	Z	_	9	nummod	_	Treeler:spec
 12	persoas	persoa	NOUN	NCFP000	_	7	obj	_	Treeler:cd
 13	que	que	PRON	PR0CN000	_	14	nsubj	_	Treeler:suj
 14	padecen	padecer	VERB	VMIP3P0	_	12	ccomp	_	Treeler:S
@@ -30580,7 +30580,7 @@
 46	de	de	ADP	SPS00	_	47	case	_	Treeler:s
 47	fumar	fumar	VERB	VMN0000	_	44	obj	_	Treeler:cd
 48	en	en	ADP	SPS00	_	50	case	_	Treeler:cc
-49	2-3	2-3	NUM	Z	_	50	det	_	Treeler:spec
+49	2-3	2-3	NUM	Z	_	50	nummod	_	Treeler:spec
 50	ocasións	ocasión	NOUN	NCFP000	_	47	obl	_	SpaceAfter=No|Treeler:sn
 51	.	.	PUNCT	Fp	_	15	punct	_	Treeler:f
 
@@ -30770,7 +30770,7 @@
 23	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
 24	esgotamento	esgotamento	NOUN	NCMS000	_	21	nmod	_	Treeler:sn
 25	en	en	ADP	SPS00	_	27	case	_	Treeler:sp
-26	5-8	5-8	NUM	Z	_	27	det	_	Treeler:spec
+26	5-8	5-8	NUM	Z	_	27	nummod	_	Treeler:spec
 27	anos	ano	NOUN	NCMP000	_	21	nmod	_	SpaceAfter=No|Treeler:sn
 28	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 29	que	que	PRON	PR0CN000	_	32	nsubj	_	Treeler:suj
@@ -31413,7 +31413,7 @@
 14	durante	durante	ADP	SPS00	_	18	case	_	Treeler:cc
 15	os	o	DET	DA0MP0	_	18	det	_	Treeler:spec
 16	primeiros	primeiro	ADJ	AO0MP0	_	15	dep	_	Treeler:a
-17	6	6	NUM	Z	_	15	det	_	Treeler:d
+17	6	6	NUM	Z	_	15	nummod	_	Treeler:d
 18	meses	mes	NOUN	NCMP000	_	6	obl	_	Treeler:sn
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 20	enfermidade	enfermidade	NOUN	NCFS000	_	18	nmod	_	SpaceAfter=No|Treeler:sn
@@ -32621,7 +32621,7 @@
 25	por	por	ADP	SPS00	_	26	case	_	Treeler:sp
 26	cento	cento	NOUN	NCMS000	_	24	nmod	_	Treeler:sn
 27	en	en	ADP	SPS00	_	29	case	_	Treeler:sp
-28	2004	2004	NUM	Z	_	29	det	_	Treeler:spec
+28	2004	2004	NUM	Z	_	29	nummod	_	Treeler:spec
 29	fronte	fronte	NOUN	NCFS000	_	26	nmod	_	Treeler:sn
 30-31	ao	_	_	_	_	_	_	_	_
 30	a	a	ADP	SPS00	_	32	case	_	Treeler:sp
@@ -33519,7 +33519,7 @@
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 6	xullo	xullo	NOUN	NCMS000	_	4	nmod	_	Treeler:sn
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
-8	2004	2004	NUM	Z	_	9	det	_	Treeler:spec
+8	2004	2004	NUM	Z	_	9	nummod	_	Treeler:spec
 9	pola	pola	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
 10	que	que	PRON	PR0CN000	_	12	nsubj	_	Treeler:suj
 11	se	se	PRON	PP3CN000	_	12	obj	_	Treeler:cd
@@ -34179,7 +34179,7 @@
 3	unha	un	DET	DI0FS0	_	4	det	_	Treeler:spec
 4	diferencia	diferencia	NOUN	NCFS000	_	2	obj	_	Treeler:cd
 5	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
-6	5	5	NUM	Z	_	7	det	_	Treeler:spec
+6	5	5	NUM	Z	_	7	nummod	_	Treeler:spec
 7	puntos	punto	NOUN	NCMP000	_	4	nmod	_	Treeler:sn
 8	porcentuais	porcentual	ADJ	AQ0CP0	_	7	amod	_	Treeler:s.a
 9-10	ó	_	_	_	_	_	_	_	_
@@ -34395,7 +34395,7 @@
 16	empresa	empresa	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
 17	B	b	NOUN	NCMS000	_	16	amod	_	Treeler:s.a
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
-19	800	800	NUM	Z	_	20	det	_	Treeler:spec
+19	800	800	NUM	Z	_	20	nummod	_	Treeler:spec
 20	unidades	unidade	NOUN	NCFP000	_	17	nmod	_	Treeler:sn
 21	monetárias	monetárias	ADJ	AQ0FP0	_	20	amod	_	SpaceAfter=No|Treeler:s.a
 22	;	;	PUNCT	Fx	_	24	punct	_	Treeler:f
@@ -35094,7 +35094,7 @@
 23	332.184	332.184	NUM	Z	_	21	nmod	_	Treeler:sn
 24	UPH	uph	PROPN	NP00000	_	23	nmod	_	Treeler:sn
 25	e	e	CCONJ	CC	_	24	cc	_	ToDo=cc-without-conj|Treeler:coord
-26	311.659	311.659	NUM	Z	_	27	det	_	Treeler:spec
+26	311.659	311.659	NUM	Z	_	27	nummod	_	Treeler:spec
 27	UPH	uph	NOUN	NCCN000	_	24	nmod	_	Treeler:sn
 28	axustadas	axustado	ADJ	AQ0FP0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 29	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f

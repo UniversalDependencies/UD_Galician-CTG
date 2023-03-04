@@ -10,13 +10,13 @@
     <dev><sentences>860</sentences><tokens>27009</tokens><words>29772</words><fused>2749</fused></dev>
     <test><sentences>861</sentences><tokens>27074</tokens><words>29738</words><fused>2652</fused></test>
   </size>
-  <lemmas unique="10535" /><!-- o, de, ,, en, ., e, que, se, a, un, ser, por, con, para, este -->
+  <lemmas unique="10536" /><!-- o, de, ,, en, ., e, que, se, a, un, ser, por, con, para, este -->
   <forms unique="16139" /><!-- de, a, o, ,, en, ., e, que, os, se, as, por, un, unha, con -->
   <fusions unique="1211" /><!-- do, da, no, dos, na, das, ao, á, nos, ó, polo, nas, co, pola, dun -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">11429</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
-    <tag name="ADP">23173</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
+    <tag name="ADP">23174</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
     <tag name="ADV">3350</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
     <tag name="AUX">1540</tag><!-- ser, estar -->
     <tag name="CCONJ">4267</tag><!-- e, ou, pero, senón, nin, mais, quer, como, emporiso -->
@@ -30,11 +30,11 @@
     <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1606</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
     <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
-    <tag name="VERB">12980</tag><!-- poder, ter, deber, ser, facer, realizar, establecer, haber, presentar, dar -->
+    <tag name="VERB">12979</tag><!-- poder, ter, deber, ser, facer, realizar, establecer, haber, presentar, dar -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="2">
-    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SYM,VERB">170</feat><!-- táboa, de, +, 1, 10, 20, 23, 70, Capítulo, cadro -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SYM,VERB">169</feat><!-- táboa, de, +, 1, 10, 20, 23, 70, Capítulo, cadro -->
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
@@ -43,25 +43,25 @@
     <dep name="advcl">3</dep>
     <dep name="advmod">1375</dep>
     <dep name="amod">10502</dep>
-    <dep name="appos">5</dep>
+    <dep name="appos">6</dep>
     <dep name="aux">1364</dep>
-    <dep name="case">24406</dep>
+    <dep name="case">24404</dep>
     <dep name="cc">4426</dep>
     <dep name="ccomp">7157</dep>
-    <dep name="conj">17</dep>
+    <dep name="conj">19</dep>
     <dep name="cop">1540</dep>
-    <dep name="dep">3849</dep>
-    <dep name="det">24975</dep>
+    <dep name="dep">3848</dep>
+    <dep name="det">24559</dep>
     <dep name="fixed">1</dep>
     <dep name="flat">173</dep>
     <dep name="iobj">562</dep>
     <dep name="list">2</dep>
     <dep name="mark">1507</dep>
-    <dep name="nmod">18668</dep>
-    <dep name="nsubj">6526</dep>
-    <dep name="nummod">138</dep>
+    <dep name="nmod">18669</dep>
+    <dep name="nsubj">6524</dep>
+    <dep name="nummod">554</dep>
     <dep name="obj">7389</dep>
-    <dep name="obl">6278</dep>
+    <dep name="obl">6279</dep>
     <dep name="parataxis">1</dep>
     <dep name="punct">13316</dep>
     <dep name="root">3993</dep>
