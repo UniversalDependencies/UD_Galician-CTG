@@ -45,13 +45,13 @@
     <dep name="amod">10502</dep>
     <dep name="appos">5</dep>
     <dep name="aux">1364</dep>
-    <dep name="case">24415</dep>
+    <dep name="case">24414</dep>
     <dep name="cc">4426</dep>
     <dep name="ccomp">7157</dep>
     <dep name="conj">17</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">3849</dep>
-    <dep name="det">24974</dep>
+    <dep name="det">24975</dep>
     <dep name="fixed">1</dep>
     <dep name="flat">173</dep>
     <dep name="iobj">562</dep>
