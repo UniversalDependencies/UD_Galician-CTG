@@ -14441,7 +14441,7 @@
 2	embargo	embargo	NOUN	NCMS000	_	9	obl	_	SpaceAfter=No|Treeler:sn
 3	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
-5	título	título	NOUN	NCMS000	_	2	advmod	_	Treeler:sadv
+5	título	título	NOUN	NCMS000	_	2	obl	_	Treeler:sadv
 6	informativo	informativo	ADJ	AQ0MS0	_	5	amod	_	SpaceAfter=No|Treeler:s.a
 7	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 8	é	ser	AUX	VSIP3S0	_	9	cop	_	Treeler:sentence
@@ -15652,7 +15652,7 @@
 40	coñecementos	coñecemento	NOUN	NCMP000	_	38	nmod	_	Treeler:sn
 41	aínda	aínda	ADV	RG	_	35	case	_	Treeler:cc
 42	que	que	SCONJ	CS	_	43	mark	_	Treeler:conj
-43	leve	levar	VERB	VMSP1S0	_	1	nummod	_	Treeler:z
+43	leve	levar	VERB	VMSP1S0	_	1	advcl	_	Treeler:z
 44	anos	ano	NOUN	NCMP000	_	43	obj	_	Treeler:cd
 45-46	coa	_	_	_	_	_	_	_	_
 45	con	con	ADP	SPS00	_	47	case	_	Treeler:cc
