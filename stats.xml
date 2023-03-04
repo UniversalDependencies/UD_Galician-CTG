@@ -18,19 +18,19 @@
     <tag name="ADJ">11429</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
     <tag name="ADP">23174</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
     <tag name="ADV">3350</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
-    <tag name="AUX">1540</tag><!-- ser, estar -->
-    <tag name="CCONJ">4267</tag><!-- e, ou, pero, senón, nin, mais, quer, como, emporiso -->
+    <tag name="AUX">2489</tag><!-- ser, poder, deber, estar, haber, ter, ir, seguir, deixar, vir -->
+    <tag name="CCONJ">4269</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
     <tag name="DET">23907</tag><!-- o, un, este, seu, outro, todo, mesmo, cada, algún, ese -->
     <tag name="INTJ">8</tag><!-- epa, ea, ó -->
     <tag name="NOUN">31964</tag><!-- ano, caso, á, empresa, parte, dous, valor, lei, número, muller -->
     <tag name="NUM">2363</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
     <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
     <tag name="PRON">5912</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
-    <tag name="PROPN">1905</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
+    <tag name="PROPN">1904</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
     <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1606</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
     <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
-    <tag name="VERB">12979</tag><!-- poder, ter, deber, ser, facer, realizar, establecer, haber, presentar, dar -->
+    <tag name="VERB">12029</tag><!-- ter, ser, facer, realizar, establecer, presentar, dar, producir, considerar, permitir -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="2">
@@ -38,31 +38,32 @@
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="27">
+  <deps unique="28">
     <dep name="acl">5</dep>
     <dep name="advcl">3</dep>
     <dep name="advmod">2083</dep>
-    <dep name="amod">10538</dep>
+    <dep name="amod">10535</dep>
     <dep name="appos">6</dep>
     <dep name="aux">1364</dep>
     <dep name="case">24406</dep>
-    <dep name="cc">4426</dep>
+    <dep name="cc">4428</dep>
     <dep name="ccomp">7157</dep>
-    <dep name="conj">19</dep>
+    <dep name="conj">22</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">3848</dep>
-    <dep name="det">23786</dep>
+    <dep name="det">23784</dep>
+    <dep name="discourse">1</dep>
     <dep name="fixed">1</dep>
     <dep name="flat">173</dep>
     <dep name="iobj">562</dep>
-    <dep name="list">2</dep>
+    <dep name="list">4</dep>
     <dep name="mark">1507</dep>
-    <dep name="nmod">18696</dep>
-    <dep name="nsubj">6524</dep>
-    <dep name="nummod">554</dep>
+    <dep name="nmod">18694</dep>
+    <dep name="nsubj">6523</dep>
+    <dep name="nummod">553</dep>
     <dep name="obj">7389</dep>
     <dep name="obl">6279</dep>
-    <dep name="parataxis">1</dep>
+    <dep name="parataxis">2</dep>
     <dep name="punct">13316</dep>
     <dep name="root">3993</dep>
     <dep name="xcomp">659</dep>

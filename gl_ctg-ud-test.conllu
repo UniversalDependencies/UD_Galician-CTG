@@ -59,7 +59,7 @@
 3	calculadora	calculador	NOUN	NCFS000	_	8	obl	_	Treeler:sn
 4	tamén	tamén	ADV	RG	_	8	case	_	Treeler:cc
 5	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
-6	pode	poder	VERB	VMIP3S0	_	8	aux	_	Treeler:v
+6	pode	poder	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 7	acceder	acceder	VERB	VMN0000	_	8	aux	_	Treeler:v
 8	pulsando	pulsar	VERB	VMG0000	_	0	root	_	Treeler:sentence
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
@@ -103,7 +103,7 @@
 10	a	o	DET	DA0FS0	_	11	det	_	Treeler:spec
 11	entidade	entidade	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
 12-13	poderíase	_	_	_	_	_	_	_	_
-12	podería	poder	VERB	VMIC1S0	_	14	aux	_	Treeler:v
+12	podería	poder	AUX	VMIC1S0	_	14	aux	_	Treeler:v
 13	se	se	PRON	PP3CN000	_	14	iobj	_	Treeler:ci
 14	dar	dar	VERB	VMN0000	_	21	dep	_	Treeler:infinitiu
 15	cando	cando	SCONJ	CS	_	21	mark	_	Treeler:conj
@@ -346,7 +346,7 @@
 1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
 2	resultado	resultado	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 3	obtido	obter	VERB	VMP00SM	_	2	ccomp	_	Treeler:S
-4	debe	deber	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	ser	ser	VERB	VSN0000	_	6	aux	_	Treeler:v
 6	considerado	considerar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 7	coma	coma	SCONJ	CS	_	6	xcomp	_	Treeler:cpred
@@ -789,7 +789,7 @@
 # text = Este resultado pode te-la súa explicación en que ata 1989 se dá un comportamento relativamente uniforme nas políticas de endebedamento das CC.AA., producíndose de novo unha certa converxencia a partir do ano 1992.
 1	Este	este	DET	DD0MS0	_	2	det	_	_
 2	resultado	resultado	NOUN	NCMS000	_	4	nsubj	_	_
-3	pode	poder	VERB	VMIP3S0	_	4	aux	_	_
+3	pode	poder	AUX	VMIP3S0	_	4	aux	_	_
 4-5	te-la	_	_	_	_	_	_	_	_
 4	ter	ter	VERB	VMN0000	_	0	root	_	_
 5	a	o	DET	DA0FS0	_	7	det	_	_
@@ -1131,7 +1131,7 @@
 27	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
 28	España	españa	PROPN	NP00000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
 29	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-30	podemos	poder	VERB	VMIP1P0	_	31	aux	_	Treeler:v
+30	podemos	poder	AUX	VMIP1P0	_	31	aux	_	Treeler:v
 31	observar	observar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 32	as	o	DET	DA0FP0	_	34	det	_	Treeler:spec
 33	seguintes	seguinte	ADJ	AQ0CP0	_	34	amod	_	Treeler:s.a
@@ -1144,7 +1144,7 @@
 2	radiografía	radiografía	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	tórax	tórax	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
-5	pode	poder	VERB	VMIP3S0	_	7	aux	_	Treeler:v
+5	pode	poder	AUX	VMIP3S0	_	7	aux	_	Treeler:v
 6	ser	ser	AUX	VSN0000	_	7	cop	_	Treeler:sentence
 7	normal	normal	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 8	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
@@ -1216,7 +1216,7 @@
 4	acción	acción	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 5	que	que	PRON	PR0CN000	_	8	nsubj	_	Treeler:suj
 6	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
-7	debe	deber	VERB	VMIP3S0	_	8	aux	_	Treeler:v
+7	debe	deber	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 8	ter	ter	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 9	en	en	ADP	SPS00	_	10	case	_	Treeler:cc
 10	conta	conta	NOUN	NCFS000	_	8	obl	_	Treeler:sn
@@ -1317,7 +1317,7 @@
 17	con	con	ADP	SPS00	_	21	case	_	Treeler:creg
 18	que	que	SCONJ	CS	_	21	mark	_	Treeler:conj
 19	"	"	PUNCT	Fe	_	21	punct	_	SpaceAfter=No|Treeler:f
-20	debería	deber	VERB	VMIC3S0	_	21	aux	_	Treeler:v
+20	debería	deber	AUX	VMIC3S0	_	21	aux	_	Treeler:v
 21	existir	existir	VERB	VMN0000	_	15	ccomp	_	Treeler:S
 22	unha	un	DET	DI0FS0	_	23	det	_	Treeler:spec
 23	prohibición	prohibición	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
@@ -1747,7 +1747,7 @@
 24	taxa	taxa	NOUN	NCFS000	_	16	obl	_	Treeler:sn
 25	media	medio	ADJ	AQ0FS0	_	24	amod	_	Treeler:s.a
 26	que	que	PRON	PR0CN000	_	28	nsubj	_	Treeler:suj
-27	pode	poder	VERB	VMIP3S0	_	28	aux	_	Treeler:v
+27	pode	poder	AUX	VMIP3S0	_	28	aux	_	Treeler:v
 28-29	estimarse	_	_	_	_	_	_	_	_
 28	estimar	estimar	VERB	VMN0000	_	24	ccomp	_	Treeler:S
 29	se	se	PRON	PP3CN000	_	28	dep	_	Treeler:morfema.pronominal
@@ -2041,7 +2041,7 @@
 15	participación	participación	NOUN	NCFS000	_	13	nmod	_	Treeler:sn
 16	significativa	significativo	ADJ	AQ0FS0	_	15	amod	_	SpaceAfter=No|Treeler:s.a
 17	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
-18	poderá	poder	VERB	VMIF3S0	_	19	aux	_	Treeler:v
+18	poderá	poder	AUX	VMIF3S0	_	19	aux	_	Treeler:v
 19	fixar	fixar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
 20	un	un	DET	DI0MS0	_	21	det	_	Treeler:spec
 21	prazo	prazo	NOUN	NCMS000	_	19	obj	_	Treeler:cd
@@ -2098,7 +2098,7 @@
 
 # sent_id = test-54
 # text = Imos dividir a análise entre económica e financeira, facendo referéncia por último á información extraída da conta de resultados que xa de seu ten releváncia.
-1	Imos	ir	VERB	VMIP1P0	_	2	aux	_	Treeler:v
+1	Imos	ir	AUX	VMIP1P0	_	2	aux	_	Treeler:v
 2	dividir	dividir	VERB	VMN0000	_	10	dep	_	Treeler:infinitiu
 3	a	o	DET	DA0FS0	_	4	det	_	Treeler:spec
 4	análise	análise	NOUN	NCFS000	_	2	obj	_	Treeler:cd
@@ -2452,7 +2452,7 @@
 37	caso	caso	NOUN	NCMS000	_	31	ccomp	_	SpaceAfter=No|Treeler:atr
 38	,	,	PUNCT	Fc	_	41	punct	_	Treeler:f
 39	se	se	PRON	PP3CN000	_	41	obj	_	Treeler:cd
-40	poidan	poder	VERB	VMSP3P0	_	41	aux	_	Treeler:v
+40	poidan	poder	AUX	VMSP3P0	_	41	aux	_	Treeler:v
 41	prestar	prestar	VERB	VMN0000	_	37	nsubj	_	Treeler:suj
 42-43	nestes	_	_	_	_	_	_	_	_
 42	en	en	ADP	SPS00	_	44	case	_	Treeler:cc
@@ -2741,7 +2741,7 @@
 # sent_id = test-69
 # text = Tampouco poderán ser nomeados administradores concursais os que fosen separados deste cargo dentro dos dous anos anteriores, nin os que se encontren inhabilitados, conforme o artigo 181, por sentencia firme de desaprobación de contas en concurso anterior.
 1	Tampouco	tampouco	ADV	RG	_	4	case	_	Treeler:cc
-2	poderán	poder	VERB	VMIF3P0	_	4	aux	_	Treeler:v
+2	poderán	poder	AUX	VMIF3P0	_	4	aux	_	Treeler:v
 3	ser	ser	VERB	VSN0000	_	4	aux	_	Treeler:v
 4	nomeados	nomear	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 5	administradores	administrador	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
@@ -2919,7 +2919,7 @@
 27	os	o	DET	DA0MP0	_	28	det	_	Treeler:spec
 28	saldos	saldo	NOUN	NCMP000	_	25	obl	_	Treeler:sn
 29	que	que	PRON	PR0CN000	_	32	obj	_	Treeler:cd
-30	acabamos	acabar	VERB	VMIP1P0	_	32	aux	_	Treeler:v
+30	acabamos	acabar	AUX	VMIP1P0	_	32	aux	_	Treeler:v
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:s
 32	comentar	comentar	VERB	VMN0000	_	28	ccomp	_	Treeler:S
 33	para	para	ADP	SPS00	_	35	case	_	Treeler:cc
@@ -3148,7 +3148,7 @@
 11	ocos	oco	ADJ	AQ0MP0	_	10	amod	_	SpaceAfter=No|Treeler:s.a
 12	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 13	pero	pero	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
-14	pode	poder	VERB	VMIP3S0	_	15	aux	_	Treeler:v
+14	pode	poder	AUX	VMIP3S0	_	15	aux	_	Treeler:v
 15	causar	causar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
 16	problemas	problema	NOUN	NCMP000	_	15	obj	_	Treeler:cd
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
@@ -3204,7 +3204,7 @@
 4	esta	este	DET	DD0FS0	_	5	det	_	Treeler:spec
 5	determinación	determinación	NOUN	NCFS000	_	3	nsubj	_	SpaceAfter=No|Treeler:suj
 6	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-7	debe	deber	VERB	VMIP3S0	_	8	aux	_	Treeler:v
+7	debe	deber	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 8-9	vacinarse	_	_	_	_	_	_	_	_
 8	vacinar	vacinar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 9	se	se	PRON	PP3CN000	_	8	dep	_	Treeler:morfema.pronominal
@@ -3714,7 +3714,7 @@
 18	a	o	DET	DA0FS0	_	19	det	_	Treeler:spec
 19	organización	organización	NOUN	NCFS000	_	15	obl	_	SpaceAfter=No|Treeler:sn
 20	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
-21	pode	poder	VERB	VMIP3S0	_	24	aux	_	Treeler:v
+21	pode	poder	AUX	VMIP3S0	_	24	aux	_	Treeler:v
 22	axudar	axudar	VERB	VMN0000	_	24	aux	_	Treeler:v
 23	a	a	ADP	SPS00	_	24	case	_	Treeler:s
 24-25	enfrontarse	_	_	_	_	_	_	_	_
@@ -3821,7 +3821,7 @@
 24	reaxen	reaxen	VERB	VMSP3P0	_	19	obj	_	Treeler:cd
 25	así	así	ADV	RG	_	24	case	_	Treeler:cc
 26	é	ser	VERB	VSIP3S0	_	27	aux	_	Treeler:v
-27	debido	deber	VERB	VMP00SM	_	24	aux	_	Treeler:v
+27	debido	deber	AUX	VMP00SM	_	24	aux	_	Treeler:v
 28-29	á	_	_	_	_	_	_	_	_
 28	a	a	ADP	SPS00	_	30	case	_	Treeler:creg
 29	a	o	DET	DA0FS0	_	30	det	_	Treeler:spec
@@ -3922,7 +3922,7 @@
 8	outro	outro	DET	DI0MS0	_	10	det	_	Treeler:spec
 9	ser	ser	AUX	VSN0000	_	10	cop	_	Treeler:S
 10	humano	humano	ADJ	AQ0MS0	_	3	ccomp	_	Treeler:atr
-11	acaba	acabar	VERB	VMIP3S0	_	12	aux	_	Treeler:v
+11	acaba	acabar	AUX	VMIP3S0	_	12	aux	_	Treeler:v
 12-13	converténdose	_	_	_	_	_	_	_	_
 12	convertendo	converter	VERB	VMG0000	_	10	case	_	ToDo=case-upos|Treeler:cc
 13	se	se	PRON	PP3CN000	_	12	dep	_	Treeler:morfema.pronominal
@@ -4326,7 +4326,7 @@
 25	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
 26	a	o	DET	DA0FS0	_	27	det	_	Treeler:spec
 27	poboación	poboación	NOUN	NCFS000	_	24	nmod	_	Treeler:sn
-28	debe	deber	VERB	VMIP3S0	_	29	aux	_	Treeler:v
+28	debe	deber	AUX	VMIP3S0	_	29	aux	_	Treeler:v
 29	superar	superar	VERB	VMN0000	_	13	obj	_	Treeler:cd
 30	o	o	DET	DA0MS0	_	31	det	_	Treeler:spec
 31	87	87	NUM	Z	_	29	obj	_	SpaceAfter=No|Treeler:cd
@@ -4338,7 +4338,7 @@
 37	que	que	SCONJ	CS	_	43	mark	_	Treeler:conj
 38	este	este	DET	DD0MS0	_	39	det	_	Treeler:spec
 39	valor	valor	NOUN	NCMS000	_	43	nsubj	_	Treeler:suj
-40	debería	deber	VERB	VMIC3S0	_	43	aux	_	Treeler:v
+40	debería	deber	AUX	VMIC3S0	_	43	aux	_	Treeler:v
 41	de	de	ADP	SPS00	_	43	case	_	Treeler:s
 42	ser	ser	AUX	VSN0000	_	43	cop	_	Treeler:S
 43	válido	válido	ADJ	AQ0MS0	_	29	ccomp	_	Treeler:atr
@@ -4526,7 +4526,7 @@
 34	as	o	DET	DA0FP0	_	35	det	_	Treeler:spec
 35	persoas	persoa	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
 36	que	que	PRON	PR0CN000	_	38	nsubj	_	Treeler:suj
-37	puidesen	poder	VERB	VMSI3P0	_	38	aux	_	Treeler:v
+37	puidesen	poder	AUX	VMSI3P0	_	38	aux	_	Treeler:v
 38	resultar	resultar	VERB	VMN0000	_	35	ccomp	_	Treeler:S
 39	afectadas	afectar	VERB	VMP00PF	_	35	ccomp	_	Treeler:S
 40-41	pola	_	_	_	_	_	_	_	_
@@ -4651,7 +4651,7 @@
 12	bioquímicas	bioquímico	ADJ	AQ0FP0	_	10	amod	_	Treeler:s.a
 13	é	ser	AUX	VSIP3S0	_	16	cop	_	Treeler:sentence
 14	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
-15	debemos	deber	VERB	VMIP1P0	_	16	aux	_	Treeler:v
+15	debemos	deber	AUX	VMIP1P0	_	16	aux	_	Treeler:v
 16	coñecer	coñecer	VERB	VMN0000	_	0	root	_	Treeler:atr
 17	con	con	ADP	SPS00	_	18	case	_	Treeler:cc
 18	exactitude	exactitude	NOUN	NCFS000	_	16	obl	_	Treeler:sn
@@ -4937,7 +4937,7 @@
 1	A	o	DET	DA0FS0	_	3	det	_	Treeler:spec
 2	sua	sua	ADJ	AQ0FS0	_	3	amod	_	Treeler:s.a
 3	aplicación	aplicación	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
-4	debe	deber	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
 6	activa	activo	ADJ	AQ0FS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 7	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
@@ -5111,7 +5111,7 @@
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 22	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 23	para	para	ADP	SPS00	_	25	case	_	Treeler:sp
-24	poder	poder	VERB	VMN0000	_	25	aux	_	Treeler:v
+24	poder	poder	AUX	VMN0000	_	25	aux	_	Treeler:v
 25	avaliar	avaliar	VERB	VMN0000	_	13	ccomp	_	Treeler:S
 26	posíbeis	posíbel	ADJ	AQ0CP0	_	27	amod	_	Treeler:s.a
 27	evolucións	evolución	NOUN	NCFP000	_	25	obj	_	Treeler:cd
@@ -5342,7 +5342,7 @@
 23	tanto	tanto	ADV	RG	_	25	obl	_	SpaceAfter=No|Treeler:sn
 24	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 25-26	hanse	_	_	_	_	_	_	_	_
-25	han	haber	VERB	VMIP3P0	_	27	aux	_	Treeler:v
+25	han	haber	AUX	VMIP3P0	_	27	aux	_	Treeler:v
 26	se	se	PRON	PP3CN000	_	25	dep	_	Treeler:morfema.pronominal
 27	supor	supor	VERB	VMN0000	_	7	ccomp	_	Treeler:S
 28	uns	un	DET	DI0MP0	_	29	det	_	Treeler:spec
@@ -5380,7 +5380,7 @@
 16	acordo	acordo	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 18	iniciación	iniciación	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
-19	poderá	poder	VERB	VMIF3S0	_	21	aux	_	Treeler:v
+19	poderá	poder	AUX	VMIF3S0	_	21	aux	_	Treeler:v
 20	ser	ser	VERB	VSN0000	_	21	aux	_	Treeler:v
 21	considerado	considerar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 22	como	como	PRON	PR0CN000	_	21	xcomp	_	Treeler:cpred
@@ -5614,7 +5614,7 @@
 7	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
 8	consideren	considerar	VERB	VMSP3P0	_	3	ccomp	_	Treeler:S
 9	afectadas	afectar	VERB	VMP00PF	_	8	xcomp	_	Treeler:cpred
-10	poderán	poder	VERB	VMIF3P0	_	11	aux	_	Treeler:v
+10	poderán	poder	AUX	VMIF3P0	_	11	aux	_	Treeler:v
 11	presentar	presentar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 12	as	o	DET	DA0FP0	_	14	det	_	Treeler:spec
 13	súas	seu	DET	DP3FP0	_	12	det	_	Treeler:d
@@ -6005,7 +6005,7 @@
 19	troposfera	troposfera	NOUN	NCFS000	_	14	obl	_	Treeler:sn
 20	e	e	CCONJ	CC	_	14	cc	_	ToDo=cc-without-conj|Treeler:coord
 21-22	pódese	_	_	_	_	_	_	_	_
-21	pode	poder	VERB	VMIP3S0	_	23	aux	_	Treeler:v
+21	pode	poder	AUX	VMIP3S0	_	23	aux	_	Treeler:v
 22	se	se	PRON	PP3CN000	_	23	obl	_	Treeler:sn
 23	considerar	considerar	VERB	VMN0000	_	14	ccomp	_	Treeler:S
 24	conservativo	conservativo	ADJ	AQ0MS0	_	23	xcomp	_	SpaceAfter=No|Treeler:cpred
@@ -6142,7 +6142,7 @@
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
 5	solicitantes	solicitante	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
-6	deberán	deber	VERB	VMIF3P0	_	7	aux	_	Treeler:v
+6	deberán	deber	AUX	VMIF3P0	_	7	aux	_	Treeler:v
 7	cubrir	cubrir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 8	as	o	DET	DA0FP0	_	9	det	_	Treeler:spec
 9	autorizacións	autorización	NOUN	NCFP000	_	7	obj	_	Treeler:cd
@@ -6169,7 +6169,7 @@
 # sent_id = test-155
 # text = Pódense tomar como referencia as figuras 3.1, 3.2 e 3.3 deste documento, sen que isto leve a non considerar algunha etapa do proceso.
 1-2	Pódense	_	_	_	_	_	_	_	_
-1	Poden	poder	VERB	VMIP3P0	_	3	aux	_	Treeler:v
+1	Poden	poder	AUX	VMIP3P0	_	3	aux	_	Treeler:v
 2	se	se	PRON	PP3CN000	_	3	obl	_	Treeler:sn
 3	tomar	tomar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 4	como	como	PRON	PR0CN000	_	3	xcomp	_	Treeler:cpred
@@ -6487,7 +6487,7 @@
 19	enerxía	enerxía	NOUN	NCFS000	_	25	nsubj	_	Treeler:suj
 20	nuclear	nuclear	ADJ	AQ0CS0	_	19	amod	_	Treeler:s.a
 21	non	non	PART	RN	_	25	advmod	_	Treeler:mod
-22	pode	poder	VERB	VMIP3S0	_	25	aux	_	Treeler:v
+22	pode	poder	AUX	VMIP3S0	_	25	aux	_	Treeler:v
 23	ser	ser	AUX	VSN0000	_	25	cop	_	Treeler:S
 24	a	o	DET	DA0FS0	_	25	det	_	Treeler:spec
 25	alternativa	alternativa	NOUN	NCFS000	_	16	ccomp	_	SpaceAfter=No|Treeler:atr
@@ -6864,7 +6864,7 @@
 34	que	que	SCONJ	CS	_	38	mark	_	Treeler:conj
 35	o	o	DET	DA0MS0	_	36	det	_	Treeler:spec
 36	sistema	sistema	NOUN	NCMS000	_	38	nsubj	_	Treeler:suj
-37	debe	deber	VERB	VMIP3S0	_	38	aux	_	Treeler:v
+37	debe	deber	AUX	VMIP3S0	_	38	aux	_	Treeler:v
 38	cumprir	cumprir	VERB	VMN0000	_	41	dep	_	SpaceAfter=No|Treeler:infinitiu
 39	:	:	PUNCT	Fd	_	38	punct	_	Treeler:f
 40	Ser	ser	AUX	VSN0000	_	41	cop	_	Treeler:S
@@ -6932,7 +6932,7 @@
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	hábitats	hábitat	NOUN	NCMP000	_	10	nmod	_	Treeler:sn
 13	que	que	PRON	PR0CN000	_	15	nsubj	_	Treeler:suj
-14	puideran	poder	VERB	VMIM3P0	_	15	aux	_	Treeler:v
+14	puideran	poder	AUX	VMIM3P0	_	15	aux	_	Treeler:v
 15-16	chamarse	_	_	_	_	_	_	_	_
 15	chamar	chamar	VERB	VMN0000	_	12	ccomp	_	Treeler:S
 16	se	se	PRON	PP3CN000	_	15	dep	_	Treeler:morfema.pronominal
@@ -6989,7 +6989,7 @@
 19	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 20	necesaria	necesario	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
 21	para	para	ADP	SPS00	_	23	case	_	Treeler:sp
-22	poder	poder	VERB	VMN0000	_	23	aux	_	Treeler:v
+22	poder	poder	AUX	VMN0000	_	23	aux	_	Treeler:v
 23	cumprir	cumprir	VERB	VMN0000	_	20	ccomp	_	Treeler:S
 24	as	o	DET	DA0FP0	_	25	det	_	Treeler:spec
 25	medidas	medida	NOUN	NCFP000	_	23	obj	_	Treeler:cd
@@ -7109,7 +7109,7 @@
 2	todo	todo	DET	DI0MS0	_	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	7	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	deberán	deber	VERB	VMIF3P0	_	7	aux	_	Treeler:v
+5	deberán	deber	AUX	VMIF3P0	_	7	aux	_	Treeler:v
 6	ser	ser	VERB	VSN0000	_	7	aux	_	Treeler:v
 7	respectadas	respectar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 8	as	o	DET	DA0FP0	_	9	det	_	Treeler:spec
@@ -7374,7 +7374,7 @@
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
 2	iso	iso	PRON	PD0CN000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	pode	poder	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	pode	poder	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	ser	ser	VERB	VSN0000	_	6	aux	_	Treeler:v
 6	substituído	substituír	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
@@ -7743,7 +7743,7 @@
 1	Sen	sen	ADP	SPS00	_	2	case	_	Treeler:cc
 2	embargo	embargo	NOUN	NCMS000	_	5	obl	_	SpaceAfter=No|Treeler:sn
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	poderán	poder	VERB	VMIF3P0	_	5	aux	_	Treeler:v
+4	poderán	poder	AUX	VMIF3P0	_	5	aux	_	Treeler:v
 5	subsistir	subsistir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 6	aquelas	aquel	DET	DD0FP0	_	7	det	_	Treeler:spec
 7	limitacións	limitación	NOUN	NCFP000	_	5	obj	_	Treeler:cd
@@ -8881,7 +8881,7 @@
 2	outra	outro	DET	DI0FS0	_	3	det	_	Treeler:spec
 3	parte	parte	NOUN	NCCS000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	deben	deber	VERB	VMIP3P0	_	6	aux	_	Treeler:v
+5	deben	deber	AUX	VMIP3P0	_	6	aux	_	Treeler:v
 6-7	cubrirse	_	_	_	_	_	_	_	_
 6	cubrir	cubrir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	dep	_	Treeler:morfema.pronominal
@@ -8999,7 +8999,7 @@
 
 # sent_id = test-226
 # text = Haberá que incluír tamén a restauración da zona, procedendo a realizar os seguintes pasos: Definición e xustificación ecolóxica, económica e social dos usos futuros da área explotada.
-1	Haberá	haber	VERB	VMIF3S0	_	3	aux	_	Treeler:v
+1	Haberá	haber	AUX	VMIF3S0	_	3	aux	_	Treeler:v
 2	que	que	SCONJ	CS	_	3	mark	_	Treeler:c
 3	incluír	incluír	VERB	VMN0000	_	0	root	_	Treeler:sentence
 4	tamén	tamén	ADV	RG	_	3	case	_	Treeler:cc
@@ -9243,7 +9243,7 @@
 21	a	o	DET	DA0FS0	_	22	det	_	Treeler:spec
 22	contra	contra	NOUN	NCFS000	_	25	obl	_	SpaceAfter=No|Treeler:sn
 23	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
-24	podería	poder	VERB	VMIC3S0	_	25	aux	_	Treeler:v
+24	podería	poder	AUX	VMIC3S0	_	25	aux	_	Treeler:v
 25	causar	causar	VERB	VMN0000	_	17	ccomp	_	Treeler:S
 26	fenómenos	fenómeno	NOUN	NCMP000	_	25	obj	_	Treeler:cd
 27	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -9414,7 +9414,7 @@
 
 # sent_id = test-237
 # text = Deberán establecerse fórmulas de colaboración entre as Administración Públicas e as empresas multimedias para manter unha tensión permanente sobre a lectura como hábito de lecer entre os cidadáns de tódalas idades.
-1	Deberán	deber	VERB	VMIF3P0	_	2	aux	_	Treeler:v
+1	Deberán	deber	AUX	VMIF3P0	_	2	aux	_	Treeler:v
 2-3	establecerse	_	_	_	_	_	_	_	_
 2	establecer	establecer	VERB	VMN0000	_	0	root	_	Treeler:sentence
 3	se	se	PRON	PP3CN000	_	2	dep	_	Treeler:morfema.pronominal
@@ -9694,7 +9694,7 @@
 20	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 21	os	o	DET	DA0MP0	_	22	det	_	Treeler:spec
 22	gases	gas	NOUN	NCMP000	_	19	nmod	_	Treeler:sn
-23	poden	poder	VERB	VMIP3P0	_	24	aux	_	Treeler:v
+23	poden	poder	AUX	VMIP3P0	_	24	aux	_	Treeler:v
 24	favorecer	favorecer	VERB	VMN0000	_	0	root	_	Treeler:sentence
 25	a	o	DET	DA0FS0	_	26	det	_	Treeler:spec
 26	floculación	floculación	NOUN	NCFS000	_	24	obj	_	Treeler:cd
@@ -9825,7 +9825,7 @@
 15	as	o	DET	DA0FP0	_	16	det	_	Treeler:spec
 16	que	que	PRON	PR0CN000	_	19	dep	_	Treeler:relatiu
 17	se	se	PRON	PP3CN000	_	19	iobj	_	Treeler:ci
-18	pode	poder	VERB	VMIP3S0	_	19	aux	_	Treeler:v
+18	pode	poder	AUX	VMIP3S0	_	19	aux	_	Treeler:v
 19	realizar	realizar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 20	o	o	DET	DA0MS0	_	21	det	_	Treeler:spec
 21	transporte	transporte	NOUN	NCMS000	_	19	obj	_	SpaceAfter=No|Treeler:cd
@@ -10052,7 +10052,7 @@
 9	naturais	natural	ADJ	AQ0CP0	_	7	amod	_	SpaceAfter=No|Treeler:s.a
 10	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 11-12	débese	_	_	_	_	_	_	_	_
-11	debe	deber	VERB	VMIP3S0	_	13	aux	_	Treeler:v
+11	debe	deber	AUX	VMIP3S0	_	13	aux	_	Treeler:v
 12	se	se	PRON	PP3CN000	_	13	iobj	_	Treeler:ci
 13-14	solicita-la	_	_	_	_	_	_	_	_
 13	solicitar	solicitar	VERB	VMN0000	_	0	root	_	Treeler:sentence
@@ -10081,7 +10081,7 @@
 6	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 7	e	e	CCONJ	CC	_	2	cc	_	ToDo=cc-without-conj|Treeler:coord
 8	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
-9	poidan	poder	VERB	VMSP3P0	_	10	aux	_	Treeler:v
+9	poidan	poder	AUX	VMSP3P0	_	10	aux	_	Treeler:v
 10-11	compararse	_	_	_	_	_	_	_	_
 10	comparar	comparar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 11	se	se	PRON	PP3CN000	_	10	dep	_	Treeler:morfema.pronominal
@@ -10757,7 +10757,7 @@
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 19	o	o	DET	DA0MS0	_	20	det	_	Treeler:spec
 20	río	río	NOUN	NCMS000	_	17	obl	_	Treeler:sn
-21	poden	poder	VERB	VMIP3P0	_	22	aux	_	Treeler:v
+21	poden	poder	AUX	VMIP3P0	_	22	aux	_	Treeler:v
 22	impedir	impedir	VERB	VMN0000	_	8	ccomp	_	Treeler:S
 23	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
 24	paso	paso	NOUN	NCMS000	_	22	obj	_	Treeler:cd
@@ -10891,7 +10891,7 @@
 29	miña	meu	DET	DP1FSS	_	30	det	_	Treeler:spec
 30	renda	renda	NOUN	NCFS000	_	26	obl	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
-32	vou	ir	VERB	VMIP1S0	_	33	aux	_	Treeler:v
+32	vou	ir	AUX	VMIP1S0	_	33	aux	_	Treeler:v
 33	declarar	declarar	VERB	VMN0000	_	18	ccomp	_	Treeler:S
 34	outros	outro	DET	DI0MP0	_	35	det	_	Treeler:spec
 35	bens	ben	NOUN	NCMP000	_	33	obj	_	Treeler:cd
@@ -11059,7 +11059,7 @@
 24	selección	selección	NOUN	NCFS000	_	22	obj	_	Treeler:cd
 25	non	non	PART	RN	_	30	advmod	_	Treeler:mod
 26	necesariamente	necesariamente	ADV	RG	_	30	case	_	Treeler:cc
-27	ha	haber	VERB	VMIP3S0	_	30	aux	_	Treeler:v
+27	ha	haber	AUX	VMIP3S0	_	30	aux	_	Treeler:v
 28	de	de	ADP	SPS00	_	30	case	_	Treeler:s
 29	ser	ser	AUX	VSN0000	_	30	cop	_	Treeler:suj
 30	coincidente	coincidente	ADJ	AQ0CS0	_	31	nsubj	_	Treeler:atr
@@ -11201,7 +11201,7 @@
 13	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 14	os	o	DET	DA0MP0	_	15	det	_	Treeler:spec
 15	interventores	interventor	NOUN	NCMP000	_	18	nsubj	_	Treeler:suj
-16	poden	poder	VERB	VMIP3P0	_	18	aux	_	Treeler:v
+16	poden	poder	AUX	VMIP3P0	_	18	aux	_	Treeler:v
 17	ser	ser	VERB	VSN0000	_	18	aux	_	Treeler:v
 18	eximidos	eximir	VERB	VMP00PM	_	5	case	_	ToDo=case-upos|Treeler:cc
 19-20	da	_	_	_	_	_	_	_	_
@@ -11251,7 +11251,7 @@
 2	segundo	segundo	ADJ	AO0MS0	_	3	amod	_	Treeler:s.a
 3	lugar	lugar	NOUN	NCMS000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	deben	deber	VERB	VMIP3P0	_	6	aux	_	Treeler:v
+5	deben	deber	AUX	VMIP3P0	_	6	aux	_	Treeler:v
 6-7	deseñarse	_	_	_	_	_	_	_	_
 6	deseñar	deseñar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	dep	_	Treeler:morfema.pronominal
@@ -11419,7 +11419,7 @@
 2	plan	plan	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	pensións	pensión	NOUN	NCFP000	_	2	nmod	_	Treeler:sn
-5	poderá	poder	VERB	VMIF3S0	_	6	aux	_	Treeler:v
+5	poderá	poder	AUX	VMIF3S0	_	6	aux	_	Treeler:v
 6	prever	prever	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
 8	participación	participación	NOUN	NCFS000	_	6	obj	_	Treeler:cd
@@ -11473,7 +11473,7 @@
 14	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 15	que	que	PRON	PR0CN000	_	18	nsubj	_	Treeler:suj
 16	se	se	PRON	PP3CN000	_	18	obj	_	Treeler:cd
-17	poden	poder	VERB	VMIP3P0	_	18	aux	_	Treeler:v
+17	poden	poder	AUX	VMIP3P0	_	18	aux	_	Treeler:v
 18	producir	producir	VERB	VMN0000	_	13	ccomp	_	Treeler:S
 19	por	por	ADP	SPS00	_	21	case	_	Treeler:cc
 20	múltiples	múltiple	ADJ	AQ0CP0	_	21	amod	_	Treeler:s.a
@@ -11534,7 +11534,7 @@
 11	consensuar	consensuar	VERB	VMN0000	_	16	ccomp	_	SpaceAfter=No|Treeler:S
 12	-	_	PUNCT	Fg	_	11	punct	_	Treeler:f
 13	que	que	PRON	PR0CN000	_	16	nsubj	_	Treeler:suj
-14	vai	ir	VERB	VMIP3S0	_	16	aux	_	Treeler:v
+14	vai	ir	AUX	VMIP3S0	_	16	aux	_	Treeler:v
 15	dende	dende	ADP	SPS00	_	16	case	_	Treeler:s
 16	protexer	protexer	VERB	VMN0000	_	3	case	_	ToDo=case-upos|Treeler:cc
 17	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
@@ -11572,7 +11572,7 @@
 5	escala	escala	NOUN	NCFS000	_	9	nsubj	_	Treeler:suj
 6	local	local	ADJ	AQ0CS0	_	5	amod	_	Treeler:s.a
 7	non	non	PART	RN	_	9	advmod	_	Treeler:mod
-8	pode	poder	VERB	VMIP3S0	_	9	aux	_	Treeler:v
+8	pode	poder	AUX	VMIP3S0	_	9	aux	_	Treeler:v
 9-10	realizarse	_	_	_	_	_	_	_	_
 9	realizar	realizar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 10	se	se	PRON	PP3CN000	_	9	dep	_	Treeler:morfema.pronominal
@@ -11715,7 +11715,7 @@
 10	estrutura	estrutura	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	mercado	mercado	NOUN	NCMS000	_	10	nmod	_	Treeler:sn
-13	pode	poder	VERB	VMIP3S0	_	14	aux	_	Treeler:v
+13	pode	poder	AUX	VMIP3S0	_	14	aux	_	Treeler:v
 14-15	resumirse	_	_	_	_	_	_	_	_
 14	resumir	resumir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 15	se	se	PRON	PP3CN000	_	14	dep	_	Treeler:morfema.pronominal
@@ -11787,7 +11787,7 @@
 
 # sent_id = test-297
 # text = Hai que evitar danala pel con disolventes orgánicos que eliminan a capa sebácea natural e impiden a entrada de sustancias hidrófilas, ou con outras sustancias, corrosivas e irritantes.
-1	Hai	haber	VERB	VMIP3S0	_	3	aux	_	Treeler:v
+1	Hai	haber	AUX	VMIP3S0	_	3	aux	_	Treeler:v
 2	que	que	SCONJ	CS	_	3	mark	_	Treeler:c
 3	evitar	evitar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 4-5	danala	_	_	_	_	_	_	_	_
@@ -11980,7 +11980,7 @@
 5	os	o	DET	DA0MP0	_	6	det	_	Treeler:spec
 6	fertilizantes	fertilizante	NOUN	NCMP000	_	9	nsubj	_	Treeler:suj
 7	orgánicos	orgánico	ADJ	AQ0MP0	_	6	amod	_	Treeler:s.a
-8	deberían	deber	VERB	VMIC3P0	_	9	aux	_	Treeler:v
+8	deberían	deber	AUX	VMIC3P0	_	9	aux	_	Treeler:v
 9-10	incorporarse	_	_	_	_	_	_	_	_
 9	incorporar	incorporar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 10	se	se	PRON	PP3CN000	_	9	dep	_	Treeler:morfema.pronominal
@@ -12232,7 +12232,7 @@
 7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
 8	pequeno	pequeno	ADJ	AQ0MS0	_	9	amod	_	Treeler:s.a
 9	empresario	empresario	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
-10	debera	deber	VERB	VMIM1S0	_	11	aux	_	Treeler:v
+10	debera	deber	AUX	VMIM1S0	_	11	aux	_	Treeler:v
 11	contratar	contratar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
 12	ou	ou	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
 13	pedir	pedir	VERB	VMN0000	_	11	ccomp	_	Treeler:S
@@ -12320,7 +12320,7 @@
 6	con	con	ADP	SPS00	_	7	case	_	Treeler:sp
 7	sensación	sensación	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
-9	poder	poder	VERB	VMN0000	_	10	aux	_	Treeler:v
+9	poder	poder	AUX	VMN0000	_	10	aux	_	Treeler:v
 10	decidir	decidir	VERB	VMN0000	_	7	ccomp	_	Treeler:S
 11	sobre	sobre	ADP	SPS00	_	14	case	_	Treeler:cc
 12	os	o	DET	DA0MP0	_	14	det	_	Treeler:spec
@@ -12595,7 +12595,7 @@
 # text = A decisión pode ser de carácter político cando os estándares foron elixidos polo goberno central pero dada a situación local considerouse máis axeitada unha normativa máis estricta.
 1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
 2	decisión	decisión	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
-3	pode	poder	VERB	VMIP3S0	_	5	aux	_	Treeler:v
+3	pode	poder	AUX	VMIP3S0	_	5	aux	_	Treeler:v
 4	ser	ser	AUX	VSN0000	_	5	cop	_	Treeler:sentence
 5	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
 6	carácter	carácter	NOUN	NCMS000	_	5	nmod	_	ToDo=nmod|Treeler:sn
@@ -12778,7 +12778,7 @@
 27	o	o	DET	DA0MS0	_	29	det	_	Treeler:spec
 28	seu	seu	DET	DP3MS0	_	29	det	_	Treeler:spec
 29	nivel	nivel	NOUN	NCMS000	_	31	nsubj	_	Treeler:suj
-30	vai	ir	VERB	VMIP3S0	_	31	aux	_	Treeler:v
+30	vai	ir	AUX	VMIP3S0	_	31	aux	_	Treeler:v
 31	variar	variar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 32	en	en	ADP	SPS00	_	33	case	_	Treeler:cc
 33	función	función	NOUN	NCFS000	_	31	obl	_	Treeler:sn
@@ -12798,7 +12798,7 @@
 6	maioritaria	maioritario	ADJ	AQ0FS0	_	5	amod	_	SpaceAfter=No|Treeler:s.a
 7	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 8	que	que	PRON	PR0CN000	_	10	nsubj	_	Treeler:suj
-9	podería	poder	VERB	VMIC3S0	_	10	aux	_	Treeler:v
+9	podería	poder	AUX	VMIC3S0	_	10	aux	_	Treeler:v
 10-11	reducirse	_	_	_	_	_	_	_	_
 10	reducir	reducir	VERB	VMN0000	_	5	ccomp	_	Treeler:S
 11	se	se	PRON	PP3CN000	_	10	dep	_	Treeler:morfema.pronominal
@@ -12958,7 +12958,7 @@
 
 # sent_id = test-327
 # text = Poden empezar como unha enfermidade aguda, ás veces grave ou mesmo potencialmente mortal, evolucionando progresivamente cara a unha enfermidade máis crónica.
-1	Poden	poder	VERB	VMIP3P0	_	2	aux	_	Treeler:v
+1	Poden	poder	AUX	VMIP3P0	_	2	aux	_	Treeler:v
 2	empezar	empezar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 3	como	como	PRON	PR0CN000	_	16	obj	_	Treeler:cd
 4	unha	un	DET	DI0FS0	_	5	det	_	Treeler:spec
@@ -12990,7 +12990,7 @@
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	produtos	produto	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
 5	animais	animal	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
-6	pode	poder	VERB	VMIP3S0	_	8	aux	_	Treeler:v
+6	pode	poder	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 7	ser	ser	AUX	VSN0000	_	8	cop	_	Treeler:sentence
 8	entendíbel	entendíbel	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 9	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
@@ -13112,7 +13112,7 @@
 
 # sent_id = test-331
 # text = Poden inducir cambios no patrón de voo, sempre moito menores cós ocasionados polas paredes de selado, xa que las reixas ofrecen múltiples puntos por onde atravesalas.
-1	Poden	poder	VERB	VMIP3P0	_	2	aux	_	Treeler:v
+1	Poden	poder	AUX	VMIP3P0	_	2	aux	_	Treeler:v
 2	inducir	inducir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 3	cambios	cambio	NOUN	NCMP000	_	2	obj	_	Treeler:cd
 4-5	no	_	_	_	_	_	_	_	_
@@ -13591,7 +13591,7 @@
 14	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 15	os	o	DET	DA0MP0	_	16	det	_	Treeler:spec
 16	pais	pai	NOUN	NCMP000	_	19	nsubj	_	Treeler:suj
-17	poden	poder	VERB	VMIP3P0	_	19	aux	_	Treeler:v
+17	poden	poder	AUX	VMIP3P0	_	19	aux	_	Treeler:v
 18	ser	ser	AUX	VSN0000	_	19	cop	_	Treeler:S
 19	portadores	portador	ADJ	AQ0MP0	_	1	ccomp	_	Treeler:atr
 20-21	da	_	_	_	_	_	_	_	_
@@ -13602,7 +13602,7 @@
 24	isto	isto	PRON	PD0CN000	_	28	nsubj	_	Treeler:suj
 25	é	ser	AUX	VSIP3S0	_	28	cop	_	SpaceAfter=No|Treeler:sentence
 26	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
-27	poden	poder	VERB	VMIP3P0	_	28	aux	_	Treeler:v
+27	poden	poder	AUX	VMIP3P0	_	28	aux	_	Treeler:v
 28	transmitir	transmitir	VERB	VMN0000	_	0	root	_	Treeler:atr
 29	a	o	DET	DA0FS0	_	30	det	_	Treeler:spec
 30	FMF	fmf	PROPN	NP00000	_	28	obj	_	Treeler:cd
@@ -13709,7 +13709,7 @@
 # sent_id = test-346
 # text = Pódese observar na táboa como a diminución máis significativa de precipitación tivo lugar, maioritariamente, no ano 1990, con valores que supoñen dun 18% a un 54% (IPa) de diminución respecto á media do período 1985-94.
 1-2	Pódese	_	_	_	_	_	_	_	_
-1	Pode	poder	VERB	VMIP3S0	_	3	aux	_	Treeler:v
+1	Pode	poder	AUX	VMIP3S0	_	3	aux	_	Treeler:v
 2	se	se	PRON	PP3CN000	_	1	dep	_	Treeler:morfema.pronominal
 3	observar	observar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 4-5	na	_	_	_	_	_	_	_	_
@@ -13839,7 +13839,7 @@
 21	súa	seu	DET	DP3FS0	_	22	det	_	Treeler:spec
 22	maximización	maximización	NOUN	NCFS000	_	26	nsubj	_	Treeler:suj
 23	non	non	PART	RN	_	26	advmod	_	Treeler:mod
-24	ten	ter	VERB	VMIP3S0	_	26	aux	_	Treeler:v
+24	ten	ter	AUX	VMIP3S0	_	26	aux	_	Treeler:v
 25	porque	porque	SCONJ	CS	_	26	mark	_	Treeler:conj
 26	implicar	implicar	VERB	VMN0000	_	4	case	_	ToDo=case-upos|Treeler:cc
 27	a	o	DET	DA0FS0	_	28	det	_	Treeler:spec
@@ -13907,7 +13907,7 @@
 6	diagnóstico	diagnóstico	NOUN	NCMS000	_	3	nmod	_	Treeler:sn
 7	tamén	tamén	ADV	RG	_	10	case	_	Treeler:cc
 8	se	se	PRON	PP3CN000	_	10	obj	_	Treeler:cd
-9	poden	poder	VERB	VMIP3P0	_	10	aux	_	Treeler:v
+9	poden	poder	AUX	VMIP3P0	_	10	aux	_	Treeler:v
 10	utilizar	utilizar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 11	uns	un	DET	DI0MP0	_	12	det	_	Treeler:spec
 12	criterios	criterio	NOUN	NCMP000	_	10	obj	_	Treeler:cd
@@ -13981,7 +13981,7 @@
 19	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 20	o	o	DET	DA0MS0	_	23	det	_	Treeler:spec
 21	que	que	PRON	PR0CN000	_	23	nsubj	_	Treeler:suj
-22	vai	ir	VERB	VMIP3S0	_	23	aux	_	Treeler:v
+22	vai	ir	AUX	VMIP3S0	_	23	aux	_	Treeler:v
 23	permitir	permitir	VERB	VMN0000	_	17	ccomp	_	Treeler:S
 24	incrementar	incrementar	VERB	VMN0000	_	23	obj	_	Treeler:cd
 25	o	o	DET	DA0MS0	_	26	det	_	Treeler:spec
@@ -14058,7 +14058,7 @@
 24	que	que	SCONJ	CS	_	28	mark	_	Treeler:conj
 25	non	non	PART	RN	_	28	advmod	_	Treeler:mod
 26	se	se	PRON	PP3CN000	_	28	obj	_	Treeler:cd
-27	poden	poder	VERB	VMIP3P0	_	28	aux	_	Treeler:v
+27	poden	poder	AUX	VMIP3P0	_	28	aux	_	Treeler:v
 28	asignar	asignar	VERB	VMN0000	_	15	case	_	ToDo=case-upos|Treeler:cc
 29	a	a	ADP	SPS00	_	28	obj	_	Treeler:cd
 30	un	un	DET	DI0MS0	_	31	det	_	Treeler:spec
@@ -14171,7 +14171,7 @@
 9	críticas	crítica	NOUN	NCFP000	_	14	nsubj	_	Treeler:suj
 10	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	propostas	proposta	NOUN	NCFP000	_	9	dep	_	Treeler:grup.nom
-12	deben	deber	VERB	VMIP3P0	_	14	aux	_	Treeler:v
+12	deben	deber	AUX	VMIP3P0	_	14	aux	_	Treeler:v
 13	ser	ser	VERB	VSN0000	_	14	aux	_	Treeler:v
 14	tidas	ter	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 15	seriamente	seriamente	ADV	RG	_	14	case	_	Treeler:cc
@@ -14212,7 +14212,7 @@
 15	risco	risco	NOUN	NCMS000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 16	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 17-18	pódese	_	_	_	_	_	_	_	_
-17	pode	poder	VERB	VMIP3S0	_	19	aux	_	Treeler:v
+17	pode	poder	AUX	VMIP3S0	_	19	aux	_	Treeler:v
 18	se	se	PRON	PP3CN000	_	17	dep	_	Treeler:morfema.pronominal
 19	fixar	fixar	VERB	VMN0000	_	9	dep	_	Treeler:ao
 20	a	o	DET	DA0FS0	_	21	det	_	Treeler:spec
@@ -14278,7 +14278,7 @@
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
 10	Comisión	comisión	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
-11	deberán	deber	VERB	VMIF3P0	_	12	aux	_	Treeler:v
+11	deberán	deber	AUX	VMIF3P0	_	12	aux	_	Treeler:v
 12	dimitir	dimitir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 13	colectivamente	colectivamente	ADV	RG	_	12	case	_	Treeler:cc
 14-15	dos	_	_	_	_	_	_	_	_
@@ -14296,7 +14296,7 @@
 24	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 25	a	o	DET	DA0FS0	_	26	det	_	Treeler:spec
 26	Unión	unión	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
-27	deberá	deber	VERB	VMIF3S0	_	28	aux	_	Treeler:v
+27	deberá	deber	AUX	VMIF3S0	_	28	aux	_	Treeler:v
 28	dimitir	dimitir	VERB	VMN0000	_	12	ccomp	_	Treeler:S
 29-30	do	_	_	_	_	_	_	_	_
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:creg
@@ -14450,7 +14450,7 @@
 10	determinado	determinar	VERB	VMP00SM	_	11	ccomp	_	Treeler:S
 11	grupo	grupo	NOUN	NCMS000	_	8	nmod	_	ToDo=nmod|Treeler:sn
 12	corporativo	corporativo	ADJ	AQ0MS0	_	11	amod	_	Treeler:s.a
-13	pode	poder	VERB	VMIP3S0	_	14	aux	_	Treeler:v
+13	pode	poder	AUX	VMIP3S0	_	14	aux	_	Treeler:v
 14	influír	influír	VERB	VMN0000	_	11	ccomp	_	Treeler:S
 15-16	na	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
@@ -14472,7 +14472,7 @@
 1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
 2	indicador	indicador	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 3	social	social	ADJ	AQ0CS0	_	2	amod	_	Treeler:s.a
-4	debe	deber	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:s
 6	formar	formar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	parte	parte	NOUN	NCCS000	_	6	obj	_	Treeler:cd
@@ -14857,7 +14857,7 @@
 28	precisas	preciso	ADJ	AQ0FP0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 29	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 30-31	poderíase	_	_	_	_	_	_	_	_
-30	podería	poder	VERB	VMIC1S0	_	32	aux	_	Treeler:v
+30	podería	poder	AUX	VMIC1S0	_	32	aux	_	Treeler:v
 31	se	se	PRON	PP3CN000	_	30	dep	_	Treeler:morfema.pronominal
 32	incluir	incluir	VERB	VMN0000	_	18	ccomp	_	Treeler:S
 33-34	no	_	_	_	_	_	_	_	_
@@ -15129,7 +15129,7 @@
 1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:d
 2	o	o	DET	DA0MS0	_	3	det	_	Treeler:spec
 3	persoal	persoal	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
-4	ten	ter	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	ten	ter	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	que	que	SCONJ	CS	_	6	mark	_	Treeler:c
 6	recibir	recibir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	dúas	dous	NOUN	NCFP000	_	6	obj	_	Treeler:cd
@@ -15300,7 +15300,7 @@
 10	competencia	competencia	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
 11	territorial	territorial	ADJ	AQ0CS0	_	10	amod	_	SpaceAfter=No|Treeler:s.a
 12	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
-13	deberá	deber	VERB	VMIF3S0	_	15	aux	_	Treeler:v
+13	deberá	deber	AUX	VMIF3S0	_	15	aux	_	Treeler:v
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:s
 15-16	indica-lo	_	_	_	_	_	_	_	_
 15	indicar	indicar	VERB	VMN0000	_	29	dep	_	Treeler:infinitiu
@@ -15318,7 +15318,7 @@
 25	territorialmente	territorial	ADV	RG	_	26	advmod	_	Treeler:spec
 26	competente	competente	ADJ	AQ0CS0	_	23	xcomp	_	SpaceAfter=No|Treeler:cpred
 27	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
-28	deberían	deber	VERB	VMIC3P0	_	29	aux	_	Treeler:v
+28	deberían	deber	AUX	VMIC3P0	_	29	aux	_	Treeler:v
 29-30	remitirse	_	_	_	_	_	_	_	_
 29	remitir	remitir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 30	se	se	PRON	PP3CN000	_	29	dep	_	Treeler:morfema.pronominal
@@ -15762,7 +15762,7 @@
 7	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 8	feito	feito	NOUN	NCMS000	_	6	dep	_	Treeler:ao
 9	que	que	PRON	PR0CN000	_	11	nsubj	_	Treeler:suj
-10	debe	deber	VERB	VMIP3S0	_	11	aux	_	Treeler:v
+10	debe	deber	AUX	VMIP3S0	_	11	aux	_	Treeler:v
 11	ter	ter	VERB	VMN0000	_	8	ccomp	_	Treeler:S
 12	contribuído	contribuír	VERB	VMP00SM	_	11	xcomp	_	Treeler:cpred
 13	a	a	ADP	SPS00	_	14	case	_	Treeler:creg
@@ -16142,7 +16142,7 @@
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	venda	venda	NOUN	NCFS000	_	13	nmod	_	Treeler:sn
 16	que	que	PRON	PR0CN000	_	18	nsubj	_	Treeler:suj
-17	poderá	poder	VERB	VMIF3S0	_	18	aux	_	Treeler:v
+17	poderá	poder	AUX	VMIF3S0	_	18	aux	_	Treeler:v
 18-19	traducirse	_	_	_	_	_	_	_	_
 18	traducir	traducir	VERB	VMN0000	_	13	ccomp	_	Treeler:S
 19	se	se	PRON	PP3CN000	_	18	dep	_	Treeler:morfema.pronominal
@@ -16667,7 +16667,7 @@
 16	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 17	pacientes	paciente	NOUN	NCMP000	_	1	nmod	_	Treeler:sn
 18	que	que	PRON	PR0CN000	_	20	nsubj	_	Treeler:suj
-19	deben	deber	VERB	VMIP3P0	_	20	aux	_	Treeler:v
+19	deben	deber	AUX	VMIP3P0	_	20	aux	_	Treeler:v
 20	reducir	reducir	VERB	VMN0000	_	17	ccomp	_	Treeler:S
 21	su	su	VERB	VMIS3S0	_	20	case	_	ToDo=case-upos|Treeler:cc
 22	presión	presión	NOUN	NCFS000	_	21	obj	_	Treeler:cd
@@ -16952,7 +16952,7 @@
 # text = Cada establecemento pode ofertar as que considere convenientes, pero as máis usuais son as seguintes: - Pago inmediato ou ó contado: o cargo realizase no momento de efectuar as compras e non leva consigo xuro algún.
 1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
 2	establecemento	establecemento	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
-3	pode	poder	VERB	VMIP3S0	_	4	aux	_	Treeler:v
+3	pode	poder	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	ofertar	ofertar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	as	o	DET	DA0FP0	_	7	det	_	Treeler:spec
 6	que	que	PRON	PR0CN000	_	7	obj	_	Treeler:cd
@@ -17156,7 +17156,7 @@
 8	suxestivos	suxestivo	ADJ	AQ0MP0	_	4	amod	_	Treeler:s.a
 9	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 10	FMF	fmf	PROPN	NP00000	_	4	nmod	_	Treeler:sn
-11	deben	deber	VERB	VMIP3P0	_	13	aux	_	Treeler:v
+11	deben	deber	AUX	VMIP3P0	_	13	aux	_	Treeler:v
 12	ser	ser	VERB	VSN0000	_	13	aux	_	Treeler:v
 13	tratados	tratar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 14	con	con	ADP	SPS00	_	15	case	_	Treeler:cc
@@ -17253,7 +17253,7 @@
 8	este	este	DET	DD0MS0	_	9	det	_	Treeler:spec
 9	capítulo	capítulo	NOUN	NCMS000	_	12	obl	_	Treeler:sn
 10-11	deberanse	_	_	_	_	_	_	_	_
-10	deberán	deber	VERB	VMIF3P0	_	12	aux	_	Treeler:v
+10	deberán	deber	AUX	VMIF3P0	_	12	aux	_	Treeler:v
 11	se	se	PRON	PP3CN000	_	10	dep	_	Treeler:morfema.pronominal
 12	adoptar	adoptar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 13	mediante	mediante	ADP	SPS00	_	14	case	_	Treeler:cc
@@ -17303,7 +17303,7 @@
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
 4	idéntica	idéntico	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 5	valoración	valoración	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
-6	poden	poder	VERB	VMIP3P0	_	7	aux	_	Treeler:v
+6	poden	poder	AUX	VMIP3P0	_	7	aux	_	Treeler:v
 7-8	lerse	_	_	_	_	_	_	_	_
 7	ler	ler	VERB	VMN0000	_	0	root	_	Treeler:sentence
 8	se	se	PRON	PP3CN000	_	7	dep	_	Treeler:morfema.pronominal
@@ -17350,7 +17350,7 @@
 3	necesario	necesario	ADJ	AQ0MS0	_	2	amod	_	SpaceAfter=No|Treeler:s.a
 4	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 5	este	este	DET	DD0MS0	_	9	nsubj	_	Treeler:suj
-6	debe	deber	VERB	VMIP3S0	_	9	aux	_	Treeler:v
+6	debe	deber	AUX	VMIP3S0	_	9	aux	_	Treeler:v
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:s
 8	ser	ser	AUX	VSN0000	_	9	cop	_	Treeler:sentence
 9	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
@@ -17361,7 +17361,7 @@
 14	orixinal	orixinal	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
 15	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 16-17	deberase	_	_	_	_	_	_	_	_
-16	deberá	deber	VERB	VMIF3S0	_	18	aux	_	Treeler:v
+16	deberá	deber	AUX	VMIF3S0	_	18	aux	_	Treeler:v
 17	se	se	PRON	PP3CN000	_	16	dep	_	Treeler:morfema.pronominal
 18	identificar	identificar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 19	o	o	DET	DA0MS0	_	20	det	_	Treeler:spec
@@ -17556,7 +17556,7 @@
 # text = Esta ameaza pode ser real ou percibida como tal, baseada na necesidade de atribuír -males- a alguén externo á propia comunidade.
 1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
 2	ameaza	ameaza	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
-3	pode	poder	VERB	VMIP3S0	_	5	aux	_	Treeler:v
+3	pode	poder	AUX	VMIP3S0	_	5	aux	_	Treeler:v
 4	ser	ser	AUX	VSN0000	_	5	cop	_	Treeler:sentence
 5	real	real	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
 6	ou	ou	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -17602,7 +17602,7 @@
 13	aínda	aínda	ADV	RG	_	14	advmod	_	Treeler:spec
 14	maior	maior	ADJ	AQ0CS0	_	12	amod	_	Treeler:s.a
 15	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
-16	poden	poder	VERB	VMIP3P0	_	18	aux	_	Treeler:v
+16	poden	poder	AUX	VMIP3P0	_	18	aux	_	Treeler:v
 17	ser	ser	AUX	VSN0000	_	18	cop	_	Treeler:S
 18	de	de	ADP	SPS00	_	8	ccomp	_	Treeler:atr
 19	dous	dous	NOUN	NCMP000	_	18	nmod	_	ToDo=nmod|Treeler:sn
@@ -17670,7 +17670,7 @@
 1	Pois	pois	SCONJ	CS	_	5	mark	_	Treeler:conj
 2	ben	ben	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	debe	deber	VERB	VMIP3S0	_	5	aux	_	Treeler:v
+4	debe	deber	AUX	VMIP3S0	_	5	aux	_	Treeler:v
 5-6	lembrarse	_	_	_	_	_	_	_	_
 5	lembrar	lembrar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 6	se	se	PRON	PP3CN000	_	5	dep	_	Treeler:morfema.pronominal
@@ -18301,7 +18301,7 @@
 # sent_id = test-455
 # text = Como pode observarse, as porcentaxes previstas de maiores crecen constantemente nas provincias de Pontevedra e A Coruña con respecto do conxunto de Galicia, namentras baixan nas de Lugo e Ourense.
 1	Como	como	PRON	PR0CN000	_	3	nsubj	_	Treeler:suj
-2	pode	poder	VERB	VMIP3S0	_	3	aux	_	Treeler:v
+2	pode	poder	AUX	VMIP3S0	_	3	aux	_	Treeler:v
 3-4	observarse	_	_	_	_	_	_	_	SpaceAfter=No
 3	observar	observar	VERB	VMN0000	_	7	ccomp	_	Treeler:S
 4	se	se	PRON	PP3CN000	_	3	dep	_	Treeler:morfema.pronominal
@@ -18400,7 +18400,7 @@
 21	súas	seu	DET	DP3FP0	_	22	det	_	Treeler:spec
 22	augas	auga	NOUN	NCFP000	_	25	obl	_	Treeler:sn
 23	superficiais	superficial	ADJ	AQ0CP0	_	22	amod	_	Treeler:s.a
-24	podemos	poder	VERB	VMIP1P0	_	25	aux	_	Treeler:v
+24	podemos	poder	AUX	VMIP1P0	_	25	aux	_	Treeler:v
 25-26	avalialo	_	_	_	_	_	_	_	_
 25	avaliar	avaliar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 26	o	o	PRON	PP3MSA00	_	25	obj	_	Treeler:cd
@@ -18469,7 +18469,7 @@
 2	o	o	DET	DA0MS0	_	3	det	_	Treeler:spec
 3	fin	fin	NOUN	NCFS000	_	22	obl	_	Treeler:sn
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
-5	poder	poder	VERB	VMN0000	_	6	aux	_	Treeler:v
+5	poder	poder	AUX	VMN0000	_	6	aux	_	Treeler:v
 6	comparar	comparar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
 7	os	o	DET	DA0MP0	_	8	det	_	Treeler:spec
 8	modelos	modelo	NOUN	NCMP000	_	6	obj	_	Treeler:cd
@@ -18581,7 +18581,7 @@
 # text = Cada hospital debe ter asignado un hospital de referencia para o tratamento de enfermos con IAM e debe existir un circuíto de derivación ben definido, estable e fluído.
 1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
 2	hospital	hospital	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
-3	debe	deber	VERB	VMIP3S0	_	4	aux	_	Treeler:v
+3	debe	deber	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	ter	ter	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	asignado	asignar	VERB	VMP00SM	_	4	obj	_	Treeler:cd
 6	un	un	DET	DI0MS0	_	7	det	_	Treeler:spec
@@ -18596,7 +18596,7 @@
 15	con	con	ADP	SPS00	_	16	case	_	Treeler:sp
 16	IAM	iam	PROPN	NP00000	_	12	nmod	_	Treeler:sn
 17	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
-18	debe	deber	VERB	VMIP3S0	_	19	aux	_	Treeler:v
+18	debe	deber	AUX	VMIP3S0	_	19	aux	_	Treeler:v
 19	existir	existir	VERB	VMN0000	_	4	ccomp	_	Treeler:S
 20	un	un	DET	DI0MS0	_	21	det	_	Treeler:spec
 21	circuíto	circuíto	NOUN	NCMS000	_	19	nsubj	_	Treeler:suj
@@ -18927,7 +18927,7 @@
 13	o	o	DET	DA0MS0	_	14	det	_	Treeler:spec
 14	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	18	nsubj	_	Treeler:suj
 15	non	non	PART	RN	_	18	advmod	_	Treeler:mod
-16	pode	poder	VERB	VMIP3S0	_	18	aux	_	Treeler:v
+16	pode	poder	AUX	VMIP3S0	_	18	aux	_	Treeler:v
 17	ser	ser	AUX	VSN0000	_	18	cop	_	Treeler:S
 18	sustentábel	sustentábel	ADJ	AQ0CS0	_	6	ccomp	_	SpaceAfter=No|Treeler:atr
 19	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
@@ -19126,7 +19126,7 @@
 6	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
 8	esterco	esterco	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
-9	debe	deber	VERB	VMIP3S0	_	11	aux	_	Treeler:v
+9	debe	deber	AUX	VMIP3S0	_	11	aux	_	Treeler:v
 10	ser	ser	VERB	VSN0000	_	11	aux	_	Treeler:v
 11	tratado	tratar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 12	axeitadamente	axeitadamente	ADV	RG	_	11	case	_	Treeler:cc
@@ -19291,7 +19291,7 @@
 19	os	o	DET	DA0MP0	_	20	det	_	Treeler:spec
 20	pasos	paso	NOUN	NCMP000	_	18	nmod	_	ToDo=nmod|Treeler:sn
 21	que	que	PRON	PR0CN000	_	24	obj	_	Treeler:cd
-22	hai	haber	VERB	VMIP3S0	_	24	aux	_	Treeler:v
+22	hai	haber	AUX	VMIP3S0	_	24	aux	_	Treeler:v
 23	que	que	SCONJ	CS	_	24	mark	_	Treeler:c
 24	dar	dar	VERB	VMN0000	_	20	ccomp	_	SpaceAfter=No|Treeler:S
 25	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
@@ -19728,14 +19728,14 @@
 # sent_id = test-491
 # text = Este vai aumentando a medida que o vapor vai cedendo o seu contido enerxético, para poder aproveitar mellor a súa enerxía.
 1	Este	este	DET	DD0MS0	_	3	nsubj	_	Treeler:suj
-2	vai	ir	VERB	VMIP3S0	_	3	aux	_	Treeler:v
+2	vai	ir	AUX	VMIP3S0	_	3	aux	_	Treeler:v
 3	aumentando	aumentar	VERB	VMG0000	_	0	root	_	Treeler:sentence
 4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
 5	medida	medida	NOUN	NCFS000	_	3	obj	_	Treeler:cd
 6	que	que	PRON	PR0CN000	_	10	obj	_	Treeler:cd
 7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
 8	vapor	vapor	NOUN	NCMS000	_	10	nsubj	_	Treeler:suj
-9	vai	ir	VERB	VMIP3S0	_	10	aux	_	Treeler:v
+9	vai	ir	AUX	VMIP3S0	_	10	aux	_	Treeler:v
 10	cedendo	ceder	VERB	VMG0000	_	5	ccomp	_	Treeler:S
 11	o	o	DET	DA0MS0	_	13	det	_	Treeler:spec
 12	seu	seu	DET	DP3MS0	_	13	det	_	Treeler:spec
@@ -19743,7 +19743,7 @@
 14	enerxético	enerxético	ADJ	AQ0MS0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 16	para	para	ADP	SPS00	_	18	case	_	Treeler:cc
-17	poder	poder	VERB	VMN0000	_	18	aux	_	Treeler:v
+17	poder	poder	AUX	VMN0000	_	18	aux	_	Treeler:v
 18	aproveitar	aproveitar	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 19	mellor	mellor	ADV	RG	_	18	case	_	Treeler:cc
 20	a	o	DET	DA0FS0	_	22	det	_	Treeler:spec
@@ -20073,7 +20073,7 @@
 13	sujeito	sujeito	NOUN	NCMS000	_	6	dep	_	SpaceAfter=No|Treeler:grup.nom
 14	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 15	como	como	PRON	PR0CN000	_	18	nsubj	_	Treeler:suj
-16	acabamos	acabar	VERB	VMIP1P0	_	18	aux	_	Treeler:v
+16	acabamos	acabar	AUX	VMIP1P0	_	18	aux	_	Treeler:v
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:s
 18	ver	ver	VERB	VMN0000	_	13	ccomp	_	SpaceAfter=No|Treeler:S
 19	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
@@ -20481,7 +20481,7 @@
 8	as	o	DET	DA0FP0	_	9	det	_	Treeler:spec
 9	capacidades	capacidade	NOUN	NCFP000	_	13	nsubj	_	Treeler:suj
 10	non	non	PART	RN	_	13	advmod	_	Treeler:mod
-11	poden	poder	VERB	VMIP3P0	_	13	aux	_	Treeler:v
+11	poden	poder	AUX	VMIP3P0	_	13	aux	_	Treeler:v
 12	ser	ser	VERB	VSN0000	_	13	aux	_	Treeler:v
 13	valoradas	valorar	VERB	VMP00PF	_	30	dep	_	Treeler:ao
 14-15	no	_	_	_	_	_	_	_	_
@@ -20538,7 +20538,7 @@
 27	Augas	auga	NOUN	NCFP000	_	33	nsubj	_	Treeler:suj
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 29	Galicia	galicia	PROPN	NP00000	_	27	nmod	_	Treeler:sn
-30	debe	deber	VERB	VMIP3S0	_	33	aux	_	Treeler:v
+30	debe	deber	AUX	VMIP3S0	_	33	aux	_	Treeler:v
 31	proceder	proceder	VERB	VMN0000	_	33	aux	_	Treeler:v
 32	a	a	ADP	SPS00	_	31	case	_	Treeler:creg
 33	efectuar	efectuar	VERB	VMN0000	_	37	dep	_	Treeler:infinitiu
@@ -20561,15 +20561,15 @@
 
 # sent_id = test-512
 # text = Poden ser subxectivos e obxectivos, pero deben poder medirse dalgunha maneira, ou do contrario será imposible comprobar se se acadaron melloras ou se produciron degradacións e, se este é o caso, non serían verdadeiros indicadores.
-1	Poden	poder	VERB	VMIP3P0	_	3	aux	_	Treeler:v
+1	Poden	poder	AUX	VMIP3P0	_	3	aux	_	Treeler:v
 2	ser	ser	AUX	VSN0000	_	3	cop	_	Treeler:sentence
 3	subxectivos	subxectivo	ADJ	AQ0MP0	_	0	root	_	Treeler:atr
 4	e	e	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
 5	obxectivos	obxectivo	NOUN	NCMP000	_	3	dep	_	SpaceAfter=No|Treeler:grup.a
 6	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 7	pero	pero	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
-8	deben	deber	VERB	VMIP3P0	_	10	aux	_	Treeler:v
-9	poder	poder	VERB	VMN0000	_	10	aux	_	Treeler:v
+8	deben	deber	AUX	VMIP3P0	_	10	aux	_	Treeler:v
+9	poder	poder	AUX	VMN0000	_	10	aux	_	Treeler:v
 10-11	medirse	_	_	_	_	_	_	_	_
 10	medir	medir	VERB	VMN0000	_	3	ccomp	_	Treeler:S
 11	se	se	PRON	PP3CN000	_	10	dep	_	Treeler:morfema.pronominal
@@ -20863,7 +20863,7 @@
 15	mama	mama	NOUN	NCFS000	_	11	nmod	_	Treeler:sn
 16	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
 17	tumor	tumor	NOUN	NCMS000	_	20	nsubj	_	Treeler:suj
-18	debe	deber	VERB	VMIP3S0	_	20	aux	_	Treeler:v
+18	debe	deber	AUX	VMIP3S0	_	20	aux	_	Treeler:v
 19	ser	ser	VERB	VSN0000	_	20	aux	_	Treeler:v
 20	tratado	tratar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 21-22	cunha	_	_	_	_	_	_	_	_
@@ -20883,7 +20883,7 @@
 5	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 6	o	o	DET	DA0MS0	_	7	det	_	Treeler:spec
 7	contribuínte	contribuínte	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
-8	poderá	poder	VERB	VMIF3S0	_	9	aux	_	Treeler:v
+8	poderá	poder	AUX	VMIF3S0	_	9	aux	_	Treeler:v
 9-10	solicita-la	_	_	_	_	_	_	_	_
 9	solicitar	solicitar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 10	a	o	DET	DA0FS0	_	11	det	_	Treeler:spec
@@ -21004,7 +21004,7 @@
 8	xestión	xestión	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 9	tributaria	tributario	ADJ	AQ0FS0	_	8	amod	_	SpaceAfter=No|Treeler:s.a
 10	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
-11	debería	deber	VERB	VMIC3S0	_	12	aux	_	Treeler:v
+11	debería	deber	AUX	VMIC3S0	_	12	aux	_	Treeler:v
 12-13	darse	_	_	_	_	_	_	_	_
 12	dar	dar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 13	se	se	PRON	PP3CN000	_	12	dep	_	Treeler:morfema.pronominal
@@ -21052,7 +21052,7 @@
 16	parque	parque	NOUN	NCMS000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 18	e	e	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
-19	poderán	poder	VERB	VMIF3P0	_	20	aux	_	Treeler:v
+19	poderán	poder	AUX	VMIF3P0	_	20	aux	_	Treeler:v
 20	incluír	incluír	VERB	VMN0000	_	0	root	_	Treeler:sentence
 21	algunhas	algún	DET	DI0FP0	_	24	det	_	Treeler:spec
 22	coma	coma	SCONJ	CS	_	24	mark	_	Treeler:conj
@@ -21587,12 +21587,12 @@
 5	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
 6	todo	todo	DET	DI0MS0	_	7	det	_	Treeler:spec
 7	iso	iso	PRON	PD0CN000	_	10	nsubj	_	Treeler:suj
-8	pode	poder	VERB	VMIP3S0	_	10	aux	_	Treeler:v
+8	pode	poder	AUX	VMIP3S0	_	10	aux	_	Treeler:v
 9	ser	ser	AUX	VSN0000	_	10	cop	_	Treeler:S
 10	factible	factible	ADJ	AQ0CS0	_	3	ccomp	_	Treeler:atr
 11	pero	pero	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 12	aínda	aínda	ADV	RG	_	16	case	_	Treeler:cc
-13	ten	ter	VERB	VMIP3S0	_	16	aux	_	Treeler:v
+13	ten	ter	AUX	VMIP3S0	_	16	aux	_	Treeler:v
 14	que	que	SCONJ	CS	_	16	mark	_	Treeler:c
 15	ser	ser	VERB	VSN0000	_	16	aux	_	Treeler:v
 16	comprobado	comprobar	VERB	VMP00SM	_	10	ccomp	_	Treeler:S
@@ -21605,7 +21605,7 @@
 
 # sent_id = test-538
 # text = Deberían existir iniciativas para a reestructuración do sector, centrándose nunha dimensión axeitada, isto conlevaría uns mellores custos para o productor co conseguinte beneficio de prezos finais para o consumidor.
-1	Deberían	deber	VERB	VMIC3P0	_	2	aux	_	Treeler:v
+1	Deberían	deber	AUX	VMIC3P0	_	2	aux	_	Treeler:v
 2	existir	existir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 3	iniciativas	iniciativa	NOUN	NCFP000	_	2	nsubj	_	Treeler:suj
 4	para	para	ADP	SPS00	_	6	case	_	Treeler:sp
@@ -21922,7 +21922,7 @@
 9	factores	factor	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
 10	intrínsecos	intrínseco	ADJ	AQ0MP0	_	9	amod	_	Treeler:s.a
 11	que	que	PRON	PR0CN000	_	13	nsubj	_	Treeler:suj
-12	poidan	poder	VERB	VMSP3P0	_	13	aux	_	Treeler:v
+12	poidan	poder	AUX	VMSP3P0	_	13	aux	_	Treeler:v
 13-14	afectarlles	_	_	_	_	_	_	_	_
 13	afectar	afectar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 14	lles	lle	PRON	PP3CPD00	_	13	iobj	_	Treeler:ci
@@ -22027,7 +22027,7 @@
 8	os	o	DET	DA0MP0	_	9	det	_	Treeler:spec
 9	individuos	individuo	NOUN	NCMP000	_	0	root	_	SpaceAfter=No|Treeler:atr
 10	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
-11	debemos	deber	VERB	VMIP1P0	_	12	aux	_	Treeler:v
+11	debemos	deber	AUX	VMIP1P0	_	12	aux	_	Treeler:v
 12	artellar	artellar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 13	un	un	DET	DI0MS0	_	14	det	_	Treeler:spec
 14	mecanismo	mecanismo	NOUN	NCMS000	_	12	obj	_	Treeler:cd
@@ -22254,7 +22254,7 @@
 4	mecanismos	mecanismo	NOUN	NCMP000	_	1	nsubj	_	Treeler:suj
 5	que	que	PRON	PR0CN000	_	8	obj	_	Treeler:cd
 6	se	se	PRON	PP3CN000	_	8	iobj	_	Treeler:ci
-7	deben	deber	VERB	VMIP3P0	_	8	aux	_	Treeler:v
+7	deben	deber	AUX	VMIP3P0	_	8	aux	_	Treeler:v
 8	seguir	seguir	VERB	VMN0000	_	4	ccomp	_	Treeler:S
 9	para	para	ADP	SPS00	_	14	case	_	Treeler:cc
 10	facer	facer	VERB	VMN0000	_	14	dep	_	Treeler:infinitiu
@@ -22307,7 +22307,7 @@
 2	a	o	DET	DA0FS0	_	4	det	_	Treeler:spec
 3	dita	dicir	VERB	VMP00SF	_	4	ccomp	_	Treeler:S
 4	data	data	NOUN	NCFS000	_	6	obl	_	Treeler:sn
-5	debe	deber	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+5	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 6-7	acordarse	_	_	_	_	_	_	_	_
 6	acordar	acordar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	dep	_	Treeler:morfema.pronominal
@@ -22400,7 +22400,7 @@
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 16	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
 17	Guadarrama	guadarrama	PROPN	NP00000	_	14	nmod	_	Treeler:sn
-18	podería	poder	VERB	VMIC3S0	_	19	aux	_	Treeler:v
+18	podería	poder	AUX	VMIC3S0	_	19	aux	_	Treeler:v
 19	construirse	construirse	VERB	VMN0000	_	0	root	_	SpaceAfter=No|Treeler:sentence
 20	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 21	por	por	ADP	SPS00	_	22	case	_	Treeler:cc
@@ -22898,7 +22898,7 @@
 30	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 31	conflictos	conflictos	NOUN	NCMP000	_	29	nmod	_	Treeler:sn
 32	que	que	PRON	PR0CN000	_	34	obj	_	Treeler:cd
-33	poidan	poder	VERB	VMSP3P0	_	34	aux	_	Treeler:v
+33	poidan	poder	AUX	VMSP3P0	_	34	aux	_	Treeler:v
 34	xurdir	xurdir	VERB	VMN0000	_	31	ccomp	_	SpaceAfter=No|Treeler:S
 35	.	.	PUNCT	Fp	_	19	punct	_	Treeler:f
 
@@ -23030,7 +23030,7 @@
 18	unha	un	DET	DI0FS0	_	19	det	_	Treeler:spec
 19	dimensión	dimensión	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
 20	local	local	ADJ	AQ0CS0	_	19	amod	_	Treeler:s.a
-21	pode	poder	VERB	VMIP3S0	_	22	aux	_	Treeler:v
+21	pode	poder	AUX	VMIP3S0	_	22	aux	_	Treeler:v
 22	facilitar	facilitar	VERB	VMN0000	_	12	ccomp	_	Treeler:S
 23	a	o	DET	DA0FS0	_	24	det	_	Treeler:spec
 24	adaptación	adaptación	NOUN	NCFS000	_	22	obj	_	Treeler:cd
@@ -23052,7 +23052,7 @@
 1	O	o	DET	DA0MS0	_	3	det	_	Treeler:spec
 2	seu	seu	DET	DP3MS0	_	3	det	_	Treeler:spec
 3	trazado	trazado	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
-4	pode	poder	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	pode	poder	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
 6	por	por	ADP	SPS00	_	0	root	_	Treeler:atr
 7	camiños	camiño	NOUN	NCMP000	_	6	nmod	_	ToDo=nmod|Treeler:sn
@@ -23270,7 +23270,7 @@
 18	perspectiva	perspectiva	NOUN	NCFS000	_	22	obl	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 20-21	pódese	_	_	_	_	_	_	_	_
-20	pode	poder	VERB	VMIP3S0	_	22	aux	_	Treeler:v
+20	pode	poder	AUX	VMIP3S0	_	22	aux	_	Treeler:v
 21	se	se	PRON	PP3CN000	_	20	dep	_	Treeler:morfema.pronominal
 22	determinar	determinar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 23	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
@@ -23304,7 +23304,7 @@
 10	cada	cada	DET	DI0NN0	_	11	det	_	Treeler:spec
 11	convenio	convenio	NOUN	NCMS000	_	8	obl	_	Treeler:sn
 12-13	pódese	_	_	_	_	_	_	_	_
-12	pode	poder	VERB	VMIP3S0	_	14	aux	_	Treeler:v
+12	pode	poder	AUX	VMIP3S0	_	14	aux	_	Treeler:v
 13	se	se	PRON	PP3CN000	_	12	dep	_	Treeler:morfema.pronominal
 14	sinalar	sinalar	VERB	VMN0000	_	28	dep	_	Treeler:infinitiu
 15	o	o	DET	DA0MS0	_	16	det	_	Treeler:spec
@@ -23377,7 +23377,7 @@
 26	as	o	DET	DA0FP0	_	27	det	_	Treeler:spec
 27	actuacións	actuación	NOUN	NCFP000	_	21	obl	_	Treeler:sn
 28	que	que	PRON	PR0CN000	_	31	obj	_	Treeler:cd
-29	terá	ter	VERB	VMIF3S0	_	31	aux	_	Treeler:v
+29	terá	ter	AUX	VMIF3S0	_	31	aux	_	Treeler:v
 30	que	que	SCONJ	CS	_	31	mark	_	Treeler:c
 31	desenvolver	desenvolver	VERB	VMN0000	_	27	ccomp	_	Treeler:S
 32	este	este	DET	DD0MS0	_	33	det	_	Treeler:spec
@@ -23443,7 +23443,7 @@
 11	os	o	DET	DA0MP0	_	12	det	_	Treeler:spec
 12	funcionarios	funcionario	NOUN	NCMP000	_	10	obj	_	Treeler:cd
 13	que	que	PRON	PR0CN000	_	15	obj	_	Treeler:cd
-14	deben	deber	VERB	VMIP3P0	_	15	aux	_	Treeler:v
+14	deben	deber	AUX	VMIP3P0	_	15	aux	_	Treeler:v
 15	realizar	realizar	VERB	VMN0000	_	12	ccomp	_	Treeler:S
 16	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
 17	exame	exame	NOUN	NCMS000	_	15	obj	_	Treeler:cd
@@ -23787,7 +23787,7 @@
 19	implica	implicar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 20	que	que	SCONJ	CS	_	24	mark	_	Treeler:conj
 21	aqueles	aquel	DET	DD0MP0	_	24	nsubj	_	Treeler:suj
-22	poderán	poder	VERB	VMIF3P0	_	24	aux	_	Treeler:v
+22	poderán	poder	AUX	VMIF3P0	_	24	aux	_	Treeler:v
 23	ser	ser	VERB	VSN0000	_	24	aux	_	Treeler:v
 24	modificados	modificar	VERB	VMP00PM	_	19	obj	_	Treeler:cd
 25-26	co	_	_	_	_	_	_	_	_
@@ -23796,7 +23796,7 @@
 27	tempo	tempo	NOUN	NCMS000	_	24	obl	_	Treeler:sn
 28	e	e	CCONJ	CC	_	24	cc	_	ToDo=cc-without-conj|Treeler:coord
 29	se	se	PRON	PP3CN000	_	31	obj	_	Treeler:cd
-30	irán	ir	VERB	VMIF3P0	_	31	aux	_	Treeler:v
+30	irán	ir	AUX	VMIF3P0	_	31	aux	_	Treeler:v
 31	reducindo	reducir	VERB	VMG0000	_	24	ccomp	_	Treeler:S
 32	a	o	DET	DA0FS0	_	33	det	_	Treeler:spec
 33	medida	medida	NOUN	NCFS000	_	31	obj	_	Treeler:cd
@@ -23912,7 +23912,7 @@
 30	o	o	DET	DA0MS0	_	32	det	_	Treeler:spec
 31	seu	seu	DET	DP3MS0	_	32	det	_	Treeler:spec
 32	funcionamento	funcionamento	NOUN	NCMS000	_	25	obl	_	Treeler:sn
-33	poden	poder	VERB	VMIP3P0	_	34	aux	_	Treeler:v
+33	poden	poder	AUX	VMIP3P0	_	34	aux	_	Treeler:v
 34	afectar	afectar	VERB	VMN0000	_	25	ccomp	_	Treeler:S
 35	o	o	DET	DA0MS0	_	36	det	_	Treeler:spec
 36	nivel	nivel	NOUN	NCMS000	_	34	obj	_	Treeler:cd
@@ -24398,7 +24398,7 @@
 14	Social	social	ADJ	AQ0CS0	_	13	amod	_	Treeler:s.a
 15	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
 16	Turismo	turismo	NOUN	NCMS000	_	11	dep	_	Treeler:grup.nom
-17	poderá	poder	VERB	VMIF3S0	_	18	aux	_	Treeler:v
+17	poderá	poder	AUX	VMIF3S0	_	18	aux	_	Treeler:v
 18	comprobar	comprobar	VERB	VMN0000	_	0	root	_	SpaceAfter=No|Treeler:sentence
 19	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 20	cando	cando	PRON	PR0CN000	_	22	obj	_	Treeler:cd
@@ -24533,7 +24533,7 @@
 23	utilizar	utilizar	VERB	VMN0000	_	27	ccomp	_	Treeler:S
 24	métodos	método	NOUN	NCMP000	_	23	obj	_	Treeler:cd
 25	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj
-26	poidan	poder	VERB	VMSP3P0	_	27	aux	_	Treeler:v
+26	poidan	poder	AUX	VMSP3P0	_	27	aux	_	Treeler:v
 27	causar	causar	VERB	VMN0000	_	4	ccomp	_	Treeler:S
 28	prexuízos	prexuízo	NOUN	NCMP000	_	27	obj	_	Treeler:cd
 29-30	ó	_	_	_	_	_	_	_	_
@@ -24888,7 +24888,7 @@
 38	menor	menor	ADJ	AQ0CS0	_	36	dep	_	Treeler:grup.a
 39	medida	medida	NOUN	NCFS000	_	33	nmod	_	SpaceAfter=No|Treeler:sn
 40	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
-41	deben	deber	VERB	VMIP3P0	_	42	aux	_	Treeler:v
+41	deben	deber	AUX	VMIP3P0	_	42	aux	_	Treeler:v
 42-43	segui-las	_	_	_	_	_	_	_	_
 42	seguir	seguir	VERB	VMN0000	_	25	ccomp	_	Treeler:S
 43	as	o	DET	DA0FP0	_	44	det	_	Treeler:spec
@@ -24903,7 +24903,7 @@
 2	suas	suas	NOUN	NCFP000	_	8	nsubj	_	Treeler:suj
 3	procedencias	procedencia	NOUN	NCFP000	_	2	amod	_	Treeler:s.a
 4	maioritarias	maioritario	ADJ	AQ0FP0	_	2	amod	_	Treeler:s.a
-5	seguen	seguir	VERB	VMIP3P0	_	8	aux	_	Treeler:v
+5	seguen	seguir	AUX	VMIP3P0	_	8	aux	_	Treeler:v
 6	a	a	ADP	SPS00	_	8	case	_	Treeler:s
 7	ser	ser	AUX	VSN0000	_	8	cop	_	Treeler:sentence
 8	Marrocos	marrocos	PROPN	NP00000	_	0	root	_	Treeler:atr
@@ -25037,7 +25037,7 @@
 11	proceso	proceso	NOUN	NCMS000	_	19	nsubj	_	Treeler:suj
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 13	outorgar	outorgar	VERB	VMN0000	_	11	ccomp	_	Treeler:S
-14	poder	poder	VERB	VMN0000	_	13	aux	_	Treeler:v
+14	poder	poder	AUX	VMN0000	_	13	aux	_	Treeler:v
 15-16	á	_	_	_	_	_	_	_	_
 15	a	a	ADP	SPS00	_	13	obj	_	Treeler:cd
 16	a	o	DET	DA0FS0	_	17	det	_	Treeler:spec
@@ -25090,7 +25090,7 @@
 24	vida	vida	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
 25	digna	digno	ADJ	AQ0FS0	_	24	amod	_	SpaceAfter=No|Treeler:s.a
 26	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
-27	debe	deber	VERB	VMIP3S0	_	28	aux	_	Treeler:v
+27	debe	deber	AUX	VMIP3S0	_	28	aux	_	Treeler:v
 28	constituir	constituir	VERB	VMN0000	_	1	ccomp	_	Treeler:S
 29	unha	un	DET	DI0FS0	_	32	det	_	Treeler:spec
 30-31	das	_	_	_	_	_	_	_	_
@@ -25433,7 +25433,7 @@
 3	xenérico	xenérico	ADJ	AQ0MS0	_	2	amod	_	SpaceAfter=No|Treeler:s.a
 4	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 5-6	pódese	_	_	_	_	_	_	_	_
-5	pode	poder	VERB	VMIP3S0	_	7	aux	_	Treeler:v
+5	pode	poder	AUX	VMIP3S0	_	7	aux	_	Treeler:v
 6	se	se	PRON	PP3CN000	_	7	iobj	_	Treeler:ci
 7	afirmar	afirmar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 8	que	que	SCONJ	CS	_	9	mark	_	Treeler:conj
@@ -25611,7 +25611,7 @@
 6	advección	advección	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
 7	inversa	inverso	ADJ	AQ0FS0	_	6	amod	_	SpaceAfter=No|Treeler:s.a
 8	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-9	poden	poder	VERB	VMIP3P0	_	10	aux	_	Treeler:v
+9	poden	poder	AUX	VMIP3P0	_	10	aux	_	Treeler:v
 10	chegar	chegar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 11	ata	ata	ADP	SPS00	_	12	case	_	Treeler:cc
 12	nós	nós	PRON	PP1CPO00	_	10	obl	_	Treeler:sn
@@ -25877,7 +25877,7 @@
 11	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 12	o	o	DET	DA0MS0	_	13	det	_	Treeler:spec
 13	interesado	interesado	NOUN	NCMS000	_	15	nsubj	_	Treeler:suj
-14	poderá	poder	VERB	VMIF3S0	_	15	aux	_	Treeler:v
+14	poderá	poder	AUX	VMIF3S0	_	15	aux	_	Treeler:v
 15	interpor	interpor	VERB	VMN0000	_	0	root	_	SpaceAfter=No|Treeler:sentence
 16	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 17	dentro	dentro	ADV	RG	_	15	case	_	ToDo=case-upos|Treeler:cc
@@ -26019,7 +26019,7 @@
 11	flexibilidade	flexibilidade	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 12	de	de	ADP	SPS00	_	16	case	_	Treeler:creg
 13	que	que	PRON	PR0CN000	_	16	nsubj	_	Treeler:suj
-14	debe	deber	VERB	VMIP3S0	_	16	aux	_	Treeler:v
+14	debe	deber	AUX	VMIP3S0	_	16	aux	_	Treeler:v
 15	estar	estar	AUX	VMN0000	_	16	cop	_	Treeler:S
 16	dotado	dotar	VERB	VMP00SM	_	11	ccomp	_	Treeler:atr
 17	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
@@ -26061,7 +26061,7 @@
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	que	que	PRON	PR0CN000	_	8	nsubj	_	Treeler:suj
 6	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
-7	debe	deber	VERB	VMIP3S0	_	8	aux	_	Treeler:v
+7	debe	deber	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 8	traspoñer	traspoñer	VERB	VMN0000	_	18	dep	_	Treeler:ao
 9	antes	antes	ADV	RG	_	8	case	_	ToDo=case-upos|Treeler:cc
 10-11	do	_	_	_	_	_	_	_	_
@@ -26103,7 +26103,7 @@
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:sp
 16	Estados	estado	NOUN	NCMP000	_	14	nmod	_	Treeler:sn
 17	Unidos	unido	ADJ	AQ0MP0	_	16	amod	_	Treeler:s.a
-18	poidan	poder	VERB	VMSP3P0	_	19	aux	_	Treeler:v
+18	poidan	poder	AUX	VMSP3P0	_	19	aux	_	Treeler:v
 19	aforrar	aforrar	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 20	diñeiro	diñeiro	NOUN	NCMS000	_	19	obj	_	SpaceAfter=No|Treeler:cd
 21	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
@@ -26198,7 +26198,7 @@
 # text = Os emigrantes poden pasar longos períodos con parentes e as empresas pequenas con frecuencia dependen da forza de traballo que subministra a familia extensa.
 1	Os	o	DET	DA0MP0	_	2	det	_	Treeler:spec
 2	emigrantes	emigrante	NOUN	NCFP000	_	4	nsubj	_	Treeler:suj
-3	poden	poder	VERB	VMIP3P0	_	4	aux	_	Treeler:v
+3	poden	poder	AUX	VMIP3P0	_	4	aux	_	Treeler:v
 4	pasar	pasar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	longos	longo	ADJ	AQ0MP0	_	6	amod	_	Treeler:s.a
 6	períodos	período	NOUN	NCMP000	_	4	obj	_	Treeler:cd
@@ -26377,7 +26377,7 @@
 8	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
 10	innovación	innovación	NOUN	NCFS000	_	12	nsubj	_	Treeler:suj
-11	segue	seguir	VERB	VMIP3S0	_	12	aux	_	Treeler:v
+11	segue	seguir	AUX	VMIP3S0	_	12	aux	_	Treeler:v
 12	tendo	ter	VERB	VMG0000	_	0	root	_	Treeler:sentence
 13	unha	un	DET	DI0FS0	_	14	det	_	Treeler:spec
 14	importancia	importancia	NOUN	NCFS000	_	12	obj	_	Treeler:cd
@@ -26445,7 +26445,7 @@
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 30	este	este	DET	DD0MS0	_	31	det	_	Treeler:spec
 31	xeito	xeito	NOUN	NCMS000	_	33	obl	_	Treeler:sn
-32	podemos	poder	VERB	VMIP1P0	_	33	aux	_	Treeler:v
+32	podemos	poder	AUX	VMIP1P0	_	33	aux	_	Treeler:v
 33	confirmar	confirmar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
 34	as	o	DET	DA0FP0	_	35	det	_	Treeler:spec
 35	identificacións	identificación	NOUN	NCFP000	_	33	obj	_	SpaceAfter=No|Treeler:cd
@@ -26462,7 +26462,7 @@
 7	accións	acción	NOUN	NCFP000	_	5	obj	_	Treeler:cd
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	mellora	mellora	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
-10	pode	poder	VERB	VMIP3S0	_	13	aux	_	Treeler:v
+10	pode	poder	AUX	VMIP3S0	_	13	aux	_	Treeler:v
 11	ser	ser	AUX	VSN0000	_	13	cop	_	Treeler:sentence
 12	moi	moi	ADV	RG	_	13	advmod	_	Treeler:spec
 13	variable	variable	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
@@ -26682,7 +26682,7 @@
 20	política	política	NOUN	NCFS000	_	13	obj	_	Treeler:cd
 21	sectorial	sectorial	ADJ	AQ0CS0	_	20	amod	_	Treeler:s.a
 22-23	pódense	_	_	_	_	_	_	_	_
-22	poden	poder	VERB	VMIP3P0	_	24	aux	_	Treeler:v
+22	poden	poder	AUX	VMIP3P0	_	24	aux	_	Treeler:v
 23	se	se	PRON	PP3CN000	_	22	dep	_	Treeler:morfema.pronominal
 24	traducir	traducir	VERB	VMN0000	_	39	dep	_	Treeler:infinitiu
 25-26	nas	_	_	_	_	_	_	_	_
@@ -26699,7 +26699,7 @@
 35	Autónoma	autónomo	ADJ	AQ0FS0	_	34	amod	_	Treeler:s.a
 36	de	de	ADP	SPS00	_	37	case	_	Treeler:sp
 37	Galicia	galicia	PROPN	NP00000	_	34	nmod	_	Treeler:sn
-38	debe	deber	VERB	VMIP3S0	_	39	aux	_	Treeler:v
+38	debe	deber	AUX	VMIP3S0	_	39	aux	_	Treeler:v
 39	emprender	emprender	VERB	VMN0000	_	0	root	_	SpaceAfter=No|Treeler:sentence
 40	:	:	PUNCT	Fd	_	39	punct	_	Treeler:f
 
@@ -26766,7 +26766,7 @@
 6	recompilación	recompilación	NOUN	NCFS000	_	11	nsubj	_	Treeler:suj
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 8	datos	dato	NOUN	NCMP000	_	6	nmod	_	Treeler:sn
-9	poidan	poder	VERB	VMSP3P0	_	11	aux	_	Treeler:v
+9	poidan	poder	AUX	VMSP3P0	_	11	aux	_	Treeler:v
 10	ser	ser	AUX	VSN0000	_	11	cop	_	Treeler:S
 11	útiles	útil	ADJ	AQ0CP0	_	1	ccomp	_	Treeler:atr
 12	suxerindo	suxerir	VERB	VMG0000	_	11	xcomp	_	Treeler:atr
@@ -26813,7 +26813,7 @@
 15	persoas	persoa	NOUN	NCFP000	_	13	dep	_	Treeler:grup.nom
 16	maiores	maior	ADJ	AQ0CP0	_	15	amod	_	Treeler:s.a
 17	non	non	PART	RN	_	19	advmod	_	Treeler:mod
-18	poden	poder	VERB	VMIP3P0	_	19	aux	_	Treeler:v
+18	poden	poder	AUX	VMIP3P0	_	19	aux	_	Treeler:v
 19-20	permitirse	_	_	_	_	_	_	_	_
 19	permitir	permitir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 20	se	se	PRON	PP3CN000	_	19	dep	_	Treeler:morfema.pronominal
@@ -26870,7 +26870,7 @@
 # text = Así, poden ser verdadeiros tíos, isto é, anciáns con autoridade, ou poden ter un poder de máis dubidosa procedencia.
 1	Así	así	ADV	RG	_	6	cc	_	SpaceAfter=No|Treeler:et
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-3	poden	poder	VERB	VMIP3P0	_	6	aux	_	Treeler:v
+3	poden	poder	AUX	VMIP3P0	_	6	aux	_	Treeler:v
 4	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
 5	verdadeiros	verdadeiro	ADJ	AQ0MP0	_	6	amod	_	Treeler:s.a
 6	tíos	tío	NOUN	NCMP000	_	0	root	_	SpaceAfter=No|Treeler:atr
@@ -26883,10 +26883,10 @@
 13	autoridade	autoridade	NOUN	NCFS000	_	11	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 15	ou	ou	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
-16	poden	poder	VERB	VMIP3P0	_	17	aux	_	Treeler:v
+16	poden	poder	AUX	VMIP3P0	_	17	aux	_	Treeler:v
 17	ter	ter	VERB	VMN0000	_	11	ccomp	_	Treeler:S
 18	un	un	DET	DI0MS0	_	19	det	_	Treeler:spec
-19	poder	poder	VERB	VMN0000	_	17	aux	_	Treeler:v
+19	poder	poder	AUX	VMN0000	_	17	aux	_	Treeler:v
 20	de	de	ADP	SPS00	_	17	ccomp	_	Treeler:S
 21	máis	máis	ADV	RG	_	20	advmod	_	Treeler:sadv
 22	dubidosa	dubidoso	ADJ	AQ0FS0	_	23	amod	_	Treeler:s.a
@@ -27070,7 +27070,7 @@
 21	a	a	ADP	SPS00	_	19	iobj	_	Treeler:ci
 22	o	o	DET	DA0MS0	_	25	det	_	Treeler:spec
 23	que	que	SCONJ	CS	_	25	mark	_	Treeler:conj
-24	viñese	vir	VERB	VMSI3S0	_	25	aux	_	Treeler:v
+24	viñese	vir	AUX	VMSI3S0	_	25	aux	_	Treeler:v
 25	disfrutando	disfrutando	VERB	VMG0000	_	21	ccomp	_	SpaceAfter=No|Treeler:S
 26	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
@@ -27153,7 +27153,7 @@
 22	que	que	PRON	PR0CN000	_	26	obj	_	Treeler:cd
 23	se	se	PRON	PP3CN000	_	26	iobj	_	Treeler:ci
 24	lle	lle	PRON	PP3CSD00	_	26	iobj	_	Treeler:ci
-25	poidan	poder	VERB	VMSP3P0	_	26	aux	_	Treeler:v
+25	poidan	poder	AUX	VMSP3P0	_	26	aux	_	Treeler:v
 26	impoñer	impoñer	VERB	VMN0000	_	21	ccomp	_	Treeler:S
 27-28	ao	_	_	_	_	_	_	_	_
 27	a	a	ADP	SPS00	_	26	obj	_	Treeler:cd
@@ -27339,7 +27339,7 @@
 2	que	que	SCONJ	CS	_	6	mark	_	Treeler:conj
 3	o	o	DET	DA0MS0	_	4	det	_	Treeler:spec
 4	nomeamento	nomeamento	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
-5	debe	deber	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+5	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 6	recaer	recaer	VERB	VMN0000	_	1	obj	_	Treeler:cd
 7-8	no	_	_	_	_	_	_	_	_
 7	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
@@ -27728,7 +27728,7 @@
 1	Por	por	ADP	SPS00	_	3	case	_	Treeler:cc
 2	o	o	DET	DA0MS0	_	3	det	_	Treeler:spec
 3	que	que	PRON	PR0CN000	_	7	obl	_	Treeler:sn
-4	puidemos	poder	VERB	VMIS1P0	_	5	aux	_	Treeler:v
+4	puidemos	poder	AUX	VMIS1P0	_	5	aux	_	Treeler:v
 5	observar	observar	VERB	VMN0000	_	3	nmod	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 7	encontramos	encontrar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
@@ -27838,7 +27838,7 @@
 
 # sent_id = test-688
 # text = Hai que ter en conta, pois, que aínda que ao longo da historia os xitanos adaptaron o seu sistema de crenzas ás doutrinas relixiosas das comunidades nas que se asentaron, nunca chegaron a asumir verdadeiramente unha confesión determinada.
-1	Hai	haber	VERB	VMIP3S0	_	3	aux	_	Treeler:v
+1	Hai	haber	AUX	VMIP3S0	_	3	aux	_	Treeler:v
 2	que	que	SCONJ	CS	_	3	mark	_	Treeler:c
 3	ter	ter	VERB	VMN0000	_	0	root	_	Treeler:sentence
 4	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
@@ -28032,7 +28032,7 @@
 2	sistema	sistema	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 3	económico	económico	ADJ	AQ0MS0	_	2	amod	_	Treeler:s.a
 4	ideal	ideal	ADJ	AQ0CS0	_	2	amod	_	Treeler:s.a
-5	debería	deber	VERB	VMIC3S0	_	6	aux	_	Treeler:v
+5	debería	deber	AUX	VMIC3S0	_	6	aux	_	Treeler:v
 6	maximizar	maximizar	VERB	VMN0000	_	12	nsubj	_	Treeler:suj
 7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
 8	eficiencia	eficiencia	NOUN	NCFS000	_	6	obj	_	Treeler:cd
@@ -28337,7 +28337,7 @@
 2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
 3	acordo	acordo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 4	non	non	PART	RN	_	6	advmod	_	Treeler:mod
-5	poderá	poder	VERB	VMIF3S0	_	6	aux	_	Treeler:v
+5	poderá	poder	AUX	VMIF3S0	_	6	aux	_	Treeler:v
 6-7	formularse	_	_	_	_	_	_	_	_
 6	formular	formular	VERB	VMN0000	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	dep	_	Treeler:morfema.pronominal
@@ -28355,7 +28355,7 @@
 18	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 19	pero	pero	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	si	si	ADV	RG	_	22	case	_	Treeler:cc
-21	poderá	poder	VERB	VMIF3S0	_	22	aux	_	Treeler:v
+21	poderá	poder	AUX	VMIF3S0	_	22	aux	_	Treeler:v
 22-23	fundarse	_	_	_	_	_	_	_	_
 22	fundar	fundar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 23	se	se	PRON	PP3CN000	_	22	dep	_	Treeler:morfema.pronominal
@@ -28390,7 +28390,7 @@
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	tamén	tamén	ADV	RG	_	6	case	_	Treeler:cc
 5	se	se	PRON	PP3CN000	_	6	obj	_	Treeler:cd
-6	ha	haber	VERB	VMIP3S0	_	8	aux	_	Treeler:v
+6	ha	haber	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:s
 8	incluír	incluír	VERB	VMN0000	_	0	root	_	Treeler:sentence
 9	calquera	calquera	DET	DI0NN0	_	11	det	_	Treeler:spec
@@ -28414,7 +28414,7 @@
 # text = Pois non hai que olvidar que, como xa apuntamos antes, a lonxevidade como fenómeno social prodúcese pola combinación de tres factores: baixa taxa de natalidade, baixa taxa de mortalidade e movementos migratorios.
 1	Pois	pois	SCONJ	CS	_	5	mark	_	Treeler:conj
 2	non	non	PART	RN	_	5	advmod	_	Treeler:mod
-3	hai	haber	VERB	VMIP3S0	_	5	aux	_	Treeler:v
+3	hai	haber	AUX	VMIP3S0	_	5	aux	_	Treeler:v
 4	que	que	SCONJ	CS	_	5	mark	_	Treeler:c
 5	olvidar	olvidar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 6	que	que	SCONJ	CS	_	19	mark	_	SpaceAfter=No|Treeler:conj
@@ -28537,7 +28537,7 @@
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	estructura	estructura	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 7	demográfica	demográfico	ADJ	AQ0FS0	_	6	amod	_	Treeler:s.a
-8	pode	poder	VERB	VMIP3S0	_	11	aux	_	Treeler:v
+8	pode	poder	AUX	VMIP3S0	_	11	aux	_	Treeler:v
 9	ser	ser	AUX	VSN0000	_	11	cop	_	Treeler:sentence
 10	o	o	DET	DA0MS0	_	11	det	_	Treeler:spec
 11	índice	índice	NOUN	NCMS000	_	0	root	_	Treeler:atr
@@ -29235,7 +29235,7 @@
 # text = Tamén se pode medir o efecto sobre o emprego directo e indirecto dos diversos cambios que apuntan no horizonte e considerar, finalmente, o peso que pode ter ese refluxo no conxunto da economía galega.
 1	Tamén	tamén	ADV	RG	_	4	case	_	Treeler:cc
 2	se	se	PRON	PP3CN000	_	4	iobj	_	Treeler:ci
-3	pode	poder	VERB	VMIP3S0	_	4	aux	_	Treeler:v
+3	pode	poder	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	medir	medir	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	o	o	DET	DA0MS0	_	6	det	_	Treeler:spec
 6	efecto	efecto	NOUN	NCMS000	_	4	obj	_	Treeler:cd
@@ -29264,7 +29264,7 @@
 27	o	o	DET	DA0MS0	_	28	det	_	Treeler:spec
 28	peso	peso	NOUN	NCMS000	_	23	obj	_	Treeler:cd
 29	que	que	PRON	PR0CN000	_	31	obj	_	Treeler:cd
-30	pode	poder	VERB	VMIP3S0	_	31	aux	_	Treeler:v
+30	pode	poder	AUX	VMIP3S0	_	31	aux	_	Treeler:v
 31	ter	ter	VERB	VMN0000	_	28	ccomp	_	Treeler:S
 32	ese	ese	DET	DD0MS0	_	33	det	_	Treeler:spec
 33	refluxo	refluxo	NOUN	NCMS000	_	31	obj	_	Treeler:cd
@@ -29390,7 +29390,7 @@
 # text = Os mutualistas poden obter un xuro non superior ao xuro legal do diñeiro, no caso de realizar contribucións para a constitución do fondo mutual, así como o retorno correspondente ao resultado de cada exercicio.
 1	Os	o	DET	DA0MP0	_	2	det	_	Treeler:spec
 2	mutualistas	mutualista	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
-3	poden	poder	VERB	VMIP3P0	_	4	aux	_	Treeler:v
+3	poden	poder	AUX	VMIP3P0	_	4	aux	_	Treeler:v
 4	obter	obter	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	un	un	DET	DI0MS0	_	6	det	_	Treeler:spec
 6	xuro	xuro	NOUN	NCMS000	_	4	obj	_	Treeler:cd
@@ -29661,7 +29661,7 @@
 1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
 2	afasia	afasia	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
 3	non	non	PART	RN	_	5	advmod	_	Treeler:mod
-4	pode	poder	VERB	VMIP3S0	_	5	aux	_	Treeler:v
+4	pode	poder	AUX	VMIP3S0	_	5	aux	_	Treeler:v
 5-6	considerarse	_	_	_	_	_	_	_	_
 5	considerar	considerar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 6	se	se	PRON	PP3CN000	_	5	dep	_	Treeler:morfema.pronominal
@@ -29708,7 +29708,7 @@
 10	os	o	DET	DA0MP0	_	11	det	_	Treeler:spec
 11	calendarios	calendario	NOUN	NCMP000	_	6	obl	_	Treeler:sn
 12	laborais	laboral	ADJ	AQ0CP0	_	11	amod	_	Treeler:s.a
-13	deberá	deber	VERB	VMIF3S0	_	16	aux	_	Treeler:v
+13	deberá	deber	AUX	VMIF3S0	_	16	aux	_	Treeler:v
 14	ser	ser	AUX	VSN0000	_	16	cop	_	Treeler:sentence
 15	debidamente	debidamente	ADV	RG	_	16	case	_	Treeler:cc
 16	motivada	motivar	VERB	VMP00SF	_	0	root	_	SpaceAfter=No|Treeler:atr
@@ -29966,7 +29966,7 @@
 13	diferentes	diferente	ADJ	AQ0CP0	_	14	amod	_	Treeler:s.a
 14	compoñentes	compoñente	NOUN	NCCP000	_	10	obj	_	Treeler:cd
 15	que	que	PRON	PR0CN000	_	19	nsubj	_	Treeler:suj
-16	deben	deber	VERB	VMIP3P0	_	19	aux	_	Treeler:v
+16	deben	deber	AUX	VMIP3P0	_	19	aux	_	Treeler:v
 17	ser	ser	AUX	VSN0000	_	19	cop	_	Treeler:S
 18	necesariamente	necesariamente	ADV	RG	_	19	case	_	Treeler:cc
 19	valorados	valorar	VERB	VMP00PM	_	14	ccomp	_	Treeler:atr
@@ -30120,7 +30120,7 @@
 15	esencial	esencial	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
 16	para	para	ADP	SPS00	_	19	case	_	Treeler:cc
 17	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
-18	poida	poder	VERB	VMSP1S0	_	19	aux	_	Treeler:v
+18	poida	poder	AUX	VMSP1S0	_	19	aux	_	Treeler:v
 19-20	darse	_	_	_	_	_	_	_	_
 19	dar	dar	VERB	VMN0000	_	15	ccomp	_	Treeler:S
 20	se	se	PRON	PP3CN000	_	19	dep	_	Treeler:morfema.pronominal
@@ -30177,7 +30177,7 @@
 4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
 5	estrutura	estrutura	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 6	non	non	PART	RN	_	8	advmod	_	Treeler:mod
-7	poderán	poder	VERB	VMIF3P0	_	8	aux	_	Treeler:v
+7	poderán	poder	AUX	VMIF3P0	_	8	aux	_	Treeler:v
 8	ocupar	ocupar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
 10	zona	zona	NOUN	NCFS000	_	8	obj	_	Treeler:cd
@@ -30401,7 +30401,7 @@
 # text = O solicitante deberá indicar os consumos de enerxía eléctrica que se producen na instalación, tendo en conta os consumos de enerxía que se mostran no apartado 1.2 do capítulo 5 deste documento.
 1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
 2	solicitante	solicitante	NOUN	NCFS000	_	4	nsubj	_	Treeler:suj
-3	deberá	deber	VERB	VMIF3S0	_	4	aux	_	Treeler:v
+3	deberá	deber	AUX	VMIF3S0	_	4	aux	_	Treeler:v
 4	indicar	indicar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	os	o	DET	DA0MP0	_	6	det	_	Treeler:spec
 6	consumos	consumo	NOUN	NCMP000	_	4	obj	_	Treeler:cd
@@ -30509,7 +30509,7 @@
 25	os	o	DET	DA0MP0	_	26	det	_	Treeler:spec
 26	que	que	PRON	PR0CN000	_	29	obl	_	Treeler:sn
 27	se	se	PRON	PP3CN000	_	29	obj	_	Treeler:cd
-28	veu	vir	VERB	VMIS3S0	_	29	aux	_	Treeler:v
+28	veu	vir	AUX	VMIS3S0	_	29	aux	_	Treeler:v
 29	tratando	tratar	VERB	VMG0000	_	37	case	_	ToDo=case-upos|Treeler:cc
 30	ata	ata	ADP	SPS00	_	31	case	_	Treeler:cc
 31	aquí	aquí	ADV	RG	_	29	advmod	_	SpaceAfter=No|Treeler:sadv
@@ -31142,7 +31142,7 @@
 11	a	o	DET	DA0FS0	_	13	det	_	Treeler:spec
 12	que	que	DET	DT0CN0	_	13	det	_	Treeler:spec
 13	Persoal	persoal	NOUN	NCMS000	_	17	nsubj	_	Treeler:suj
-14	deixa	deixar	VERB	VMIP3S0	_	17	aux	_	Treeler:v
+14	deixa	deixar	AUX	VMIP3S0	_	17	aux	_	Treeler:v
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:s
 16	ser	ser	AUX	VSN0000	_	17	cop	_	Treeler:S
 17	competencia	competencia	NOUN	NCFS000	_	6	ccomp	_	Treeler:atr
@@ -31507,7 +31507,7 @@
 13	enfermidade	enfermidade	NOUN	NCFS000	_	18	obl	_	Treeler:sn
 14	cardiovascular	cardiovascular	ADJ	AQ0CS0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	:	:	PUNCT	Fd	_	13	punct	_	Treeler:f
-16	deixar	deixar	VERB	VMN0000	_	18	aux	_	Treeler:v
+16	deixar	deixar	AUX	VMN0000	_	18	aux	_	Treeler:v
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:s
 18	fumar	fumar	VERB	VMN0000	_	7	ccomp	_	SpaceAfter=No|Treeler:S
 19	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
@@ -31539,7 +31539,7 @@
 4	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 5	que	que	PRON	PR0CN000	_	9	nsubj	_	Treeler:suj
 6	se	se	PRON	PP3CN000	_	9	obj	_	Treeler:cd
-7	ha	haber	VERB	VMIP3S0	_	9	aux	_	Treeler:v
+7	ha	haber	AUX	VMIP3S0	_	9	aux	_	Treeler:v
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:s
 9	reforzar	reforzar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 10	durante	durante	ADP	SPS00	_	13	case	_	Treeler:cc
@@ -31663,7 +31663,7 @@
 14	de	de	ADP	SPS00	_	18	case	_	Treeler:creg
 15	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
 16	que	que	SCONJ	CS	_	18	mark	_	Treeler:conj
-17	poida	poder	VERB	VMSP1S0	_	18	aux	_	Treeler:v
+17	poida	poder	AUX	VMSP1S0	_	18	aux	_	Treeler:v
 18	corresponder	corresponder	VERB	VMN0000	_	11	ccomp	_	Treeler:S
 19	a	a	ADP	SPS00	_	21	case	_	Treeler:creg
 20	outros	outro	DET	DI0MP0	_	21	det	_	Treeler:spec
@@ -31752,7 +31752,7 @@
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	cantidade	cantidade	NOUN	NCFS000	_	3	obj	_	Treeler:cd
 7	que	que	PRON	PR0CN000	_	10	obj	_	Treeler:cd
-8	hai	haber	VERB	VMIP3S0	_	10	aux	_	Treeler:v
+8	hai	haber	AUX	VMIP3S0	_	10	aux	_	Treeler:v
 9	que	que	SCONJ	CS	_	10	mark	_	Treeler:c
 10	servir	servir	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:creg
@@ -31784,7 +31784,7 @@
 6	:	:	PUNCT	Fd	_	7	punct	_	Treeler:f
 7	Equilibrio	equilibrio	NOUN	NCMS000	_	1	nmod	_	Treeler:sn
 8	que	que	PRON	PR0CN000	_	10	nsubj	_	Treeler:suj
-9	debe	deber	VERB	VMIP3S0	_	10	aux	_	Treeler:v
+9	debe	deber	AUX	VMIP3S0	_	10	aux	_	Treeler:v
 10	existir	existir	VERB	VMN0000	_	7	ccomp	_	Treeler:S
 11	entre	entre	ADP	SPS00	_	13	case	_	Treeler:cc
 12	a	o	DET	DA0FS0	_	13	det	_	Treeler:spec
@@ -31814,7 +31814,7 @@
 1	Toda	todo	DET	DI0FS0	_	2	det	_	Treeler:d
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
 3	preparación	preparación	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
-4	debe	deber	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+4	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	estar	estar	AUX	VMN0000	_	6	cop	_	Treeler:sentence
 6	tinguida	tinguir	VERB	VMP00SF	_	0	root	_	Treeler:atr
 7-8	dunha	_	_	_	_	_	_	_	_
@@ -32059,14 +32059,14 @@
 24	-	_	PUNCT	Fg	_	23	punct	_	SpaceAfter=No|Treeler:f
 25	di	dicir	VERB	VMIP3S0	Foreign=Yes	13	ccomp	_	SpaceAfter=No|Treeler:inc
 26	-	_	PUNCT	Fg	_	27	punct	_	Treeler:f
-27	debe	deber	VERB	VMIP3S0	_	25	aux	_	Treeler:v
+27	debe	deber	AUX	VMIP3S0	_	25	aux	_	Treeler:v
 28	permitir	permitir	VERB	VMN0000	_	25	flat	_	Treeler:S
 29	sobre	sobre	ADP	SPS00	_	31	case	_	Treeler:cc
 30	todo	todo	DET	DI0MS0	_	31	det	_	Treeler:spec
 31	que	que	PRON	PR0CN000	_	25	obl	_	Treeler:sn
 32	cada	cada	DET	DI0NN0	_	33	det	_	Treeler:spec
 33	se	se	PRON	PP3CN000	_	25	dep	_	Treeler:morfema.pronominal
-34	poida	poder	VERB	VMSP1S0	_	35	aux	_	Treeler:v
+34	poida	poder	AUX	VMSP1S0	_	35	aux	_	Treeler:v
 35	realizar	realizar	VERB	VMN0000	_	25	obj	_	Treeler:cd
 36	individualmente	individual	ADV	RG	_	35	case	_	SpaceAfter=No|Treeler:cc
 37	...	...	PUNCT	Fs	_	25	punct	_	Treeler:f
@@ -32162,7 +32162,7 @@
 6	cambios	cambio	NOUN	NCMP000	_	3	nmod	_	ToDo=nmod|Treeler:sn
 7	que	que	PRON	PR0CN000	_	11	obj	_	Treeler:cd
 8	se	se	PRON	PP3CN000	_	9	obj	_	Treeler:cd
-9	viñeron	vir	VERB	VMIS3P0	_	11	aux	_	Treeler:v
+9	viñeron	vir	AUX	VMIS3P0	_	11	aux	_	Treeler:v
 10	a	a	ADP	SPS00	_	11	case	_	Treeler:s
 11	producir	producir	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 12	internamente	internamente	ADV	RG	_	11	case	_	Treeler:cc
@@ -32252,7 +32252,7 @@
 7	as	o	DET	DA0FP0	_	8	det	_	Treeler:spec
 8	características	característica	NOUN	NCFP000	_	5	nmod	_	Treeler:sn
 9	que	que	PRON	PR0CN000	_	11	obj	_	Treeler:cd
-10	debe	deber	VERB	VMIP3S0	_	11	aux	_	Treeler:v
+10	debe	deber	AUX	VMIP3S0	_	11	aux	_	Treeler:v
 11	cumprir	cumprir	VERB	VMN0000	_	5	ccomp	_	Treeler:S
 12	un	un	DET	DI0MS0	_	14	det	_	Treeler:spec
 13	bo	bo	ADJ	AQ0MS0	_	14	amod	_	Treeler:s.a
@@ -32277,7 +32277,7 @@
 # text = A dor pode ser moi tolerable, tan leve que amole só lixeiramente, ou tan severa que incapacite temporalmente a unha persoa.
 1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
 2	dor	dor	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
-3	pode	poder	VERB	VMIP3S0	_	6	aux	_	Treeler:v
+3	pode	poder	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 4	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
 5	moi	moi	ADV	RG	_	6	advmod	_	Treeler:spec
 6	tolerable	tolerable	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
@@ -33022,7 +33022,7 @@
 16	se	se	PRON	PP3CN000	_	18	nsubj	_	Treeler:suj
 17	é	ser	AUX	VSIP3S0	_	18	cop	_	Treeler:atr
 18	preciso	preciso	ADJ	AQ0MS0	_	12	xcomp	_	Treeler:atr
-19	pode	poder	VERB	VMIP3S0	_	20	aux	_	Treeler:v
+19	pode	poder	AUX	VMIP3S0	_	20	aux	_	Treeler:v
 20-21	utilizarse	_	_	_	_	_	_	_	_
 20	utilizar	utilizar	VERB	VMN0000	_	18	ccomp	_	Treeler:S
 21	se	se	PRON	PP3CN000	_	20	dep	_	Treeler:morfema.pronominal
@@ -33064,7 +33064,7 @@
 21	autonómico	autonómico	ADJ	AQ0MS0	_	20	amod	_	SpaceAfter=No|Treeler:s.a
 22	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 23	que	que	PRON	PR0CN000	_	25	nsubj	_	Treeler:suj
-24	poderían	poder	VERB	VMIC3P0	_	25	aux	_	Treeler:v
+24	poderían	poder	AUX	VMIC3P0	_	25	aux	_	Treeler:v
 25	afectar	afectar	VERB	VMN0000	_	13	ccomp	_	Treeler:S
 26-27	ó	_	_	_	_	_	_	_	_
 26	a	a	ADP	SPS00	_	25	obj	_	Treeler:cd
@@ -33099,7 +33099,7 @@
 13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
 14	cooperación	cooperación	NOUN	NCFS000	_	12	nmod	_	ToDo=nmod|Treeler:sn
 15	galega	galego	ADJ	AQ0FS0	_	14	amod	_	Treeler:s.a
-16	deberá	deber	VERB	VMIF3S0	_	17	aux	_	Treeler:v
+16	deberá	deber	AUX	VMIF3S0	_	17	aux	_	Treeler:v
 17	figurar	figurar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 18-19	co	_	_	_	_	_	_	_	_
 18	con	con	ADP	SPS00	_	21	case	_	Treeler:cc
@@ -33131,7 +33131,7 @@
 11	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 12	polo	polo	NOUN	NCMS000	_	10	dep	_	Treeler:grup.nom
 13	tanto	tanto	ADV	RG	_	15	case	_	Treeler:cc
-14	debemos	deber	VERB	VMIP1P0	_	15	aux	_	Treeler:v
+14	debemos	deber	AUX	VMIP1P0	_	15	aux	_	Treeler:v
 15-16	incluíla	_	_	_	_	_	_	_	_
 15	incluír	incluír	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 16	a	o	PRON	PP3FSA00	_	15	obj	_	Treeler:cd
@@ -33203,7 +33203,7 @@
 5	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 6	vitamina	vitamina	NOUN	NCFS000	_	4	dep	_	Treeler:grup.nom
 7	D	d	NOUN	NCMS000	_	4	dep	_	Treeler:grup.nom
-8	poden	poder	VERB	VMIP3P0	_	11	aux	_	Treeler:v
+8	poden	poder	AUX	VMIP3P0	_	11	aux	_	Treeler:v
 9	axudar	axudar	VERB	VMN0000	_	11	aux	_	Treeler:v
 10	a	a	ADP	SPS00	_	11	case	_	Treeler:s
 11	previr	previr	VERB	VMN0000	_	0	root	_	Treeler:sentence
@@ -33235,7 +33235,7 @@
 
 # sent_id = test-822
 # text = Deberán mencionarse as condicións climáticas do territorio onde se situará a instalación e identificar as zonas concretas cuxas peculiaridades difiran das do resto.
-1	Deberán	deber	VERB	VMIF3P0	_	2	aux	_	Treeler:v
+1	Deberán	deber	AUX	VMIF3P0	_	2	aux	_	Treeler:v
 2-3	mencionarse	_	_	_	_	_	_	_	_
 2	mencionar	mencionar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 3	se	se	PRON	PP3CN000	_	2	dep	_	Treeler:morfema.pronominal
@@ -33438,7 +33438,7 @@
 17	ou	ou	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
 18	reflexión	reflexión	NOUN	NCFS000	_	16	dep	_	Treeler:grup.nom
 19	final	final	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
-20	pode	poder	VERB	VMIP3S0	_	23	aux	_	Treeler:v
+20	pode	poder	AUX	VMIP3S0	_	23	aux	_	Treeler:v
 21	ser	ser	AUX	VSN0000	_	23	cop	_	Treeler:sentence
 22	incluso	incluso	ADV	RG	_	23	advmod	_	Treeler:spec
 23	contradictoria	contradictoria	ADJ	AQ0FS0	_	0	root	_	SpaceAfter=No|Treeler:atr
@@ -33632,7 +33632,7 @@
 # text = Entre eles podemos salientar as investigacións de Rojo (1979), Rodríguez Neira e Rubal Rodríguez (1987), Rubal Rodríguez (1992), Seminario de Sociolingüística da RAG (1995) e Monteagudo e Bouzada (2002).
 1	Entre	entre	ADP	SPS00	_	2	case	_	Treeler:cc
 2	eles	el	PRON	PP3MP000	_	4	obl	_	Treeler:sn
-3	podemos	poder	VERB	VMIP1P0	_	4	aux	_	Treeler:v
+3	podemos	poder	AUX	VMIP1P0	_	4	aux	_	Treeler:v
 4	salientar	salientar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	as	o	DET	DA0FP0	_	6	det	_	Treeler:spec
 6	investigacións	investigación	NOUN	NCFP000	_	4	obj	_	Treeler:cd
@@ -33702,7 +33702,7 @@
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 20	aforros	aforro	NOUN	NCMP000	_	18	nmod	_	Treeler:sn
 21	galegas	galego	ADJ	AQ0FP0	_	18	amod	_	Treeler:s.a
-22	poderán	poder	VERB	VMIF3P0	_	23	aux	_	Treeler:v
+22	poderán	poder	AUX	VMIF3P0	_	23	aux	_	Treeler:v
 23	presentar	presentar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 24	as	o	DET	DA0FP0	_	26	det	_	Treeler:spec
 25	súas	seu	DET	DP3FP0	_	26	det	_	Treeler:spec
@@ -33766,7 +33766,7 @@
 32	de	de	ADP	SPS00	_	34	case	_	Treeler:sp
 33	os	o	DET	DA0MP0	_	34	det	_	Treeler:spec
 34	recursos	recurso	NOUN	NCMP000	_	31	nmod	_	Treeler:sn
-35	pode	poder	VERB	VMIP3S0	_	36	aux	_	Treeler:v
+35	pode	poder	AUX	VMIP3S0	_	36	aux	_	Treeler:v
 36	resultar	resultar	VERB	VMN0000	_	8	ccomp	_	Treeler:S
 37	diminuída	diminuír	VERB	VMP00SF	_	36	xcomp	_	SpaceAfter=No|Treeler:cpred
 38	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
@@ -33904,7 +33904,7 @@
 15	hai	haber	VERB	VMIP3S0	_	7	ccomp	_	Treeler:S
 16	circunstancias	circunstancia	NOUN	NCFP000	_	15	obj	_	Treeler:cd
 17	que	que	PRON	PR0CN000	_	19	nsubj	_	Treeler:suj
-18	poden	poder	VERB	VMIP3P0	_	19	aux	_	Treeler:v
+18	poden	poder	AUX	VMIP3P0	_	19	aux	_	Treeler:v
 19	actuar	actuar	VERB	VMN0000	_	16	ccomp	_	Treeler:S
 20	como	como	PRON	PR0CN000	_	19	aux	_	Treeler:v
 21	factores	factor	NOUN	NCMP000	_	19	nsubj	_	Treeler:suj
@@ -34458,7 +34458,7 @@
 23	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 24	o	o	DET	DA0MS0	_	25	det	_	Treeler:spec
 25	promotor	promotor	NOUN	NCMS000	_	27	nsubj	_	Treeler:suj
-26	deberá	deber	VERB	VMIF3S0	_	27	aux	_	Treeler:v
+26	deberá	deber	AUX	VMIF3S0	_	27	aux	_	Treeler:v
 27	sinalar	sinalar	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 28	os	o	DET	DA0MP0	_	29	det	_	Treeler:spec
 29	aspectos	aspecto	NOUN	NCMP000	_	27	obj	_	Treeler:cd
@@ -34639,7 +34639,7 @@
 28	derradeira	derradeiro	ADJ	AQ0FS0	_	29	amod	_	Treeler:s.a
 29	factura	factura	NOUN	NCFS000	_	25	nmod	_	SpaceAfter=No|Treeler:sn
 30	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
-31	deberán	deber	VERB	VMIF3P0	_	32	aux	_	Treeler:v
+31	deberán	deber	AUX	VMIF3P0	_	32	aux	_	Treeler:v
 32	solicitar	solicitar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 33	o	o	DET	DA0MS0	_	34	det	_	Treeler:spec
 34	cobramento	cobramento	NOUN	NCMS000	_	32	obj	_	Treeler:cd
