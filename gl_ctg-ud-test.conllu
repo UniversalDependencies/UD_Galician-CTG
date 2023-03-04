@@ -210,7 +210,7 @@
 16	teña	ter	VERB	VMSP1S0	_	9	ccomp	_	Treeler:S
 17	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
 18	centro	centro	NOUN	NCMS000	_	16	obj	_	Treeler:cd
-19	máis	máis	ADV	RG	_	20	det	_	Treeler:spec
+19	máis	máis	ADV	RG	_	20	advmod	_	Treeler:spec
 20	próximo	próximo	ADJ	AQ0MS0	_	18	amod	_	Treeler:s.a
 21	a	a	ADP	SPS00	_	22	case	_	Treeler:cc
 22	ela	el	PRON	PP3FS000	_	16	obl	_	SpaceAfter=No|Treeler:sn
@@ -218,7 +218,7 @@
 
 # sent_id = test-6
 # text = Asi mesmo, realizarase unha avaliacion conxunta ao remate da intervencion en cada caso, asi como no remate dos diferentes periodos da intervencion, e dicir, ao finalizar o embarazo, con posterioridade ao parto, e cando o neno cumpra 3 meses, 6 meses e 1 ano.
-1	Asi	asi	ADV	RG	_	2	det	_	Treeler:spec
+1	Asi	asi	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	4	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4-5	realizarase	_	_	_	_	_	_	_	_
@@ -641,7 +641,7 @@
 9	xuvenil	xuvenil	ADJ	AQ0CS0	_	8	amod	_	Treeler:s.a
 10	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
 11	que	que	PRON	PR0CN000	_	18	nsubj	_	Treeler:suj
-12	máis	máis	ADV	RG	_	13	det	_	Treeler:spec
+12	máis	máis	ADV	RG	_	13	advmod	_	Treeler:spec
 13	axiña	axiña	ADV	RG	_	16	advmod	_	Treeler:sadv
 14	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 15	máis	máis	ADV	RG	_	13	dep	_	Treeler:grup.adv
@@ -659,7 +659,7 @@
 
 # sent_id = test-16
 # text = Só despois da queixa formulada pola FEG perante o Valedor do Pobo, o Director Xeral de Obras Públicas volveu convocar a Xunta de Goberno, celebrándose dúas reunións no ano 2000, unha delas para aprobar o Plano Hidrolóxico de Galiza-Costa.
-1	Só	só	ADV	RG	_	2	det	_	Treeler:spec
+1	Só	só	ADV	RG	_	2	advmod	_	Treeler:spec
 2	despois	despois	ADV	RG	_	23	case	_	ToDo=case-upos|Treeler:cc
 3-4	da	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
@@ -803,7 +803,7 @@
 13	dá	dar	VERB	VMIP3S0	_	4	ccomp	_	_
 14	un	un	DET	DI0MS0	_	15	det	_	_
 15	comportamento	comportamento	NOUN	NCMS000	_	13	obj	_	_
-16	relativamente	relativo	ADV	RG	_	17	det	_	_
+16	relativamente	relativo	ADV	RG	_	17	advmod	_	_
 17	uniforme	uniforme	ADJ	AQ0CS0	_	15	amod	_	_
 18-19	nas	_	_	_	_	_	_	_	_
 18	en	en	ADP	SPS00	_	20	case	_	_
@@ -1176,7 +1176,7 @@
 
 # sent_id = test-29
 # text = Así mesmo, son aplicables a todas aquelas persoas físicas ou xurídicas que, sen estaren comprendidas no parágrafo anterior, resulten afectadas polos ditos preceptos.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	son	ser	AUX	VSIP1S0	_	5	cop	_	Treeler:sentence
@@ -1865,7 +1865,7 @@
 25	a	o	DET	DA0FS0	_	27	det	_	Treeler:spec
 26	usuaria	usuario	ADJ	AQ0FS0	_	27	amod	_	Treeler:s.a
 27	traballadores	traballador	NOUN	NCMP000	_	23	nmod	_	Treeler:sn
-28	así	así	ADV	RG	_	30	det	_	Treeler:spec
+28	así	así	ADV	RG	_	30	advmod	_	Treeler:spec
 29	mesmo	mesmo	ADV	RG	_	28	advmod	_	Treeler:r
 30	diferentes	diferente	ADJ	AQ0CP0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 31	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
@@ -2082,7 +2082,7 @@
 20	atoparon	atopar	VERB	VMIS3P0	_	7	ccomp	_	Treeler:S
 21	se	se	PRON	PP3CN000	_	20	dep	_	Treeler:morfema.pronominal
 22	diferenzas	diferenza	NOUN	NCFP000	_	20	obj	_	Treeler:cd
-23	estatísticamente	estatístico	ADV	RG	_	24	det	_	Treeler:spec
+23	estatísticamente	estatístico	ADV	RG	_	24	advmod	_	Treeler:spec
 24	significativas	significativo	ADJ	AQ0FP0	_	22	amod	_	Treeler:s.a
 25	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
 26	función	función	NOUN	NCFS000	_	20	obl	_	Treeler:sn
@@ -2635,10 +2635,10 @@
 23	para	para	ADP	SPS00	_	25	case	_	Treeler:cc
 24	as	o	DET	DA0FP0	_	25	det	_	Treeler:spec
 25	economías	economía	NOUN	NCFP000	_	28	obl	_	Treeler:sn
-26	máis	máis	ADV	RG	_	27	det	_	Treeler:spec
+26	máis	máis	ADV	RG	_	27	advmod	_	Treeler:spec
 27	grandes	grande	ADJ	AQ0CP0	_	25	amod	_	Treeler:s.a
 28	resulta	resultar	VERB	VMIP3S0	_	21	ccomp	_	Treeler:S
-29	máis	máis	ADV	RG	_	30	det	_	Treeler:spec
+29	máis	máis	ADV	RG	_	30	advmod	_	Treeler:spec
 30	relevante	relevante	ADJ	AQ0CS0	_	28	xcomp	_	Treeler:cpred
 31	o	o	DET	DA0MS0	_	33	det	_	Treeler:spec
 32	que	que	PRON	PR0CN000	_	33	nsubj	_	Treeler:suj
@@ -2651,7 +2651,7 @@
 38	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 39	para	para	ADP	SPS00	_	44	case	_	Treeler:sp
 40	as	o	DET	DA0FP0	_	42	det	_	Treeler:spec
-41	máis	máis	ADV	RG	_	42	det	_	Treeler:spec
+41	máis	máis	ADV	RG	_	42	advmod	_	Treeler:spec
 42	pequenas	pequeno	ADJ	AQ0FP0	_	44	nmod	_	Treeler:sn
 43	o	o	DET	DA0MS0	_	44	det	_	Treeler:spec
 44	contrario	contrario	NOUN	NCMS000	_	15	nmod	_	SpaceAfter=No|Treeler:sn
@@ -2698,7 +2698,7 @@
 3-4	estendeuse	_	_	_	_	_	_	_	_
 3	estendeu	estender	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
 4	se	se	PRON	PP3CN000	_	3	dep	_	Treeler:morfema.pronominal
-5	máis	máis	ADV	RG	_	6	det	_	Treeler:spec
+5	máis	máis	ADV	RG	_	6	advmod	_	Treeler:spec
 6	aló	aló	ADV	RG	_	3	case	_	ToDo=case-upos|Treeler:cc
 7-8	da	_	_	_	_	_	_	_	_
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
@@ -2984,7 +2984,7 @@
 22	forma	forma	NOUN	NCFS000	_	20	obl	_	Treeler:sn
 23	exclusiva	exclusiva	NOUN	NCFS000	_	22	amod	_	SpaceAfter=No|Treeler:s.a
 24	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
-25	ben	ben	ADV	RG	_	26	det	_	Treeler:spec
+25	ben	ben	ADV	RG	_	26	advmod	_	Treeler:spec
 26	preferente	preferente	ADJ	AQ0CS0	_	22	amod	_	SpaceAfter=No|Treeler:s.a
 27	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 28	non	non	PART	RN	_	29	advmod	_	Treeler:mod
@@ -3083,7 +3083,7 @@
 1-2	Medíronse	_	_	_	_	_	_	_	_
 1	Mediron	medir	VERB	VMIS3P0	_	0	root	_	Treeler:sentence
 2	se	se	PRON	PP3CN000	_	1	dep	_	Treeler:morfema.pronominal
-3	máis	máis	ADV	RG	_	6	det	_	Treeler:spec
+3	máis	máis	ADV	RG	_	6	advmod	_	Treeler:spec
 4	de	de	ADP	SPS00	_	3	case	_	Treeler:s
 5	100	100	NUM	Z	_	3	nummod	_	Treeler:z
 6	decibelios	decibelio	NOUN	NCMP000	_	1	nsubj	_	Treeler:suj
@@ -3128,7 +3128,7 @@
 41	un	un	DET	DI0MS0	_	42	det	_	Treeler:spec
 42	nivel	nivel	NOUN	NCMS000	_	38	obl	_	Treeler:sn
 43	sonoro	sonoro	ADJ	AQ0MS0	_	42	amod	_	Treeler:s.a
-44	moi	moi	ADV	RG	_	45	det	_	Treeler:spec
+44	moi	moi	ADV	RG	_	45	advmod	_	Treeler:spec
 45	elevado	elevado	ADJ	AQ0MS0	_	42	amod	_	SpaceAfter=No|Treeler:s.a
 46	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -3490,7 +3490,7 @@
 10	son	ser	AUX	VSIP1S0	_	12	cop	_	Treeler:S
 11	cada	cada	DET	DI0NN0	_	12	det	_	Treeler:spec
 12	vez	vez	NOUN	NCFS000	_	7	ccomp	_	Treeler:atr
-13	máis	máis	ADV	RG	_	14	det	_	Treeler:spec
+13	máis	máis	ADV	RG	_	14	advmod	_	Treeler:spec
 14	importantes	importante	ADJ	AQ0CP0	_	12	amod	_	Treeler:s.a
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
 16	Galicia	galicia	PROPN	NP00000	_	12	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
@@ -3581,7 +3581,7 @@
 11	ou	ou	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 12	inexistente	inexistente	ADJ	AQ0CS0	_	10	dep	_	Treeler:grup.a
 13	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
-14	practicamente	practicamente	ADV	RG	_	15	det	_	Treeler:spec
+14	practicamente	practicamente	ADV	RG	_	15	advmod	_	Treeler:spec
 15	só	só	ADV	RG	_	16	case	_	ToDo=case-upos|Treeler:cc
 16	teñen	ter	VERB	VMIP3P0	_	10	ccomp	_	Treeler:S
 17	enfermidade	enfermidade	NOUN	NCFS000	_	16	obj	_	Treeler:cd
@@ -3891,7 +3891,7 @@
 17	sendo	ser	AUX	VSG0000	_	19	cop	_	Treeler:S
 18	esta	este	DET	DD0FS0	_	19	det	_	Treeler:spec
 19	asociación	asociación	NOUN	NCFS000	_	11	ccomp	_	Treeler:atr
-20	máis	máis	ADV	RG	_	21	det	_	Treeler:spec
+20	máis	máis	ADV	RG	_	21	advmod	_	Treeler:spec
 21	intensa	intenso	ADJ	AQ0FS0	_	19	amod	_	Treeler:s.a
 22	que	que	SCONJ	CS	_	24	mark	_	Treeler:conj
 23	a	o	DET	DA0FS0	_	24	det	_	Treeler:spec
@@ -4162,7 +4162,7 @@
 13	media	medio	ADJ	AQ0FS0	_	12	amod	_	Treeler:s.a
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	vida	vida	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
-16	lixeiramente	lixeiramente	ADV	RG	_	17	det	_	Treeler:spec
+16	lixeiramente	lixeiramente	ADV	RG	_	17	advmod	_	Treeler:spec
 17	superior	superior	ADJ	AQ0CS0	_	15	amod	_	Treeler:s.a
 18-19	ós	_	_	_	_	_	_	_	_
 18	a	a	ADP	SPS00	_	21	case	_	Treeler:sp
@@ -4790,7 +4790,7 @@
 12	casos	caso	NOUN	NCMP000	_	14	obl	_	Treeler:sn
 13	se	se	PRON	PP3CN000	_	14	obj	_	Treeler:cd
 14	denominan	denominar	VERB	VMIP3P0	_	5	ccomp	_	Treeler:S
-15	carcinóxenos	carcinóxenos	ADV	RG	_	16	det	_	Treeler:spec
+15	carcinóxenos	carcinóxenos	ADV	RG	_	16	advmod	_	Treeler:spec
 16	epixenéticos	epixenéticos	ADJ	AQ0MP0	_	14	xcomp	_	Treeler:cpred
 17	(	(	PUNCT	Fpa	_	19	punct	_	SpaceAfter=No|Treeler:f
 18	tamén	tamén	ADV	RG	_	19	case	_	Treeler:cc
@@ -5013,7 +5013,7 @@
 34	a	o	DET	DA0FS0	_	36	det	_	Treeler:spec
 35	súa	seu	DET	DP3FS0	_	36	det	_	Treeler:spec
 36	perspectiva	perspectiva	NOUN	NCFS000	_	28	case	_	ToDo=case-upos|Treeler:atr
-37	máis	máis	ADV	RG	_	38	det	_	Treeler:spec
+37	máis	máis	ADV	RG	_	38	advmod	_	Treeler:spec
 38	liberal	liberal	ADJ	AQ0CS0	_	36	amod	_	Treeler:s.a
 39	e	e	CCONJ	CC	_	38	cc	_	ToDo=cc-without-conj|Treeler:coord
 40	democrática	democrático	ADJ	AQ0FS0	_	38	dep	_	Treeler:grup.a
@@ -5428,7 +5428,7 @@
 4	as	o	DET	DA0FP0	_	6	det	_	Treeler:spec
 5	8.869	8.869	NUM	Z	_	4	nummod	_	Treeler:z
 6	empresas	empresa	NOUN	NCFP000	_	1	obj	_	Treeler:cd
-7	máis	máis	ADV	RG	_	8	det	_	Treeler:spec
+7	máis	máis	ADV	RG	_	8	advmod	_	Treeler:spec
 8	importantes	importante	ADJ	AQ0CP0	_	6	amod	_	Treeler:s.a
 9	con	con	ADP	SPS00	_	10	case	_	Treeler:sp
 10	sede	sede	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
@@ -5562,7 +5562,7 @@
 7	exceso	exceso	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	mortalidade	mortalidade	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
-10	estatísticamente	estatístico	ADV	RG	_	11	det	_	Treeler:spec
+10	estatísticamente	estatístico	ADV	RG	_	11	advmod	_	Treeler:spec
 11	significativo	significativo	ADJ	AQ0MS0	_	7	amod	_	SpaceAfter=No|Treeler:s.a
 12	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 13	aínda	aínda	ADV	RG	_	4	case	_	ToDo=case-upos|Treeler:cc
@@ -5881,7 +5881,7 @@
 28	formación	formación	NOUN	NCFS000	_	26	nmod	_	ToDo=nmod|Treeler:sn
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 30	xuizos	xuizos	NOUN	NCMP000	_	28	nmod	_	Treeler:sn
-31	máis	máis	ADV	RG	_	32	det	_	Treeler:spec
+31	máis	máis	ADV	RG	_	32	advmod	_	Treeler:spec
 32	complexos	complexo	ADJ	AQ0MP0	_	30	amod	_	SpaceAfter=No|Treeler:s.a
 33	.	.	PUNCT	Fp	_	13	punct	_	Treeler:f
 
@@ -6137,7 +6137,7 @@
 
 # sent_id = test-154
 # text = Así mesmo, os solicitantes deberán cubrir as autorizacións pertinentes ante o Banco de España para os efectos de comprobación de riscos, segundo o anexo II.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	7	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
@@ -6297,7 +6297,7 @@
 16	unha	un	DET	DI0FS0	_	21	det	_	Treeler:spec
 17	mellor	mellor	ADJ	AQ0CS0	_	21	amod	_	Treeler:s.a
 18	e	e	CCONJ	CC	_	17	cc	_	ToDo=cc-without-conj|Treeler:coord
-19	máis	máis	ADV	RG	_	20	det	_	Treeler:spec
+19	máis	máis	ADV	RG	_	20	advmod	_	Treeler:spec
 20	eficaz	eficaz	ADJ	AQ0CS0	_	17	amod	_	Treeler:s.a
 21	xestión	xestión	NOUN	NCFS000	_	15	obj	_	Treeler:cd
 22-23	dos	_	_	_	_	_	_	_	_
@@ -6432,7 +6432,7 @@
 1	Os	o	DET	DA0MP0	_	2	det	_	Treeler:spec
 2	pacientes	paciente	NOUN	NCMP000	_	5	nsubj	_	Treeler:suj
 3	foron	ser	AUX	VSIS3P0	_	5	cop	_	Treeler:sentence
-4	maioritariamente	maioritariamente	ADV	RG	_	5	det	_	Treeler:spec
+4	maioritariamente	maioritariamente	ADV	RG	_	5	advmod	_	Treeler:spec
 5	homes	home	NOUN	NCMP000	_	0	root	_	Treeler:atr
 6	(	(	PUNCT	Fpa	_	7	punct	_	SpaceAfter=No|Treeler:f
 7	64	64	NUM	Z	_	5	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
@@ -6580,7 +6580,7 @@
 36	causas	causa	NOUN	NCFP000	_	33	nmod	_	Treeler:sn
 37	de	de	ADP	SPS00	_	38	case	_	Treeler:sp
 38	mortalidade	mortalidade	NOUN	NCFS000	_	36	nmod	_	Treeler:sn
-39	máis	máis	ADV	RG	_	40	det	_	Treeler:spec
+39	máis	máis	ADV	RG	_	40	advmod	_	Treeler:spec
 40	importantes	importante	ADJ	AQ0CP0	_	36	amod	_	SpaceAfter=No|Treeler:s.a
 41	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -7216,7 +7216,7 @@
 
 # sent_id = test-180
 # text = Así mesmo, no que atinxe á actividade de investigación de accidentes de traballo e á xestión derivada desta, impulsarase, polos medios precisos, a relación institucional entre as autoridades laborais e as autoridades xudiciais.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	24	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 4-5	no	_	_	_	_	_	_	_	_
@@ -7267,7 +7267,7 @@
 
 # sent_id = test-181
 # text = Aínda hoxe, e por moitos séculos máis, Norteamérica é a nación da comunidade hispana, a comunidade irlandesa, a comunidade negra, a comunidade chinesa...
-1	Aínda	aínda	ADV	RG	_	2	det	_	Treeler:spec
+1	Aínda	aínda	ADV	RG	_	2	advmod	_	Treeler:spec
 2	hoxe	hoxe	ADV	RG	_	7	advmod	_	SpaceAfter=No|Treeler:sadv
 3	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 4	e	e	CCONJ	CC	_	2	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -7727,7 +7727,7 @@
 11	de	de	ADP	SPS00	_	16	case	_	Treeler:cc
 12	seu	seu	DET	DP3MS0	_	16	det	_	SpaceAfter=No|Treeler:spec
 13	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
-14	máis	máis	ADV	RG	_	15	det	_	Treeler:spec
+14	máis	máis	ADV	RG	_	15	advmod	_	Treeler:spec
 15	axeitada	axeitado	ADJ	AQ0FS0	_	16	amod	_	Treeler:s.a
 16	ás	á	NOUN	NCFP000	_	1	obj	_	Treeler:atr
 17	características	característica	NOUN	NCFP000	_	16	amod	_	Treeler:s.a
@@ -7788,7 +7788,7 @@
 10	broncoscópica	broncoscópica	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	invasión	invasión	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
-13	máis	máis	ADV	RG	_	14	det	_	Treeler:spec
+13	máis	máis	ADV	RG	_	14	advmod	_	Treeler:spec
 14	proximal	proximal	ADJ	AQ0CS0	_	12	amod	_	Treeler:s.a
 15	que	que	SCONJ	CS	_	18	mark	_	Treeler:conj
 16	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
@@ -7881,7 +7881,7 @@
 22	que	que	SCONJ	CS	_	26	mark	_	Treeler:conj
 23	todo	todo	DET	DI0MS0	_	26	nsubj	_	Treeler:suj
 24	é	ser	AUX	VSIP3S0	_	26	cop	_	Treeler:S
-25	infinitamente	infinitamente	ADV	RG	_	26	det	_	Treeler:spec
+25	infinitamente	infinitamente	ADV	RG	_	26	advmod	_	Treeler:spec
 26	sinxelo	sinxelo	ADJ	AQ0MS0	_	20	ccomp	_	SpaceAfter=No|Treeler:atr
 27	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 28	que	que	PRON	PR0CN000	_	30	nsubj	_	Treeler:suj
@@ -7953,7 +7953,7 @@
 11	un	un	DET	DI0MS0	_	12	det	_	Treeler:spec
 12	canguro	canguro	NOUN	NCMS000	_	9	nmod	_	SpaceAfter=No|Treeler:sn
 13	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
-14	tan	tan	ADV	RG	_	15	det	_	Treeler:spec
+14	tan	tan	ADV	RG	_	15	advmod	_	Treeler:spec
 15	habituais	habitual	ADJ	AQ0CP0	_	9	amod	_	Treeler:s.a
 16-17	no	_	_	_	_	_	_	_	_
 16	en	en	ADP	SPS00	_	19	case	_	Treeler:cc
@@ -7993,7 +7993,7 @@
 
 # sent_id = test-200
 # text = Moi probablemente, a futura Lei española de Investigación Biomédica abordará en extenso este tema, regulará e matizará estes aspectos.
-1	Moi	moi	ADV	RG	_	2	det	_	Treeler:spec
+1	Moi	moi	ADV	RG	_	2	advmod	_	Treeler:spec
 2	probablemente	probable	ADV	RG	_	11	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
@@ -8166,7 +8166,7 @@
 37	aquí	aquí	ADV	RG	_	36	case	_	Treeler:cc
 38	dende	dende	ADP	SPS00	_	43	case	_	Treeler:cc
 39	fai	facer	VERB	VMIP3S0	_	43	aux	_	Treeler:v
-40	máis	máis	ADV	RG	_	43	det	_	Treeler:spec
+40	máis	máis	ADV	RG	_	43	advmod	_	Treeler:spec
 41	de	de	ADP	SPS00	_	40	case	_	Treeler:s
 42	15	15	NUM	Z	_	40	nummod	_	Treeler:z
 43	anos	ano	NOUN	NCMP000	_	36	obl	_	SpaceAfter=No|Treeler:sn
@@ -8205,7 +8205,7 @@
 26	unha	un	DET	DI0FS0	_	27	det	_	Treeler:spec
 27	política	política	NOUN	NCFS000	_	25	obj	_	Treeler:cd
 28	enerxética	enerxético	ADJ	AQ0FS0	_	27	amod	_	Treeler:s.a
-29	máis	máis	ADV	RG	_	30	det	_	Treeler:spec
+29	máis	máis	ADV	RG	_	30	advmod	_	Treeler:spec
 30	sostible	sostible	ADJ	AQ0CS0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 31	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
@@ -8217,7 +8217,7 @@
 4	instalacións	instalación	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
 5	formulan	formular	VERB	VMIP3P0	_	1	ccomp	_	Treeler:S
 6	situacións	situación	NOUN	NCFP000	_	5	obj	_	Treeler:cd
-7	obxectivamente	obxectivamente	ADV	RG	_	8	det	_	Treeler:spec
+7	obxectivamente	obxectivamente	ADV	RG	_	8	advmod	_	Treeler:spec
 8	excepcionais	excepcional	ADJ	AQ0CP0	_	6	amod	_	Treeler:s.a
 9	durante	durante	ADP	SPS00	_	11	case	_	Treeler:cc
 10	o	o	DET	DA0MS0	_	11	det	_	Treeler:spec
@@ -8242,7 +8242,7 @@
 28	a	a	ADP	SPS00	_	27	obj	_	Treeler:cd
 29	unha	un	DET	DI0FS0	_	30	det	_	Treeler:spec
 30	asignación	asignación	NOUN	NCFS000	_	28	nmod	_	ToDo=nmod|Treeler:sn
-31	claramente	claramente	ADV	RG	_	32	det	_	Treeler:spec
+31	claramente	claramente	ADV	RG	_	32	advmod	_	Treeler:spec
 32	insuficiente	insuficiente	ADJ	AQ0CS0	_	30	amod	_	SpaceAfter=No|Treeler:s.a
 33	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -8389,7 +8389,7 @@
 16-17	das	_	_	_	_	_	_	_	_
 16	de	de	ADP	SPS00	_	20	case	_	Treeler:creg
 17	as	o	DET	DA0FP0	_	20	det	_	Treeler:spec
-18	relativamente	relativamente	ADV	RG	_	19	det	_	Treeler:spec
+18	relativamente	relativamente	ADV	RG	_	19	advmod	_	Treeler:spec
 19	boas	bo	ADJ	AQ0FP0	_	20	amod	_	Treeler:s.a
 20	expectativas	expectativa	NOUN	NCFP000	_	15	obl	_	Treeler:sn
 21-22	na	_	_	_	_	_	_	_	_
@@ -8418,7 +8418,7 @@
 42	os	o	DET	DA0MP0	_	43	det	_	Treeler:spec
 43	traballadores	traballador	NOUN	NCMP000	_	40	obl	_	Treeler:sn
 44	de	de	ADP	SPS00	_	47	case	_	Treeler:sp
-45	máis	máis	ADV	RG	_	46	det	_	Treeler:spec
+45	máis	máis	ADV	RG	_	46	advmod	_	Treeler:spec
 46	baixa	baixo	ADJ	AQ0FS0	_	47	amod	_	Treeler:s.a
 47	cualificación	cualificación	NOUN	NCFS000	_	43	nmod	_	SpaceAfter=No|Treeler:sn
 48	.	.	PUNCT	Fp	_	25	punct	_	Treeler:f
@@ -8993,7 +8993,7 @@
 17	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
 18	eran	ser	AUX	VSII3P0	_	19	cop	_	Treeler:S
 19	xente	xente	NOUN	NCFS000	_	15	ccomp	_	Treeler:atr
-20	moi	moi	ADV	RG	_	21	det	_	Treeler:spec
+20	moi	moi	ADV	RG	_	21	advmod	_	Treeler:spec
 21	aventureira	aventureiro	ADJ	AQ0FS0	_	19	amod	_	SpaceAfter=No|Treeler:s.a
 22	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -9124,7 +9124,7 @@
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
 2	as	o	DET	DA0FP0	_	3	det	_	Treeler:spec
 3	épocas	época	NOUN	NCFP000	_	6	obl	_	Treeler:sn
-4	máis	máis	ADV	RG	_	5	det	_	Treeler:spec
+4	máis	máis	ADV	RG	_	5	advmod	_	Treeler:spec
 5	chuviosas	chuvioso	ADJ	AQ0FP0	_	3	amod	_	Treeler:s.a
 6-7	agóchanse	_	_	_	_	_	_	_	_
 6	agochan	agochar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -9145,7 +9145,7 @@
 19	precipita	precipitar	VERB	VMIP3S0	_	15	ccomp	_	Treeler:S
 20	dende	dende	ADP	SPS00	_	25	case	_	Treeler:cc
 21	algo	algo	PRON	PI0CN000	_	22	dep	_	Treeler:p
-22	máis	máis	ADV	RG	_	25	det	_	Treeler:spec
+22	máis	máis	ADV	RG	_	25	advmod	_	Treeler:spec
 23	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 24	15	15	NUM	Z	_	22	nummod	_	Treeler:z
 25	m	m	NOUN	NCMS000	_	19	obl	_	SpaceAfter=No|Treeler:sn
@@ -9291,7 +9291,7 @@
 # text = Isto é particularmente patente cando as montañas se atopan próximas ao mar e cando as masas de aire conteñen unha elevada cantidade de humidade, tal e como lle sucede a boa parte das que arriban a Galicia dende o océano.
 1	Isto	isto	PRON	PD0CN000	_	4	nsubj	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
-3	particularmente	particular	ADV	RG	_	4	det	_	Treeler:spec
+3	particularmente	particular	ADV	RG	_	4	advmod	_	Treeler:spec
 4	patente	patente	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
 5	cando	cando	PRON	PR0CN000	_	9	nsubj	_	Treeler:suj
 6	as	o	DET	DA0FP0	_	7	det	_	Treeler:spec
@@ -9393,7 +9393,7 @@
 5	os	o	DET	DA0MP0	_	6	det	_	Treeler:spec
 6	colexios	colexio	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
 7	fixarán	fixar	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
-8	exclusivamente	exclusivamente	ADV	RG	_	9	det	_	Treeler:spec
+8	exclusivamente	exclusivamente	ADV	RG	_	9	advmod	_	Treeler:spec
 9	honorarios	honorario	ADJ	AQ0MP0	_	7	xcomp	_	Treeler:cpred
 10	orientativos	orientativos	ADJ	AQ0MP0	_	9	amod	_	SpaceAfter=No|Treeler:s.a
 11	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
@@ -9794,7 +9794,7 @@
 26	electrónico	electrónico	ADJ	AQ0MS0	_	25	amod	_	SpaceAfter=No|Treeler:s.a
 27	,	,	PUNCT	Fc	_	28	punct	_	Treeler:f
 28	existen	existir	VERB	VMIP3P0	_	16	ccomp	_	Treeler:S
-29	moi	moi	ADV	RG	_	30	det	_	Treeler:spec
+29	moi	moi	ADV	RG	_	30	advmod	_	Treeler:spec
 30	leves	leve	ADJ	AQ0CP0	_	31	amod	_	Treeler:s.a
 31	diferenzas	diferenza	NOUN	NCFP000	_	28	nsubj	_	Treeler:suj
 32	entre	entre	ADP	SPS00	_	35	case	_	Treeler:sp
@@ -9963,7 +9963,7 @@
 29	unha	un	DET	DI0FS0	_	30	det	_	Treeler:spec
 30	estratexia	estratexia	NOUN	NCFS000	_	24	obl	_	Treeler:sn
 31	innovadora	innovador	ADJ	AQ0FS0	_	30	amod	_	Treeler:s.a
-32	máis	máis	ADV	RG	_	33	det	_	Treeler:spec
+32	máis	máis	ADV	RG	_	33	advmod	_	Treeler:spec
 33	efectiva	efectivo	ADJ	AQ0FS0	_	30	amod	_	SpaceAfter=No|Treeler:s.a
 34	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -10305,7 +10305,7 @@
 8	impactos	impacto	NOUN	NCMP000	_	6	nmod	_	Treeler:sn
 9	ambientais	ambiental	ADJ	AQ0CP0	_	8	amod	_	Treeler:s.a
 10	é	ser	AUX	VSIP3S0	_	12	cop	_	Treeler:atr
-11	moito	moito	ADV	RG	_	12	det	_	Treeler:spec
+11	moito	moito	ADV	RG	_	12	advmod	_	Treeler:spec
 12	maior	maior	ADJ	AQ0CS0	_	2	xcomp	_	Treeler:atr
 13-14	có	_	_	_	_	_	_	_	_
 13	ca	ca	SCONJ	CS	_	15	mark	_	Treeler:conj
@@ -10396,7 +10396,7 @@
 25	súas	seu	DET	DP3FP0	_	26	det	_	Treeler:spec
 26	follas	folla	NOUN	NCFP000	_	29	nsubj	_	Treeler:suj
 27	son	ser	AUX	VSIP1S0	_	29	cop	_	Treeler:S
-28	menos	menos	ADV	RG	_	29	det	_	Treeler:spec
+28	menos	menos	ADV	RG	_	29	advmod	_	Treeler:spec
 29	grosas	groso	ADJ	AQ0FP0	_	7	ccomp	_	Treeler:atr
 30	e	e	CCONJ	CC	_	29	cc	_	ToDo=cc-without-conj|Treeler:coord
 31	espiñentas	espiñento	ADJ	AQ0FP0	_	29	dep	_	SpaceAfter=No|Treeler:grup.a
@@ -10716,7 +10716,7 @@
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 9	os	o	DET	DA0MP0	_	10	det	_	Treeler:spec
 10	sistemas	sistema	NOUN	NCMP000	_	7	nmod	_	Treeler:sn
-11	máis	máis	ADV	RG	_	12	det	_	Treeler:spec
+11	máis	máis	ADV	RG	_	12	advmod	_	Treeler:spec
 12	complexos	complexo	ADJ	AQ0MP0	_	10	amod	_	Treeler:s.a
 13	xera	xerar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 14	variacións	variación	NOUN	NCFP000	_	13	obj	_	Treeler:cd
@@ -10727,7 +10727,7 @@
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19	presenza	presenza	NOUN	NCFS000	_	17	nmod	_	Treeler:sn
 20	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
-21	até	até	ADV	RG	_	24	det	_	Treeler:spec
+21	até	até	ADV	RG	_	24	advmod	_	Treeler:spec
 22	case	case	ADV	RG	_	24	advmod	_	Treeler:sadv
 23	trinta	trinta	NUM	Z	_	24	nummod	_	Treeler:spec
 24	puntos	punto	NOUN	NCMP000	_	19	nmod	_	SpaceAfter=No|Treeler:sn
@@ -11123,7 +11123,7 @@
 14	economía	economía	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	exportación	exportación	NOUN	NCFS000	_	14	nmod	_	Treeler:sn
-17	máis	máis	ADV	RG	_	18	det	_	Treeler:spec
+17	máis	máis	ADV	RG	_	18	advmod	_	Treeler:spec
 18	potente	potente	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
 19-20	do	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
@@ -11460,7 +11460,7 @@
 2	de	de	ADP	SPS00	_	12	nsubj	_	Treeler:suj
 3	as	o	DET	DA0FP0	_	4	det	_	Treeler:spec
 4	lesións	lesión	NOUN	NCFP000	_	2	nmod	_	ToDo=nmod|Treeler:sn
-5	máis	máis	ADV	RG	_	6	det	_	Treeler:spec
+5	máis	máis	ADV	RG	_	6	advmod	_	Treeler:spec
 6	habituais	habitual	ADJ	AQ0CP0	_	4	amod	_	Treeler:s.a
 7-8	nos	_	_	_	_	_	_	_	_
 7	en	en	ADP	SPS00	_	9	case	_	Treeler:sp
@@ -11545,7 +11545,7 @@
 22	ecorexión	ecorexión	NOUN	NCFS000	_	18	nmod	_	Treeler:sn
 23	(	(	PUNCT	Fpa	_	24	punct	_	SpaceAfter=No|Treeler:f
 24	tema	tema	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
-25	xa	xa	ADV	RG	_	26	det	_	Treeler:spec
+25	xa	xa	ADV	RG	_	26	advmod	_	Treeler:spec
 26	vello	vello	ADJ	AQ0MS0	_	24	amod	_	SpaceAfter=No|Treeler:s.a
 27	)	)	PUNCT	Fpt	_	24	punct	_	Treeler:f
 28	a	a	ADP	SPS00	_	29	case	_	Treeler:cc
@@ -11769,7 +11769,7 @@
 14	practique	practicar	VERB	VMSP3S0	_	7	ccomp	_	Treeler:S
 15	unha	un	DET	DI0FS0	_	16	det	_	Treeler:spec
 16	pesca	pesca	NOUN	NCFS000	_	14	obj	_	Treeler:cd
-17	ecoloxicamente	ecoloxicamente	ADV	RG	_	18	det	_	Treeler:spec
+17	ecoloxicamente	ecoloxicamente	ADV	RG	_	18	advmod	_	Treeler:spec
 18	sustentábel	sustentábel	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
 19	e	e	CCONJ	CC	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	comprometida	comprometer	VERB	VMP00SF	_	18	ccomp	_	Treeler:S
@@ -12011,7 +12011,7 @@
 # text = As empresas máis tradicionais, incapaces de innovar, tenden a conformarse con reproducir o discurso das máis exitosas, tratando así de crear unha imaxe de modernidade e parecerse á moda.
 1	As	o	DET	DA0FP0	_	2	det	_	Treeler:spec
 2	empresas	empresa	NOUN	NCFP000	_	12	nsubj	_	Treeler:suj
-3	máis	máis	ADV	RG	_	4	det	_	Treeler:spec
+3	máis	máis	ADV	RG	_	4	advmod	_	Treeler:spec
 4	tradicionais	tradicional	ADJ	AQ0CP0	_	2	amod	_	SpaceAfter=No|Treeler:s.a
 5	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 6	incapaces	incapaz	ADJ	AQ0CP0	_	2	amod	_	Treeler:s.a
@@ -12030,7 +12030,7 @@
 18-19	das	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 19	as	o	DET	DA0FP0	_	21	det	_	Treeler:spec
-20	máis	máis	ADV	RG	_	21	det	_	Treeler:spec
+20	máis	máis	ADV	RG	_	21	advmod	_	Treeler:spec
 21	exitosas	exitosas	ADJ	AQ0FP0	_	17	nmod	_	SpaceAfter=No|Treeler:sn
 22	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 23	tratando	tratar	VERB	VMG0000	_	12	ccomp	_	Treeler:S
@@ -12618,11 +12618,11 @@
 22-23	considerouse	_	_	_	_	_	_	_	_
 22	considerou	considerar	VERB	VMIS3S0	_	6	ccomp	_	Treeler:S
 23	se	se	PRON	PP3CN000	_	22	dep	_	Treeler:morfema.pronominal
-24	máis	máis	ADV	RG	_	25	det	_	Treeler:spec
+24	máis	máis	ADV	RG	_	25	advmod	_	Treeler:spec
 25	axeitada	axeitado	ADJ	AQ0FS0	_	22	xcomp	_	Treeler:cpred
 26	unha	un	DET	DI0FS0	_	27	det	_	Treeler:spec
 27	normativa	normativa	NOUN	NCFS000	_	22	obj	_	Treeler:cd
-28	máis	máis	ADV	RG	_	29	det	_	Treeler:spec
+28	máis	máis	ADV	RG	_	29	advmod	_	Treeler:spec
 29	estricta	estricta	ADJ	AQ0FS0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 30	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -12970,7 +12970,7 @@
 10	grave	grave	ADJ	AQ0CS0	_	5	amod	_	Treeler:s.a
 11	ou	ou	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 12	mesmo	mesmo	DET	DI0MS0	_	14	det	_	Treeler:spec
-13	potencialmente	potencial	ADV	RG	_	14	det	_	Treeler:spec
+13	potencialmente	potencial	ADV	RG	_	14	advmod	_	Treeler:spec
 14	mortal	mortal	ADJ	AQ0CS0	_	5	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 16	evolucionando	evolucionar	VERB	VMG0000	_	2	ccomp	_	Treeler:S
@@ -12979,7 +12979,7 @@
 19	a	a	ADP	SPS00	_	16	obj	_	Treeler:cd
 20	unha	un	DET	DI0FS0	_	21	det	_	Treeler:spec
 21	enfermidade	enfermidade	NOUN	NCFS000	_	19	nmod	_	ToDo=nmod|Treeler:sn
-22	máis	máis	ADV	RG	_	23	det	_	Treeler:spec
+22	máis	máis	ADV	RG	_	23	advmod	_	Treeler:spec
 23	crónica	crónico	ADJ	AQ0FS0	_	21	amod	_	SpaceAfter=No|Treeler:s.a
 24	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
@@ -13052,7 +13052,7 @@
 11	cardíacas	cardíaco	ADJ	AQ0FP0	_	7	dep	_	Treeler:grup.a
 12	ou	ou	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
 13	varices	variz	NOUN	NCFP000	_	6	dep	_	Treeler:grup.nom
-14	moi	moi	ADV	RG	_	15	det	_	Treeler:spec
+14	moi	moi	ADV	RG	_	15	advmod	_	Treeler:spec
 15	desenvolvidas	desenvolvido	ADJ	AQ0FP0	_	13	amod	_	Treeler:s.a
 16	se	se	PRON	PP3CN000	_	17	obj	_	Treeler:cd
 17	pode	poder	VERB	VMIP3S0	_	0	root	_	SpaceAfter=No|Treeler:sentence
@@ -13429,7 +13429,7 @@
 
 # sent_id = test-339
 # text = Así mesmo, é de salientar a incorporación en Ourense de afluentes, como o Barbaña, que chegan moi contaminados procedentes do polígono de San Cibrao.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	é	ser	AUX	VSIP3S0	_	5	cop	_	Treeler:sentence
@@ -13520,7 +13520,7 @@
 14	máis	máis	ADV	RG	_	13	case	_	Treeler:cc
 15	forza	forza	NOUN	NCFS000	_	13	obj	_	Treeler:cd
 16	ou	ou	CCONJ	CC	_	7	cc	_	ToDo=cc-without-conj|Treeler:coord
-17	máis	máis	ADV	RG	_	18	det	_	Treeler:spec
+17	máis	máis	ADV	RG	_	18	advmod	_	Treeler:spec
 18	recurso	recurso	NOUN	NCMS000	_	7	nmod	_	Treeler:sn
 19	que	que	SCONJ	CS	_	21	mark	_	Treeler:conj
 20	o	o	DET	DA0MS0	_	21	det	_	Treeler:spec
@@ -13539,7 +13539,7 @@
 3	sexual	sexual	ADJ	AQ0CS0	_	2	amod	_	Treeler:s.a
 4	inapropiada	inapropiada	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
 5	é	ser	AUX	VSIP3S0	_	7	cop	_	Treeler:sentence
-6	pouco	pouco	ADV	RG	_	7	det	_	Treeler:spec
+6	pouco	pouco	ADV	RG	_	7	advmod	_	Treeler:spec
 7	común	común	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
 8	en	en	ADP	SPS00	_	9	case	_	Treeler:sp
 9	pacientes	paciente	NOUN	NCMP000	_	7	obl	_	Treeler:sn
@@ -13719,7 +13719,7 @@
 7	como	como	PRON	PR0CN000	_	14	obj	_	Treeler:cd
 8	a	o	DET	DA0FS0	_	9	det	_	Treeler:spec
 9	diminución	diminución	NOUN	NCFS000	_	14	nsubj	_	Treeler:suj
-10	máis	máis	ADV	RG	_	11	det	_	Treeler:spec
+10	máis	máis	ADV	RG	_	11	advmod	_	Treeler:spec
 11	significativa	significativo	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 13	precipitación	precipitación	NOUN	NCFS000	_	11	nmod	_	ToDo=nmod|Treeler:sn
@@ -13822,7 +13822,7 @@
 4	constitúen	constituír	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	base	base	NOUN	NCFS000	_	4	obj	_	Treeler:cd
-7	máis	máis	ADV	RG	_	8	det	_	Treeler:spec
+7	máis	máis	ADV	RG	_	8	advmod	_	Treeler:spec
 8	idónea	idóneo	ADJ	AQ0FS0	_	6	amod	_	Treeler:s.a
 9	para	para	ADP	SPS00	_	11	case	_	Treeler:sp
 10	a	o	DET	DA0FS0	_	11	det	_	Treeler:spec
@@ -14000,7 +14000,7 @@
 37	aprovisionamento	aprovisionamento	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
 38	a	a	ADP	SPS00	_	39	case	_	Treeler:sp
 39	prezos	prezo	NOUN	NCMP000	_	37	nmod	_	Treeler:sn
-40	artificialmente	artificial	ADV	RG	_	41	det	_	Treeler:spec
+40	artificialmente	artificial	ADV	RG	_	41	advmod	_	Treeler:spec
 41	baixos	baixo	ADJ	AQ0MP0	_	39	amod	_	SpaceAfter=No|Treeler:s.a
 42	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
@@ -14253,7 +14253,7 @@
 5	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 6	central	central	ADJ	AQ0CS0	_	4	dep	_	Treeler:grup.a
 7	están	estar	AUX	VMIP3P0	_	9	cop	_	Treeler:sentence
-8	tamén	tamén	ADV	RG	_	9	det	_	Treeler:spec
+8	tamén	tamén	ADV	RG	_	9	advmod	_	Treeler:spec
 9	suxeitas	suxeito	ADJ	AQ0FP0	_	0	root	_	Treeler:atr
 10	a	a	ADP	SPS00	_	12	case	_	Treeler:sp
 11	unha	un	DET	DI0FS0	_	12	det	_	Treeler:spec
@@ -14261,7 +14261,7 @@
 13	orzamentaria	orzamentario	ADJ	AQ0FS0	_	12	amod	_	Treeler:s.a
 14	cada	cada	DET	DI0NN0	_	15	det	_	Treeler:spec
 15	día	día	NOUN	NCMS000	_	12	nmod	_	Treeler:sn
-16	máis	máis	ADV	RG	_	17	det	_	Treeler:spec
+16	máis	máis	ADV	RG	_	17	advmod	_	Treeler:spec
 17	ríxida	ríxido	ADJ	AQ0FS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 18	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
 
@@ -15192,7 +15192,7 @@
 28	%	%	SYM	Ft	_	27	nmod	_	SpaceAfter=No|Treeler:sn
 29	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 30	porcentaxe	porcentaxe	NOUN	NCFS000	_	27	nmod	_	Treeler:sn
-31	netamente	netamente	ADV	RG	_	32	det	_	Treeler:spec
+31	netamente	netamente	ADV	RG	_	32	advmod	_	Treeler:spec
 32	superior	superior	ADJ	AQ0CS0	_	30	amod	_	Treeler:s.a
 33	ás	á	NOUN	NCFP000	_	30	nmod	_	Treeler:sn
 34	medias	medio	ADJ	AQ0FP0	_	33	amod	_	Treeler:s.a
@@ -15315,7 +15315,7 @@
 23-24	considerarse	_	_	_	_	_	_	_	_
 23	considerar	considerar	VERB	VMN0000	_	28	ccomp	_	Treeler:S
 24	se	se	PRON	PP3CN000	_	23	dep	_	Treeler:morfema.pronominal
-25	territorialmente	territorial	ADV	RG	_	26	det	_	Treeler:spec
+25	territorialmente	territorial	ADV	RG	_	26	advmod	_	Treeler:spec
 26	competente	competente	ADJ	AQ0CS0	_	23	xcomp	_	SpaceAfter=No|Treeler:cpred
 27	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 28	deberían	deber	VERB	VMIC3P0	_	29	aux	_	Treeler:v
@@ -15930,7 +15930,7 @@
 18	reunir	reunir	VERB	VMN0000	_	13	ccomp	_	Treeler:S
 19	os	o	DET	DA0MP0	_	20	det	_	Treeler:spec
 20	requisitos	requisito	NOUN	NCMP000	_	18	obj	_	Treeler:cd
-21	legalmente	legal	ADV	RG	_	22	det	_	Treeler:spec
+21	legalmente	legal	ADV	RG	_	22	advmod	_	Treeler:spec
 22	exixibles	exixible	ADJ	AQ0CP0	_	20	amod	_	Treeler:s.a
 23	para	para	ADP	SPS00	_	25	case	_	Treeler:cc
 24	a	o	DET	DA0FS0	_	25	det	_	Treeler:spec
@@ -15939,7 +15939,7 @@
 
 # sent_id = test-399
 # text = Así mesmo, destacaría unha máis ampla oferta de restauración e bares, que xunto coa restante oferta cultural e de ocio constitúen un importante estímulo para a afluencia de consumidores de áreas cercanas.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	4	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	destacaría	destacar	VERB	VMIC3S0	_	0	root	_	Treeler:sentence
@@ -16441,7 +16441,7 @@
 20	a	o	DET	DA0FS0	_	21	det	_	Treeler:spec
 21	historia	historia	NOUN	NCFS000	_	18	nmod	_	ToDo=nmod|Treeler:sn
 22	e	e	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
-23	máis	máis	ADV	RG	_	24	det	_	Treeler:spec
+23	máis	máis	ADV	RG	_	24	advmod	_	Treeler:spec
 24	aínda	aínda	ADV	RG	_	27	advmod	_	Treeler:sadv
 25-26	nos	_	_	_	_	_	_	_	_
 25	en	en	ADP	SPS00	_	27	case	_	Treeler:cc
@@ -16865,7 +16865,7 @@
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	servicios	servicio	NOUN	NCMP000	_	13	nmod	_	Treeler:sn
 17	é	ser	AUX	VSIP3S0	_	19	cop	_	Treeler:sentence
-18	tan	tan	ADV	RG	_	19	det	_	Treeler:spec
+18	tan	tan	ADV	RG	_	19	advmod	_	Treeler:spec
 19	intensa	intenso	ADJ	AQ0FS0	_	0	root	_	Treeler:atr
 20	que	que	SCONJ	CS	_	34	mark	_	Treeler:conj
 21	o	o	DET	DA0MS0	_	22	det	_	Treeler:spec
@@ -16961,7 +16961,7 @@
 9	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 10	pero	pero	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	as	o	DET	DA0FP0	_	13	det	_	Treeler:spec
-12	máis	máis	ADV	RG	_	13	det	_	Treeler:spec
+12	máis	máis	ADV	RG	_	13	advmod	_	Treeler:spec
 13	usuais	usual	ADJ	AQ0CP0	_	4	ccomp	_	Treeler:atr
 14	son	ser	VERB	VSIP1S0	_	13	xcomp	_	Treeler:S
 15	as	o	DET	DA0FP0	_	16	det	_	Treeler:spec
@@ -17152,7 +17152,7 @@
 4	síntomas	síntoma	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
 5	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 6	analíticas	analítica	NOUN	NCFP000	_	4	dep	_	Treeler:grup.nom
-7	moi	moi	ADV	RG	_	8	det	_	Treeler:spec
+7	moi	moi	ADV	RG	_	8	advmod	_	Treeler:spec
 8	suxestivos	suxestivo	ADJ	AQ0MP0	_	4	amod	_	Treeler:s.a
 9	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 10	FMF	fmf	PROPN	NP00000	_	4	nmod	_	Treeler:sn
@@ -17599,7 +17599,7 @@
 10	aforro	aforro	NOUN	NCMS000	_	8	obj	_	Treeler:cd
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	enerxía	enerxía	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
-13	aínda	aínda	ADV	RG	_	14	det	_	Treeler:spec
+13	aínda	aínda	ADV	RG	_	14	advmod	_	Treeler:spec
 14	maior	maior	ADJ	AQ0CS0	_	12	amod	_	Treeler:s.a
 15	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 16	poden	poder	VERB	VMIP3P0	_	18	aux	_	Treeler:v
@@ -17736,7 +17736,7 @@
 25	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 26	residuos	residuo	NOUN	NCMP000	_	24	nmod	_	Treeler:sn
 27	é	ser	AUX	VSIP3S0	_	29	cop	_	Treeler:cd
-28	inversamente	inversamente	ADV	RG	_	29	det	_	Treeler:spec
+28	inversamente	inversamente	ADV	RG	_	29	advmod	_	Treeler:spec
 29	proporcional	proporcional	ADJ	AQ0CS0	_	18	obj	_	Treeler:atr
 30-31	ó	_	_	_	_	_	_	_	_
 30	a	a	ADP	SPS00	_	32	case	_	Treeler:sp
@@ -17865,7 +17865,7 @@
 29	sitio	sitio	NOUN	NCMS000	_	24	nmod	_	Treeler:sn
 30	para	para	ADP	SPS00	_	34	case	_	Treeler:sp
 31	a	o	DET	DA0FS0	_	34	det	_	Treeler:spec
-32	máis	máis	ADV	RG	_	33	det	_	Treeler:spec
+32	máis	máis	ADV	RG	_	33	advmod	_	Treeler:spec
 33	mínima	mínimo	ADJ	AQ0FS0	_	34	amod	_	Treeler:s.a
 34	crítica	crítica	NOUN	NCFS000	_	29	nmod	_	SpaceAfter=No|Treeler:sn
 35	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
@@ -18239,7 +18239,7 @@
 18	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 19	a	o	DET	DA0FS0	_	20	det	_	Treeler:spec
 20	porcentaxe	porcentaxe	NOUN	NCFS000	_	6	obl	_	Treeler:sn
-21	máis	máis	ADV	RG	_	22	det	_	Treeler:spec
+21	máis	máis	ADV	RG	_	22	advmod	_	Treeler:spec
 22	baixa	baixo	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
 23	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 24	todas	todo	DET	DI0FP0	_	25	det	_	Treeler:d
@@ -18602,7 +18602,7 @@
 21	circuíto	circuíto	NOUN	NCMS000	_	19	nsubj	_	Treeler:suj
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
 23	derivación	derivación	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
-24	ben	ben	ADV	RG	_	25	det	_	Treeler:spec
+24	ben	ben	ADV	RG	_	25	advmod	_	Treeler:spec
 25	definido	definido	ADJ	AQ0MS0	_	21	amod	_	SpaceAfter=No|Treeler:s.a
 26	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 27	estable	estable	ADJ	AQ0CS0	_	25	dep	_	Treeler:grup.a
@@ -18949,7 +18949,7 @@
 5	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
 7	técnica	técnica	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
-8	máis	máis	ADV	RG	_	9	det	_	Treeler:spec
+8	máis	máis	ADV	RG	_	9	advmod	_	Treeler:spec
 9	adecuada	adecuado	ADJ	AQ0FS0	_	7	amod	_	Treeler:s.a
 10	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	ante	ante	ADP	SPS00	_	13	case	_	Treeler:cc
@@ -19036,7 +19036,7 @@
 3	súa	seu	DET	DP3FS0	_	4	det	_	Treeler:spec
 4	obra	obra	NOUN	NCFS000	_	16	obl	_	Treeler:sn
 5	doutrinal	doutrinal	ADJ	AQ0CS0	_	4	amod	_	Treeler:s.a
-6	máis	máis	ADV	RG	_	7	det	_	Treeler:spec
+6	máis	máis	ADV	RG	_	7	advmod	_	Treeler:spec
 7	relevante	relevante	ADJ	AQ0CS0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 8	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 9	El	el	PRON	PP3MS000	_	10	det	_	Treeler:spec
@@ -19489,7 +19489,7 @@
 25	desempeñar	desempeñar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 26	un	un	DET	DI0MS0	_	27	det	_	Treeler:spec
 27	papel	papel	NOUN	NCMS000	_	25	obj	_	Treeler:cd
-28	máis	máis	ADV	RG	_	29	det	_	Treeler:spec
+28	máis	máis	ADV	RG	_	29	advmod	_	Treeler:spec
 29	activo	activo	ADJ	AQ0MS0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 30	,	,	PUNCT	Fc	_	36	punct	_	Treeler:f
 31	como	como	PRON	PR0CN000	_	36	dep	_	Treeler:relatiu
@@ -19503,7 +19503,7 @@
 
 # sent_id = test-485
 # text = Tan só nos últimos anos cabería relacionar este dato co avellentamento da poboación, debido ós baixos niveis de fecundidade rexistrados nas recentes décadas.
-1	Tan	tan	ADV	RG	_	2	det	_	Treeler:spec
+1	Tan	tan	ADV	RG	_	2	advmod	_	Treeler:spec
 2	só	só	ADV	RG	_	6	advmod	_	Treeler:sadv
 3-4	nos	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
@@ -19568,7 +19568,7 @@
 24	contaminantes	contaminante	ADJ	AQ0CP0	_	23	amod	_	Treeler:s.a
 25	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 26	son	ser	AUX	VSIP1S0	_	28	cop	_	Treeler:S
-27	ambientalmente	ambiental	ADV	RG	_	28	det	_	Treeler:spec
+27	ambientalmente	ambiental	ADV	RG	_	28	advmod	_	Treeler:spec
 28	daniñas	daniño	ADJ	AQ0FP0	_	8	ccomp	_	Treeler:atr
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 30	diversas	diverso	ADJ	AQ0FP0	_	31	amod	_	Treeler:s.a
@@ -19667,7 +19667,7 @@
 21	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
 22	os	o	DET	DA0MP0	_	23	det	_	Treeler:spec
 23	aspectos	aspecto	NOUN	NCMP000	_	20	nmod	_	Treeler:sn
-24	máis	máis	ADV	RG	_	25	det	_	Treeler:spec
+24	máis	máis	ADV	RG	_	25	advmod	_	Treeler:spec
 25	sensibles	sensible	ADJ	AQ0CP0	_	23	amod	_	Treeler:s.a
 26	e	e	CCONJ	CC	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
 27	valorando	valorar	VERB	VMG0000	_	18	ccomp	_	SpaceAfter=No|Treeler:S
@@ -19707,7 +19707,7 @@
 14	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 15	que	que	SCONJ	CS	_	20	mark	_	Treeler:conj
 16	políticas	política	NOUN	NCFP000	_	20	nsubj	_	Treeler:suj
-17	aparentemente	aparente	ADV	RG	_	19	det	_	Treeler:spec
+17	aparentemente	aparente	ADV	RG	_	19	advmod	_	Treeler:spec
 18	non	non	PART	RN	Polarity=Neg	19	advmod	_	Treeler:neg
 19	discriminatorias	discriminatorio	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
 20	teñan	ter	VERB	VMSP3P0	_	13	ccomp	_	Treeler:S
@@ -19771,12 +19771,12 @@
 14	ten	ter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 15	un	un	DET	DI0MS0	_	16	det	_	Treeler:spec
 16	interese	interese	NOUN	NCMS000	_	14	obj	_	Treeler:cd
-17	exclusivamente	exclusivamente	ADV	RG	_	18	det	_	Treeler:spec
+17	exclusivamente	exclusivamente	ADV	RG	_	18	advmod	_	Treeler:spec
 18	anticuario	anticuario	NOUN	NCMS000	_	16	nmod	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 20	non	non	PART	RN	_	23	advmod	_	Treeler:mod
 21	é	ser	AUX	VSIP3S0	_	23	cop	_	Treeler:S
-22	algo	algo	ADV	RG	_	23	det	_	Treeler:spec
+22	algo	algo	ADV	RG	_	23	advmod	_	Treeler:spec
 23	pertencente	pertencente	ADJ	AQ0CS0	_	14	ccomp	_	Treeler:atr
 24	a	a	ADP	SPS00	_	26	case	_	Treeler:sp
 25	un	un	DET	DI0MS0	_	26	det	_	Treeler:spec
@@ -19872,7 +19872,7 @@
 
 # sent_id = test-495
 # text = Agora ben, o establecemento destes acordos non exime da aparición de problemas e de conflictos entrámbalas dúas partes.
-1	Agora	agora	ADV	RG	_	2	det	_	Treeler:spec
+1	Agora	agora	ADV	RG	_	2	advmod	_	Treeler:spec
 2	ben	ben	ADV	RG	_	10	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	o	o	DET	DA0MS0	_	5	det	_	Treeler:spec
@@ -20278,7 +20278,7 @@
 12	a	o	DET	DA0FS0	_	13	det	_	Treeler:spec
 13	demanda	demanda	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 14	interna	interno	ADJ	AQ0FS0	_	13	amod	_	Treeler:s.a
-15	máis	máis	ADV	RG	_	16	det	_	Treeler:spec
+15	máis	máis	ADV	RG	_	16	advmod	_	Treeler:spec
 16	relevantes	relevante	ADJ	AQ0CP0	_	10	amod	_	Treeler:s.a
 17	para	para	ADP	SPS00	_	18	case	_	Treeler:sp
 18	predicir	predicir	VERB	VMN0000	_	16	ccomp	_	Treeler:S
@@ -20663,7 +20663,7 @@
 8	poboación	poboación	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
 9	pobre	pobre	ADJ	AQ0CS0	_	8	amod	_	Treeler:s.a
 10	son	ser	AUX	VSIP1S0	_	12	cop	_	Treeler:sentence
-11	máis	máis	ADV	RG	_	12	det	_	Treeler:spec
+11	máis	máis	ADV	RG	_	12	advmod	_	Treeler:spec
 12	pequenas	pequeno	ADJ	AQ0FP0	_	0	root	_	Treeler:atr
 13	pois	pois	SCONJ	CS	_	14	mark	_	Treeler:conj
 14	dispoñen	dispoñer	VERB	VMIP3P0	_	12	case	_	ToDo=case-upos|Treeler:cc
@@ -20676,7 +20676,7 @@
 20	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 21	tres	tres	NOUN	NCMS000	_	19	nmod	_	Treeler:sn
 22	ou	ou	CCONJ	CC	_	12	cc	_	ToDo=cc-without-conj|Treeler:coord
-23	menos	menos	ADV	RG	_	24	det	_	Treeler:spec
+23	menos	menos	ADV	RG	_	24	advmod	_	Treeler:spec
 24	cuartosxxi	cuartosxxi	NUM	Z	_	22	nmod	_	ToDo=case-upos|Treeler:s
 25	(	(	PUNCT	Fpa	_	26	punct	_	SpaceAfter=No|Treeler:f
 26	fronte	fronte	NOUN	NCFS000	_	24	nmod	_	Treeler:sn
@@ -20917,7 +20917,7 @@
 3	comenta	comentar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	se	se	PRON	PP3CN000	_	3	dep	_	Treeler:morfema.pronominal
 5	o	o	DET	DA0MS0	_	7	det	_	Treeler:spec
-6	máis	máis	ADV	RG	_	7	det	_	Treeler:spec
+6	máis	máis	ADV	RG	_	7	advmod	_	Treeler:spec
 7	salientable	salientable	ADJ	AQ0CS0	_	3	xcomp	_	Treeler:cpred
 8-9	do	_	_	_	_	_	_	_	_
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
@@ -20929,7 +20929,7 @@
 13	enfermidades	enfermidade	NOUN	NCFP000	_	10	nmod	_	Treeler:sn
 14	vixiadas	vixiar	VERB	VMP00PF	_	13	ccomp	_	Treeler:S
 15	durante	durante	ADP	SPS00	_	14	case	_	Treeler:cc
-16	2005,mais	2005,mais	ADV	RG	_	17	det	_	Treeler:spec
+16	2005,mais	2005,mais	ADV	RG	_	17	advmod	_	Treeler:spec
 17	antes	antes	ADV	RG	_	18	case	_	ToDo=case-upos|Treeler:cc
 18-19	analízase	_	_	_	_	_	_	_	_
 18	analiza	analizar	VERB	VMIP3S0	_	3	ccomp	_	Treeler:S
@@ -20973,7 +20973,7 @@
 23	organizacións	organización	NOUN	NCFP000	_	27	nsubj	_	Treeler:suj
 24	bancarias	bancario	ADJ	AQ0FP0	_	23	amod	_	Treeler:s.a
 25	son	ser	AUX	VSIP1S0	_	27	cop	_	Treeler:cd
-26	agora	agora	ADV	RG	_	27	det	_	Treeler:spec
+26	agora	agora	ADV	RG	_	27	advmod	_	Treeler:spec
 27	capaces	capaz	ADJ	AQ0CP0	_	18	obj	_	Treeler:atr
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 29	aproveitar	aproveitar	VERB	VMN0000	_	27	ccomp	_	Treeler:S
@@ -21464,7 +21464,7 @@
 
 # sent_id = test-534
 # text = Aínda así, datos da sinistralidade laboral rexistrada en Galiza nos últimos seis anos (2000-2005) revelan un dato preocupante, o número de mulleres que padeceron algún accidente laboral incrementouse nun 30,58%.
-1	Aínda	aínda	ADV	RG	_	2	det	_	Treeler:spec
+1	Aínda	aínda	ADV	RG	_	2	advmod	_	Treeler:spec
 2	así	así	ADV	RG	_	20	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	datos	dato	NOUN	NCMP000	_	20	nsubj	_	Treeler:suj
@@ -21525,7 +21525,7 @@
 12	construción	construción	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
 13	e	e	CCONJ	CC	_	4	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
-15	máis	máis	ADV	RG	_	16	det	_	Treeler:spec
+15	máis	máis	ADV	RG	_	16	advmod	_	Treeler:spec
 16	tarde	tarde	ADV	RG	_	19	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 17	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 18	foron	ser	VERB	VSIS3P0	_	19	aux	_	Treeler:v
@@ -21661,7 +21661,7 @@
 11	autocontrol	autocontrol	NOUN	NCMS000	_	7	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 12	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 13	resultan	resultar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-14	moi	moi	ADV	RG	_	15	det	_	Treeler:spec
+14	moi	moi	ADV	RG	_	15	advmod	_	Treeler:spec
 15	útiles	útil	ADJ	AQ0CP0	_	13	xcomp	_	Treeler:cpred
 16	para	para	ADP	SPS00	_	18	case	_	Treeler:sp
 17	os	o	DET	DA0MP0	_	18	det	_	Treeler:spec
@@ -22101,7 +22101,7 @@
 35	onde	onde	PRON	PR0CN000	_	36	nsubj	_	Treeler:suj
 36	aparecen	aparecer	VERB	VMIP3P0	_	29	ccomp	_	Treeler:S
 37	especies	especie	NOUN	NCFP000	_	36	nsubj	_	Treeler:suj
-38	tipicamente	tipicamente	ADV	RG	_	39	det	_	Treeler:spec
+38	tipicamente	tipicamente	ADV	RG	_	39	advmod	_	Treeler:spec
 39	centroeuropeas	centroeuropeo	ADJ	AQ0FP0	_	37	amod	_	SpaceAfter=No|Treeler:s.a
 40	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -22113,7 +22113,7 @@
 3	a	a	ADP	SPS00	_	2	iobj	_	Treeler:ci
 4	o	o	DET	DA0MS0	_	5	det	_	Treeler:spec
 5	perfil	perfil	NOUN	NCMS000	_	3	nmod	_	ToDo=nmod|Treeler:sn
-6	máis	máis	ADV	RG	_	7	det	_	Treeler:spec
+6	máis	máis	ADV	RG	_	7	advmod	_	Treeler:spec
 7	probables	probable	ADJ	AQ0CP0	_	8	amod	_	Treeler:s.a
 8	destos	destos	NOUN	NCMP000	_	3	nmod	_	ToDo=nmod|Treeler:sn
 9	destinatarios	destinatario	NOUN	NCMP000	_	8	amod	_	Treeler:s.a
@@ -22741,7 +22741,7 @@
 10	aínda	aínda	ADV	RG	_	17	advmod	_	Treeler:sadv
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	xeito	xeito	NOUN	NCMS000	_	10	obl	_	Treeler:sn
-13	máis	máis	ADV	RG	_	14	det	_	Treeler:spec
+13	máis	máis	ADV	RG	_	14	advmod	_	Treeler:spec
 14	drástico	drástico	ADJ	AQ0MS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 16	a	o	DET	DA0FS0	_	17	det	_	Treeler:spec
@@ -23020,7 +23020,7 @@
 8	constitúe	constituír	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 9	o	o	DET	DA0MS0	_	10	det	_	Treeler:spec
 10	exemplo	exemplo	NOUN	NCMS000	_	8	obj	_	Treeler:cd
-11	máis	máis	ADV	RG	_	12	det	_	Treeler:spec
+11	máis	máis	ADV	RG	_	12	advmod	_	Treeler:spec
 12	claro	claro	ADJ	AQ0MS0	_	10	amod	_	Treeler:s.a
 13	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 14	como	como	SCONJ	CS	_	22	mark	_	Treeler:conj
@@ -23037,7 +23037,7 @@
 25	a	a	ADP	SPS00	_	27	case	_	Treeler:sp
 26	un	un	DET	DI0MS0	_	27	det	_	Treeler:spec
 27	contexto	contexto	NOUN	NCMS000	_	24	nmod	_	Treeler:sn
-28	máis	máis	ADV	RG	_	29	det	_	Treeler:spec
+28	máis	máis	ADV	RG	_	29	advmod	_	Treeler:spec
 29	amplo	amplo	ADJ	AQ0MS0	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 30	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 31-32	neste	_	_	_	_	_	_	_	_
@@ -23386,7 +23386,7 @@
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
 35	o	o	DET	DA0MS0	_	36	det	_	Treeler:spec
 36	futuro	futuro	NOUN	NCMS000	_	31	obl	_	Treeler:sn
-37	máis	máis	ADV	RG	_	38	det	_	Treeler:spec
+37	máis	máis	ADV	RG	_	38	advmod	_	Treeler:spec
 38	inmediato	inmediato	ADJ	AQ0MS0	_	36	amod	_	SpaceAfter=No|Treeler:s.a
 39	.	.	PUNCT	Fp	_	20	punct	_	Treeler:f
 
@@ -24252,7 +24252,7 @@
 7	variables	variable	NOUN	NCFP000	_	47	nsubj	_	Treeler:suj
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	carácter	carácter	NOUN	NCMS000	_	7	nmod	_	Treeler:sn
-10	máis	máis	ADV	RG	_	11	det	_	Treeler:spec
+10	máis	máis	ADV	RG	_	11	advmod	_	Treeler:spec
 11	económico	económico	ADJ	AQ0MS0	_	9	amod	_	Treeler:s.a
 12	como	como	SCONJ	CS	_	7	case	_	ToDo=case-upos|Treeler:sp
 13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
@@ -24369,7 +24369,7 @@
 35	Estado	estado	NOUN	NCMS000	_	28	nmod	_	Treeler:sn
 36	membro	membro	NOUN	NCMS000	_	35	amod	_	Treeler:s.a
 37	sexan	ser	AUX	VSSP3P0	_	39	cop	_	Treeler:S
-38	mellor	mellor	ADV	RG	_	39	det	_	Treeler:spec
+38	mellor	mellor	ADV	RG	_	39	advmod	_	Treeler:spec
 39	coñecidas	coñecido	ADJ	AQ0FP0	_	4	ccomp	_	Treeler:atr
 40-41	polos	_	_	_	_	_	_	_	_
 40	por	por	ADP	SPS00	_	43	case	_	Treeler:cc
@@ -24770,7 +24770,7 @@
 20	17	17	NUM	Z	_	18	nummod	_	Treeler:spec
 21	anos	ano	NOUN	NCMP000	_	18	nmod	_	Treeler:sn
 22	por	por	ADP	SPS00	_	21	case	_	Treeler:sp
-23	tan	tan	ADV	RG	_	24	det	_	Treeler:spec
+23	tan	tan	ADV	RG	_	24	advmod	_	Treeler:spec
 24	só	só	ADV	RG	_	18	advmod	_	Treeler:sadv
 25	un	un	DET	DI0MS0	_	26	det	_	Treeler:spec
 26	1,1	1,1	NUM	Z	_	18	nmod	_	SpaceAfter=No|Treeler:sn
@@ -24779,7 +24779,7 @@
 29	o	o	PRON	PP3MSA00	_	30	obj	_	Treeler:cd
 30	iniciou	iniciar	VERB	VMIS3S0	_	26	ccomp	_	Treeler:S
 31	con	con	ADP	SPS00	_	35	case	_	Treeler:cc
-32	máis	máis	ADV	RG	_	35	det	_	Treeler:spec
+32	máis	máis	ADV	RG	_	35	advmod	_	Treeler:spec
 33	de	de	ADP	SPS00	_	32	case	_	Treeler:s
 34	23	23	NUM	Z	_	32	nummod	_	Treeler:z
 35	anos	ano	NOUN	NCMP000	_	30	obl	_	Treeler:sn
@@ -25172,10 +25172,10 @@
 2	xeral	xeral	ADJ	AQ0CS0	_	6	amod	_	SpaceAfter=No|Treeler:s.a
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	son	ser	AUX	VSIP1S0	_	6	cop	_	Treeler:sentence
-5	máis	máis	ADV	RG	_	6	det	_	Treeler:spec
+5	máis	máis	ADV	RG	_	6	advmod	_	Treeler:spec
 6	rápidos	rápido	ADJ	AQ0MP0	_	0	root	_	Treeler:atr
 7	e	e	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
-8	menos	menos	ADV	RG	_	9	det	_	Treeler:spec
+8	menos	menos	ADV	RG	_	9	advmod	_	Treeler:spec
 9	custosos	custoso	ADJ	AQ0MP0	_	6	amod	_	Treeler:s.a
 10	ca	ca	SCONJ	CS	_	12	mark	_	Treeler:conj
 11	os	o	DET	DA0MP0	_	12	det	_	Treeler:spec
@@ -25636,7 +25636,7 @@
 2	poboacións	poboación	NOUN	NCFP000	_	6	nsubj	_	Treeler:suj
 3	europeas	europeo	ADJ	AQ0FP0	_	2	amod	_	Treeler:s.a
 4	son	ser	AUX	VSIP1S0	_	6	cop	_	Treeler:sentence
-5	bastante	bastante	ADV	RG	_	6	det	_	Treeler:spec
+5	bastante	bastante	ADV	RG	_	6	advmod	_	Treeler:spec
 6	homoxéneas	homoxéneo	ADJ	AQ0FP0	_	0	root	_	Treeler:atr
 7	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 8	canto	canto	DET	DI0MS0	_	9	det	_	Treeler:spec
@@ -25800,7 +25800,7 @@
 21	lles	lle	PRON	PP3CPD00	_	20	iobj	_	Treeler:ci
 22	un	un	DET	DI0MS0	_	23	det	_	Treeler:spec
 23	carácter	carácter	NOUN	NCMS000	_	20	obj	_	Treeler:cd
-24	rigorosamente	rigorosamente	ADV	RG	_	25	det	_	Treeler:spec
+24	rigorosamente	rigorosamente	ADV	RG	_	25	advmod	_	Treeler:spec
 25	excepcional	excepcional	ADJ	AQ0CS0	_	23	amod	_	Treeler:s.a
 26	e	e	CCONJ	CC	_	20	cc	_	ToDo=cc-without-conj|Treeler:coord
 27-28	vinculándoo	_	_	_	_	_	_	_	_
@@ -25938,7 +25938,7 @@
 12	retención	retención	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 13	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 14	sedimentos	sedimento	NOUN	NCMP000	_	12	nmod	_	Treeler:sn
-15	moi	moi	ADV	RG	_	16	det	_	Treeler:spec
+15	moi	moi	ADV	RG	_	16	advmod	_	Treeler:spec
 16	elevada	elevado	ADJ	AQ0FS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 17	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 18-19	ó	_	_	_	_	_	_	_	_
@@ -25947,11 +25947,11 @@
 20	teren	ter	VERB	VMN03P0	_	6	ccomp	_	Treeler:S
 21	unha	un	DET	DI0FS0	_	22	det	_	Treeler:spec
 22	pendente	pendente	NOUN	NCCS000	_	20	obj	_	Treeler:cd
-23	moi	moi	ADV	RG	_	24	det	_	Treeler:spec
+23	moi	moi	ADV	RG	_	24	advmod	_	Treeler:spec
 24	pequena	pequeno	ADJ	AQ0FS0	_	22	amod	_	Treeler:s.a
 25	e	e	CCONJ	CC	_	24	cc	_	ToDo=cc-without-conj|Treeler:coord
 26	solos	solo	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
-27	moi	moi	ADV	RG	_	28	det	_	Treeler:spec
+27	moi	moi	ADV	RG	_	28	advmod	_	Treeler:spec
 28	permeables	permeable	ADJ	AQ0CP0	_	26	amod	_	Treeler:s.a
 29	(	(	PUNCT	Fpa	_	30	punct	_	SpaceAfter=No|Treeler:f
 30	Pinay	pinay	PROPN	NP00000	_	22	nmod	_	Treeler:sn
@@ -26233,7 +26233,7 @@
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	caída	caída	NOUN	NCFS000	_	19	nsubj	_	Treeler:suj
-7	máis	máis	ADV	RG	_	8	det	_	Treeler:spec
+7	máis	máis	ADV	RG	_	8	advmod	_	Treeler:spec
 8	importante	importante	ADJ	AQ0CS0	_	6	amod	_	SpaceAfter=No|Treeler:s.a
 9	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 10	tanto	tanto	ADV	RG	_	12	cc	_	Treeler:coord
@@ -26270,7 +26270,7 @@
 
 # sent_id = test-650
 # text = Alí si, entón, será posíbel non só o dereito á alimentación, senón tamén a maioría dos dereitos humanos que, por agora, sofren de profunda invisibilidade para os fillos da terra usurpados dende hai máis de cinco séculos.
-1	Alí	alí	ADV	RG	_	2	det	_	Treeler:spec
+1	Alí	alí	ADV	RG	_	2	advmod	_	Treeler:spec
 2	si	si	ADV	RG	_	7	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 4	entón	entón	ADV	RG	_	7	advmod	_	SpaceAfter=No|Treeler:mod
@@ -26464,7 +26464,7 @@
 9	mellora	mellora	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
 10	pode	poder	VERB	VMIP3S0	_	13	aux	_	Treeler:v
 11	ser	ser	AUX	VSN0000	_	13	cop	_	Treeler:sentence
-12	moi	moi	ADV	RG	_	13	det	_	Treeler:spec
+12	moi	moi	ADV	RG	_	13	advmod	_	Treeler:spec
 13	variable	variable	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 15	xa	xa	ADV	RG	_	13	case	_	ToDo=case-upos|Treeler:cc
@@ -27757,7 +27757,7 @@
 # text = Os movementos máis salientábeis no sur de América xa hai tempo que deixaron de ser militares, igual que hai xa tempo que o político vai detrás do social.
 1	Os	o	DET	DA0MP0	_	2	det	_	Treeler:spec
 2	movementos	movemento	NOUN	NCMP000	_	11	nsubj	_	Treeler:suj
-3	máis	máis	ADV	RG	_	4	det	_	Treeler:spec
+3	máis	máis	ADV	RG	_	4	advmod	_	Treeler:spec
 4	salientábeis	salientábel	ADJ	AQ0CP0	_	2	amod	_	Treeler:s.a
 5-6	no	_	_	_	_	_	_	_	_
 5	en	en	ADP	SPS00	_	7	case	_	Treeler:sp
@@ -27820,7 +27820,7 @@
 26	_	_	PUNCT	Fz	_	28	punct	_	SpaceAfter=No|Treeler:f
 27	a	o	DET	DA0FS0	_	28	det	_	Treeler:spec
 28	formulación	formulación	NOUN	NCFS000	_	25	obj	_	Treeler:cd
-29	máis	máis	ADV	RG	_	30	det	_	Treeler:spec
+29	máis	máis	ADV	RG	_	30	advmod	_	Treeler:spec
 30	elegante	elegante	ADJ	AQ0CS0	_	28	amod	_	SpaceAfter=No|Treeler:s.a
 31	_	_	PUNCT	Fz	_	33	punct	_	Treeler:f
 32	(	(	PUNCT	Fpa	_	33	punct	_	SpaceAfter=No|Treeler:f
@@ -28385,7 +28385,7 @@
 
 # sent_id = test-701
 # text = Así mesmo, tamén se ha de incluír calquera outro tipo de actividade que se leve a cabo dentro da instalación.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	6	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	tamén	tamén	ADV	RG	_	6	case	_	Treeler:cc
@@ -28608,7 +28608,7 @@
 29	DE	de	ADP	SPS00	_	30	case	_	Treeler:sp
 30	IDADE	idade	NOUN	NCFS000	_	28	nmod	_	Treeler:sn
 31	OU	ou	CCONJ	CC	_	23	cc	_	ToDo=cc-without-conj|Treeler:coord
-32	MÁIS	máis	ADV	RG	_	33	det	_	Treeler:spec
+32	MÁIS	máis	ADV	RG	_	33	advmod	_	Treeler:spec
 33	XUNTO	xunto	ADJ	AQ0MS0	_	23	amod	_	Treeler:sa
 34-35	COAS	_	_	_	_	_	_	_	_
 34	CON	con	ADP	SPS00	_	36	case	_	Treeler:sp
@@ -28623,7 +28623,7 @@
 1	As	o	DET	DA0FP0	_	2	det	_	Treeler:spec
 2	reaccións	reacción	NOUN	NCFP000	_	13	nsubj	_	Treeler:suj
 3	adversas	adverso	ADJ	AQ0FP0	_	2	amod	_	Treeler:s.a
-4	máis	máis	ADV	RG	_	5	det	_	Treeler:spec
+4	máis	máis	ADV	RG	_	5	advmod	_	Treeler:spec
 5	frecuentes	frecuente	ADJ	AQ0CP0	_	2	amod	_	Treeler:s.a
 6	despois	despois	ADV	RG	_	10	advmod	_	Treeler:sadv
 7-8	da	_	_	_	_	_	_	_	_
@@ -28810,7 +28810,7 @@
 14	aumentaron	aumentar	VERB	VMIS3P0	_	9	obj	_	Treeler:cd
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:cc
 16	manera	manera	PROPN	NP00000	_	14	obl	_	Treeler:sn
-17	moi	moi	ADV	RG	_	18	det	_	Treeler:spec
+17	moi	moi	ADV	RG	_	18	advmod	_	Treeler:spec
 18	significativa	significativo	ADJ	AQ0FS0	_	16	amod	_	Treeler:s.a
 19-20	no	_	_	_	_	_	_	_	_
 19	en	en	ADP	SPS00	_	21	case	_	Treeler:cc
@@ -29118,10 +29118,10 @@
 26	producir	producir	VERB	VMN0000	_	22	ccomp	_	Treeler:S
 27	un	un	DET	DI0MS0	_	28	det	_	Treeler:spec
 28	crecemento	crecemento	NOUN	NCMS000	_	26	obj	_	Treeler:cd
-29	máis	máis	ADV	RG	_	30	det	_	Treeler:spec
+29	máis	máis	ADV	RG	_	30	advmod	_	Treeler:spec
 30	forte	forte	ADJ	AQ0CS0	_	28	amod	_	Treeler:s.a
 31	e	e	CCONJ	CC	_	30	cc	_	ToDo=cc-without-conj|Treeler:coord
-32	máis	máis	ADV	RG	_	33	det	_	Treeler:spec
+32	máis	máis	ADV	RG	_	33	advmod	_	Treeler:spec
 33	duradeiro	duradeiro	ADJ	AQ0MS0	_	30	amod	_	Treeler:s.a
 34	e	e	CCONJ	CC	_	26	cc	_	ToDo=cc-without-conj|Treeler:coord
 35	crear	crear	VERB	VMN0000	_	26	ccomp	_	Treeler:S
@@ -29217,7 +29217,7 @@
 14	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 15	unha	un	DET	DI0FS0	_	16	det	_	Treeler:spec
 16	árbore	árbore	NOUN	NCFS000	_	13	nmod	_	ToDo=nmod|Treeler:sn
-17	xeralmente	xeral	ADV	RG	_	18	det	_	Treeler:spec
+17	xeralmente	xeral	ADV	RG	_	18	advmod	_	Treeler:spec
 18	baixa	baixo	ADJ	AQ0FS0	_	16	amod	_	SpaceAfter=No|Treeler:s.a
 19	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 20-21	co	_	_	_	_	_	_	_	_
@@ -29790,7 +29790,7 @@
 12	integración	integración	NOUN	NCFS000	_	10	dep	_	Treeler:grup.nom
 13	social	social	ADJ	AQ0CS0	_	12	amod	_	Treeler:s.a
 14	é	ser	AUX	VSIP3S0	_	16	cop	_	Treeler:sentence
-15	máis	máis	ADV	RG	_	16	det	_	Treeler:spec
+15	máis	máis	ADV	RG	_	16	advmod	_	Treeler:spec
 16	directa	directo	ADJ	AQ0FS0	_	0	root	_	Treeler:atr
 17	e	e	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
 18-19	substituínte	_	_	_	_	_	_	_	SpaceAfter=No
@@ -30017,7 +30017,7 @@
 
 # sent_id = test-740
 # text = Así mesmo, conterá un plano onde se definan os camiños de evacuación en caso de accidente e os centros de asistencia médica próximos.
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+1	Así	así	ADV	RG	_	2	advmod	_	Treeler:spec
 2	mesmo	mesmo	ADV	RG	_	4	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	conterá	conter	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -30089,7 +30089,7 @@
 37	por	por	ADP	SPS00	_	39	case	_	Treeler:sp
 38	unha	un	DET	DI0FS0	_	39	det	_	Treeler:spec
 39	tropopausa	tropopausa	NOUN	NCFS000	_	6	obl	_	Treeler:sn
-40	moi	moi	ADV	RG	_	41	det	_	Treeler:spec
+40	moi	moi	ADV	RG	_	41	advmod	_	Treeler:spec
 41	baixa	baixo	ADJ	AQ0FS0	_	39	amod	_	Treeler:s.a
 42	(	(	PUNCT	Fpa	_	43	punct	_	SpaceAfter=No|Treeler:f
 43	6	6	NUM	Z	_	39	nmod	_	Treeler:sn
@@ -30339,7 +30339,7 @@
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 29	emisión	emisión	NOUN	NCFS000	_	27	nmod	_	Treeler:sn
 30	con	con	ADP	SPS00	_	33	case	_	Treeler:sp
-31	tan	tan	ADV	RG	_	32	det	_	Treeler:spec
+31	tan	tan	ADV	RG	_	32	advmod	_	Treeler:spec
 32	importantes	importante	ADJ	AQ0CP0	_	33	amod	_	Treeler:s.a
 33	lagoas	lagoa	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
 34	foi	ser	AUX	VSIS3S0	_	35	cop	_	Treeler:S
@@ -30516,7 +30516,7 @@
 32	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 33	que	que	SCONJ	CS	_	37	mark	_	Treeler:conj
 34	por	por	ADP	SPS00	_	37	case	_	Treeler:cc
-35	si	si	ADV	RG	_	36	det	_	Treeler:spec
+35	si	si	ADV	RG	_	36	advmod	_	Treeler:spec
 36	mesmo	mesmo	ADV	RG	_	37	case	_	ToDo=case-upos|Treeler:cc
 37	fan	facer	VERB	VMIP3P0	_	13	ccomp	_	Treeler:S
 38	proba	proba	NOUN	NCFS000	_	37	obj	_	Treeler:cd
@@ -30959,7 +30959,7 @@
 3	banda	banda	NOUN	NCFS000	_	5	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	existen	existir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-6	tamén	tamén	ADV	RG	_	7	det	_	Treeler:spec
+6	tamén	tamén	ADV	RG	_	7	advmod	_	Treeler:spec
 7	notables	notable	ADJ	AQ0CP0	_	8	amod	_	Treeler:s.a
 8	iniciativas	iniciativa	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
 9	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
@@ -31027,7 +31027,7 @@
 27	e	e	CCONJ	CC	_	26	cc	_	ToDo=cc-without-conj|Treeler:coord
 28	Pontevedra	pontevedra	PROPN	NP00000	_	26	dep	_	Treeler:grup.nom
 29	ofreceron	ofrecer	VERB	VMIS3P0	_	10	ccomp	_	Treeler:S
-30	máis	máis	ADV	RG	_	31	det	_	Treeler:spec
+30	máis	máis	ADV	RG	_	31	advmod	_	Treeler:spec
 31	pacientes	paciente	ADJ	AQ0CP0	_	29	xcomp	_	Treeler:cpred
 32	para	para	ADP	SPS00	_	33	case	_	Treeler:cc
 33	transplantar	transplantar	VERB	VMN0000	_	29	ccomp	_	Treeler:S
@@ -31330,7 +31330,7 @@
 22	saben	saber	VERB	VMIP3P0	_	13	case	_	ToDo=case-upos|Treeler:cc
 23	transmitir	transmitir	VERB	VMN0000	_	22	obj	_	SpaceAfter=No|Treeler:cd
 24	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
-25	hoxe	hoxe	ADV	RG	_	26	det	_	Treeler:spec
+25	hoxe	hoxe	ADV	RG	_	26	advmod	_	Treeler:spec
 26	Umberto	umberto	ADJ	AQ0MS0	_	27	amod	_	Treeler:s.a
 27	Eco	eco	NOUN	NCMS000	_	28	nsubj	_	Treeler:suj
 28	insiste	insistir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -32037,7 +32037,7 @@
 4	recolle	recoller	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 5	Blair	blair	PROPN	NP00000	_	4	nsubj	_	Treeler:suj
 6	as	o	DET	DA0FP0	_	9	det	_	Treeler:spec
-7	máis	máis	ADV	RG	_	8	det	_	Treeler:spec
+7	máis	máis	ADV	RG	_	8	advmod	_	Treeler:spec
 8	veteranas	veterano	ADJ	AQ0FP0	_	9	amod	_	Treeler:s.a
 9	consignas	consigna	NOUN	NCFP000	_	4	obj	_	Treeler:cd
 10-11	do	_	_	_	_	_	_	_	_
@@ -32279,18 +32279,18 @@
 2	dor	dor	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
 3	pode	poder	VERB	VMIP3S0	_	6	aux	_	Treeler:v
 4	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
-5	moi	moi	ADV	RG	_	6	det	_	Treeler:spec
+5	moi	moi	ADV	RG	_	6	advmod	_	Treeler:spec
 6	tolerable	tolerable	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 7	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
-8	tan	tan	ADV	RG	_	9	det	_	Treeler:spec
+8	tan	tan	ADV	RG	_	9	advmod	_	Treeler:spec
 9	leve	leve	ADJ	AQ0CS0	_	6	amod	_	Treeler:sa
 10	que	que	SCONJ	CS	_	11	mark	_	Treeler:conj
 11	amole	amolar	VERB	VMSP3S0	_	9	ccomp	_	Treeler:S
-12	só	só	ADV	RG	_	13	det	_	Treeler:spec
+12	só	só	ADV	RG	_	13	advmod	_	Treeler:spec
 13	lixeiramente	lixeiramente	ADV	RG	_	11	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 14	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 15	ou	ou	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
-16	tan	tan	ADV	RG	_	17	det	_	Treeler:spec
+16	tan	tan	ADV	RG	_	17	advmod	_	Treeler:spec
 17	severa	severo	ADJ	AQ0FS0	_	6	amod	_	Treeler:s.a
 18	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
 19	incapacite	incapacitar	VERB	VMSP3S0	_	17	ccomp	_	Treeler:S
@@ -32323,7 +32323,7 @@
 18	amosa	amosar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 19	ningunha	ningún	DET	DI0FS0	_	20	det	_	Treeler:spec
 20	característica	característica	NOUN	NCFS000	_	18	obj	_	Treeler:cd
-21	máis	máis	ADV	RG	_	22	det	_	Treeler:spec
+21	máis	máis	ADV	RG	_	22	advmod	_	Treeler:spec
 22	relevante	relevante	ADJ	AQ0CS0	_	20	amod	_	Treeler:s.a
 23	para	para	ADP	SPS00	_	25	case	_	Treeler:cc
 24	a	o	DET	DA0FS0	_	25	det	_	Treeler:spec
@@ -32684,14 +32684,14 @@
 5	foron	ser	VERB	VSIS3P0	_	6	aux	_	Treeler:v
 6	asumidos	asumir	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 7	anos	ano	NOUN	NCMP000	_	6	xcomp	_	Treeler:cpred
-8	máis	máis	ADV	RG	_	9	det	_	Treeler:spec
+8	máis	máis	ADV	RG	_	9	advmod	_	Treeler:spec
 9	tarde	tarde	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
 10	(	(	PUNCT	Fpa	_	11	punct	_	SpaceAfter=No|Treeler:f
 11	1961	1961	NUM	Z	_	7	nmod	_	SpaceAfter=No|Treeler:sn
 12	)	)	PUNCT	Fpt	_	11	punct	_	SpaceAfter=No|Treeler:f
 13	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 14	con	con	ADP	SPS00	_	17	case	_	Treeler:cc
-15	moi	moi	ADV	RG	_	16	det	_	Treeler:spec
+15	moi	moi	ADV	RG	_	16	advmod	_	Treeler:spec
 16	diversas	diverso	ADJ	AQ0FP0	_	17	amod	_	Treeler:s.a
 17	implicacións	implicación	NOUN	NCFP000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 18	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
@@ -32724,7 +32724,7 @@
 44	Guerra	guerra	NOUN	NCFS000	_	48	nsubj	_	Treeler:suj
 45	Fría	frío	ADJ	AQ0FS0	_	44	amod	_	Treeler:s.a
 46	sexa	ser	AUX	VSSP1S0	_	48	cop	_	Treeler:cd
-47	xa	xa	ADV	RG	_	48	det	_	Treeler:spec
+47	xa	xa	ADV	RG	_	48	advmod	_	Treeler:spec
 48	historia	historia	NOUN	NCFS000	_	39	obj	_	SpaceAfter=No|Treeler:atr
 49	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
@@ -32869,7 +32869,7 @@
 8	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 9	localidades	localidade	NOUN	NCFP000	_	7	obl	_	Treeler:sn
 10	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
-11	menos	menos	ADV	RG	_	14	det	_	Treeler:spec
+11	menos	menos	ADV	RG	_	14	advmod	_	Treeler:spec
 12	de	de	ADP	SPS00	_	11	case	_	Treeler:s
 13	10.000	10.000	NUM	Z	_	11	nummod	_	Treeler:z
 14	habitantes	habitante	NOUN	NCMP000	_	9	nmod	_	SpaceAfter=No|Treeler:sn
@@ -32877,7 +32877,7 @@
 16	aínda	aínda	ADV	RG	_	20	case	_	ToDo=case-upos|Treeler:cc
 17	que	que	SCONJ	CS	_	20	mark	_	Treeler:conj
 18	é	ser	AUX	VSIP3S0	_	20	cop	_	Treeler:S
-19	tamén	tamén	ADV	RG	_	20	det	_	Treeler:spec
+19	tamén	tamén	ADV	RG	_	20	advmod	_	Treeler:spec
 20	numerosa	numeroso	ADJ	AQ0FS0	_	7	ccomp	_	Treeler:atr
 21	a	o	DET	DA0FS0	_	22	det	_	Treeler:spec
 22	proporción	proporción	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
@@ -32982,7 +32982,7 @@
 16	cidades	cidade	NOUN	NCFP000	_	21	nsubj	_	Treeler:suj
 17	e	e	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
 18	vilas	vila	NOUN	NCFP000	_	16	dep	_	Treeler:grup.nom
-19	máis	máis	ADV	RG	_	20	det	_	Treeler:spec
+19	máis	máis	ADV	RG	_	20	advmod	_	Treeler:spec
 20	grandes	grande	ADJ	AQ0CP0	_	18	amod	_	Treeler:s.a
 21	apoian	apoiar	VERB	VMIP3P0	_	3	ccomp	_	Treeler:S
 22	a	o	DET	DA0FS0	_	23	det	_	Treeler:spec
@@ -33190,7 +33190,7 @@
 31	)	)	PUNCT	Fpt	_	28	punct	_	SpaceAfter=No|Treeler:f
 32	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
 33	é	ser	AUX	VSIP3S0	_	35	cop	_	Treeler:S
-34	casi	casi	ADV	RG	_	35	det	_	Treeler:spec
+34	casi	casi	ADV	RG	_	35	advmod	_	Treeler:spec
 35	inexistente	inexistente	ADJ	AQ0CS0	_	22	ccomp	_	SpaceAfter=No|Treeler:atr
 36	.	.	PUNCT	Fp	_	20	punct	_	Treeler:f
 
@@ -33440,7 +33440,7 @@
 19	final	final	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
 20	pode	poder	VERB	VMIP3S0	_	23	aux	_	Treeler:v
 21	ser	ser	AUX	VSN0000	_	23	cop	_	Treeler:sentence
-22	incluso	incluso	ADV	RG	_	23	det	_	Treeler:spec
+22	incluso	incluso	ADV	RG	_	23	advmod	_	Treeler:spec
 23	contradictoria	contradictoria	ADJ	AQ0FS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 24	.	.	PUNCT	Fp	_	23	punct	_	Treeler:f
 
@@ -33518,7 +33518,7 @@
 36	a	o	DET	DA0FS0	_	38	det	_	Treeler:spec
 37	súa	seu	DET	DP3FS0	_	38	det	_	Treeler:spec
 38	lexitimación	lexitimación	NOUN	NCFS000	_	34	obl	_	Treeler:sn
-39	como	como	ADV	RG	_	40	det	_	Treeler:spec
+39	como	como	ADV	RG	_	40	advmod	_	Treeler:spec
 40	únicos	único	ADJ	AQ0MP0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
 41	,	,	PUNCT	Fc	_	42	punct	_	Treeler:f
 42	indiscutibles	indiscutible	ADJ	AQ0CP0	_	40	dep	_	Treeler:grup.a
@@ -33925,7 +33925,7 @@
 8	obstante	obstante	ADJ	AQ0CS0	_	6	xcomp	_	Treeler:cpred
 9	un	un	DET	DI0MS0	_	10	det	_	Treeler:spec
 10	consenso	consenso	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
-11	tan	tan	ADV	RG	_	12	det	_	Treeler:spec
+11	tan	tan	ADV	RG	_	12	advmod	_	Treeler:spec
 12	amplo	amplo	ADJ	AQ0MS0	_	10	amod	_	Treeler:s.a
 13	a	a	ADP	SPS00	_	15	case	_	Treeler:sp
 14	este	este	DET	DD0MS0	_	15	det	_	Treeler:spec
@@ -34058,8 +34058,8 @@
 2	especie	especie	NOUN	NCFS000	_	10	nsubj	_	Treeler:suj
 3	representativa	representativo	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
 4	pero	pero	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
-5	moito	moito	ADV	RG	_	7	det	_	Treeler:spec
-6	menos	menos	ADV	RG	_	7	det	_	Treeler:spec
+5	moito	moito	ADV	RG	_	7	advmod	_	Treeler:spec
+6	menos	menos	ADV	RG	_	7	advmod	_	Treeler:spec
 7	abundante	abundante	ADJ	AQ0CS0	_	3	amod	_	Treeler:s.a
 8	é	ser	AUX	VSIP3S0	_	10	cop	_	Treeler:sentence
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
@@ -34312,7 +34312,7 @@
 18	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 19	a	o	DET	DA0FS0	_	20	det	_	Treeler:spec
 20	conductas	conductas	NOUN	NCFP000	_	10	nmod	_	Treeler:sn
-21	pouco	pouco	ADV	RG	_	22	det	_	Treeler:spec
+21	pouco	pouco	ADV	RG	_	22	advmod	_	Treeler:spec
 22	respectuosas	respectuoso	ADJ	AQ0FP0	_	20	amod	_	Treeler:s.a
 23-24	das	_	_	_	_	_	_	_	_
 23	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
@@ -34347,7 +34347,7 @@
 18-19	do	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	22	case	_	Treeler:cc
 19	o	o	DET	DA0MS0	_	22	det	_	Treeler:spec
-20	aínda	aínda	ADV	RG	_	21	det	_	Treeler:spec
+20	aínda	aínda	ADV	RG	_	21	advmod	_	Treeler:spec
 21	feble	feble	ADJ	AQ0CS0	_	22	amod	_	Treeler:s.a
 22	capital	capital	NOUN	NCFS000	_	17	obl	_	Treeler:sn
 23	social	social	ADJ	AQ0CS0	_	22	amod	_	Treeler:s.a
@@ -34670,7 +34670,7 @@
 8	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 9	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 10	a	o	DET	DA0FS0	_	12	det	_	Treeler:spec
-11	máis	máis	ADV	RG	_	12	det	_	Treeler:spec
+11	máis	máis	ADV	RG	_	12	advmod	_	Treeler:spec
 12	importante	importante	ADJ	AQ0CS0	_	17	nsubj	_	SpaceAfter=No|Treeler:suj
 13	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 14	pois	pois	SCONJ	CS	_	17	mark	_	Treeler:conj
@@ -34797,7 +34797,7 @@
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
 7	forma	forma	NOUN	NCFS000	_	1	nmod	_	Treeler:sn
 8	que	que	PRON	PR0CN000	_	12	nsubj	_	Treeler:suj
-9	máis	máis	ADV	RG	_	10	det	_	Treeler:spec
+9	máis	máis	ADV	RG	_	10	advmod	_	Treeler:spec
 10	adiante	adiante	ADV	RG	_	12	case	_	ToDo=case-upos|Treeler:cc
 11	se	se	PRON	PP3CN000	_	12	obj	_	Treeler:cd
 12	regula	regular	VERB	VMIP3S0	_	7	ccomp	_	SpaceAfter=No|Treeler:S

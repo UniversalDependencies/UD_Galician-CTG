@@ -41,7 +41,7 @@
   <deps unique="27">
     <dep name="acl">5</dep>
     <dep name="advcl">3</dep>
-    <dep name="advmod">1375</dep>
+    <dep name="advmod">2067</dep>
     <dep name="amod">10502</dep>
     <dep name="appos">6</dep>
     <dep name="aux">1364</dep>
@@ -51,7 +51,7 @@
     <dep name="conj">19</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">3848</dep>
-    <dep name="det">24559</dep>
+    <dep name="det">23867</dep>
     <dep name="fixed">1</dep>
     <dep name="flat">173</dep>
     <dep name="iobj">562</dep>
