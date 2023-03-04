@@ -6624,7 +6624,7 @@
 # text = Emporiso, cando a persoa ou entidade non residente en España opere mediante establecemento permanente, o domicilio será o que resulte de lle aplicar ó devandito establecemento permanente as regras establecidas nas alíneas a) e b) deste punto.
 1	Emporiso	emporiso	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Treeler:et
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-3	cando	cando	PRON	PR0CN000	_	12	cc	_	Treeler:et
+3	cando	cando	PRON	PR0CN000	_	12	obl	_	Treeler:et
 4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
 5	persoa	persoa	NOUN	NCFS000	_	12	nsubj	_	Treeler:suj
 6	ou	ou	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -18382,7 +18382,7 @@
 
 # sent_id = dev-447
 # text = Isto, asociado á crise demográfica, pon en perigo o réxime de financiamento e o desenvolvemento funcional da actividade de investigación.
-1	Isto	isto	PRON	PD0CN000	_	9	cc	_	SpaceAfter=No|Treeler:et
+1	Isto	isto	PRON	PD0CN000	_	9	obl	_	SpaceAfter=No|Treeler:et
 2	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 3	asociado	asociar	VERB	VMP00SM	_	1	ccomp	_	Treeler:S
 4-5	á	_	_	_	_	_	_	_	_
@@ -30165,7 +30165,7 @@
 20	súa	seu	DET	DP3FS0	_	21	det	_	Treeler:spec
 21	expresión	expresión	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 22	actual	actual	ADJ	AQ0CS0	_	21	amod	_	Treeler:s.a
-23	como	como	PRON	PR0CN000	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
+23	como	como	PRON	PR0CN000	_	18	obl	_	ToDo=cc-without-conj|Treeler:coord
 24	as	o	DET	DA0FP0	_	26	det	_	Treeler:spec
 25	súas	seu	DET	DP3FP0	_	24	det	_	Treeler:d
 26	tendencias	tendencia	NOUN	NCFP000	_	18	obj	_	Treeler:cd

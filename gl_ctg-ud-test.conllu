@@ -3727,7 +3727,7 @@
 29	risco	risco	NOUN	NCMS000	_	24	obl	_	Treeler:sn
 30	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 31	rotación	rotación	NOUN	NCFS000	_	29	nmod	_	Treeler:sn
-32	como	como	PRON	PR0CN000	_	29	cc	_	ToDo=cc-without-conj|Treeler:coord
+32	como	como	PRON	PR0CN000	_	29	obl	_	ToDo=cc-without-conj|Treeler:coord
 33-34	cos	_	_	_	_	_	_	_	_
 33	con	con	ADP	SPS00	_	35	case	_	Treeler:sp
 34	os	o	DET	DA0MP0	_	35	det	_	Treeler:spec
