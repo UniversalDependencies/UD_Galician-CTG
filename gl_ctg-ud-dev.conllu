@@ -33236,7 +33236,7 @@
 4	o	o	DET	DA0MS0	_	5	det	_	Treeler:spec
 5	gas	gas	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 6	natural	natural	ADJ	AQ0CS0	_	5	amod	_	SpaceAfter=No|Treeler:s.a
-7	*	*	SYM	Fz	_	9	punct	_	Treeler:f
+7	*	*	PUNCT	Fz	_	9	punct	_	Treeler:f
 8	son	ser	VERB	VSIP1S0	_	9	aux	_	Treeler:v
 9	fixadas	fixar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 10-11	polo	_	_	_	_	_	_	_	_
