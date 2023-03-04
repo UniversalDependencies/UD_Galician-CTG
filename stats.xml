@@ -38,16 +38,17 @@
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="28">
+  <deps unique="29">
     <dep name="acl">5</dep>
     <dep name="advcl">3</dep>
     <dep name="advmod">2083</dep>
     <dep name="amod">10535</dep>
     <dep name="appos">6</dep>
-    <dep name="aux">1364</dep>
+    <dep name="aux">1217</dep>
     <dep name="case">24406</dep>
     <dep name="cc">4428</dep>
     <dep name="ccomp">7157</dep>
+    <dep name="compound">147</dep>
     <dep name="conj">22</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">3848</dep>

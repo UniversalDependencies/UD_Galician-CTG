@@ -297,7 +297,7 @@
 22	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 23	que	que	SCONJ	CS	_	27	mark	_	Treeler:conj
 24	se	se	PRON	PP3CN000	_	27	obj	_	Treeler:cd
-25	pase	pasar	VERB	VMSP1S0	_	27	aux	_	Treeler:v
+25	pase	pasar	VERB	VMSP1S0	_	27	compound	_	Treeler:v
 26	a	a	ADP	SPS00	_	27	case	_	Treeler:s
 27	esixir	esixir	VERB	VMN0000	_	15	ccomp	_	Treeler:S
 28	burocraticamente	burocraticamente	ADV	RG	_	27	case	_	Treeler:cc
@@ -656,7 +656,7 @@
 22	que	que	PRON	PR0CN000	_	24	nsubj	_	Treeler:suj
 23	as	o	PRON	PP3FPA00	_	24	obj	_	Treeler:cd
 24	bagoas	bagoar	VERB	VMIP2S0	_	21	ccomp	_	Treeler:S
-25	axudaran	axudar	VERB	VMIM3P0	_	27	aux	_	Treeler:v
+25	axudaran	axudar	VERB	VMIM3P0	_	27	compound	_	Treeler:v
 26	a	a	ADP	SPS00	_	27	case	_	Treeler:s
 27-28	alivia-lo	_	_	_	_	_	_	_	_
 27	aliviar	aliviar	VERB	VMN0000	_	21	ccomp	_	Treeler:S
@@ -1377,7 +1377,7 @@
 46	punto	punto	NOUN	NCMS000	_	51	obl	_	Treeler:sn
 47	os	o	DET	DA0MP0	_	48	det	_	Treeler:spec
 48	factores	factor	NOUN	NCMP000	_	51	nsubj	_	Treeler:suj
-49	axudan	axudar	VERB	VMIP3P0	_	51	aux	_	Treeler:v
+49	axudan	axudar	VERB	VMIP3P0	_	51	compound	_	Treeler:v
 50	a	a	ADP	SPS00	_	51	case	_	Treeler:s
 51-52	explica-la	_	_	_	_	_	_	_	_
 51	explicar	explicar	VERB	VMN0000	_	36	ccomp	_	Treeler:S
@@ -2538,7 +2538,7 @@
 # text = Aínda que continúa a ser a rama de actividade máis expansiva, a taxa de crecemento da construcción mostra un perfil desacelerado.
 1	Aínda	aínda	ADV	RG	_	20	case	_	ToDo=case-upos|Treeler:cc
 2	que	que	PRON	PR0CN000	_	7	nsubj	_	Treeler:suj
-3	continúa	continuar	VERB	VMIP3S0	_	7	aux	_	Treeler:v
+3	continúa	continuar	VERB	VMIP3S0	_	7	compound	_	Treeler:v
 4	a	a	ADP	SPS00	_	7	case	_	Treeler:s
 5	ser	ser	AUX	VSN0000	_	7	cop	_	Treeler:S
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
@@ -2684,7 +2684,7 @@
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	_	6	det	_	Treeler:spec
 6	diglosia	diglosia	NOUN	NCFS000	_	11	nsubj	_	Treeler:suj
-7	pasaba	pasar	VERB	VMII3S0	_	11	aux	_	Treeler:v
+7	pasaba	pasar	VERB	VMII3S0	_	11	compound	_	Treeler:v
 8	a	a	ADP	SPS00	_	11	case	_	Treeler:s
 9-10	se-lo	_	_	_	_	_	_	_	_
 9	ser	ser	AUX	VSN0000	_	11	cop	_	Treeler:sentence
@@ -2945,12 +2945,12 @@
 
 # sent_id = dev-71
 # text = Falamos de incinerar, mesmo falamos de crear unha destas industrias queima-lixo no sur de Galiza, pasando por alto os principios de reciclar, reutilizar e, o principal, reducir.
-1	Falamos	falar	VERB	VMIP1P0	_	3	aux	_	Treeler:v
+1	Falamos	falar	VERB	VMIP1P0	_	3	compound	_	Treeler:v
 2	de	de	ADP	SPS00	_	3	case	_	Treeler:s
 3	incinerar	incinerar	VERB	VMN0000	_	0	root	_	SpaceAfter=No|Treeler:sentence
 4	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 5	mesmo	mesmo	DET	DI0MS0	_	8	obj	_	Treeler:cd
-6	falamos	falar	VERB	VMIP1P0	_	8	aux	_	Treeler:v
+6	falamos	falar	VERB	VMIP1P0	_	8	compound	_	Treeler:v
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:s
 8	crear	crear	VERB	VMN0000	_	20	dep	_	Treeler:infinitiu
 9	unha	un	DET	DI0FS0	_	12	det	_	Treeler:spec
@@ -3943,7 +3943,7 @@
 23	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
 24	modelo	modelo	NOUN	NCCS000	_	21	nmod	_	Treeler:sn
 25	tradicional	tradicional	ADJ	AQ0CS0	_	24	amod	_	Treeler:s.a
-26	pasa	pasar	VERB	VMIP3S0	_	30	aux	_	Treeler:v
+26	pasa	pasar	VERB	VMIP3S0	_	30	compound	_	Treeler:v
 27	a	a	ADP	SPS00	_	30	case	_	Treeler:s
 28	ser	ser	AUX	VSN0000	_	30	cop	_	ToDo=case-upos|Treeler:cc
 29	cada	cada	DET	DI0NN0	_	30	det	_	Treeler:spec
@@ -4060,7 +4060,7 @@
 4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
 5	zurros	zurro	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
 6	non	non	PART	RN	_	10	advmod	_	Treeler:mod
-7	chega	chegar	VERB	VMIP3S0	_	10	aux	_	Treeler:v
+7	chega	chegar	VERB	VMIP3S0	_	10	compound	_	Treeler:v
 8	a	a	ADP	SPS00	_	10	case	_	Treeler:s
 9	ser	ser	AUX	VSN0000	_	10	aux	_	Treeler:v
 10	utilizada	utilizar	VERB	VMP00SF	_	0	root	_	Treeler:sentence
@@ -4590,7 +4590,7 @@
 2	excedencias	excedencia	NOUN	NCFP000	_	8	nsubj	_	Treeler:suj
 3	non	non	PART	RN	_	7	advmod	_	Treeler:mod
 4	poderán	poder	AUX	VMIF3P0	_	7	aux	_	Treeler:v
-5	volver	volver	VERB	VMN0000	_	7	aux	_	Treeler:v
+5	volver	volver	VERB	VMN0000	_	7	compound	_	Treeler:v
 6	a	a	ADP	SPS00	_	7	case	_	Treeler:s
 7	ser	ser	AUX	VSN0000	_	8	aux	_	Treeler:v
 8	solicitadas	solicitar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
@@ -5715,7 +5715,7 @@
 8	saharauis	saharauis	NOUN	NCFP000	_	10	nsubj	_	Treeler:suj
 9	están	estar	AUX	VMIP3P0	_	10	aux	_	Treeler:v
 10	sendo	ser	VERB	VSG0000	_	4	obj	_	Treeler:cd
-11	sometidos	someter	VERB	VMP00PM	_	10	aux	_	Treeler:v
+11	sometidos	someter	VERB	VMP00PM	_	10	compound	_	Treeler:v
 12	a	a	ADP	SPS00	_	13	case	_	Treeler:creg
 13	prácticas	práctica	NOUN	NCFP000	_	11	obl	_	Treeler:sn
 14	xenocidas	xenocidas	VERB	VMP00PF	_	13	ccomp	_	Treeler:S
@@ -5826,7 +5826,7 @@
 7	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 8	deberán	deber	AUX	VMIF3P0	_	11	aux	_	Treeler:v
 9	ser	ser	AUX	VSN0000	_	11	cop	_	Treeler:sentence
-10	presentadas	presentar	VERB	VMP00PF	_	11	aux	_	Treeler:v
+10	presentadas	presentar	VERB	VMP00PF	_	11	compound	_	Treeler:v
 11	utilizando	utilizar	VERB	VMG0000	_	0	root	_	Treeler:atr
 12	a	o	DET	DA0FS0	_	13	det	_	Treeler:spec
 13	aplicación	aplicación	NOUN	NCFS000	_	11	obj	_	Treeler:cd
@@ -8422,7 +8422,7 @@
 19	o	o	DET	DA0MS0	_	20	det	_	Treeler:spec
 20	diagnóstico	diagnóstico	NOUN	NCMS000	_	23	nsubj	_	Treeler:suj
 21	se	se	PRON	PP3CN000	_	23	obj	_	Treeler:cd
-22	fai	facer	VERB	VMIP3S0	_	23	aux	_	Treeler:v
+22	fai	facer	VERB	VMIP3S0	_	23	compound	_	Treeler:v
 23	descartando	descartar	VERB	VMG0000	_	6	dep	_	Treeler:ao
 24	outras	outro	DET	DI0FP0	_	25	det	_	Treeler:spec
 25	posibilidades	posibilidade	NOUN	NCFP000	_	23	obj	_	SpaceAfter=No|Treeler:cd
@@ -8615,7 +8615,7 @@
 # text = Esta redución conseguese bloqueando fisicamente a apertura da billa, mediante un sistema que mestura aire coa auga que a billa bota a través dunha válvula que limita a presión de saída da agua.
 1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
 2	redución	redución	NOUN	NCFS000	_	4	nsubj	_	Treeler:suj
-3	conseguese	conseguese	VERB	VMSI3S0	_	4	aux	_	Treeler:v
+3	conseguese	conseguese	VERB	VMSI3S0	_	4	compound	_	Treeler:v
 4	bloqueando	bloquear	VERB	VMG0000	_	24	case	_	ToDo=case-upos|Treeler:cc
 5	fisicamente	fisicamente	ADV	RG	_	4	case	_	Treeler:cc
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
@@ -11403,7 +11403,7 @@
 13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
 14	economía	economía	NOUN	NCFS000	_	17	nsubj	_	Treeler:suj
 15	sumerxida	sumerxir	VERB	VMP00SF	_	14	ccomp	_	Treeler:S
-16	ven	ver	VERB	VMIP3P0	_	17	aux	_	Treeler:v
+16	ven	ver	VERB	VMIP3P0	_	17	compound	_	Treeler:v
 17	actuando	actuar	VERB	VMG0000	_	8	obj	_	Treeler:cd
 18-19	á	_	_	_	_	_	_	_	_
 18	a	a	ADP	SPS00	_	20	case	_	Treeler:cc
@@ -12381,7 +12381,7 @@
 # text = Esta análise contribuirá a desenvolve-lo previsto no Título III da Lei 9/2002 de ordenación urbanística e protección do medio rural de Galicia.
 1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
 2	análise	análise	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
-3	contribuirá	contribuír	VERB	VMIF3S0	_	5	aux	_	Treeler:v
+3	contribuirá	contribuír	VERB	VMIF3S0	_	5	compound	_	Treeler:v
 4	a	a	ADP	SPS00	_	5	case	_	Treeler:s
 5-6	desenvolve-lo	_	_	_	_	_	_	_	_
 5	desenvolver	desenvolver	VERB	VMN0000	_	0	root	_	Treeler:sentence
@@ -13071,7 +13071,7 @@
 6	se	se	PRON	PP3CN000	_	7	obj	_	Treeler:cd
 7	pretende	pretender	VERB	VMIP3S0	_	11	nsubj	_	Treeler:suj
 8	é	ser	AUX	VSIP3S0	_	11	cop	_	Treeler:sentence
-9	dar	dar	VERB	VMN0000	_	11	aux	_	Treeler:v
+9	dar	dar	VERB	VMN0000	_	11	compound	_	Treeler:v
 10	a	a	ADP	SPS00	_	11	case	_	Treeler:s
 11	coñecer	coñecer	VERB	VMN0000	_	0	root	_	Treeler:atr
 12	unha	un	DET	DI0FS0	_	13	det	_	Treeler:spec
@@ -13292,7 +13292,7 @@
 14	que	que	SCONJ	CS	_	18	mark	_	Treeler:conj
 15	estas	este	DET	DD0FP0	_	16	det	_	Treeler:spec
 16	tecnoloxías	tecnoloxía	NOUN	NCFP000	_	18	nsubj	_	Treeler:suj
-17	continuarán	continuar	VERB	VMIF3P0	_	18	aux	_	Treeler:v
+17	continuarán	continuar	VERB	VMIF3P0	_	18	compound	_	Treeler:v
 18	profundando	profundar	VERB	VMG0000	_	7	obj	_	Treeler:cd
 19	e	e	CCONJ	CC	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	ampliando	ampliar	VERB	VMG0000	_	18	ccomp	_	Treeler:S
@@ -16281,7 +16281,7 @@
 6	o	o	DET	DA0MS0	_	7	det	_	Treeler:spec
 7	ideal	ideal	ADJ	AQ0CS0	_	11	ccomp	_	Treeler:S
 8	igualitario	igualitario	ADJ	AQ0MS0	_	7	amod	_	Treeler:s.a
-9	tende	tender	VERB	VMIP3S0	_	11	aux	_	Treeler:v
+9	tende	tender	VERB	VMIP3S0	_	11	compound	_	Treeler:v
 10	a	a	ADP	SPS00	_	11	case	_	Treeler:s
 11	favorecer	favorecer	VERB	VMN0000	_	0	root	_	Treeler:sentence
 12	normalmente	normal	ADV	RG	_	11	case	_	Treeler:cc
@@ -16697,7 +16697,7 @@
 32	que	que	PRON	PR0CN000	_	33	obl	_	Treeler:sn
 33	estaban	estar	AUX	VMII3P0	_	34	aux	_	Treeler:v
 34	sendo	ser	VERB	VSG0000	_	6	ccomp	_	Treeler:S
-35	utilizadas	utilizar	VERB	VMP00PF	_	34	aux	_	Treeler:v
+35	utilizadas	utilizar	VERB	VMP00PF	_	34	compound	_	Treeler:v
 36-37	no	_	_	_	_	_	_	_	_
 36	en	en	ADP	SPS00	_	38	case	_	Treeler:cc
 37	o	o	DET	DA0MS0	_	38	det	_	Treeler:spec
@@ -17904,7 +17904,7 @@
 3-4	do	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	2	case	_	Treeler:sp
 4	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
-5	reparto	repartir	VERB	VMIP1S0	_	8	aux	_	Treeler:v
+5	reparto	repartir	VERB	VMIP1S0	_	8	compound	_	Treeler:v
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
@@ -18155,7 +18155,7 @@
 8	unha	un	DET	DI0FS0	_	9	det	_	Treeler:spec
 9	sistemática	sistemática	NOUN	NCFS000	_	7	obj	_	SpaceAfter=No|Treeler:cd
 10	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
-11	tratando	tratar	VERB	VMG0000	_	13	aux	_	Treeler:v
+11	tratando	tratar	VERB	VMG0000	_	13	compound	_	Treeler:v
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:s
 13	automatizar	automatizar	VERB	VMN0000	_	5	case	_	ToDo=case-upos|Treeler:cc
 14	os	o	DET	DA0MP0	_	15	det	_	Treeler:spec
@@ -19948,7 +19948,7 @@
 45	medo	medo	NOUN	NCFS000	_	50	obl	_	Treeler:sn
 46	non	non	PART	RN	_	50	advmod	_	Treeler:mod
 47	se	se	PRON	PP3CN000	_	50	obj	_	Treeler:cd
-48	estan	estan	VERB	VMIP3P0	_	50	aux	_	Treeler:v
+48	estan	estan	VERB	VMIP3P0	_	50	compound	_	Treeler:v
 49	a	a	ADP	SPS00	_	50	case	_	Treeler:s
 50	solicitar	solicitar	VERB	VMN0000	_	10	ccomp	_	SpaceAfter=No|Treeler:S
 51	.	.	PUNCT	Fp	_	10	punct	_	Treeler:f
@@ -22348,7 +22348,7 @@
 23	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
 24	pero	pero	CCONJ	CC	_	20	cc	_	ToDo=cc-without-conj|Treeler:coord
 25	á	á	NOUN	NCFS000	_	28	nsubj	_	Treeler:suj
-26	custa	custar	VERB	VMIP3S0	_	28	aux	_	Treeler:v
+26	custa	custar	VERB	VMIP3S0	_	28	compound	_	Treeler:v
 27	de	de	ADP	SPS00	_	28	case	_	Treeler:s
 28	cerrar	cerrar	VERB	VMN0000	_	20	ccomp	_	Treeler:S
 29	en	en	ADP	SPS00	_	30	case	_	Treeler:cc
@@ -22778,7 +22778,7 @@
 16	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 17	concluíntes	concluínte	ADJ	AQ0CP0	_	15	dep	_	Treeler:grup.a
 18	como	como	PRON	PR0CN000	_	20	obj	_	Treeler:cd
-19	cabería	caber	VERB	VMIC3S0	_	20	aux	_	Treeler:v
+19	cabería	caber	VERB	VMIC3S0	_	20	compound	_	Treeler:v
 20	esperar	esperar	VERB	VMN0000	_	13	ccomp	_	SpaceAfter=No|Treeler:S
 21	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
 
@@ -22985,7 +22985,7 @@
 9	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 10	o	o	DET	DA0MS0	_	11	det	_	Treeler:spec
 11	océano	océano	NOUN	NCMS000	_	14	nsubj	_	Treeler:suj
-12	tende	tender	VERB	VMIP3S0	_	14	aux	_	Treeler:v
+12	tende	tender	VERB	VMIP3S0	_	14	compound	_	Treeler:v
 13	a	a	ADP	SPS00	_	14	case	_	Treeler:s
 14-15	dulcifica-lo	_	_	_	_	_	_	_	_
 14	dulcificar	dulcificar	VERB	VMN0000	_	29	obj	_	Treeler:cd
@@ -23335,7 +23335,7 @@
 16	venosa	venoso	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
 17	central	central	ADJ	AQ0CS0	_	15	amod	_	Treeler:s.a
 18	(	(	PUNCT	Fpa	_	21	punct	_	SpaceAfter=No|Treeler:f
-19	evitar	evitar	VERB	VMN0000	_	21	aux	_	Treeler:v
+19	evitar	evitar	VERB	VMN0000	_	21	compound	_	Treeler:v
 20	a	a	ADP	SPS00	_	21	case	_	Treeler:s
 21	xugular	xugular	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 22-23	polo	_	_	_	_	_	_	_	_
@@ -29760,7 +29760,7 @@
 28	perversa	perverso	ADJ	AQ0FS0	_	27	amod	_	Treeler:s.a
 29	porque	porque	SCONJ	CS	_	39	mark	_	Treeler:conj
 30	se	se	PRON	PP3CN000	_	32	iobj	_	Treeler:ci
-31	facía	facer	VERB	VMII3S0	_	32	aux	_	Treeler:v
+31	facía	facer	VERB	VMII3S0	_	32	compound	_	Treeler:v
 32	crer	crer	VERB	VMN0000	_	39	dep	_	Treeler:infinitiu
 33	ás	á	NOUN	NCFP000	_	32	obj	_	Treeler:cd
 34	persoas	persoa	NOUN	NCFP000	_	33	amod	_	Treeler:s.a
@@ -30568,7 +30568,7 @@
 34	día	día	NOUN	NCMS000	_	31	nmod	_	SpaceAfter=No|Treeler:sn
 35	,	,	PUNCT	Fc	_	41	punct	_	Treeler:f
 36	dende	dende	ADP	SPS00	_	41	case	_	Treeler:cc
-37	fai	facer	VERB	VMIP3S0	_	41	aux	_	Treeler:v
+37	fai	facer	VERB	VMIP3S0	_	41	compound	_	Treeler:v
 38	máis	máis	ADV	RG	_	41	advmod	_	Treeler:r
 39	de	de	ADP	SPS00	_	38	case	_	Treeler:s
 40	20	20	NUM	Z	_	38	nummod	_	Treeler:z
@@ -33354,7 +33354,7 @@
 18	por	por	ADP	SPS00	_	13	case	_	Treeler:sp
 19	o	o	DET	DA0MS0	_	31	det	_	Treeler:spec
 20	que	que	SCONJ	CS	_	31	mark	_	Treeler:conj
-21	compre	comprar	VERB	VMSP1S0	_	22	aux	_	Treeler:v
+21	compre	comprar	VERB	VMSP1S0	_	22	compound	_	Treeler:v
 22	enfatizar	enfatizar	VERB	VMN0000	_	31	nsubj	_	Treeler:suj
 23-24	nos	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
@@ -33609,7 +33609,7 @@
 29	asegurados	asegurado	ADJ	AQ0MP0	_	26	amod	_	SpaceAfter=No|Treeler:s.a
 30	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 31	que	que	PRON	PR0CN000	_	36	nsubj	_	Treeler:suj
-32	pasa	pasar	VERB	VMIP3S0	_	36	aux	_	Treeler:v
+32	pasa	pasar	VERB	VMIP3S0	_	36	compound	_	Treeler:v
 33	a	a	ADP	SPS00	_	36	case	_	Treeler:s
 34	ser	ser	AUX	VSN0000	_	36	cop	_	Treeler:sentence
 35	a	o	DET	DA0FS0	_	36	det	_	Treeler:spec
@@ -34744,7 +34744,7 @@
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
 7	autoridade	autoridade	NOUN	NCFS000	_	13	nsubj	_	Treeler:suj
 8	local	local	ADJ	AQ0CS0	_	7	amod	_	Treeler:s.a
-9	adoita	adoitar	VERB	VMIP3S0	_	13	aux	_	Treeler:v
+9	adoita	adoitar	VERB	VMIP3S0	_	13	compound	_	Treeler:v
 10-11	se-lo	_	_	_	_	_	_	_	_
 10	ser	ser	AUX	VSN0000	_	13	cop	_	Treeler:cd
 11	o	o	DET	DA0MS0	_	13	det	_	Treeler:spec
