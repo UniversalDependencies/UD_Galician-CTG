@@ -4388,7 +4388,7 @@
 36	destinados	destinar	VERB	VMP00PM	_	34	ccomp	_	Treeler:S
 37	a	a	ADP	SPS00	_	38	case	_	Treeler:creg
 38	exercer	exercer	VERB	VMN0000	_	36	ccomp	_	Treeler:S
-39	como	como	PRON	PR0CN000	_	38	aux	_	Treeler:v
+39	como	como	PRON	PR0CN000	_	38	obl	_	Treeler:v
 40	cimentos	cimento	NOUN	NCMP000	_	38	obj	_	Treeler:cd
 41-42	da	_	_	_	_	_	_	_	_
 41	de	de	ADP	SPS00	_	43	case	_	Treeler:sp
@@ -28787,7 +28787,7 @@
 36	a	o	DET	DA0FS0	_	37	det	_	Treeler:spec
 37	xerada	xerar	VERB	VMP00SF	_	34	nmod	_	ToDo=nmod|Treeler:sn
 38	para	para	ADP	SPS00	_	37	case	_	Treeler:cc
-39	calquera	calquera	DET	DI0NN0	_	37	aux	_	Treeler:v
+39	calquera	calquera	DET	DI0NN0	_	37	obl	_	Treeler:v
 40	outro	outro	DET	DI0MS0	_	39	det	_	SpaceAfter=No|Treeler:d
 41	.	.	PUNCT	Fp	_	15	punct	_	Treeler:f
 
@@ -33906,7 +33906,7 @@
 17	que	que	PRON	PR0CN000	_	19	nsubj	_	Treeler:suj
 18	poden	poder	AUX	VMIP3P0	_	19	aux	_	Treeler:v
 19	actuar	actuar	VERB	VMN0000	_	16	ccomp	_	Treeler:S
-20	como	como	PRON	PR0CN000	_	19	aux	_	Treeler:v
+20	como	como	PRON	PR0CN000	_	19	obl	_	Treeler:v
 21	factores	factor	NOUN	NCMP000	_	19	nsubj	_	Treeler:suj
 22	desencadeantes	desencadeantes	ADJ	AQ0MP0	_	21	amod	_	Treeler:s.a
 23	e	e	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord

@@ -972,7 +972,7 @@
 30	84	84	NUM	Z	_	32	nsubj	_	Treeler:suj
 31	%	%	SYM	Ft	_	30	nmod	_	Treeler:sn
 32	tiñan	ter	VERB	VMII3P0	_	7	case	_	ToDo=case-upos|Treeler:cc
-33	como	como	PRON	PR0CN000	_	32	aux	_	Treeler:v
+33	como	como	PRON	PR0CN000	_	32	obl	_	Treeler:v
 34	orixe	orixe	NOUN	NCFS000	_	32	obj	_	Treeler:cd
 35	os	o	DET	DA0MP0	_	36	det	_	Treeler:spec
 36	press	press	PROPN	NP00000	_	37	nsubj	_	Treeler:suj
