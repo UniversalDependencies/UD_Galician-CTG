@@ -1477,7 +1477,7 @@
 # text = Gabicia demanda ás administracións locais e autonómica proxectos ambiciosos para o fomento do uso da bicicleta como medio de transporte san e ecolóxico no medio urbano e interurbano.
 1	Gabicia	gabicia	PROPN	NP00000	_	0	root	_	Treeler:sentence
 2	demanda	demanda	NOUN	NCFS000	_	1	nmod	_	Treeler:sn
-3	ás	á	NOUN	NCFP000	_	4	det	_	Treeler:spec
+3	ás	á	NOUN	NCFP000	_	4	nmod	_	Treeler:spec
 4	administracións	administración	NOUN	NCFP000	_	1	nmod	_	Treeler:sn
 5	locais	local	ADJ	AQ0CP0	_	4	amod	_	Treeler:s.a
 6	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -3046,7 +3046,7 @@
 26	global	global	ADJ	AQ0CS0	_	25	amod	_	Treeler:s.a
 27	e	e	CCONJ	CC	_	20	cc	_	ToDo=cc-without-conj|Treeler:coord
 28	a	o	DET	DA0FS0	_	30	det	_	Treeler:spec
-29	medio	medio	ADJ	AQ0MS0	_	30	det	_	Treeler:spec
+29	medio	medio	ADJ	AQ0MS0	_	30	amod	_	Treeler:spec
 30	prazo	prazo	NOUN	NCMS000	_	20	nmod	_	Treeler:sn
 31	en	en	ADP	SPS00	_	32	case	_	Treeler:sp
 32	dous	dous	NOUN	NCMP000	_	30	nmod	_	Treeler:sn
@@ -4421,7 +4421,7 @@
 16	matices	matiz	NOUN	NCMP000	_	10	obj	_	Treeler:cd
 17	con	con	ADP	SPS00	_	18	case	_	Treeler:sp
 18	respecto	respecto	NOUN	NCMS000	_	16	nmod	_	Treeler:sn
-19	ás	á	NOUN	NCFP000	_	20	det	_	Treeler:spec
+19	ás	á	NOUN	NCFP000	_	20	nmod	_	Treeler:spec
 20	relacións	relación	NOUN	NCFP000	_	16	ccomp	_	Treeler:S
 21	persoais	persoal	ADJ	AQ0CP0	_	20	amod	_	SpaceAfter=No|Treeler:s.a
 22	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
@@ -6215,7 +6215,7 @@
 15	total	total	NOUN	NCMS000	_	10	obj	_	Treeler:cd
 16	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 17	35	35	PROPN	NP00000	_	15	nmod	_	Treeler:sn
-18	depuradoras	depurador	NOUN	NCFP000	_	20	det	_	Treeler:spec
+18	depuradoras	depurador	NOUN	NCFP000	_	20	nmod	_	Treeler:spec
 19	fronte	fronte	NOUN	NCFS000	_	18	amod	_	Treeler:s.a
 20	ás	á	NOUN	NCFP000	_	15	dep	_	Treeler:n
 21	trece	trece	NUM	Z	_	22	nummod	_	Treeler:spec
@@ -7032,7 +7032,7 @@
 27-28	do	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 28	o	o	DET	DA0MS0	_	30	det	_	Treeler:spec
-29	medio	medio	ADJ	AQ0MS0	_	30	det	_	Treeler:spec
+29	medio	medio	ADJ	AQ0MS0	_	30	amod	_	Treeler:spec
 30	ambiente	ambiente	NOUN	NCMS000	_	17	nmod	_	Treeler:sn
 31	en	en	ADP	SPS00	_	32	case	_	Treeler:sp
 32	Galicia	galicia	PROPN	NP00000	_	30	nmod	_	SpaceAfter=No|Treeler:sn
@@ -7639,7 +7639,7 @@
 9	electrónicas	electrónico	ADJ	AQ0FP0	_	8	amod	_	SpaceAfter=No|Treeler:s.a
 10	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 11	acceso	acceso	NOUN	NCMS000	_	12	amod	_	Treeler:s.a
-12	ás	á	NOUN	NCFP000	_	13	det	_	Treeler:spec
+12	ás	á	NOUN	NCFP000	_	13	nmod	_	Treeler:spec
 13	redes	rede	NOUN	NCFP000	_	8	dep	_	Treeler:grup.nom
 14	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 15	numeración	numeración	NOUN	NCFS000	_	13	dep	_	SpaceAfter=No|Treeler:grup.nom
@@ -9101,7 +9101,7 @@
 20	nocivos	nocivo	ADJ	AQ0MP0	_	14	amod	_	Treeler:s.a
 21	para	para	ADP	SPS00	_	24	case	_	Treeler:sp
 22	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
-23	medio	medio	ADJ	AQ0MS0	_	24	det	_	Treeler:spec
+23	medio	medio	ADJ	AQ0MS0	_	24	amod	_	Treeler:spec
 24	ambiente	ambiente	NOUN	NCMS000	_	20	nmod	_	ToDo=nmod|Treeler:sn
 25	e	e	CCONJ	CC	_	24	cc	_	ToDo=cc-without-conj|Treeler:coord
 26	para	para	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -10790,7 +10790,7 @@
 9-10	ao	_	_	_	_	_	_	_	_
 9	a	a	ADP	SPS00	_	12	case	_	Treeler:sp
 10	o	o	DET	DA0MS0	_	12	det	_	Treeler:spec
-11	Medio	medio	ADJ	AQ0MS0	_	12	det	_	Treeler:spec
+11	Medio	medio	ADJ	AQ0MS0	_	12	amod	_	Treeler:spec
 12	Ambiente	ambiente	NOUN	NCMS000	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 13	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 14-15	na	_	_	_	_	_	_	_	_
@@ -12575,7 +12575,7 @@
 2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	á	á	NOUN	NCFS000	_	7	det	_	Treeler:spec
+5	á	á	NOUN	NCFS000	_	7	nmod	_	Treeler:spec
 6	pequena	pequeno	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 7	empresa	empresa	NOUN	NCFS000	_	10	nsubj	_	Treeler:suj
 8	se	se	PRON	PP3CN000	_	10	iobj	_	Treeler:ci
@@ -13538,7 +13538,7 @@
 8	(	(	PUNCT	Fpa	_	12	punct	_	SpaceAfter=No|Treeler:f
 9	"	"	PUNCT	Fe	_	12	punct	_	SpaceAfter=No|Treeler:f
 10	El	el	PRON	PP3MS000	_	12	det	_	Treeler:spec
-11	medio	medio	ADJ	AQ0MS0	_	12	det	_	Treeler:spec
+11	medio	medio	ADJ	AQ0MS0	_	12	amod	_	Treeler:spec
 12	ambiente	ambiente	NOUN	NCMS000	_	4	dep	_	Treeler:grup.nom
 13	como	como	PRON	PR0CN000	_	14	det	_	Treeler:spec
 14	bien	bien	PROPN	NP00000	_	12	nmod	_	Treeler:sn
@@ -13855,7 +13855,7 @@
 28	:	:	PUNCT	Fd	_	32	punct	_	Treeler:f
 29	a	o	DET	DA0FS0	_	32	det	_	SpaceAfter=No|Treeler:spec
 30	)	)	PUNCT	Fpt	_	29	punct	_	Treeler:f
-31	Ás	á	NOUN	NCFP000	_	32	det	_	Treeler:spec
+31	Ás	á	NOUN	NCFP000	_	32	nmod	_	Treeler:spec
 32	operacións	operación	NOUN	NCFP000	_	22	obj	_	Treeler:cd
 33	de	de	ADP	SPS00	_	34	case	_	Treeler:sp
 34	capital	capital	NOUN	NCFS000	_	32	nmod	_	Treeler:sn
@@ -14594,7 +14594,7 @@
 23	en	en	ADP	SPS00	_	24	case	_	Treeler:sp
 24	materia	materia	NOUN	NCFS000	_	18	nmod	_	Treeler:sn
 25	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
-26	medio	medio	ADJ	AQ0MS0	_	27	det	_	Treeler:spec
+26	medio	medio	ADJ	AQ0MS0	_	27	amod	_	Treeler:spec
 27	ambiente	ambiente	NOUN	NCMS000	_	24	nmod	_	Treeler:sn
 28	desde	desde	ADP	SPS00	_	30	case	_	Treeler:cc
 29	a	o	DET	DA0FS0	_	30	det	_	Treeler:spec
@@ -18447,7 +18447,7 @@
 30-31	do	_	_	_	_	_	_	_	_
 30	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 31	o	o	DET	DA0MS0	_	33	det	_	Treeler:spec
-32	medio	medio	ADJ	AQ0MS0	_	33	det	_	Treeler:spec
+32	medio	medio	ADJ	AQ0MS0	_	33	amod	_	Treeler:spec
 33	ambiente	ambiente	NOUN	NCMS000	_	29	nmod	_	Treeler:sn
 34	local	local	ADJ	AQ0CS0	_	33	amod	_	SpaceAfter=No|Treeler:s.a
 35	.	.	PUNCT	Fp	_	10	punct	_	Treeler:f
@@ -19009,7 +19009,7 @@
 28	presentan	presentar	VERB	VMIP3P0	_	17	ccomp	_	Treeler:S
 29	unha	un	DET	DI0FS0	_	32	det	_	Treeler:spec
 30	ou	ou	CCONJ	CC	_	32	cc	_	Treeler:coord
-31	dúas	dous	NOUN	NCFP000	_	32	det	_	Treeler:spec
+31	dúas	dous	NOUN	NCFP000	_	32	nmod	_	Treeler:spec
 32	veces	vez	NOUN	NCFP000	_	28	case	_	ToDo=case-upos|Treeler:cc
 33	por	por	ADP	SPS00	_	34	case	_	Treeler:sp
 34	semana	semana	NOUN	NCFS000	_	32	nmod	_	SpaceAfter=No|Treeler:sn
@@ -22056,7 +22056,7 @@
 16-17	do	_	_	_	_	_	_	_	_
 16	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 17	o	o	DET	DA0MS0	_	19	det	_	Treeler:spec
-18	medio	medio	ADJ	AQ0MS0	_	19	det	_	Treeler:spec
+18	medio	medio	ADJ	AQ0MS0	_	19	amod	_	Treeler:spec
 19	ambiente	ambiente	NOUN	NCMS000	_	15	nmod	_	Treeler:sn
 20	supón	supor	VERB	VMIP3P0	_	4	obj	_	Treeler:cd
 21	a	o	DET	DA0FS0	_	22	det	_	Treeler:spec
@@ -23646,7 +23646,7 @@
 12	con	con	ADP	SPS00	_	13	case	_	Treeler:cc
 13	tratamento	tratamento	NOUN	NCMS000	_	11	obl	_	SpaceAfter=No|Treeler:sn
 14	;	;	PUNCT	Fx	_	16	punct	_	Treeler:f
-15	dúas	dous	NOUN	NCFP000	_	16	det	_	Treeler:spec
+15	dúas	dous	NOUN	NCFP000	_	16	nmod	_	Treeler:spec
 16	reaccións	reacción	NOUN	NCFP000	_	8	nmod	_	Treeler:sn
 17	dermatolóxicas	dermatolóxicas	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
 18	alérxicas	alérxico	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
@@ -25269,7 +25269,7 @@
 17-18	do	_	_	_	_	_	_	_	_
 17	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 18	o	o	DET	DA0MS0	_	20	det	_	Treeler:spec
-19	medio	medio	ADJ	AQ0MS0	_	20	det	_	Treeler:spec
+19	medio	medio	ADJ	AQ0MS0	_	20	amod	_	Treeler:spec
 20	ambiente	ambiente	NOUN	NCMS000	_	14	nmod	_	Treeler:sn
 21	hidráulico	hidráulico	ADJ	AQ0MS0	_	20	amod	_	SpaceAfter=No|Treeler:s.a
 22	"	"	PUNCT	Fe	_	14	punct	_	SpaceAfter=No|Treeler:f
@@ -26418,7 +26418,7 @@
 11	seguir	seguir	VERB	VMN0000	_	12	aux	_	Treeler:v
 12	operando	operar	VERB	VMG0000	_	5	ccomp	_	Treeler:S
 13	a	o	DET	DA0FS0	_	15	det	_	Treeler:spec
-14	medio	medio	ADJ	AQ0MS0	_	15	det	_	Treeler:spec
+14	medio	medio	ADJ	AQ0MS0	_	15	amod	_	Treeler:spec
 15	prazo	prazo	NOUN	NCMS000	_	12	nsubj	_	SpaceAfter=No|Treeler:suj
 16	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 17	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -30229,7 +30229,7 @@
 15	perigosidade	perigosidade	NOUN	NCFS000	_	12	obj	_	Treeler:cd
 16	para	para	ADP	SPS00	_	19	case	_	Treeler:cc
 17	o	o	DET	DA0MS0	_	19	det	_	Treeler:spec
-18	medio	medio	ADJ	AQ0MS0	_	19	det	_	Treeler:spec
+18	medio	medio	ADJ	AQ0MS0	_	19	amod	_	Treeler:spec
 19	ambiente	ambiente	NOUN	NCMS000	_	12	obl	_	SpaceAfter=No|Treeler:sn
 20	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 21	e	e	CCONJ	CC	_	19	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -30900,7 +30900,7 @@
 # text = Aproximadamente unhas dúas terceiras partes dos falecementos por accidentes antes dos 35 anos na UE son debidos ao tráfico cunha maior incidencia nos países do sur, entre eles España.
 1	Aproximadamente	aproximadamente	ADV	RG	_	0	root	_	Treeler:sentence
 2	unhas	un	DET	DI0FP0	_	5	det	_	Treeler:spec
-3	dúas	dous	NOUN	NCFP000	_	5	det	_	Treeler:spec
+3	dúas	dous	NOUN	NCFP000	_	5	nmod	_	Treeler:spec
 4	terceiras	terceiro	ADJ	AO0FP0	_	5	amod	_	Treeler:s.a
 5	partes	parte	NOUN	NCCP000	_	11	obl	_	Treeler:sn
 6-7	dos	_	_	_	_	_	_	_	_

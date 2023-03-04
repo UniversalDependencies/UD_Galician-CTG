@@ -3074,7 +3074,7 @@
 29-30	ao	_	_	_	_	_	_	_	_
 29	a	a	ADP	SPS00	_	32	case	_	Treeler:sp
 30	o	o	DET	DA0MS0	_	32	det	_	Treeler:spec
-31	medio	medio	ADJ	AQ0MS0	_	32	det	_	Treeler:spec
+31	medio	medio	ADJ	AQ0MS0	_	32	amod	_	Treeler:spec
 32	ambiente	ambiente	NOUN	NCMS000	_	27	nmod	_	SpaceAfter=No|Treeler:sn
 33	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
@@ -4978,7 +4978,7 @@
 # text = As súas tres primeiras figuras _Veblen, Mitchell e Commons_, sen embargo, máis alá de certas similitudes metodolóxicas cos historicistas, non tiveron un enfoque nacionalista, sendo a súa perspectiva máis liberal e democrática (Oser e Blanchfield, 1975, p. 394).
 1	As	o	DET	DA0FP0	_	5	det	_	Treeler:spec
 2	súas	seu	DET	DP3FP0	_	5	det	_	Treeler:spec
-3	tres	tres	NOUN	NCMS000	_	5	det	_	Treeler:spec
+3	tres	tres	NOUN	NCMS000	_	5	nmod	_	Treeler:spec
 4	primeiras	primeiro	ADJ	AO0FP0	_	5	amod	_	Treeler:s.a
 5	figuras	figura	NOUN	NCFP000	_	28	nsubj	_	Treeler:suj
 6	_	_	PUNCT	Fz	_	7	punct	_	SpaceAfter=No|Treeler:f
@@ -12452,7 +12452,7 @@
 20	náusea	náusea	NOUN	NCFS000	_	18	nmod	_	Treeler:sn
 21	matutina	matutino	ADJ	AQ0FS0	_	20	amod	_	SpaceAfter=No|Treeler:s.a
 22	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
-23	ás	á	NOUN	NCFP000	_	24	det	_	Treeler:spec
+23	ás	á	NOUN	NCFP000	_	24	nmod	_	Treeler:spec
 24	veces	vez	NOUN	NCFP000	_	17	case	_	ToDo=case-upos|Treeler:cc
 25	con	con	ADP	SPS00	_	26	case	_	Treeler:sp
 26	vómitos	vómito	NOUN	NCMP000	_	24	nmod	_	Treeler:sn
@@ -17188,7 +17188,7 @@
 15	esa	ese	DET	DD0FS0	_	16	det	_	Treeler:spec
 16	ideoloxía	ideoloxía	NOUN	NCFS000	_	14	obj	_	SpaceAfter=No|Treeler:cd
 17	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
-18	ás	á	NOUN	NCFP000	_	19	det	_	Treeler:spec
+18	ás	á	NOUN	NCFP000	_	19	nmod	_	Treeler:spec
 19	veces	vez	NOUN	NCFP000	_	14	case	_	ToDo=case-upos|Treeler:cc
 20	a	a	ADP	SPS00	_	21	case	_	Treeler:sp
 21-22	radiografala	_	_	_	_	_	_	_	_
@@ -18424,7 +18424,7 @@
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 5	o	o	DET	DA0MS0	_	7	det	_	Treeler:spec
-6	medio	medio	ADJ	AQ0MS0	_	7	det	_	Treeler:spec
+6	medio	medio	ADJ	AQ0MS0	_	7	amod	_	Treeler:spec
 7	ambiente	ambiente	NOUN	NCMS000	_	3	nmod	_	Treeler:sn
 8	atmosférico	atmosférico	ADJ	AQ0MS0	_	7	amod	_	Treeler:s.a
 9-10	nunha	_	_	_	_	_	_	_	_
@@ -18758,11 +18758,11 @@
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19	D	d	NOUN	NCMS000	_	17	nmod	_	SpaceAfter=No|Treeler:sn
 20	/	/	PUNCT	Fh	_	25	punct	_	SpaceAfter=No|Treeler:f
-21	S	s	NOUN	NCMP000	_	25	det	_	Treeler:spec
+21	S	s	NOUN	NCMP000	_	25	nmod	_	Treeler:spec
 22	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 23	alta	alto	ADJ	AQ0FS0	_	24	amod	_	Treeler:s.a
 24	calidade	calidade	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
-25	dúas	dous	NOUN	NCFP000	_	26	det	_	Treeler:spec
+25	dúas	dous	NOUN	NCFP000	_	26	nmod	_	Treeler:spec
 26	estimacións	estimación	NOUN	NCFP000	_	10	obj	_	Treeler:cd
 27	diferentes	diferente	ADJ	AQ0CP0	_	26	amod	_	Treeler:s.a
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
@@ -19474,7 +19474,7 @@
 12-13	do	_	_	_	_	_	_	_	_
 12	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 13	o	o	DET	DA0MS0	_	15	det	_	Treeler:spec
-14	medio	medio	ADJ	AQ0MS0	_	15	det	_	Treeler:spec
+14	medio	medio	ADJ	AQ0MS0	_	15	amod	_	Treeler:spec
 15	ambiente	ambiente	NOUN	NCMS000	_	11	nmod	_	Treeler:sn
 16	e	e	CCONJ	CC	_	6	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 17	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
@@ -19802,7 +19802,7 @@
 10	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
 11	Transporte	transporte	NOUN	NCMS000	_	6	dep	_	Treeler:grup.nom
 12	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
-13	Medio	medio	ADJ	AQ0MS0	_	14	det	_	Treeler:spec
+13	Medio	medio	ADJ	AQ0MS0	_	14	amod	_	Treeler:spec
 14	Ambiente	ambiente	NOUN	NCMS000	_	11	dep	_	Treeler:grup.nom
 15	(	(	PUNCT	Fpa	_	16	punct	_	SpaceAfter=No|Treeler:f
 16	MOPTMA	moptma	PROPN	NP00000	_	11	nmod	_	SpaceAfter=No|Treeler:sn
@@ -22524,7 +22524,7 @@
 21	reforza	reforzar	VERB	VMIP3S0	_	11	ccomp	_	Treeler:S
 22	a	o	DET	DA0FS0	_	23	det	_	Treeler:spec
 23	atención	atención	NOUN	NCFS000	_	21	obj	_	Treeler:cd
-24	ás	á	NOUN	NCFP000	_	25	det	_	Treeler:spec
+24	ás	á	NOUN	NCFP000	_	25	nmod	_	Treeler:spec
 25	persoas	persoa	NOUN	NCFP000	_	21	obj	_	Treeler:cd
 26	maiores	maior	ADJ	AQ0CP0	_	25	amod	_	Treeler:s.a
 27	ou	ou	CCONJ	CC	_	26	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -24539,7 +24539,7 @@
 29-30	ó	_	_	_	_	_	_	_	_
 29	a	a	ADP	SPS00	_	27	iobj	_	Treeler:ci
 30	o	o	DET	DA0MS0	_	32	det	_	Treeler:spec
-31	medio	medio	ADJ	AQ0MS0	_	32	det	_	Treeler:spec
+31	medio	medio	ADJ	AQ0MS0	_	32	amod	_	Treeler:spec
 32	ambiente	ambiente	NOUN	NCMS000	_	29	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 33	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 34	Lei	lei	NOUN	NCFS000	_	32	nmod	_	Treeler:sn
@@ -26673,7 +26673,7 @@
 13-14	integra-lo	_	_	_	_	_	_	_	_
 13	integrar	integrar	VERB	VMN0000	_	8	ccomp	_	Treeler:S
 14	o	o	DET	DA0MS0	_	16	det	_	Treeler:spec
-15	medio	medio	ADJ	AQ0MS0	_	14	det	_	Treeler:d
+15	medio	medio	ADJ	AQ0MS0	_	14	amod	_	Treeler:d
 16	ambiente	ambiente	NOUN	NCMS000	_	13	obj	_	Treeler:cd
 17-18	na	_	_	_	_	_	_	_	_
 17	en	en	ADP	SPS00	_	13	case	_	Treeler:cc
@@ -30948,7 +30948,7 @@
 28	produce	producir	VERB	VMIP3S0	_	22	ccomp	_	Treeler:S
 29	sobre	sobre	ADP	SPS00	_	32	case	_	Treeler:cc
 30	o	o	DET	DA0MS0	_	32	det	_	Treeler:spec
-31	medio	medio	ADJ	AQ0MS0	_	32	det	_	Treeler:spec
+31	medio	medio	ADJ	AQ0MS0	_	32	amod	_	Treeler:spec
 32	ambiente	ambiente	NOUN	NCMS000	_	28	obl	_	SpaceAfter=No|Treeler:sn
 33	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
 
@@ -34958,7 +34958,7 @@
 27-28	do	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 28	o	o	DET	DA0MS0	_	30	det	_	Treeler:spec
-29	medio	medio	ADJ	AQ0MS0	_	30	det	_	Treeler:spec
+29	medio	medio	ADJ	AQ0MS0	_	30	amod	_	Treeler:spec
 30	ambiente	ambiente	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
 31	(	(	PUNCT	Fpa	_	32	punct	_	SpaceAfter=No|Treeler:f
 32	cambio	cambio	NOUN	NCMS000	_	30	nmod	_	Treeler:sn

@@ -42,7 +42,7 @@
     <dep name="acl">5</dep>
     <dep name="advcl">3</dep>
     <dep name="advmod">2067</dep>
-    <dep name="amod">10502</dep>
+    <dep name="amod">10538</dep>
     <dep name="appos">6</dep>
     <dep name="aux">1364</dep>
     <dep name="case">24404</dep>
@@ -51,13 +51,13 @@
     <dep name="conj">19</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">3848</dep>
-    <dep name="det">23867</dep>
+    <dep name="det">23804</dep>
     <dep name="fixed">1</dep>
     <dep name="flat">173</dep>
     <dep name="iobj">562</dep>
     <dep name="list">2</dep>
     <dep name="mark">1507</dep>
-    <dep name="nmod">18669</dep>
+    <dep name="nmod">18696</dep>
     <dep name="nsubj">6524</dep>
     <dep name="nummod">554</dep>
     <dep name="obj">7389</dep>
