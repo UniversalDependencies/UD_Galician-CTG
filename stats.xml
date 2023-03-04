@@ -18,7 +18,7 @@
     <tag name="ADJ">11429</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
     <tag name="ADP">23174</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
     <tag name="ADV">3350</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
-    <tag name="AUX">2489</tag><!-- ser, poder, deber, estar, haber, ter, ir, seguir, deixar, vir -->
+    <tag name="AUX">2738</tag><!-- ser, poder, estar, deber, haber, ter, ir, seguir, deixar, vir -->
     <tag name="CCONJ">4269</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
     <tag name="DET">23907</tag><!-- o, un, este, seu, outro, todo, mesmo, cada, algún, ese -->
     <tag name="INTJ">8</tag><!-- epa, ea, ó -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1606</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
     <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
-    <tag name="VERB">12029</tag><!-- ter, ser, facer, realizar, establecer, presentar, dar, producir, considerar, permitir -->
+    <tag name="VERB">11780</tag><!-- ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="2">

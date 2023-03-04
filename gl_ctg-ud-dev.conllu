@@ -2267,7 +2267,7 @@
 9	certificación	certificación	NOUN	NCFS000	_	5	obj	_	SpaceAfter=No|Treeler:cd
 10	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 11	que	que	PRON	PR0CN000	_	13	nsubj	_	Treeler:suj
-12	será	ser	VERB	VSIF3S0	_	13	aux	_	Treeler:v
+12	será	ser	AUX	VSIF3S0	_	13	aux	_	Treeler:v
 13	posta	poñer	VERB	VMP00SF	_	9	ccomp	_	Treeler:S
 14-15	polo	_	_	_	_	_	_	_	_
 14	por	por	ADP	SPS00	_	16	case	_	Treeler:cag
@@ -3521,7 +3521,7 @@
 15	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 16	culturais	cultural	ADJ	AQ0CP0	_	10	dep	_	Treeler:grup.a
 17	para	para	ADP	SPS00	_	19	case	_	Treeler:sp
-18	ser	ser	VERB	VSN0000	_	19	aux	_	Treeler:v
+18	ser	ser	AUX	VSN0000	_	19	aux	_	Treeler:v
 19	declarada	declarar	VERB	VMP00SF	_	16	ccomp	_	Treeler:S
 20	AMES	amar	VERB	VMSP2S0	_	19	ccomp	_	Treeler:S
 21	por	por	ADP	SPS00	_	22	case	_	Treeler:cc
@@ -4062,7 +4062,7 @@
 6	non	non	PART	RN	_	10	advmod	_	Treeler:mod
 7	chega	chegar	VERB	VMIP3S0	_	10	aux	_	Treeler:v
 8	a	a	ADP	SPS00	_	10	case	_	Treeler:s
-9	ser	ser	VERB	VSN0000	_	10	aux	_	Treeler:v
+9	ser	ser	AUX	VSN0000	_	10	aux	_	Treeler:v
 10	utilizada	utilizar	VERB	VMP00SF	_	0	root	_	Treeler:sentence
 11-12	polos	_	_	_	_	_	_	_	_
 11	por	por	ADP	SPS00	_	13	case	_	Treeler:cag
@@ -4298,7 +4298,7 @@
 6	precise	precisar	VERB	VMSP1S0	_	10	dep	_	SpaceAfter=No|Treeler:ao
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 8	vostede	vostede	PRON	PP3CSO00	_	10	iobj	_	Treeler:ci
-9	será	ser	VERB	VSIF3S0	_	10	aux	_	Treeler:v
+9	será	ser	AUX	VSIF3S0	_	10	aux	_	Treeler:v
 10	remitido	remitir	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 11-12	polo	_	_	_	_	_	_	_	_
 11	por	por	ADP	SPS00	_	14	case	_	Treeler:cag
@@ -4592,7 +4592,7 @@
 4	poderán	poder	AUX	VMIF3P0	_	7	aux	_	Treeler:v
 5	volver	volver	VERB	VMN0000	_	7	aux	_	Treeler:v
 6	a	a	ADP	SPS00	_	7	case	_	Treeler:s
-7	ser	ser	VERB	VSN0000	_	8	aux	_	Treeler:v
+7	ser	ser	AUX	VSN0000	_	8	aux	_	Treeler:v
 8	solicitadas	solicitar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 9-10	polo	_	_	_	_	_	_	_	_
 9	por	por	ADP	SPS00	_	11	case	_	Treeler:cag
@@ -5713,7 +5713,7 @@
 6	como	como	SCONJ	CS	_	10	mark	_	Treeler:conj
 7	os	o	DET	DA0MP0	_	8	det	_	Treeler:spec
 8	saharauis	saharauis	NOUN	NCFP000	_	10	nsubj	_	Treeler:suj
-9	están	estar	VERB	VMIP3P0	_	10	aux	_	Treeler:v
+9	están	estar	AUX	VMIP3P0	_	10	aux	_	Treeler:v
 10	sendo	ser	VERB	VSG0000	_	4	obj	_	Treeler:cd
 11	sometidos	someter	VERB	VMP00PM	_	10	aux	_	Treeler:v
 12	a	a	ADP	SPS00	_	13	case	_	Treeler:creg
@@ -6203,7 +6203,7 @@
 3	data	data	NOUN	NCFS000	_	7	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	xa	xa	ADV	RG	_	7	case	_	Treeler:cc
-6	foran	ser	VERB	VSIM3P0	_	7	aux	_	Treeler:v
+6	foran	ser	AUX	VSIM3P0	_	7	aux	_	Treeler:v
 7	executadas	executar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 8	ou	ou	CCONJ	CC	_	7	cc	_	ToDo=cc-without-conj|Treeler:coord
 9	estaban	estar	AUX	VMII3P0	_	10	cop	_	Treeler:S
@@ -7431,7 +7431,7 @@
 # text = Os datos foron compilados en forma de información, que foi analizada pola unidade de Política Ambiental dentro do departamento de Planificación do condado de Lancashire.
 1	Os	o	DET	DA0MP0	_	2	det	_	Treeler:spec
 2	datos	dato	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
-3	foron	ser	VERB	VSIS3P0	_	4	aux	_	Treeler:v
+3	foron	ser	AUX	VSIS3P0	_	4	aux	_	Treeler:v
 4	compilados	compilar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 5	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
 6	forma	forma	NOUN	NCFS000	_	4	obl	_	Treeler:sn
@@ -7439,7 +7439,7 @@
 8	información	información	NOUN	NCFS000	_	6	nmod	_	SpaceAfter=No|Treeler:sn
 9	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 10	que	que	PRON	PR0CN000	_	12	nsubj	_	Treeler:suj
-11	foi	ser	VERB	VSIS3S0	_	12	aux	_	Treeler:v
+11	foi	ser	AUX	VSIS3S0	_	12	aux	_	Treeler:v
 12	analizada	analizar	VERB	VMP00SF	_	8	ccomp	_	Treeler:S
 13-14	pola	_	_	_	_	_	_	_	_
 13	por	por	ADP	SPS00	_	15	case	_	Treeler:cag
@@ -7787,7 +7787,7 @@
 17	o	o	DET	DA0MS0	_	21	det	_	Treeler:spec
 18	que	que	PRON	PR0CN000	_	21	nsubj	_	Treeler:suj
 19	pode	poder	AUX	VMIP3S0	_	21	aux	_	Treeler:v
-20	estar	estar	VERB	VMN0000	_	21	aux	_	Treeler:v
+20	estar	estar	AUX	VMN0000	_	21	aux	_	Treeler:v
 21	reflectindo	reflectir	VERB	VMG0000	_	8	case	_	ToDo=case-upos|Treeler:cc
 22	un	un	DET	DI0MS0	_	23	det	_	Treeler:spec
 23	incremento	incremento	NOUN	NCMS000	_	21	obj	_	Treeler:cd
@@ -8761,7 +8761,7 @@
 1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
 2	consumidor	consumidor	NOUN	NCMS000	_	5	nsubj	_	Treeler:suj
 3	debe	deber	AUX	VMIP3S0	_	5	aux	_	Treeler:v
-4	ser	ser	VERB	VSN0000	_	5	aux	_	Treeler:v
+4	ser	ser	AUX	VSN0000	_	5	aux	_	Treeler:v
 5	informado	informar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 6	por	por	ADP	SPS00	_	7	case	_	Treeler:cag
 7	escrito	escrito	NOUN	NCMS000	_	5	obl	_	Treeler:sn
@@ -8933,7 +8933,7 @@
 39	porque	porque	SCONJ	CS	_	40	mark	_	Treeler:conj
 40	terá	ter	VERB	VMIF3S0	_	22	case	_	ToDo=case-upos|Treeler:cc
 41	que	que	SCONJ	CS	_	43	mark	_	Treeler:c
-42	ser	ser	VERB	VSN0000	_	43	aux	_	Treeler:v
+42	ser	ser	AUX	VSN0000	_	43	aux	_	Treeler:v
 43	apoiado	apoiar	VERB	VMP00SM	_	40	obj	_	Treeler:cd
 44-45	polo	_	_	_	_	_	_	_	_
 44	por	por	ADP	SPS00	_	46	case	_	Treeler:cag
@@ -9071,7 +9071,7 @@
 29	o	o	DET	DA0MS0	_	34	det	_	Treeler:spec
 30	que	que	PRON	PR0CN000	_	34	obj	_	Treeler:cd
 31	realmente	real	ADV	RG	_	34	case	_	Treeler:cc
-32	están	estar	VERB	VMIP3P0	_	34	aux	_	Treeler:v
+32	están	estar	AUX	VMIP3P0	_	34	aux	_	Treeler:v
 33	a	a	ADP	SPS00	_	34	case	_	Treeler:s
 34	necesitar	necesitar	VERB	VMN0000	_	18	obj	_	SpaceAfter=No|Treeler:atr
 35	.	.	PUNCT	Fp	_	18	punct	_	Treeler:f
@@ -10335,7 +10335,7 @@
 21	cortada	cortado	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
 22	non	non	PART	RN	_	25	advmod	_	Treeler:mod
 23	debera	deber	AUX	VMIM1S0	_	25	aux	_	Treeler:v
-24	ser	ser	VERB	VSN0000	_	25	aux	_	Treeler:v
+24	ser	ser	AUX	VSN0000	_	25	aux	_	Treeler:v
 25	extraída	extraer	VERB	VMP00SF	_	0	root	_	Treeler:sentence
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SPS00	_	28	case	_	Treeler:cag
@@ -10841,7 +10841,7 @@
 13	e	e	CCONJ	CC	_	7	cc	_	ToDo=cc-without-conj|Treeler:coord
 14	non	non	PART	RN	_	17	advmod	_	Treeler:mod
 15	debe	deber	AUX	VMIP3S0	_	17	aux	_	Treeler:v
-16	ser	ser	VERB	VSN0000	_	17	aux	_	Treeler:v
+16	ser	ser	AUX	VSN0000	_	17	aux	_	Treeler:v
 17	incluído	incluír	VERB	VMP00SM	_	7	ccomp	_	Treeler:S
 18-19	polo	_	_	_	_	_	_	_	_
 18	por	por	ADP	SPS00	_	20	case	_	Treeler:cag
@@ -11598,7 +11598,7 @@
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 8	a	o	DET	DA0FS0	_	9	det	_	Treeler:spec
 9	anguria	anguria	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
-10	serían	ser	VERB	VSIC3P0	_	11	aux	_	Treeler:v
+10	serían	ser	AUX	VSIC3P0	_	11	aux	_	Treeler:v
 11	producidos	producir	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 12-13	pola	_	_	_	_	_	_	_	_
 12	por	por	ADP	SPS00	_	14	case	_	Treeler:cag
@@ -11634,7 +11634,7 @@
 8	sobre	sobre	ADP	SPS00	_	9	case	_	Treeler:sp
 9	xistos	xisto	NOUN	NCMP000	_	3	nmod	_	Treeler:sn
 10	poden	poder	AUX	VMIP3P0	_	12	aux	_	Treeler:v
-11	ser	ser	VERB	VSN0000	_	12	aux	_	Treeler:v
+11	ser	ser	AUX	VSN0000	_	12	aux	_	Treeler:v
 12	consideradas	considerar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 13	intermedias	intermedio	ADJ	AQ0FP0	_	12	xcomp	_	Treeler:cpred
 14	entre	entre	ADP	SPS00	_	16	case	_	Treeler:cc
@@ -12911,7 +12911,7 @@
 6	distintos	distinto	ADJ	AQ0MP0	_	7	amod	_	Treeler:s.a
 7	documentos	documento	NOUN	NCMP000	_	10	nsubj	_	Treeler:suj
 8	elaborados	elaborado	ADJ	AQ0MP0	_	7	amod	_	Treeler:s.a
-9	sexan	ser	VERB	VSSP3P0	_	10	aux	_	Treeler:v
+9	sexan	ser	AUX	VSSP3P0	_	10	aux	_	Treeler:v
 10	lexitimados	lexitimar	VERB	VMP00PM	_	18	ccomp	_	Treeler:atr
 11-12	pola	_	_	_	_	_	_	_	_
 11	por	por	ADP	SPS00	_	13	case	_	Treeler:cag
@@ -13669,7 +13669,7 @@
 27	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 28	as	o	DET	DA0FP0	_	31	det	_	Treeler:spec
 29	que	que	PRON	PR0CN000	_	31	nsubj	_	Treeler:suj
-30	foron	ser	VERB	VSIS3P0	_	31	aux	_	Treeler:v
+30	foron	ser	AUX	VSIS3P0	_	31	aux	_	Treeler:v
 31	atendidas	atender	VERB	VMP00PF	_	8	ccomp	_	Treeler:S
 32-33	nos	_	_	_	_	_	_	_	_
 32	en	en	ADP	SPS00	_	34	case	_	Treeler:cc
@@ -14621,7 +14621,7 @@
 3	como	como	PRON	PR0CN000	_	7	nsubj	_	Treeler:suj
 4	non	non	PART	RN	_	7	advmod	_	Treeler:mod
 5	poden	poder	AUX	VMIP3P0	_	7	aux	_	Treeler:v
-6	ser	ser	VERB	VSN0000	_	7	aux	_	Treeler:v
+6	ser	ser	AUX	VSN0000	_	7	aux	_	Treeler:v
 7	eliminadas	eliminar	VERB	VMP00PF	_	1	ccomp	_	SpaceAfter=No|Treeler:S
 8	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 9	as	o	DET	DA0FP0	_	10	det	_	Treeler:spec
@@ -14772,7 +14772,7 @@
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	esta	este	DET	DD0FS0	_	6	det	_	Treeler:spec
 6	discrepancia	discrepancia	NOUN	NCFS000	_	8	nsubj	_	Treeler:suj
-7	é	ser	VERB	VSIP3S0	_	8	aux	_	Treeler:v
+7	é	ser	AUX	VSIP3S0	_	8	aux	_	Treeler:v
 8	debida	deber	VERB	VMP00SF	_	0	root	_	Treeler:sentence
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
 10	problemas	problema	NOUN	NCMP000	_	8	case	_	ToDo=case-upos|Treeler:cc
@@ -16695,7 +16695,7 @@
 30	en	en	ADP	SPS00	_	32	case	_	Treeler:cc
 31	o	o	DET	DA0MS0	_	32	det	_	Treeler:spec
 32	que	que	PRON	PR0CN000	_	33	obl	_	Treeler:sn
-33	estaban	estar	VERB	VMII3P0	_	34	aux	_	Treeler:v
+33	estaban	estar	AUX	VMII3P0	_	34	aux	_	Treeler:v
 34	sendo	ser	VERB	VSG0000	_	6	ccomp	_	Treeler:S
 35	utilizadas	utilizar	VERB	VMP00PF	_	34	aux	_	Treeler:v
 36-37	no	_	_	_	_	_	_	_	_
@@ -16725,7 +16725,7 @@
 17	algúns	algún	DET	DI0MP0	_	18	det	_	Treeler:spec
 18	tests	test	NOUN	NCMP000	_	14	nmod	_	Treeler:sn
 19	analíticos	analítico	ADJ	AQ0MP0	_	18	amod	_	Treeler:s.a
-20	foron	ser	VERB	VSIS3P0	_	21	aux	_	Treeler:v
+20	foron	ser	AUX	VSIS3P0	_	21	aux	_	Treeler:v
 21	elaborados	elaborar	VERB	VMP00PM	_	18	ccomp	_	SpaceAfter=No|Treeler:S
 22	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -18421,7 +18421,7 @@
 6	en	en	ADP	SPS00	_	7	case	_	Treeler:sp
 7	cuestións	cuestión	NOUN	NCFP000	_	5	nmod	_	Treeler:sn
 8	ambientais	ambiental	ADJ	AQ0CP0	_	7	amod	_	Treeler:s.a
-9	foi	ser	VERB	VSIS3S0	_	10	aux	_	Treeler:v
+9	foi	ser	AUX	VSIS3S0	_	10	aux	_	Treeler:v
 10	incluída	incluír	VERB	VMP00SF	_	0	root	_	Treeler:sentence
 11-12	na	_	_	_	_	_	_	_	_
 11	en	en	ADP	SPS00	_	13	case	_	Treeler:cc
@@ -18936,7 +18936,7 @@
 13	traballador	traballador	NOUN	NCMS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	tamén	tamén	ADV	RG	_	17	advmod	_	Treeler:mod
-16	foi	ser	VERB	VSIS3S0	_	17	aux	_	Treeler:v
+16	foi	ser	AUX	VSIS3S0	_	17	aux	_	Treeler:v
 17	medrando	medrar	VERB	VMG0000	_	3	ccomp	_	Treeler:S
 18-19	noutros	_	_	_	_	_	_	_	_
 18	en	en	ADP	SPS00	_	20	case	_	Treeler:cc
@@ -19059,7 +19059,7 @@
 23	química	químico	ADJ	AQ0FS0	_	22	amod	_	Treeler:s.a
 24	controlada	controlar	VERB	VMP00SF	_	22	ccomp	_	Treeler:S
 25	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj
-26	é	ser	VERB	VSIP3S0	_	27	aux	_	Treeler:v
+26	é	ser	AUX	VSIP3S0	_	27	aux	_	Treeler:v
 27	catalizada	catalizar	VERB	VMP00SF	_	22	ccomp	_	Treeler:S
 28-29	polo	_	_	_	_	_	_	_	_
 28	por	por	ADP	SPS00	_	30	case	_	Treeler:cag
@@ -19068,7 +19068,7 @@
 31	ou	ou	CCONJ	CC	_	30	cc	_	ToDo=cc-without-conj|Treeler:coord
 32	aliaxe	aliaxe	NOUN	NCFS000	_	30	dep	_	Treeler:grup.nom
 33	a	a	ADP	SPS00	_	35	case	_	Treeler:cc
-34	ser	ser	VERB	VSN0000	_	35	aux	_	Treeler:v
+34	ser	ser	AUX	VSN0000	_	35	aux	_	Treeler:v
 35	depositado	depositar	VERB	VMP00SM	_	27	ccomp	_	SpaceAfter=No|Treeler:S
 36	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
 
@@ -21550,7 +21550,7 @@
 27	executadas	executar	VERB	VMP00PF	_	26	ccomp	_	SpaceAfter=No|Treeler:S
 28	,	,	PUNCT	Fc	_	31	punct	_	Treeler:f
 29	que	que	PRON	PR0CN000	_	31	nsubj	_	Treeler:suj
-30	será	ser	VERB	VSIF3S0	_	31	aux	_	Treeler:v
+30	será	ser	AUX	VSIF3S0	_	31	aux	_	Treeler:v
 31	aboada	aboar	VERB	VMP00SF	_	26	ccomp	_	Treeler:S
 32-33	ao	_	_	_	_	_	_	_	_
 32	a	a	ADP	SPS00	_	31	iobj	_	Treeler:ci
@@ -21738,7 +21738,7 @@
 20	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
 21	que	que	PRON	PR0CN000	_	24	nsubj	_	Treeler:suj
 22	deben	deber	AUX	VMIP3P0	_	24	aux	_	Treeler:v
-23	ser	ser	VERB	VSN0000	_	24	aux	_	Treeler:v
+23	ser	ser	AUX	VSN0000	_	24	aux	_	Treeler:v
 24	estimulados	estimular	VERB	VMP00PM	_	18	ccomp	_	SpaceAfter=No|Treeler:S
 25	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
 26	pero	pero	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -22190,7 +22190,7 @@
 # text = O traslado será coordinado pola Central de Coordinación 061 en colaboración co Servizo de Cardioloxía do hospital receptor e emisor.
 1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
 2	traslado	traslado	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
-3	será	ser	VERB	VSIF3S0	_	4	aux	_	Treeler:v
+3	será	ser	AUX	VSIF3S0	_	4	aux	_	Treeler:v
 4	coordinado	coordinar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 5-6	pola	_	_	_	_	_	_	_	_
 5	por	por	ADP	SPS00	_	7	case	_	Treeler:cag
@@ -22912,7 +22912,7 @@
 17	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
 18	Estado	estado	NOUN	NCMS000	_	15	nmod	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
-20	serán	ser	VERB	VSIF3P0	_	21	aux	_	Treeler:v
+20	serán	ser	AUX	VSIF3P0	_	21	aux	_	Treeler:v
 21	adoptados	adoptar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 22	por	por	ADP	SPS00	_	23	case	_	Treeler:cag
 23	maioría	maioría	NOUN	NCFS000	_	21	obl	_	Treeler:sn
@@ -23041,7 +23041,7 @@
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 18	desenvolvimento	desenvolvimento	NOUN	NCMS000	_	16	nmod	_	Treeler:sn
 19	sustentável	sustentável	ADJ	AQ0MS0	_	18	amod	_	Treeler:s.a
-20	foi	ser	VERB	VSIS3S0	_	21	aux	_	Treeler:v
+20	foi	ser	AUX	VSIS3S0	_	21	aux	_	Treeler:v
 21	borrado	borrar	VERB	VMP00SM	_	0	root	_	SpaceAfter=No|Treeler:sentence
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 23	ademais	ademais	ADV	RG	_	21	case	_	ToDo=case-upos|Treeler:cc
@@ -23805,7 +23805,7 @@
 # text = O descubrimento está facilitando que se desenvolvan estudos específicos que asocian fármacos xa coñecidos con perfís xenéticos.
 1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
 2	descubrimento	descubrimento	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
-3	está	estar	VERB	VMIP3S0	_	4	aux	_	Treeler:v
+3	está	estar	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	facilitando	facilitar	VERB	VMG0000	_	0	root	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
 6	se	se	PRON	PP3CN000	_	7	obj	_	Treeler:cd
@@ -24490,7 +24490,7 @@
 2	xornadas	xornada	NOUN	NCFP000	_	6	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	licenza	licenza	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
-5	serán	ser	VERB	VSIF3P0	_	6	aux	_	Treeler:v
+5	serán	ser	AUX	VSIF3P0	_	6	aux	_	Treeler:v
 6	disfrutadas	disfrutadas	VERB	VMP00PF	_	0	root	_	SpaceAfter=No|Treeler:sentence
 7	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 8	unha	un	DET	DI0FS0	_	9	det	_	Treeler:spec
@@ -26332,7 +26332,7 @@
 13	(	(	PUNCT	Fpa	_	14	punct	_	SpaceAfter=No|Treeler:f
 14	...	...	PUNCT	Fs	_	16	punct	_	SpaceAfter=No|Treeler:s.a
 15	)	)	PUNCT	Fpt	_	14	punct	_	Treeler:f
-16	serán	ser	VERB	VSIF3P0	_	17	aux	_	Treeler:v
+16	serán	ser	AUX	VSIF3P0	_	17	aux	_	Treeler:v
 17	comunicados	comunicar	VERB	VMP00PM	_	5	obj	_	Treeler:cd
 18-19	ós	_	_	_	_	_	_	_	_
 18	a	a	ADP	SPS00	_	17	iobj	_	Treeler:ci
@@ -27268,7 +27268,7 @@
 16	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 17	ademais	ademais	ADV	RG	_	19	advmod	_	SpaceAfter=No|Treeler:mod
 18	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
-19	é	ser	VERB	VSIP3S0	_	21	aux	_	Treeler:v
+19	é	ser	AUX	VSIP3S0	_	21	aux	_	Treeler:v
 20	máis	máis	ADV	RG	_	21	case	_	Treeler:cc
 21	acentuada	acentuar	VERB	VMP00SF	_	3	ccomp	_	Treeler:S
 22-23	coas	_	_	_	_	_	_	_	_
@@ -27700,7 +27700,7 @@
 22	esta	este	DET	DD0FS0	_	23	det	_	Treeler:spec
 23	ría	ría	NOUN	NCFS000	_	26	nsubj	_	Treeler:suj
 24	xa	xa	ADV	RG	_	26	case	_	Treeler:cc
-25	é	ser	VERB	VSIP3S0	_	26	aux	_	Treeler:v
+25	é	ser	AUX	VSIP3S0	_	26	aux	_	Treeler:v
 26	considerada	considerar	VERB	VMP00SF	_	13	case	_	ToDo=case-upos|Treeler:cc
 27	como	como	PRON	PR0CN000	_	26	xcomp	_	Treeler:cpred
 28	zona	zona	NOUN	NCFS000	_	26	xcomp	_	Treeler:cpred
@@ -27957,7 +27957,7 @@
 7	seu	seu	DET	DP3MS0	_	8	det	_	Treeler:spec
 8	número	número	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
 9	debe	deber	AUX	VMIP3S0	_	11	aux	_	Treeler:v
-10	ser	ser	VERB	VSN0000	_	11	aux	_	Treeler:v
+10	ser	ser	AUX	VSN0000	_	11	aux	_	Treeler:v
 11	acompañado	acompañar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 12-13	dos	_	_	_	_	_	_	_	_
 12	de	de	ADP	SPS00	_	14	case	_	Treeler:cag
@@ -28382,7 +28382,7 @@
 13	millóns	millón	NOUN	NCMP000	_	11	obj	_	SpaceAfter=No|Treeler:cd
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	que	que	PRON	PR0CN000	_	17	nsubj	_	Treeler:suj
-16	son	ser	VERB	VSIP1S0	_	17	aux	_	Treeler:v
+16	son	ser	AUX	VSIP1S0	_	17	aux	_	Treeler:v
 17	adicados	adicar	VERB	VMP00PM	_	13	ccomp	_	Treeler:S
 18	concretamente	concretamente	ADV	RG	_	17	case	_	ToDo=case-upos|Treeler:cc
 19	a	o	DET	DA0FS0	_	20	det	_	Treeler:spec
@@ -28791,7 +28791,7 @@
 30	elas	el	PRON	PP3FP000	_	28	nmod	_	Treeler:sn
 31	aínda	aínda	ADV	RG	_	34	case	_	Treeler:cc
 32	non	non	PART	RN	_	34	advmod	_	Treeler:mod
-33	fosen	ser	VERB	VSSI3P0	_	34	aux	_	Treeler:v
+33	fosen	ser	AUX	VSSI3P0	_	34	aux	_	Treeler:v
 34	diagnosticadas	diagnosticar	VERB	VMP00PF	_	14	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 35	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
@@ -29261,7 +29261,7 @@
 23	motivara	motivar	VERB	VMIM1S0	_	21	ccomp	_	Treeler:S
 24	a	o	DET	DA0FS0	_	25	det	_	Treeler:spec
 25	queixa	queixa	NOUN	NCFS000	_	23	obj	_	Treeler:cd
-26	estaba	estar	VERB	VMII3S0	_	27	aux	_	Treeler:v
+26	estaba	estar	AUX	VMII3S0	_	27	aux	_	Treeler:v
 27	seguindo	seguir	VERB	VMG0000	_	18	ccomp	_	Treeler:S
 28	os	o	DET	DA0MP0	_	29	det	_	Treeler:spec
 29	trámites	trámite	NOUN	NCMP000	_	27	obj	_	Treeler:cd
@@ -29767,7 +29767,7 @@
 35	que	que	SCONJ	CS	_	39	mark	_	Treeler:conj
 36	eses	ese	DET	DD0MP0	_	37	det	_	Treeler:spec
 37	castigos	castigo	NOUN	NCMP000	_	39	nsubj	_	Treeler:suj
-38	eran	ser	VERB	VSII3P0	_	39	aux	_	Treeler:v
+38	eran	ser	AUX	VSII3P0	_	39	aux	_	Treeler:v
 39	merecidos	merecer	VERB	VMP00PM	_	45	ccomp	_	Treeler:S
 40	e	e	CCONJ	CC	_	39	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 41	,	,	PUNCT	Fc	_	43	punct	_	Treeler:f
@@ -30130,7 +30130,7 @@
 15	servicios	servicio	NOUN	NCMP000	_	13	dep	_	SpaceAfter=No|Treeler:grup.nom
 16	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
 17	deberán	deber	AUX	VMIF3P0	_	19	aux	_	Treeler:v
-18	ser	ser	VERB	VSN0000	_	19	aux	_	Treeler:v
+18	ser	ser	AUX	VSN0000	_	19	aux	_	Treeler:v
 19	autorizados	autorizar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 20-21	pola	_	_	_	_	_	_	_	_
 20	por	por	ADP	SPS00	_	22	case	_	Treeler:cag
@@ -30342,7 +30342,7 @@
 # text = Europa xa está participando nesta revolución, anque cun enfoque aínda fragmentado e que podería reducir os seus posibles froitos.
 1	Europa	europa	PROPN	NP00000	_	4	nsubj	_	Treeler:suj
 2	xa	xa	ADV	RG	_	4	case	_	Treeler:cc
-3	está	estar	VERB	VMIP3S0	_	4	aux	_	Treeler:v
+3	está	estar	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	participando	participar	VERB	VMG0000	_	0	root	_	Treeler:sentence
 5-6	nesta	_	_	_	_	_	_	_	_
 5	en	en	ADP	SPS00	_	7	case	_	Treeler:creg
@@ -30919,7 +30919,7 @@
 16	en	en	ADP	SPS00	_	18	case	_	Treeler:sp
 17	a	o	DET	DA0FS0	_	18	det	_	Treeler:spec
 18	UE	ue	PROPN	NP00000	_	15	nmod	_	Treeler:sn
-19	son	ser	VERB	VSIP1S0	_	20	aux	_	Treeler:v
+19	son	ser	AUX	VSIP1S0	_	20	aux	_	Treeler:v
 20	debidos	deber	VERB	VMP00PM	_	15	ccomp	_	Treeler:S
 21-22	ao	_	_	_	_	_	_	_	_
 21	a	a	ADP	SPS00	_	20	iobj	_	Treeler:ci
@@ -31284,7 +31284,7 @@
 # text = Esas traxectorias foron identificadas nun traballo anterior (Guimarães, 2003) tanto para aqueles que no ano 2001 estaban, no momento da recollida dos datos, en situación de desemprego como para os que estaban en situación de ocupación e de inactividade.
 1	Esas	ese	DET	DD0FP0	_	2	det	_	Treeler:spec
 2	traxectorias	traxectoria	NOUN	NCFP000	_	4	nsubj	_	Treeler:suj
-3	foron	ser	VERB	VSIS3P0	_	4	aux	_	Treeler:v
+3	foron	ser	AUX	VSIS3P0	_	4	aux	_	Treeler:v
 4	identificadas	identificar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 5-6	nun	_	_	_	_	_	_	_	_
 5	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
@@ -31678,7 +31678,7 @@
 33	e	e	CCONJ	CC	_	31	cc	_	ToDo=cc-without-conj|Treeler:coord
 34	que	que	PRON	PR0CN000	_	37	nsubj	_	Treeler:suj
 35	debe	deber	AUX	VMIP3S0	_	37	aux	_	Treeler:v
-36	ser	ser	VERB	VSN0000	_	37	aux	_	Treeler:v
+36	ser	ser	AUX	VSN0000	_	37	aux	_	Treeler:v
 37	retirada	retirar	VERB	VMP00SF	_	31	ccomp	_	SpaceAfter=No|Treeler:S
 38	.	.	PUNCT	Fp	_	10	punct	_	Treeler:f
 
@@ -32376,7 +32376,7 @@
 5	patrimonio	patrimonio	NOUN	NCMS000	_	9	case	_	ToDo=case-upos|Treeler:cc
 6	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 7	persoal	persoal	NOUN	NCMS000	_	5	dep	_	Treeler:grup.nom
-8	serán	ser	VERB	VSIF3P0	_	9	aux	_	Treeler:v
+8	serán	ser	AUX	VSIF3P0	_	9	aux	_	Treeler:v
 9	asumidos	asumir	VERB	VMP00PM	_	0	root	_	Treeler:sentence
 10	a	a	ADP	SPS00	_	11	case	_	Treeler:creg
 11	partir	partir	VERB	VMN0000	_	9	ccomp	_	Treeler:S
@@ -32843,7 +32843,7 @@
 8	que	que	SCONJ	CS	_	12	mark	_	Treeler:conj
 9	estes	este	DET	DD0MP0	_	10	det	_	Treeler:spec
 10	servizos	servizo	NOUN	NCMP000	_	12	nsubj	_	Treeler:suj
-11	son	ser	VERB	VSIP1S0	_	12	aux	_	Treeler:v
+11	son	ser	AUX	VSIP1S0	_	12	aux	_	Treeler:v
 12	provistos	prover	VERB	VMP00PM	_	7	obj	_	Treeler:cd
 13-14	pola	_	_	_	_	_	_	_	_
 13	por	por	ADP	SPS00	_	15	case	_	Treeler:cag
@@ -33089,7 +33089,7 @@
 18	o	o	DET	DA0MS0	_	19	det	_	Treeler:spec
 19	rexistro	rexistro	NOUN	NCMS000	_	16	nmod	_	Treeler:sn
 20	e	e	CCONJ	CC	_	14	cc	_	ToDo=cc-without-conj|Treeler:coord
-21	será	ser	VERB	VSIF3S0	_	22	aux	_	Treeler:v
+21	será	ser	AUX	VSIF3S0	_	22	aux	_	Treeler:v
 22	esixido	esixir	VERB	VMP00SM	_	14	ccomp	_	Treeler:S
 23	por	por	ADP	SPS00	_	22	case	_	Treeler:cag
 24	este	este	DET	DD0MS0	_	26	det	_	Treeler:spec
@@ -33237,7 +33237,7 @@
 5	gas	gas	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 6	natural	natural	ADJ	AQ0CS0	_	5	amod	_	SpaceAfter=No|Treeler:s.a
 7	*	*	PUNCT	Fz	_	9	punct	_	Treeler:f
-8	son	ser	VERB	VSIP1S0	_	9	aux	_	Treeler:v
+8	son	ser	AUX	VSIP1S0	_	9	aux	_	Treeler:v
 9	fixadas	fixar	VERB	VMP00PF	_	0	root	_	Treeler:sentence
 10-11	polo	_	_	_	_	_	_	_	_
 10	por	por	ADP	SPS00	_	12	case	_	Treeler:cag
@@ -34781,7 +34781,7 @@
 39	controvertidas	controverter	VERB	VMP00PF	_	38	ccomp	_	Treeler:S
 40	que	que	PRON	PR0CN000	_	43	nsubj	_	Treeler:suj
 41	probablemente	probable	ADV	RG	_	43	advmod	_	Treeler:mod
-42	serán	ser	VERB	VSIF3P0	_	43	aux	_	Treeler:v
+42	serán	ser	AUX	VSIF3P0	_	43	aux	_	Treeler:v
 43	rexeitadas	rexeitar	VERB	VMP00PF	_	38	ccomp	_	Treeler:S
 44-45	polo	_	_	_	_	_	_	_	_
 44	por	por	ADP	SPS00	_	46	case	_	Treeler:cag
