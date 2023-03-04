@@ -15813,7 +15813,7 @@
 22	70,1	70,1	NUM	Z	_	23	det	_	Treeler:spec
 23	vs	v	NOUN	NCMP000	_	20	nmod	_	Treeler:sn
 24	33,3	33,3	NUM	Z	_	23	amod	_	SpaceAfter=No|Treeler:s.a
-25	%	%	SYM	Ft	_	23	punct	_	SpaceAfter=No|Treeler:f
+25	%	%	SYM	Ft	_	23	nmod	_	SpaceAfter=No|Treeler:f
 26	)	)	PUNCT	Fpt	_	23	punct	_	SpaceAfter=No|Treeler:f
 27	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 28	sendo	ser	AUX	VSG0000	_	30	cop	_	ToDo=case-upos|Treeler:cc
@@ -15822,7 +15822,7 @@
 31	puntual	puntual	ADJ	AQ0CS0	_	30	amod	_	Treeler:s.a
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 33	36,8	36,8	NUM	Z	_	30	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
-34	%	%	SYM	Ft	_	30	punct	_	Treeler:f
+34	%	%	SYM	Ft	_	30	nmod	_	Treeler:f
 35	e	e	CCONJ	CC	_	30	cc	_	ToDo=cc-without-conj|Treeler:coord
 36	o	o	DET	DA0MS0	_	38	det	_	Treeler:spec
 37	seu	seu	DET	DP3MS0	_	38	det	_	Treeler:spec
@@ -26933,7 +26933,7 @@
 16	(	(	PUNCT	Fpa	_	17	punct	_	SpaceAfter=No|Treeler:f
 17	IC	ic	PROPN	NP00000	_	15	nmod	_	Treeler:sn
 18	95	95	NUM	Z	_	17	nmod	_	SpaceAfter=No|Treeler:sn
-19	%	%	SYM	Ft	_	17	punct	_	SpaceAfter=No|Treeler:f
+19	%	%	SYM	Ft	_	17	nmod	_	SpaceAfter=No|Treeler:f
 20	:	:	PUNCT	Fd	_	21	punct	_	Treeler:f
 21	6,6-8,8	6,6-8,8	NUM	Z	_	17	nmod	_	SpaceAfter=No|Treeler:sn
 22	)	)	PUNCT	Fpt	_	17	punct	_	Treeler:f
@@ -26951,7 +26951,7 @@
 34	(	(	PUNCT	Fpa	_	35	punct	_	SpaceAfter=No|Treeler:f
 35	IC	ic	PROPN	NP00000	_	33	nmod	_	Treeler:sn
 36	95	95	NUM	Z	_	35	nmod	_	SpaceAfter=No|Treeler:sn
-37	%	%	SYM	Ft	_	35	punct	_	SpaceAfter=No|Treeler:f
+37	%	%	SYM	Ft	_	35	nmod	_	SpaceAfter=No|Treeler:f
 38	:	:	PUNCT	Fd	_	39	punct	_	Treeler:f
 39	5,5-8,1	5,5-8,1	NUM	Z	_	35	nmod	_	SpaceAfter=No|Treeler:sn
 40	)	)	PUNCT	Fpt	_	35	punct	_	SpaceAfter=No|Treeler:f
@@ -31129,7 +31129,7 @@
 18	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
 19	o	o	DET	DA0MS0	_	20	det	_	Treeler:spec
 20	81,6	81,6	PROPN	NP00000	_	18	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
-21	%	%	SYM	Ft	_	23	punct	_	SpaceAfter=No|Treeler:f
+21	%	%	SYM	Ft	_	23	nmod	_	SpaceAfter=No|Treeler:f
 22	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 23	porcentaxe	porcentaxe	NOUN	NCFS000	_	20	nmod	_	Treeler:sn
 24	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj

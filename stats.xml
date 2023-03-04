@@ -55,12 +55,12 @@
     <dep name="flat">172</dep>
     <dep name="iobj">562</dep>
     <dep name="mark">1513</dep>
-    <dep name="nmod">18640</dep>
+    <dep name="nmod">18664</dep>
     <dep name="nsubj">6526</dep>
     <dep name="nummod">137</dep>
     <dep name="obj">7393</dep>
     <dep name="obl">6137</dep>
-    <dep name="punct">13349</dep>
+    <dep name="punct">13325</dep>
     <dep name="root">3993</dep>
     <dep name="xcomp">659</dep>
   </deps>

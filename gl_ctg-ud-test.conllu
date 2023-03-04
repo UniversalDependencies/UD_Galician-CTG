@@ -758,7 +758,7 @@
 36	de	de	ADP	SPS00	_	38	case	_	Treeler:sp
 37	un	un	DET	DI0MS0	_	38	det	_	Treeler:spec
 38	2,4	2,4	NUM	Z	_	35	nmod	_	SpaceAfter=No|Treeler:sn
-39	%	%	SYM	Ft	_	30	punct	_	Treeler:f
+39	%	%	SYM	Ft	_	30	nmod	_	Treeler:f
 40	en	en	ADP	SPS00	_	41	case	_	Treeler:cc
 41	Italia	italia	PROPN	NP00000	_	30	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 42	,	,	PUNCT	Fc	_	45	punct	_	Treeler:f
@@ -18235,7 +18235,7 @@
 14	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
 15	o	o	DET	DA0MS0	_	16	det	_	Treeler:spec
 16	31,6	31,6	PROPN	NP00000	_	6	obl	_	SpaceAfter=No|Treeler:sn
-17	%	%	SYM	Ft	_	20	punct	_	SpaceAfter=No|Treeler:f
+17	%	%	SYM	Ft	_	20	nmod	_	SpaceAfter=No|Treeler:f
 18	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 19	a	o	DET	DA0FS0	_	20	det	_	Treeler:spec
 20	porcentaxe	porcentaxe	NOUN	NCFS000	_	6	obl	_	Treeler:sn
@@ -24909,7 +24909,7 @@
 8	Marrocos	marrocos	PROPN	NP00000	_	0	root	_	Treeler:atr
 9	(	(	PUNCT	Fpa	_	10	punct	_	SpaceAfter=No|Treeler:f
 10	15,54	15,54	NUM	Z	Foreign=Yes	8	flat	_	SpaceAfter=No|Treeler:inc
-11	%	%	SYM	Ft	_	10	punct	_	SpaceAfter=No|Treeler:f
+11	%	%	SYM	Ft	_	10	nmod	_	SpaceAfter=No|Treeler:f
 12	)	)	PUNCT	Fpt	_	10	punct	_	Treeler:f
 13	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 14	Ecuador	ecuador	NOUN	NCMS000	_	8	xcomp	_	Treeler:atr
@@ -28646,7 +28646,7 @@
 23	tensión	tensión	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
 24	(	(	PUNCT	Fpa	_	25	punct	_	SpaceAfter=No|Treeler:f
 25	10	10	NUM	Z	Foreign=Yes	13	flat	_	SpaceAfter=No|Treeler:inc
-26	%	%	SYM	Ft	_	25	punct	_	SpaceAfter=No|Treeler:f
+26	%	%	SYM	Ft	_	25	nmod	_	SpaceAfter=No|Treeler:f
 27	)	)	PUNCT	Fpt	_	25	punct	_	SpaceAfter=No|Treeler:f
 28	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 29	molestias	molestia	NOUN	NCFP000	_	13	dep	_	Treeler:grup.nom
@@ -28675,7 +28675,7 @@
 51	-	_	PUNCT	Fg	_	53	punct	_	Treeler:f
 52	(	(	PUNCT	Fpa	_	53	punct	_	SpaceAfter=No|Treeler:f
 53	3	3	NUM	Z	Foreign=Yes	46	flat	_	SpaceAfter=No|Treeler:inc
-54	%	%	SYM	Ft	_	53	punct	_	SpaceAfter=No|Treeler:f
+54	%	%	SYM	Ft	_	53	nmod	_	SpaceAfter=No|Treeler:f
 55	)	)	PUNCT	Fpt	_	53	punct	_	SpaceAfter=No|Treeler:f
 56	,	,	PUNCT	Fc	_	57	punct	_	Treeler:f
 57	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -32863,7 +32863,7 @@
 2	maioría	maioría	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 3	(	(	PUNCT	Fpa	_	4	punct	_	SpaceAfter=No|Treeler:f
 4	51,6	51,6	PROPN	NP00000	_	2	nmod	_	SpaceAfter=No|Treeler:sn
-5	%	%	SYM	Ft	_	4	punct	_	SpaceAfter=No|Treeler:f
+5	%	%	SYM	Ft	_	4	nmod	_	SpaceAfter=No|Treeler:f
 6	)	)	PUNCT	Fpt	_	4	punct	_	Treeler:f
 7	reside	residir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
@@ -34500,7 +34500,7 @@
 25	Galicia	galicia	PROPN	NP00000	_	23	obl	_	Treeler:sn
 26	(	(	PUNCT	Fpa	_	27	punct	_	SpaceAfter=No|Treeler:f
 27	31,6	31,6	PROPN	NP00000	_	25	nmod	_	SpaceAfter=No|Treeler:sn
-28	%	%	SYM	Ft	_	27	punct	_	SpaceAfter=No|Treeler:f
+28	%	%	SYM	Ft	_	27	nmod	_	SpaceAfter=No|Treeler:f
 29	)	)	PUNCT	Fpt	_	27	punct	_	SpaceAfter=No|Treeler:f
 30	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 31	entre	entre	ADP	SPS00	_	33	case	_	Treeler:cc
