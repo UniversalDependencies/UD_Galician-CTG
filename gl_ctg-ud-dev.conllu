@@ -34791,12 +34791,12 @@
 
 # sent_id = dev-856
 # text = Unha vez o traspaso sexa efectivo, o centro quedará obrigado a desenvolver os distintos programas e actuacións de ámbito autonómico que a Xunta de Galicia impulse en cada momento, nas condicións que prevé a Lei 4/1993, do 14 de abril, de servizos sociais.
-1	Unha	un	DET	DI0FS0	_	10	det	_	Treeler:spec
-2	vez	vez	NOUN	NCFS000	_	10	case	_	ToDo=case-upos|Treeler:cc
+1	Unha	un	DET	DI0FS0	_	2	det	_	Treeler:spec
+2	vez	vez	NOUN	NCFS000	_	6	obl	_	ToDo=case-upos|Treeler:cc
 3	o	o	DET	DA0MS0	_	4	det	_	Treeler:spec
 4	traspaso	traspaso	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 5	sexa	ser	AUX	VSSP1S0	_	6	cop	_	Treeler:inc
-6	efectivo	efectivo	ADJ	AQ0MS0	Foreign=Yes	10	flat	_	SpaceAfter=No|Treeler:atr
+6	efectivo	efectivo	ADJ	AQ0MS0	Foreign=Yes	10	advcl	_	SpaceAfter=No|Treeler:atr
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 8	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
 9	centro	centro	NOUN	NCMS000	_	10	nsubj	_	Treeler:suj
