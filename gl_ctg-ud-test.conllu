@@ -273,7 +273,7 @@
 45	parto	parto	NOUN	NCMS000	_	42	nmod	_	SpaceAfter=No|Treeler:sn
 46	,	,	PUNCT	Fc	_	47	punct	_	Treeler:f
 47	e	e	CCONJ	CC	_	37	cc	_	ToDo=cc-without-conj|Treeler:coord
-48	cando	cando	PRON	PR0CN000	_	51	case	_	Treeler:cc
+48	cando	cando	PRON	PR0CN000	_	51	obl	_	Treeler:cc
 49	o	o	DET	DA0MS0	_	50	det	_	Treeler:spec
 50	neno	neno	NOUN	NCMS000	_	51	nsubj	_	Treeler:suj
 51	cumpra	cumprir	VERB	VMSP1S0	_	33	ccomp	_	Treeler:S
@@ -3435,7 +3435,7 @@
 24	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 25	unha	un	DET	DI0FS0	_	26	det	_	Treeler:spec
 26	sociedade	sociedade	NOUN	NCFS000	_	23	nmod	_	Treeler:sn
-27	onde	onde	PRON	PR0CN000	_	30	case	_	Treeler:cc
+27	onde	onde	PRON	PR0CN000	_	30	obl	_	Treeler:cc
 28	as	o	DET	DA0FP0	_	29	det	_	Treeler:spec
 29	persoas	persoa	NOUN	NCFP000	_	30	nsubj	_	Treeler:suj
 30	gocen	gozar	VERB	VMSP3P0	_	26	ccomp	_	Treeler:S
@@ -3901,7 +3901,7 @@
 26	outros	outro	DET	DI0MP0	_	27	det	_	Treeler:spec
 27	cancros	cancro	NOUN	NCMP000	_	24	obl	_	SpaceAfter=No|Treeler:sn
 28	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
-29	como	como	PRON	PR0CN000	_	19	case	_	ToDo=case-upos|Treeler:sp
+29	como	como	PRON	PR0CN000	_	19	obl	_	ToDo=case-upos|Treeler:sp
 30	os	o	DET	DA0MP0	_	31	det	_	Treeler:spec
 31	de	de	ADP	SPS00	_	29	nmod	_	Treeler:sn
 32	mama	mama	NOUN	NCFS000	_	31	nmod	_	ToDo=nmod|Treeler:sn
@@ -6116,7 +6116,7 @@
 9	o	o	DET	DA0MS0	_	10	det	_	Treeler:spec
 10	número	número	NOUN	NCMS000	_	7	obl	_	Treeler:sn
 11	anterior	anterior	ADJ	AQ0CS0	_	10	amod	_	Treeler:s.a
-12	cando	cando	PRON	PR0CN000	_	15	case	_	Treeler:cc
+12	cando	cando	PRON	PR0CN000	_	15	obl	_	Treeler:cc
 13	o	o	DET	DA0MS0	_	14	det	_	Treeler:spec
 14	interesado	interesado	NOUN	NCMS000	_	15	nsubj	_	Treeler:suj
 15	percibise	percibir	VERB	VMSI3S0	_	1	nsubj	_	Treeler:suj
@@ -8979,7 +8979,7 @@
 4	neno	neno	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 5-6	escoiteille	_	_	_	_	_	_	_	_
 5	escoitei	escoitar	VERB	VMIS1S0	_	0	root	_	Treeler:sentence
-6	lle	lle	PRON	PP3CSD00	_	5	case	_	Treeler:cc
+6	lle	lle	PRON	PP3CSD00	_	5	obl	_	Treeler:cc
 7	a	a	ADP	SPS00	_	5	obj	_	Treeler:cd
 8	un	un	DET	DI0MS0	_	9	det	_	Treeler:spec
 9	larchán	larchán	NOUN	NCMS000	_	7	nmod	_	ToDo=nmod|Treeler:sn
@@ -11184,7 +11184,7 @@
 
 # sent_id = test-282
 # text = Cando a empresa estea obrigada á realización dunha auditoría externa, os interventores poden ser eximidos da presentación do informe de censura de contas.
-1	Cando	cando	PRON	PR0CN000	_	5	case	_	Treeler:cc
+1	Cando	cando	PRON	PR0CN000	_	5	obl	_	Treeler:cc
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
 3	empresa	empresa	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
 4	estea	estar	AUX	VMSP1S0	_	5	cop	_	Treeler:sentence
@@ -12304,7 +12304,7 @@
 35	os	o	DET	DA0MP0	_	36	det	_	Treeler:spec
 36	terapéuticos	terapéutico	ADJ	AQ0MP0	_	16	amod	_	SpaceAfter=No|Treeler:s.a
 37	,	,	PUNCT	Fc	_	38	punct	_	Treeler:f
-38	como	como	PRON	PR0CN000	_	6	case	_	ToDo=case-upos|Treeler:sp
+38	como	como	PRON	PR0CN000	_	6	obl	_	ToDo=case-upos|Treeler:sp
 39	os	o	DET	DA0MP0	_	40	det	_	Treeler:spec
 40	de	de	ADP	SPS00	_	38	nmod	_	Treeler:sn
 41	convalecencia	convalecencia	NOUN	NCFS000	_	40	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
@@ -12807,7 +12807,7 @@
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	pois	pois	SCONJ	CS	_	17	mark	_	Treeler:conj
 16	é	ser	AUX	VSIP3S0	_	17	cop	_	ToDo=case-upos|Treeler:cc
-17	unha	un	PRON	PI0FS000	_	10	case	_	ToDo=case-upos|Treeler:atr
+17	unha	un	PRON	PI0FS000	_	10	obl	_	ToDo=case-upos|Treeler:atr
 18-19	das	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 19	as	o	DET	DA0FP0	_	20	det	_	Treeler:spec
@@ -16276,7 +16276,7 @@
 
 # sent_id = test-408
 # text = Cando a provisión matemática se calcule unha vez devengada a prestación, o seu importe coincidirá co valor actual actuarial dos pagamentos futuros que a completen.
-1	Cando	cando	PRON	PR0CN000	_	6	case	_	Treeler:cc
+1	Cando	cando	PRON	PR0CN000	_	6	obl	_	Treeler:cc
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
 3	provisión	provisión	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
 4	matemática	matemático	ADJ	AQ0FS0	_	3	amod	_	Treeler:s.a
@@ -17202,7 +17202,7 @@
 
 # sent_id = test-428
 # text = Cando o dano renal é importante aparece sangue e proteínas nos ouriños así  como, se non se trata, retención de líquidos e inchazo dos pés e das pernas.
-1	Cando	cando	PRON	PR0CN000	_	7	case	_	Treeler:cc
+1	Cando	cando	PRON	PR0CN000	_	7	obl	_	Treeler:cc
 2	o	o	DET	DA0MS0	_	3	det	_	Treeler:spec
 3	dano	dano	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 4	renal	renal	ADJ	AQ0CS0	_	3	amod	_	Treeler:s.a
@@ -17561,7 +17561,7 @@
 5	real	real	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
 6	ou	ou	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 7	percibida	percibir	VERB	VMP00SF	_	5	ccomp	_	Treeler:S
-8	como	como	PRON	PR0CN000	_	11	case	_	Treeler:cc
+8	como	como	PRON	PR0CN000	_	11	obl	_	Treeler:cc
 9	tal	tal	DET	DI0CS0	_	11	det	_	SpaceAfter=No|Treeler:spec
 10	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 11	baseada	basear	VERB	VMP00SF	_	5	ccomp	_	Treeler:S
@@ -19865,7 +19865,7 @@
 21	a	o	DET	DA0FS0	_	22	det	_	Treeler:spec
 22	tía	tío	NOUN	NCFS000	_	26	nsubj	_	Treeler:suj
 23	foi	ser	AUX	VSIS3S0	_	26	cop	_	Treeler:sentence
-24	quen	quen	PRON	PR0CC000	_	26	case	_	Treeler:cc
+24	quen	quen	PRON	PR0CC000	_	26	obl	_	Treeler:cc
 25	a	o	PRON	PP3FSA00	_	26	obj	_	Treeler:cd
 26	coidou	coidar	VERB	VMIS3S0	_	0	root	_	SpaceAfter=No|Treeler:atr
 27	.	.	PUNCT	Fp	_	26	punct	_	Treeler:f
@@ -20471,7 +20471,7 @@
 
 # sent_id = test-510
 # text = Cando o coñecemento, as habilidades e as capacidades non poden ser valoradas no mercado externo de forma rápida, o desenvolvemento dun mercado interno é a alternativa adecuada.
-1	Cando	cando	PRON	PR0CN000	_	30	case	_	Treeler:cc
+1	Cando	cando	PRON	PR0CN000	_	30	obl	_	Treeler:cc
 2	o	o	DET	DA0MS0	_	3	det	_	Treeler:spec
 3	coñecemento	coñecemento	NOUN	NCMS000	_	30	nsubj	_	SpaceAfter=No|Treeler:suj
 4	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
@@ -21421,7 +21421,7 @@
 # text = E a quen se lle pide a fe de bautismo?
 1	E	e	CCONJ	CC	_	6	cc	_	Treeler:et
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
-3	quen	quen	PRON	PR0CC000	_	6	case	_	ToDo=case-upos|Treeler:cc
+3	quen	quen	PRON	PR0CC000	_	6	obl	_	ToDo=case-upos|Treeler:cc
 4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
 5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
 6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -28266,7 +28266,7 @@
 2	a	o	DET	DA0FS0	_	4	det	_	Treeler:spec
 3	mesma	mesmo	DET	DI0FS0	_	2	det	_	Treeler:d
 4	forma	forma	NOUN	NCFS000	_	11	obl	_	Treeler:sn
-5	que	que	PRON	PR0CN000	_	11	case	_	Treeler:cc
+5	que	que	PRON	PR0CN000	_	11	obl	_	Treeler:cc
 6	antes	antes	ADV	RG	_	11	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 8	as	o	DET	DA0FP0	_	9	det	_	Treeler:spec
@@ -31413,7 +31413,7 @@
 18	revelando	revelar	VERB	VMG0000	_	17	ccomp	_	Treeler:S
 19	se	se	PRON	PP3CN000	_	18	dep	_	Treeler:morfema.pronominal
 20	este	este	DET	DD0MS0	_	22	det	_	Treeler:spec
-21	como	como	PRON	PR0CN000	_	20	case	_	Treeler:cc
+21	como	como	PRON	PR0CN000	_	20	obl	_	Treeler:cc
 22	pendenciero	pendenciero	PROPN	NP00000	_	18	obj	_	SpaceAfter=No|Treeler:cd
 23	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
@@ -33083,7 +33083,7 @@
 
 # sent_id = test-818
 # text = Cando a organización financiada exhiba o seu propio logotipo, o da cooperación galega deberá figurar co mesmo tamaño e en iguais condicións de seguridade.
-1	Cando	cando	PRON	PR0CN000	_	5	case	_	Treeler:cc
+1	Cando	cando	PRON	PR0CN000	_	5	obl	_	Treeler:cc
 2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
 3	organización	organización	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
 4	financiada	financiar	VERB	VMP00SF	_	3	ccomp	_	Treeler:S
@@ -33246,7 +33246,7 @@
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 8	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
 9	territorio	territorio	NOUN	NCMS000	_	5	nmod	_	Treeler:sn
-10	onde	onde	PRON	PR0CN000	_	12	case	_	Treeler:cc
+10	onde	onde	PRON	PR0CN000	_	12	obl	_	Treeler:cc
 11	se	se	PRON	PP3CN000	_	12	obj	_	Treeler:cd
 12	situará	situar	VERB	VMIF3S0	_	9	ccomp	_	Treeler:S
 13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
@@ -33496,7 +33496,7 @@
 17	posibles	posible	ADJ	AQ0CP0	_	8	case	_	ToDo=case-upos|Treeler:atr
 18	ten	ter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 19	necesariamente	necesariamente	ADV	RG	_	18	case	_	Treeler:cc
-20	como	como	PRON	PR0CN000	_	23	case	_	ToDo=case-upos|Treeler:cc
+20	como	como	PRON	PR0CN000	_	23	obl	_	ToDo=case-upos|Treeler:cc
 21	consecuencia	consecuencia	NOUN	NCFS000	_	20	nmod	_	Treeler:sn
 22	o	o	DET	DA0MS0	_	23	det	_	Treeler:spec
 23-24	apoiarse	_	_	_	_	_	_	_	_
@@ -34123,7 +34123,7 @@
 13	2,5	2,5	NUM	Z	_	11	det	_	Treeler:spec
 14	veces	vez	NOUN	NCFP000	_	7	nmod	_	Treeler:sn
 15	maiores	maior	ADJ	AQ0CP0	_	14	amod	_	Treeler:s.a
-16	que	que	PRON	PR0CN000	_	20	case	_	Treeler:creg
+16	que	que	PRON	PR0CN000	_	20	obl	_	Treeler:creg
 17	un	un	DET	DI0MS0	_	18	det	_	Treeler:spec
 18	Kwh	kwh	NOUN	NCCN000	_	20	nsubj	_	Treeler:suj
 19	térmico	térmico	ADJ	AQ0MS0	_	18	amod	_	Treeler:s.a
