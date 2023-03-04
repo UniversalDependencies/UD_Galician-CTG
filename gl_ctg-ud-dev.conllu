@@ -26046,7 +26046,7 @@
 5	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
 7	figura	figurar	VERB	VMIP3S0	_	4	obl	_	Treeler:sn
-8	12	12	NUM	Z	_	4	case	_	SpaceAfter=No|Treeler:cc
+8	12	12	NUM	Z	_	4	nmod	_	SpaceAfter=No|Treeler:cc
 9	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 10	os	o	DET	DA0MP0	_	11	det	_	Treeler:spec
 11	sectores	sector	NOUN	NCMP000	_	23	nsubj	_	Treeler:suj
@@ -27306,7 +27306,7 @@
 22	se	se	PRON	PP3CN000	_	21	obj	_	Treeler:cd
 23	entre	entre	ADP	SPS00	_	25	cc	_	Treeler:coord
 24	os	o	DET	DA0MP0	_	25	det	_	Treeler:spec
-25	25	25	NUM	Z	_	21	case	_	ToDo=case-upos|Treeler:cc
+25	25	25	NUM	Z	_	21	nmod	_	ToDo=case-upos|Treeler:cc
 26	e	e	CCONJ	CC	_	25	cc	_	ToDo=cc-without-conj|Treeler:coord
 27	os	o	DET	DA0MP0	_	29	det	_	Treeler:spec
 28	34	34	NUM	Z	_	27	nummod	_	Treeler:z
