@@ -22,6 +22,7 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
   * Fixed punctuation-related errors.
   * Fixed UPOS-DEPREL conflicts, especially for the det relation.
   * Fixed: auxiliaries must be tagged AUX, not VERB.
+  * Fixed: function words must be leaves.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Galician to UD_Galician-CTG.
 * 2017-10-23 UD release 2.1:
