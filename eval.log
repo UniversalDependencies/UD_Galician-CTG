@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Galician-CTG:
-commit c637d5c3cc62c41c6a43f4f9dbc22e7205c95ab5
-Merge: 9396e10 24403f6
+commit 980e98191b02083b831eddb0acac2acc4586e420
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 10:09:11 2023 +0200
 Size: counted 138837 of 138837 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.86660116630852.
 Size: maximum value 13.815511 is for 1000000 words or more.
