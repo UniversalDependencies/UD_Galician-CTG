@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Galician-CTG:
-commit 980e98191b02083b831eddb0acac2acc4586e420
+commit 9b6cc69c072405247c859c22eec46fd8a74fdeef
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 10:09:11 2023 +0200
+Date:   Mon Nov 6 11:53:08 2023 +0100
 Size: counted 138837 of 138837 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.86660116630852.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      47096
-Udapi: found 47096 bugs.
+               TOTAL      47088
+Udapi: found 47088 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 138837 words.
 Genres: found 4 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-dev.conllu
@@ -34,6 +34,7 @@ Genres: found 4 out of 17 known.
 [Line 2090 Sent dev-50 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [26, 27] not subtyped as ':outer'.
 [Line 2512 Sent dev-59 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [1, 6] not subtyped as ':outer'.
 [Line 2670 Sent dev-63 Node 17]: [L3 Syntax too-many-subjects] Multiple subjects [2, 12] not subtyped as ':outer'.
+[Line 2737 Sent dev-65 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [2, 16, 23] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 174
 *** FAILED *** with 174 errors
@@ -48,6 +49,7 @@ Exit code: 1
 [Line 2746 Sent test-69 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6, 10] not subtyped as ':outer'.
 [Line 2901 Sent test-73 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 7] not subtyped as ':outer'.
 [Line 3063 Sent test-77 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21, 22] not subtyped as ':outer'.
+[Line 3203 Sent test-81 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 139
 *** FAILED *** with 139 errors
@@ -62,6 +64,7 @@ Exit code: 1
 [Line 1759 Sent train-43 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [5, 13] not subtyped as ':outer'.
 [Line 1897 Sent train-46 Node 33]: [L3 Syntax too-many-subjects] Multiple subjects [30, 32] not subtyped as ':outer'.
 [Line 2147 Sent train-52 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [19, 24] not subtyped as ':outer'.
+[Line 2482 Sent train-61 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [6, 7] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 434
 *** FAILED *** with 434 errors
