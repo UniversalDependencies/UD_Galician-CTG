@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Galician-CTG:
-commit 9b6cc69c072405247c859c22eec46fd8a74fdeef
+commit eabbd483eb75877d8ab3a710bc53231aa593c225
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:53:08 2023 +0100
+Date:   Sun May 5 12:16:49 2024 +0200
 Size: counted 138837 of 138837 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.86660116630852.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -28,6 +28,9 @@ Genres: found 4 out of 17 known.
 [Line 203 Sent dev-6 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [2, 11] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 460 Sent dev-12 Node 33]: [L3 Syntax too-many-subjects] Multiple subjects [32, 41] not subtyped as ':outer'.
 [Line 946 Sent dev-24 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 30] not subtyped as ':outer'.
+[Line 1267 Sent dev-31 Node 30]: [L3 Warning leaf-det] 'det' not expected to have children (30:a:det --> 31:terceiros:dep)
+[Line 1269 Sent dev-31 Node 30]: [L3 Warning leaf-det] 'det' not expected to have children (30:a:det --> 33:33:nummod)
+[Line 1563 Sent dev-38 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Un:det --> 4:debates:nmod)
 [Line 1727 Sent dev-41 Node 34]: [L3 Syntax too-many-subjects] Multiple subjects [32, 36] not subtyped as ':outer'.
 [Line 1863 Sent dev-45 Node 1]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
 [Line 1915 Sent dev-46 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 18] not subtyped as ':outer'.
@@ -36,14 +39,25 @@ Genres: found 4 out of 17 known.
 [Line 2670 Sent dev-63 Node 17]: [L3 Syntax too-many-subjects] Multiple subjects [2, 12] not subtyped as ':outer'.
 [Line 2737 Sent dev-65 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [2, 16, 23] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
+[Line 4101 Sent dev-99 Node 41]: [L3 Warning leaf-det] 'det' not expected to have children (41:a:det --> 42:expensas:dep)
+[Line 7660 Sent dev-189 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Outro:det --> 4:indicadores:nmod)
+[Line 9874 Sent dev-242 Node 27]: [L3 Warning leaf-det] 'det' not expected to have children (27:os:det --> 28:80.000:nummod)
+[Line 12865 Sent dev-314 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:os:det --> 16:próximos:dep)
+[Line 12866 Sent dev-314 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:os:det --> 17:10:nummod)
+[Line 13814 Sent dev-335 Node 35]: [L3 Warning leaf-det] 'det' not expected to have children (35:as:det --> 36:1.430:nummod)
+[Line 15622 Sent dev-378 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:a:det --> 12:diabete:nummod)
+...suppressing further errors regarding Warning
 Syntax errors: 174
+Warnings: 32
 *** FAILED *** with 174 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-test.conllu
+[Line 146 Sent test-4 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:a:det --> 3:EPA:nmod)
 [Line 472 Sent test-10 Node 34]: [L3 Syntax too-many-subjects] Multiple subjects [19, 21] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 859 Sent test-20 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [2, 14, 16] not subtyped as ':outer'.
 [Line 1032 Sent test-25 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [10, 13] not subtyped as ':outer'.
 [Line 1042 Sent test-25 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [2, 27] not subtyped as ':outer'.
+[Line 1537 Sent test-39 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:cada:det --> 6:10:nummod)
 [Line 2363 Sent test-60 Node 44]: [L3 Syntax too-many-subjects] Multiple subjects [38, 42] not subtyped as ':outer'.
 [Line 2452 Sent test-62 Node 37]: [L3 Syntax too-many-subjects] Multiple subjects [32, 41] not subtyped as ':outer'.
 [Line 2746 Sent test-69 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6, 10] not subtyped as ':outer'.
@@ -51,13 +65,25 @@ Exit code: 1
 [Line 3063 Sent test-77 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21, 22] not subtyped as ':outer'.
 [Line 3203 Sent test-81 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
+[Line 4170 Sent test-106 Node 19]: [L3 Warning leaf-det] 'det' not expected to have children (19:os:det --> 20:76:nummod)
+[Line 5429 Sent test-136 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:as:det --> 5:8.869:nummod)
+[Line 7338 Sent test-182 Node 30]: [L3 Warning leaf-det] 'det' not expected to have children (30:as:det --> 31:3/4:nummod)
+[Line 7806 Sent test-196 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:a:det --> 3:lugar:nmod)
+[Line 8731 Sent test-218 Node 14]: [L3 Warning leaf-det] 'det' not expected to have children (14:tales:det --> 15:como:nmod)
+[Line 10779 Sent test-271 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:as:det --> 3:7:nummod)
+[Line 11239 Sent test-283 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:a:det --> 16:principal:amod)
+[Line 12249 Sent test-308 Node 22]: [L3 Warning leaf-det] 'det' not expected to have children (22:seus:det --> 23:deberes:obj)
+...suppressing further errors regarding Warning
 Syntax errors: 139
+Warnings: 34
 *** FAILED *** with 139 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-train.conllu
 [Line 135 Sent train-4 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [2, 16] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 206 Sent train-6 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [2, 7] not subtyped as ':outer'.
 [Line 270 Sent train-7 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] not subtyped as ':outer'.
+[Line 389 Sent train-10 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Os:det --> 2:326:nummod)
+[Line 428 Sent train-10 Node 38]: [L3 Warning leaf-det] 'det' not expected to have children (38:os:det --> 39:315:nummod)
 [Line 471 Sent train-12 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [1, 3] not subtyped as ':outer'.
 [Line 1126 Sent train-28 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 8] not subtyped as ':outer'.
 [Line 1347 Sent train-34 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [9, 24] not subtyped as ':outer'.
@@ -66,7 +92,17 @@ Exit code: 1
 [Line 2147 Sent train-52 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [19, 24] not subtyped as ':outer'.
 [Line 2482 Sent train-61 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [6, 7] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
+[Line 3027 Sent train-73 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:as:det --> 18:29.947:nummod)
+[Line 4053 Sent train-98 Node 14]: [L3 Warning leaf-det] 'det' not expected to have children (14:uns:det --> 15:200.000:nummod)
+[Line 5206 Sent train-126 Node 28]: [L3 Warning leaf-det] 'det' not expected to have children (28:a:det --> 29:gráfica:dep)
+[Line 7073 Sent train-171 Node 22]: [L3 Warning leaf-det] 'det' not expected to have children (22:os:det --> 23:203:nummod)
+[Line 7086 Sent train-171 Node 33]: [L3 Warning leaf-det] 'det' not expected to have children (33:os:det --> 34:37,6:nummod)
+[Line 8241 Sent train-201 Node 29]: [L3 Warning leaf-det] 'det' not expected to have children (29:unha:det --> 30:ou:mark)
+[Line 8654 Sent train-211 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:as:det --> 9:primeiras:dep)
+[Line 8655 Sent train-211 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:as:det --> 10:20:nummod)
+...suppressing further errors regarding Warning
 Syntax errors: 434
+Warnings: 112
 *** FAILED *** with 434 errors
 Exit code: 1
 Validity: 0.01
