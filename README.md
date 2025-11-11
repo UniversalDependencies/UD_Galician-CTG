@@ -46,6 +46,7 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 Data available since: UD v1.3
 License: CC BY-NC-SA 3.0
 Includes text: yes
+Parallel: no
 Genre: medical legal nonfiction news
 Lemmas: converted from manual
 UPOS: converted from manual
