@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Galician-CTG:
-commit 317c62f0274e7609fbab2fd6a5f7665406e25ab6
+commit 256cec703f035b66a252e2f8f2115f680e0b3277
+Merge: 1a3417d 8ba69bd
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 15:24:38 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'gl_ctg'
+Language code (from CoNLL-U file name) = 'gl'
+Found the following data files: gl_ctg-ud-dev.conllu, gl_ctg-ud-test.conllu, gl_ctg-ud-train.conllu
 Size: counted 138837 of 138837 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.86660116630852.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,67 +23,105 @@ Features: 289 out of 138837 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL      45700
-Udapi: found 45700 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 138837 words.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-dev.conllu
-[Line 203 Sent dev-6 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [2, 11] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 460 Sent dev-12 Node 33]: [L3 Syntax too-many-subjects] Multiple subjects [32, 41] not subtyped as ':outer'.
-[Line 946 Sent dev-24 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 30] not subtyped as ':outer'.
-[Line 1267 Sent dev-31 Node 30]: [L3 Syntax leaf-det] 'det' not expected to have children (30:a:det --> 31:terceiros:dep)
-[Line 1269 Sent dev-31 Node 30]: [L3 Syntax leaf-det] 'det' not expected to have children (30:a:det --> 33:33:nummod)
-[Line 1563 Sent dev-38 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Un:det --> 4:debates:nmod)
-[Line 1727 Sent dev-41 Node 34]: [L3 Syntax too-many-subjects] Multiple subjects [32, 36] not subtyped as ':outer'.
-[Line 1863 Sent dev-45 Node 1]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
-[Line 1915 Sent dev-46 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 18] not subtyped as ':outer'.
-[Line 2090 Sent dev-50 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [26, 27] not subtyped as ':outer'.
+[Line 27 Sent dev-1]: [L3 Syntax too-many-objects] Multiple direct objects [24, 33] ('mediana', 'síntomas') under the predicate 'incrementa'.
+[Line 103 Sent dev-3]: [L3 Syntax too-many-objects] Multiple direct objects [13, 17] ('os', 'atenuación') under the predicate 'considerar'.
+[Line 203 Sent dev-6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 11] ('situacións', 'persoas') under the predicate 'viven' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 263 Sent dev-7]: [L3 Syntax too-many-objects] Multiple direct objects [17, 22] ('que', 'a') under the predicate 'realizar'.
+[Line 279 Sent dev-8]: [L3 Syntax too-many-objects] Multiple direct objects [6, 10] ('se', 'risco') under the predicate 'presenta'.
+[Line 289 Sent dev-8]: [L3 Syntax too-many-objects] Multiple direct objects [16, 20] ('a', 'sentido') under the predicate 'dea'.
+[Line 302 Sent dev-8]: [L3 Syntax too-many-objects] Multiple direct objects [24, 30] ('se', 'cumprimento') under the predicate 'esixir'.
+[Line 331 Sent dev-9]: [L3 Syntax too-many-objects] Multiple direct objects [6, 8] ('a', 'provincia') under the predicate 'dar'.
+[Line 392 Sent dev-11]: [L3 Syntax too-many-objects] Multiple direct objects [10, 18] ('correntes', 'corrente') under the predicate 'redirixiría'.
+[Line 432 Sent dev-12]: [L3 Syntax too-many-objects] Multiple direct objects [12, 13] ('ás', 'sociedades') under the predicate 'educar'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 206
-*** FAILED *** with 206 errors
+[Line 5 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 10 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 13 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 21 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 28 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 37 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'os' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 40 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 46 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 50 Sent dev-1]: [L3 Warning pron-det-without-prontype] The word 'os' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 57 Sent dev-2]: [L3 Warning pron-det-without-prontype] The word 'todo' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Syntax errors: 440
+Warnings: 6485
+*** FAILED *** with 440 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-test.conllu
-[Line 146 Sent test-4 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:a:det --> 3:EPA:nmod)
-[Line 472 Sent test-10 Node 34]: [L3 Syntax too-many-subjects] Multiple subjects [19, 21] not subtyped as ':outer'.
-[Line 859 Sent test-20 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [2, 14, 16] not subtyped as ':outer'.
-[Line 1032 Sent test-25 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [10, 13] not subtyped as ':outer'.
-[Line 1042 Sent test-25 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [2, 27] not subtyped as ':outer'.
-[Line 1537 Sent test-39 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:cada:det --> 6:10:nummod)
-[Line 2363 Sent test-60 Node 44]: [L3 Syntax too-many-subjects] Multiple subjects [38, 42] not subtyped as ':outer'.
-[Line 2452 Sent test-62 Node 37]: [L3 Syntax too-many-subjects] Multiple subjects [32, 41] not subtyped as ':outer'.
-[Line 2746 Sent test-69 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6, 10] not subtyped as ':outer'.
-[Line 2901 Sent test-73 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 7] not subtyped as ':outer'.
+[Line 64 Sent test-2]: [L3 Syntax too-many-objects] Multiple direct objects [5, 10] ('se', 'tecla') under the predicate 'pulsando'.
+[Line 146 Sent test-4]: [L3 Syntax leaf-det] 'det' not expected to have children (2:a:det --> 3:EPA:nmod)
+[Line 200 Sent test-5]: [L3 Syntax too-many-objects] Multiple direct objects [8, 11, 12] ('se', 'comarca', 'a') under the predicate 'forman'.
+[Line 294 Sent test-7]: [L3 Syntax too-many-objects] Multiple direct objects [4, 13] ('a', 'medio') under the predicate 'porá'.
+[Line 6 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 19 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 23 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'estes' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 29 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 33 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 36 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 40 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'as' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 43 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'os' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 48 Sent test-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 58 Sent test-2]: [L3 Warning pron-det-without-prontype] The word 'esta' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 472 Sent test-10]: [L3 Syntax too-many-subjects] Multiple subjects [19, 21] ('como', 'consumo') under the predicate 'coa' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 591 Sent test-14]: [L3 Syntax too-many-objects] Multiple direct objects [3, 5] ('se', 'a') under the predicate 'atendemos'.
+[Line 687 Sent test-16]: [L3 Syntax too-many-objects] Multiple direct objects [32, 33] ('dúas', 'reunións') under the predicate 'volveu'.
+[Line 803 Sent test-18]: [L3 Syntax too-many-objects] Multiple direct objects [12, 15] ('se', 'comportamento') under the predicate 'dá'.
+[Line 859 Sent test-20]: [L3 Syntax too-many-subjects] Multiple subjects [2, 14, 16] ('plano', 'como', 'activo') under the predicate 'plano' not subtyped as ':outer'.
+[Line 886 Sent test-21]: [L3 Syntax too-many-objects] Multiple direct objects [19, 23] ('se', 'pagamento') under the predicate 'efectuara'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 173
-*** FAILED *** with 173 errors
+Syntax errors: 365
+Warnings: 6238
+*** FAILED *** with 365 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang gl --max-err=10 UD_Galician-CTG/gl_ctg-ud-train.conllu
-[Line 135 Sent train-4 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [2, 16] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 206 Sent train-6 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [2, 7] not subtyped as ':outer'.
-[Line 270 Sent train-7 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] not subtyped as ':outer'.
-[Line 389 Sent train-10 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Os:det --> 2:326:nummod)
-[Line 428 Sent train-10 Node 38]: [L3 Syntax leaf-det] 'det' not expected to have children (38:os:det --> 39:315:nummod)
-[Line 471 Sent train-12 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [1, 3] not subtyped as ':outer'.
-[Line 1126 Sent train-28 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 8] not subtyped as ':outer'.
-[Line 1347 Sent train-34 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [9, 24] not subtyped as ':outer'.
-[Line 1759 Sent train-43 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [5, 13] not subtyped as ':outer'.
-[Line 1897 Sent train-46 Node 33]: [L3 Syntax too-many-subjects] Multiple subjects [30, 32] not subtyped as ':outer'.
+[Line 7 Sent train-1]: [L3 Syntax too-many-objects] Multiple direct objects [5, 8] ('se', 'dependencia') under the predicate 'aprecia'.
+[Line 76 Sent train-2]: [L3 Syntax too-many-objects] Multiple direct objects [25, 27] ('mercado', 'fronte') under the predicate 'perdendo'.
+[Line 135 Sent train-4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 16] ('adopción', 'dispoña') under the predicate 'xustificada' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 139 Sent train-4]: [L3 Syntax too-many-objects] Multiple direct objects [15, 25] ('se', 'custo') under the predicate 'dispoña'.
+[Line 206 Sent train-6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 7] ('seguida', 'atribúen') under the predicate 'sitúan' not subtyped as ':outer'.
+[Line 210 Sent train-6]: [L3 Syntax too-many-objects] Multiple direct objects [4, 10] ('se', 'desenvolvemento') under the predicate 'atribúen'.
+[Line 270 Sent train-7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] ('proceso', 'PEFC') under the predicate 'leva' not subtyped as ':outer'.
+[Line 389 Sent train-10]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Os:det --> 2:326:nummod)
+[Line 428 Sent train-10]: [L3 Syntax leaf-det] 'det' not expected to have children (38:os:det --> 39:315:nummod)
+[Line 471 Sent train-12]: [L3 Syntax too-many-subjects] Multiple subjects [1, 3] ('Cara', 'manteñemento') under the predicate 'contemplase' not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-[Line 50682 Sent train-1235 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Malia todo' does not have the 'ExtPos' feature
-Syntax errors: 546
-Warnings: 1
-*** FAILED *** with 546 errors
+[Line 8 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'se' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 9 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'unha' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 13 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 19 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 27 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'os' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 30 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'que' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 33 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'o' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 41 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 45 Sent train-1]: [L3 Warning pron-det-without-prontype] The word 'os' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Syntax errors: 1111
+Warnings: 17114
+*** FAILED *** with 1111 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
-(weight=0.0769230769230769) * (score{genres}=0.222222222222222) = 0.0170940170940171
-(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.714168406944663) = 0.183120104344785
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.431493726836055) * (availability=1) * (validity=0.01) = 0.00431493726836055
+(weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.714168406944663) = 0.264506817386912
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.627027027027027) = 0.0696696696696697
+(TOTAL score=0.618824272096524) * (availability=1) * (validity=0.01) = 0.00618824272096524
 STARS = 0
-UD_Galician-CTG	0.00431493726836055	0
+UD_Galician-CTG	0.00618824272096524	0
