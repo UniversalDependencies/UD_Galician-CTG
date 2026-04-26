@@ -16990,7 +16990,7 @@
 36	e	e	CCONJ	CC	_	31	cc	_	Treeler:coord
 37	non	non	PART	RN	_	38	advmod	_	Treeler:mod
 38	leva	levar	VERB	VMIP3S0	_	13	ccomp	_	Treeler:S
-39	consigo	consigo	PRON	PP3CSO00	_	38	nsubj	_	Treeler:suj
+39	consigo	consigo	PRON	PP3CSO00	PronType=Prs|Reflex=Yes	38	nsubj	_	Treeler:suj
 40	xuro	xuro	NOUN	NCMS000	_	38	obj	_	Treeler:cd
 41	algún	algún	DET	DI0MS0	PronType=Ind	40	amod	_	SpaceAfter=No|Treeler:s.a
 42	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
@@ -21792,7 +21792,7 @@
 28	dito	dito	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
 29	ou	ou	CCONJ	CC	_	31	cc	_	Treeler:coord
 30	en	en	ADP	SPS00	_	31	case	_	Treeler:sp
-31	si	si	PRON	PP3CNO00	_	28	conj	_	Treeler:sn
+31	si	si	PRON	PP3CNO00	PronType=Prs|Reflex=Yes	28	conj	_	Treeler:sn
 32	mesmos	mesmo	DET	DI0MP0	PronType=Ind	31	nmod	_	SpaceAfter=No|Treeler:sn
 33	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 

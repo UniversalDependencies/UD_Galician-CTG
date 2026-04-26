@@ -10773,7 +10773,7 @@
 41	xestionar	xestionar	VERB	VMN0000	_	36	ccomp	_	Treeler:S
 42	os	o	PRON	PP3MPA00	PronType=Prs	41	obj	_	Treeler:cd
 43	por	por	ADP	SPS00	_	44	case	_	Treeler:cc
-44	si	si	PRON	PP3CNO00	_	41	obl	_	Treeler:sn
+44	si	si	PRON	PP3CNO00	PronType=Prs|Reflex=Yes	41	obl	_	Treeler:sn
 45	mesmos	mesmo	DET	DI0MP0	PronType=Ind	36	dep	_	SpaceAfter=No|Treeler:ao
 46	.	.	PUNCT	Fp	_	36	punct	_	Treeler:f
 
@@ -11364,7 +11364,7 @@
 21	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	22	obj	_	Treeler:cd
 22	responsabilicen	responsabilizar	VERB	VMSP3P0	_	10	ccomp	_	Treeler:S
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:creg
-24	si	si	PRON	PP3CNO00	_	22	obl	_	Treeler:sn
+24	si	si	PRON	PP3CNO00	PronType=Prs|Reflex=Yes	22	obl	_	Treeler:sn
 25	mesmos	mesmo	DET	DI0MP0	PronType=Ind	22	nsubj	_	SpaceAfter=No|Treeler:suj
 26	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 27	é	ser	AUX	VSIP3S0	_	28	cop	_	Treeler:S
@@ -17611,7 +17611,7 @@
 2	política	política	NOUN	NCFS000	_	4	nsubj	_	Treeler:suj
 3	pública	público	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
 4	leva	levar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-5	consigo	consigo	PRON	PP3CSO00	_	4	nsubj	_	Treeler:suj
+5	consigo	consigo	PRON	PP3CSO00	PronType=Prs|Reflex=Yes	4	nsubj	_	Treeler:suj
 6	a	o	DET	DA0FS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
 7	formulación	formulación	NOUN	NCFS000	_	4	obj	_	Treeler:cd
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
@@ -25927,7 +25927,7 @@
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
 2	recombustión	recombustión	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3	leva	levar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-4	consigo	consigo	PRON	PP3CSO00	_	3	nsubj	_	Treeler:suj
+4	consigo	consigo	PRON	PP3CSO00	PronType=Prs|Reflex=Yes	3	nsubj	_	Treeler:suj
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	inxección	inxección	NOUN	NCFS000	_	3	obj	_	Treeler:cd
 7-8	do	_	_	_	_	_	_	_	_
