@@ -11301,7 +11301,7 @@
 8	incentivar	incentivar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 9	e	e	CCONJ	CC	_	10	cc	_	Treeler:coord
 10	executar	executar	VERB	VMN0000	_	6	conj	_	Treeler:S
-11	cantas	canto	DET	DI0FP0	_	12	det	_	Treeler:spec
+11	cantas	canto	DET	DI0FP0	PronType=Rel	12	det	_	Treeler:spec
 12	accións	acción	NOUN	NCFP000	_	10	obj	_	Treeler:cd
 13	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	obj	_	Treeler:cd
 14	orienten	orientar	VERB	VMSP3P0	_	12	ccomp	_	Treeler:S
