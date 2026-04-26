@@ -12807,7 +12807,7 @@
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	pois	pois	SCONJ	CS	_	17	mark	_	Treeler:conj
 16	é	ser	AUX	VSIP3S0	_	17	cop	_	Treeler:cc
-17	unha	un	PRON	PI0FS000	_	10	obl	_	Treeler:atr
+17	unha	un	PRON	PI0FS000	PronType=Ind	10	obl	_	Treeler:atr
 18-19	das	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 19	as	o	DET	DA0FP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
@@ -29951,7 +29951,7 @@
 # sent_id = test-738
 # text = Cada unha das áreas que definen a CVRS posúe así mesmo diferentes compoñentes que deben ser necesariamente valorados para obter esa visión global que se busca.
 1	Cada	cada	DET	DI0NN0	PronType=Tot	2	det	_	Treeler:spec
-2	unha	un	PRON	PI0FS000	_	10	nsubj	_	Treeler:suj
+2	unha	un	PRON	PI0FS000	PronType=Ind	10	nsubj	_	Treeler:suj
 3-4	das	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
 4	as	o	DET	DA0FP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -32246,7 +32246,7 @@
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	tanto	tanto	ADV	RG	_	27	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	unha	un	PRON	PI0FS000	_	27	nsubj	_	Treeler:suj
+5	unha	un	PRON	PI0FS000	PronType=Ind	27	nsubj	_	Treeler:suj
 6-7	das	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 7	as	o	DET	DA0FP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
