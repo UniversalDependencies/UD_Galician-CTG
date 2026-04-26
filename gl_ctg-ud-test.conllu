@@ -9144,7 +9144,7 @@
 18	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	19	obj	_	Treeler:cd
 19	precipita	precipitar	VERB	VMIP3S0	_	15	ccomp	_	Treeler:S
 20	dende	dende	ADP	SPS00	_	25	case	_	Treeler:cc
-21	algo	algo	PRON	PI0CN000	_	22	dep	_	Treeler:p
+21	algo	algo	PRON	PI0CN000	PronType=Ind	22	dep	_	Treeler:p
 22	máis	máis	ADV	RG	_	25	advmod	_	Treeler:spec
 23	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 24	15	15	NUM	Z	_	22	nummod	_	Treeler:z
@@ -9911,7 +9911,7 @@
 29-30	nas	_	_	_	_	_	_	_	_
 29	en	en	ADP	SPS00	_	32	case	_	Treeler:sp
 30	as	o	DET	DA0FP0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
-31	demais	demais	DET	DI0CN0	_	32	det	_	Treeler:d
+31	demais	demais	DET	DI0CN0	PronType=Ind	32	det	_	Treeler:d
 32	políticas	política	NOUN	NCFP000	_	19	nmod	_	Treeler:sn
 33	sectoriais	sectorial	ADJ	AQ0CP0	_	32	amod	_	SpaceAfter=No|Treeler:s.a
 34	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
@@ -12072,7 +12072,7 @@
 18	que	que	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
 19	fixa	fixar	VERB	VMIP3S0	_	16	ccomp	_	Treeler:S
 20	a	a	ADP	SPS00	_	22	case	_	Treeler:cd
-21	propia	propio	DET	DI0FS0	_	22	det	_	Treeler:spec
+21	propia	propio	DET	DI0FS0	PronType=Ind	22	det	_	Treeler:spec
 22	lei	lei	NOUN	NCFS000	_	19	obj	_	SpaceAfter=No|Treeler:sn
 23	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 24	conceda	conceder	VERB	VMSP1S0	_	5	nsubj	_	Treeler:suj
@@ -17575,12 +17575,12 @@
 18	males	mal	NOUN	NCMP000	_	16	obj	_	SpaceAfter=No|Treeler:cd
 19	-	_	PUNCT	Fg	_	18	punct	_	Treeler:f
 20	a	a	ADP	SPS00	_	21	case	_	Treeler:ci
-21	alguén	alguén	PRON	PI0CN000	_	16	iobj	_	Treeler:sn
+21	alguén	alguén	PRON	PI0CN000	PronType=Ind	16	iobj	_	Treeler:sn
 22	externo	externo	ADJ	AQ0MS0	_	21	amod	_	Treeler:s.a
 23-24	á	_	_	_	_	_	_	_	_
 23	a	a	ADP	SPS00	_	26	case	_	Treeler:ci
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	propia	propio	DET	DI0FS0	_	26	det	_	Treeler:d
+25	propia	propio	DET	DI0FS0	PronType=Ind	26	det	_	Treeler:d
 26	comunidade	comunidade	NOUN	NCFS000	_	16	iobj	_	SpaceAfter=No|Treeler:sn
 27	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -25047,7 +25047,7 @@
 20	-	_	PUNCT	Fg	_	21	punct	_	Treeler:f
 21	las	la	NOUN	NCFP000	_	19	obj	_	Treeler:cd
 22	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	24	det	_	Treeler:spec
-23	propias	propio	DET	DI0FP0	_	24	det	_	Treeler:d
+23	propias	propio	DET	DI0FP0	PronType=Ind	24	det	_	Treeler:d
 24	comunidades	comunidade	NOUN	NCFP000	_	21	nmod	_	Treeler:sn
 25	comportará	comportar	VERB	VMIF3S0	_	19	ccomp	_	Treeler:S
 26	necesariamente	necesariamente	ADV	RG	_	25	case	_	Treeler:cc
@@ -26431,7 +26431,7 @@
 16	para	para	ADP	SPS00	_	21	case	_	Treeler:cc
 17	que	que	SCONJ	CS	_	21	mark	_	Treeler:conj
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	propia	propio	DET	DI0FS0	_	20	det	_	Treeler:d
+19	propia	propio	DET	DI0FS0	PronType=Ind	20	det	_	Treeler:d
 20	tripulación	tripulación	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
 21	recolla	recoller	VERB	VMSP3S0	_	12	ccomp	_	Treeler:S
 22	fotos	foto	NOUN	NCFP000	_	21	obj	_	SpaceAfter=No|Treeler:cd
@@ -27621,7 +27621,7 @@
 29-30	das	_	_	_	_	_	_	_	_
 29	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
 30	as	o	DET	DA0FP0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
-31	propias	propio	DET	DI0FP0	_	32	det	_	Treeler:d
+31	propias	propio	DET	DI0FP0	PronType=Ind	32	det	_	Treeler:d
 32	instalacións	instalación	NOUN	NCFP000	_	11	nmod	_	SpaceAfter=No|Treeler:sn
 33	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 

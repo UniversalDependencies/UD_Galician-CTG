@@ -5996,7 +5996,7 @@
 6	tiñamos	ter	VERB	VMII1P0	_	3	ccomp	_	Treeler:S
 7	para	para	ADP	SPS00	_	8	case	_	Treeler:cc
 8	facer	facer	VERB	VMN0000	_	6	ccomp	_	Treeler:S
-9	algo	algo	PRON	PI0CN000	_	8	obj	_	Treeler:cd
+9	algo	algo	PRON	PI0CN000	PronType=Ind	8	obj	_	Treeler:cd
 10	que	que	PRON	PR0CN000	PronType=Rel	14	nsubj	_	Treeler:suj
 11	normalmente	normal	ADV	RG	_	14	case	_	Treeler:cc
 12	non	non	PART	RN	_	14	advmod	_	Treeler:mod
@@ -8131,7 +8131,7 @@
 26	en	en	ADP	SPS00	_	31	case	_	Treeler:cc
 27	todo	todo	DET	DI0MS0	PronType=Tot	31	det	_	Treeler:d
 28	o	o	DET	DA0MS0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
-29	demais	demais	DET	DI0CN0	_	31	det	_	Treeler:d
+29	demais	demais	DET	DI0CN0	PronType=Ind	31	det	_	Treeler:d
 30	(	(	PUNCT	Fpa	_	31	punct	_	SpaceAfter=No|Treeler:f
 31	Universitat	universitat	PROPN	NP00000	_	22	obl	_	Treeler:sn
 32	Oberta	oberta	VERB	VMP00SF	_	31	ccomp	_	Treeler:S
@@ -8381,7 +8381,7 @@
 19	teñen	ter	VERB	VMIP3P0	_	1	obj	_	Treeler:cd
 20	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	21	det	_	Treeler:spec
 21	tendencia	tendencia	NOUN	NCFS000	_	19	obj	_	Treeler:cd
-22	algo	algo	PRON	PI0CN000	_	19	obj	_	Treeler:cd
+22	algo	algo	PRON	PI0CN000	PronType=Ind	19	obj	_	Treeler:cd
 23	máis	máis	ADV	RG	_	24	advmod	_	Treeler:spec
 24	castelanizadora	castelanizadora	ADJ	AQ0FS0	_	22	amod	_	Treeler:s.a
 25	ca	ca	SCONJ	CS	_	27	mark	_	Treeler:conj
@@ -9561,7 +9561,7 @@
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	valorar	valorar	VERB	VMN0000	_	12	ccomp	_	Treeler:S
 4	a	a	ADP	SPS00	_	6	case	_	Treeler:cd
-5	propia	propio	DET	DI0FS0	_	6	det	_	Treeler:spec
+5	propia	propio	DET	DI0FS0	PronType=Ind	6	det	_	Treeler:spec
 6	saúde	saúde	NOUN	NCFS000	_	3	obj	_	Treeler:sn
 7	mental	mental	ADJ	AQ0CS0	_	6	amod	_	SpaceAfter=No|Treeler:s.a
 8	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
@@ -14193,7 +14193,7 @@
 16	con	con	ADP	SPS00	_	17	case	_	Treeler:sp
 17	personalidade	personalidade	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
 18	xurídica	xurídico	ADJ	AQ0FS0	_	17	amod	_	Treeler:s.a
-19	propia	propio	DET	DI0FS0	_	17	det	_	Treeler:d
+19	propia	propio	DET	DI0FS0	PronType=Ind	17	det	_	Treeler:d
 20	que	que	PRON	PR0CN000	PronType=Rel	21	nsubj	_	Treeler:suj
 21	ten	ter	VERB	VMIP3S0	_	17	ccomp	_	Treeler:S
 22	afectado	afectar	VERB	VMP00SM	_	21	xcomp	_	Treeler:cpred
@@ -18083,7 +18083,7 @@
 8	e	e	CCONJ	CC	_	9	cc	_	Treeler:coord
 9	conducido	conducir	VERB	VMP00SM	_	4	conj	_	Treeler:S
 10	por	por	ADP	SPS00	_	11	case	_	Treeler:cag
-11	alguén	alguén	PRON	PI0CN000	_	9	obl	_	Treeler:sn
+11	alguén	alguén	PRON	PI0CN000	PronType=Ind	9	obl	_	Treeler:sn
 12	probablemente	probable	ADV	RG	_	13	advmod	_	Treeler:spec
 13	bébedo	bébedo	ADJ	AQ0MS0	_	11	amod	_	SpaceAfter=No|Treeler:s.a
 14	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
@@ -22691,7 +22691,7 @@
 1-2	Polo	_	_	_	_	_	_	_	_
 1	Por	por	ADP	SPS00	_	6	case	_	Treeler:cc
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
-3	demais	demais	DET	DI0CN0	_	6	det	_	SpaceAfter=No|Treeler:d
+3	demais	demais	DET	DI0CN0	PronType=Ind	6	det	_	SpaceAfter=No|Treeler:d
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	as	o	DET	DA0FP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	alucinacións	alucinación	NOUN	NCFP000	_	24	obl	_	Treeler:sn
@@ -22841,7 +22841,7 @@
 21	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 22	terá	ter	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 23	as	o	DET	DA0FP0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	demais	demais	DET	DI0CN0	_	25	det	_	Treeler:d
+24	demais	demais	DET	DI0CN0	PronType=Ind	25	det	_	Treeler:d
 25	funcións	función	NOUN	NCFP000	_	22	obj	_	Treeler:cd
 26	que	que	PRON	PR0CN000	PronType=Rel	29	nsubj	_	Treeler:suj
 27	lle	lle	PRON	PP3CSD00	PronType=Prs	29	iobj	_	Treeler:ci
@@ -25630,7 +25630,7 @@
 9	idea	idea	NOUN	NCFS000	_	30	nsubj	_	Treeler:suj
 10	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 11	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
-12	alguén	alguén	PRON	PI0CN000	_	19	nsubj	_	Treeler:suj
+12	alguén	alguén	PRON	PI0CN000	PronType=Ind	19	nsubj	_	Treeler:suj
 13	e	e	CCONJ	CC	_	12	cc	_	Treeler:coord
 14	en	en	ADP	SPS00	_	15	case	_	Treeler:cc
 15	especial	especial	ADJ	AQ0CS0	_	19	obl	_	Treeler:sn
@@ -27213,7 +27213,7 @@
 30-31	coa	_	_	_	_	_	_	_	_
 30	con	con	ADP	SPS00	_	33	case	_	Treeler:cc
 31	a	o	DET	DA0FS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	propia	propio	DET	DI0FS0	_	33	det	_	Treeler:d
+32	propia	propio	DET	DI0FS0	PronType=Ind	33	det	_	Treeler:d
 33	Administración	administración	NOUN	NCFS000	_	29	obl	_	SpaceAfter=No|Treeler:sn
 34	.	.	PUNCT	Fp	_	14	punct	_	Treeler:f
 
@@ -27644,7 +27644,7 @@
 1	Por	por	ADP	SPS00	_	5	case	_	Treeler:cc
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 3	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	5	det	_	Treeler:spec
-4	propia	propio	DET	DI0FS0	_	5	det	_	Treeler:d
+4	propia	propio	DET	DI0FS0	PronType=Ind	5	det	_	Treeler:d
 5	natureza	natureza	NOUN	NCFS000	_	11	obl	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
@@ -30236,7 +30236,7 @@
 22	incluso	incluso	ADV	RG	_	26	advmod	_	Treeler:sadv
 23	para	para	ADP	SPS00	_	26	case	_	Treeler:sp
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	propia	propio	DET	DI0FS0	_	26	det	_	Treeler:d
+25	propia	propio	DET	DI0FS0	PronType=Ind	26	det	_	Treeler:d
 26	explotación	explotación	NOUN	NCFS000	_	19	conj	_	Treeler:sn
 27	e	e	CCONJ	CC	_	30	cc	_	Treeler:coord
 28	que	que	PRON	PR0CN000	PronType=Rel	30	nsubj	_	Treeler:suj
@@ -32575,7 +32575,7 @@
 22	que	que	PRON	PR0CN000	PronType=Rel	24	obj	_	Treeler:cd
 23	viña	vir	AUX	VMII1S0	_	24	aux	_	Treeler:v
 24	traer	traer	VERB	VMN0000	_	20	ccomp	_	Treeler:S
-25	algo	algo	PRON	PI0CN000	_	24	obj	_	Treeler:cd
+25	algo	algo	PRON	PI0CN000	PronType=Ind	24	obj	_	Treeler:cd
 26	de	de	ADP	SPS00	_	27	case	_	Treeler:cc
 27	esperanza	esperanza	NOUN	NCFS000	_	24	obl	_	SpaceAfter=No|Treeler:sn
 28	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
@@ -33503,7 +33503,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	18	case	_	Treeler:creg
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	propia	propio	DET	DI0FS0	_	18	det	_	Treeler:d
+17	propia	propio	DET	DI0FS0	PronType=Ind	18	det	_	Treeler:d
 18	diversidade	diversidade	NOUN	NCFS000	_	14	obl	_	Treeler:sn
 19	cultural	cultural	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
 20	local	local	ADJ	AQ0CS0	_	18	amod	_	SpaceAfter=No|Treeler:s.a
@@ -33668,7 +33668,7 @@
 13	transformar	transformar	VERB	VMN0000	_	9	conj	_	Treeler:S
 14	o	o	PRON	PP3MSA00	PronType=Prs	13	obj	_	Treeler:cd
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:creg
-16	algo	algo	PRON	PI0CN000	_	13	obl	_	Treeler:sn
+16	algo	algo	PRON	PI0CN000	PronType=Ind	13	obl	_	Treeler:sn
 17	útil	útil	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
 18-19	na	_	_	_	_	_	_	_	_
 18	en	en	ADP	SPS00	_	20	case	_	Treeler:creg
