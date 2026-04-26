@@ -1373,7 +1373,7 @@
 42	,	,	PUNCT	Fc	_	41	punct	_	Treeler:f
 43	indica	indicar	VERB	VMIP3S0	_	51	obl	_	Treeler:sn
 44	ata	ata	ADP	SPS00	_	46	case	_	Treeler:cc
-45	qué	que	DET	DT0CN0	_	46	det	_	Treeler:spec
+45	qué	que	DET	DT0CN0	PronType=Int	46	det	_	Treeler:spec
 46	punto	punto	NOUN	NCMS000	_	51	obl	_	Treeler:sn
 47	os	o	DET	DA0MP0	Definite=Def|PronType=Art	48	det	_	Treeler:spec
 48	factores	factor	NOUN	NCMP000	_	51	nsubj	_	Treeler:suj
