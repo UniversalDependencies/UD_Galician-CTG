@@ -1723,8 +1723,8 @@
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 3	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	2	det	_	Treeler:d
 4	part	part	PROPN	NP00000	_	16	obl	_	Treeler:sn
-5	e	e	CCONJ	CC	_	6	cc	_	SpaceAfter=No|Treeler:coord
-6	,	,	PUNCT	Fc	_	4	conj	_	Treeler:f
+5	e	e	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Treeler:coord
+6	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 7	os	o	DET	DA0MP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	prezos	prezo	NOUN	NCMP000	_	16	nsubj	_	Treeler:suj
 9-10	dos	_	_	_	_	_	_	_	_
