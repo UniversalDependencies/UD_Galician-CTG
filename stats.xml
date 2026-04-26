@@ -40,7 +40,7 @@
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
     <feat name="PronType" value="Art" upos="DET">20226</feat><!-- o, a, os, as, un, unha, unhas -->
     <feat name="PronType" value="Dem" upos="DET,PRON">1295</feat><!-- este, esta, estes, estas, isto, ese, aqueles, iso, esa, aquelas -->
-    <feat name="PronType" value="Ind" upos="DET">609</feat><!-- outros, mesmo, outra, outras, outro, calquera, mesma, mesmos, certa, mesmas -->
+    <feat name="PronType" value="Ind" upos="DET">683</feat><!-- outros, mesmo, outra, outras, outro, calquera, mesma, algún, algunhas, algunha -->
     <feat name="PronType" value="Prs" upos="PRON">2181</feat><!-- se -->
     <feat name="PronType" value="Rel" upos="DET,PRON">2502</feat><!-- que, como, cal, quen, cales -->
     <feat name="PronType" value="Tot" upos="DET">464</feat><!-- cada, todo, todos, todas, toda -->

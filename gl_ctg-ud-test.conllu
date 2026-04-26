@@ -1542,7 +1542,7 @@
 11	lumbares	lumbar	ADJ	AQ0CP0	_	10	amod	_	Treeler:s.a
 12-13	nalgún	_	_	_	_	_	_	_	_
 12	en	en	ADP	SPS00	_	14	case	_	Treeler:cc
-13	algún	algún	DET	DI0MS0	_	14	det	_	Treeler:spec
+13	algún	algún	DET	DI0MS0	PronType=Ind	14	det	_	Treeler:spec
 14	momento	momento	NOUN	NCMS000	_	8	obl	_	Treeler:sn
 15-16	das	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
@@ -6193,7 +6193,7 @@
 21	a	a	ADP	SPS00	_	23	case	_	Treeler:creg
 22	non	non	PART	RN	_	23	advmod	_	Treeler:mod
 23	considerar	considerar	VERB	VMN0000	_	20	ccomp	_	Treeler:S
-24	algunha	algún	DET	DI0FS0	_	25	det	_	Treeler:spec
+24	algunha	algún	DET	DI0FS0	PronType=Ind	25	det	_	Treeler:spec
 25	etapa	etapa	NOUN	NCFS000	_	23	obj	_	Treeler:cd
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -6760,7 +6760,7 @@
 10	se	se	SCONJ	CS	_	5	mark	_	Treeler:conj
 11	non	non	PART	RN	_	5	advmod	_	Treeler:mod
 12	padecen	padecer	VERB	VMIP3P0	_	5	case	_	ToDo=case-upos|Treeler:cc
-13	algún	algún	DET	DI0MS0	_	14	det	_	Treeler:spec
+13	algún	algún	DET	DI0MS0	PronType=Ind	14	det	_	Treeler:spec
 14	tipo	tipo	NOUN	NCMS000	_	5	obj	_	Treeler:cd
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	enfermidade	enfermidade	NOUN	NCFS000	_	14	nmod	_	Treeler:sn
@@ -8213,7 +8213,7 @@
 # text = Alegación: algunhas instalacións formulan situacións obxectivamente excepcionais durante o período de referencia, de forma que a asignación baseada nun rateo segundo emisións históricas conduciría a unha asignación claramente insuficiente.
 1	Alegación	alegación	NOUN	NCFS000	_	0	root	_	SpaceAfter=No|Treeler:sentence
 2	:	:	PUNCT	Fd	_	5	punct	_	Treeler:f
-3	algunhas	algún	DET	DI0FP0	_	4	det	_	Treeler:spec
+3	algunhas	algún	DET	DI0FP0	PronType=Ind	4	det	_	Treeler:spec
 4	instalacións	instalación	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
 5	formulan	formular	VERB	VMIP3P0	_	1	ccomp	_	Treeler:S
 6	situacións	situación	NOUN	NCFP000	_	5	obj	_	Treeler:cd
@@ -10763,7 +10763,7 @@
 24	paso	paso	NOUN	NCMS000	_	22	obj	_	Treeler:cd
 25-26	nalgún	_	_	_	_	_	_	_	_
 25	en	en	ADP	SPS00	_	27	case	_	Treeler:cc
-26	algún	algún	DET	DI0MS0	_	27	det	_	Treeler:spec
+26	algún	algún	DET	DI0MS0	PronType=Ind	27	det	_	Treeler:spec
 27-28	dos	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	22	obl	_	Treeler:sn
 28	os	o	DET	DA0MP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
@@ -13810,7 +13810,7 @@
 37	peixes	peixe	NOUN	NCMP000	_	35	nmod	_	Treeler:sn
 38-39	nalgunhas	_	_	_	_	_	_	_	_
 38	en	en	ADP	SPS00	_	40	case	_	Treeler:sp
-39	algunhas	algún	DET	DI0FP0	_	40	det	_	Treeler:spec
+39	algunhas	algún	DET	DI0FP0	PronType=Ind	40	det	_	Treeler:spec
 40	zonas	zona	NOUN	NCFP000	_	35	nmod	_	SpaceAfter=No|Treeler:sn
 41	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -16049,7 +16049,7 @@
 17	e	e	CCONJ	CC	_	12	cc	_	ToDo=cc-without-conj|Treeler:coord
 18	aínda	aínda	ADV	RG	_	19	advmod	_	Treeler:mod
 19	conserva	conservar	VERB	VMIP3S0	_	12	ccomp	_	Treeler:S
-20	algunhas	algún	DET	DI0FP0	_	21	det	_	Treeler:spec
+20	algunhas	algún	DET	DI0FP0	PronType=Ind	21	det	_	Treeler:spec
 21	construccións	construccións	NOUN	NCFP000	_	19	obj	_	Treeler:cd
 22	asociadas	asociado	ADJ	AQ0FP0	_	21	amod	_	SpaceAfter=No|Treeler:s.a
 23	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
@@ -16396,7 +16396,7 @@
 32	aínda	aínda	ADV	RG	_	22	case	_	ToDo=case-upos|Treeler:cc
 33	que	que	SCONJ	CS	_	34	mark	_	Treeler:conj
 34	con	con	ADP	SPS00	_	22	ccomp	_	Treeler:S
-35	algunha	algún	DET	DI0FS0	_	36	det	_	Treeler:spec
+35	algunha	algún	DET	DI0FS0	PronType=Ind	36	det	_	Treeler:spec
 36	variación	variación	NOUN	NCFS000	_	34	nmod	_	ToDo=nmod|Treeler:sn
 37	en	en	ADP	SPS00	_	38	case	_	Treeler:sp
 38	razón	razón	NOUN	NCFS000	_	36	nmod	_	Treeler:sn
@@ -16992,7 +16992,7 @@
 38	leva	levar	VERB	VMIP3S0	_	13	ccomp	_	Treeler:S
 39	consigo	consigo	PRON	PP3CSO00	_	38	nsubj	_	Treeler:suj
 40	xuro	xuro	NOUN	NCMS000	_	38	obj	_	Treeler:cd
-41	algún	algún	DET	DI0MS0	_	40	amod	_	SpaceAfter=No|Treeler:s.a
+41	algún	algún	DET	DI0MS0	PronType=Ind	40	amod	_	SpaceAfter=No|Treeler:s.a
 42	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
 # sent_id = test-423
@@ -20575,7 +20575,7 @@
 11	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	10	dep	_	Treeler:morfema.pronominal
 12-13	dalgunha	_	_	_	_	_	_	_	_
 12	de	de	ADP	SPS00	_	14	case	_	Treeler:creg
-13	algunha	algún	DET	DI0FS0	_	14	det	_	Treeler:spec
+13	algunha	algún	DET	DI0FS0	PronType=Ind	14	det	_	Treeler:spec
 14	maneira	maneira	NOUN	NCFS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 15	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 16	ou	ou	CCONJ	CC	_	14	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -21054,7 +21054,7 @@
 18	e	e	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
 19	poderán	poder	AUX	VMIF3P0	_	20	aux	_	Treeler:v
 20	incluír	incluír	VERB	VMN0000	_	0	root	_	Treeler:sentence
-21	algunhas	algún	DET	DI0FP0	_	24	det	_	Treeler:spec
+21	algunhas	algún	DET	DI0FP0	PronType=Ind	24	det	_	Treeler:spec
 22	coma	coma	SCONJ	CS	_	24	mark	_	Treeler:conj
 23	as	o	DET	DA0FP0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
 24	sinaladas	sinalar	VERB	VMP00PF	_	20	obj	_	Treeler:cd
@@ -21496,7 +21496,7 @@
 28	mulleres	muller	NOUN	NCFP000	_	26	nmod	_	Treeler:sn
 29	que	que	PRON	PR0CN000	PronType=Rel	30	nsubj	_	Treeler:suj
 30	padeceron	padecer	VERB	VMIS3P0	_	28	ccomp	_	Treeler:S
-31	algún	algún	DET	DI0MS0	_	32	det	_	Treeler:spec
+31	algún	algún	DET	DI0MS0	PronType=Ind	32	det	_	Treeler:spec
 32	accidente	accidente	NOUN	NCMS000	_	30	obj	_	Treeler:cd
 33	laboral	laboral	ADJ	AQ0CS0	_	32	amod	_	Treeler:s.a
 34-35	incrementouse	_	_	_	_	_	_	_	_
@@ -21517,7 +21517,7 @@
 4	facendo	facer	VERB	VMG0000	_	0	root	_	Treeler:sentence
 5	ladrillos	ladrillo	NOUN	NCMP000	_	4	obj	_	SpaceAfter=No|Treeler:cd
 6	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
-7	algunhas	algún	DET	DI0FP0	_	9	det	_	Treeler:spec
+7	algunhas	algún	DET	DI0FP0	PronType=Ind	9	det	_	Treeler:spec
 8	tamén	tamén	ADV	RG	_	7	advmod	_	Treeler:r
 9	tellas	tella	NOUN	NCFP000	_	4	obj	_	Treeler:cd
 10	para	para	ADP	SPS00	_	12	case	_	Treeler:sp
@@ -22675,7 +22675,7 @@
 27	sen	sen	ADP	SPS00	_	28	case	_	Treeler:cc
 28	sufrir	sufrir	VERB	VMN0000	_	21	ccomp	_	Treeler:S
 29	dano	dano	NOUN	NCMS000	_	28	obj	_	Treeler:cd
-30	algún	algún	DET	DI0MS0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
+30	algún	algún	DET	DI0MS0	PronType=Ind	29	amod	_	SpaceAfter=No|Treeler:s.a
 31	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = test-562
@@ -30364,7 +30364,7 @@
 14	contra	contra	NOUN	NCFS000	_	11	obl	_	Treeler:sn
 15-16	dalgunhas	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
-16	algunhas	algún	DET	DI0FP0	_	17	det	_	Treeler:spec
+16	algunhas	algún	DET	DI0FP0	PronType=Ind	17	det	_	Treeler:spec
 17	opinións	opinión	NOUN	NCFP000	_	14	nmod	_	SpaceAfter=No|Treeler:sn
 18	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
 19	nin	nin	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
