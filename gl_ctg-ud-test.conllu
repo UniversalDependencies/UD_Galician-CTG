@@ -3727,7 +3727,7 @@
 29	risco	risco	NOUN	NCMS000	_	24	obl	_	Treeler:sn
 30	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 31	rotación	rotación	NOUN	NCFS000	_	29	nmod	_	Treeler:sn
-32	como	como	PRON	PR0CN000	PronType=Rel	35	obl	_	Treeler:coord
+32	como	como	PRON	PR0CN000	PronType=Rel	35	nmod	_	Treeler:coord
 33-34	cos	_	_	_	_	_	_	_	_
 33	con	con	ADP	SPS00	_	35	case	_	Treeler:sp
 34	os	o	DET	DA0MP0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
@@ -3901,7 +3901,7 @@
 26	outros	outro	DET	DI0MP0	PronType=Ind	27	det	_	Treeler:spec
 27	cancros	cancro	NOUN	NCMP000	_	24	obl	_	SpaceAfter=No|Treeler:sn
 28	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
-29	como	como	PRON	PR0CN000	PronType=Rel	19	obl	_	Treeler:sp
+29	como	como	PRON	PR0CN000	PronType=Rel	19	nmod	_	Treeler:sp
 30	os	o	DET	DA0MP0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:sn
 32	mama	mama	NOUN	NCFS000	_	29	nmod	_	Treeler:sn
@@ -4113,7 +4113,7 @@
 31	extensiva	extensivo	ADJ	AQ0FS0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
 32	)	)	PUNCT	Fpt	_	31	punct	_	Treeler:f
 33	por	por	ADP	SPS00	_	34	case	_	Treeler:cc
-34	metais	metal	NOUN	NCMP000	_	2	obl	_	Treeler:sn
+34	metais	metal	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
 35	pesados	pesado	ADJ	AQ0MP0	_	34	amod	_	SpaceAfter=No|Treeler:s.a
 36	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
@@ -12304,7 +12304,7 @@
 35	os	o	DET	DA0MP0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
 36	terapéuticos	terapéutico	ADJ	AQ0MP0	_	16	amod	_	SpaceAfter=No|Treeler:s.a
 37	,	,	PUNCT	Fc	_	38	punct	_	Treeler:f
-38	como	como	PRON	PR0CN000	PronType=Rel	6	obl	_	Treeler:sp
+38	como	como	PRON	PR0CN000	PronType=Rel	6	nmod	_	Treeler:sp
 39	os	o	DET	DA0MP0	Definite=Def|PronType=Art	41	det	_	Treeler:spec
 40	de	de	ADP	SPS00	_	41	case	_	Treeler:sn
 41	convalecencia	convalecencia	NOUN	NCFS000	_	38	nmod	_	SpaceAfter=No|Treeler:sn
@@ -17046,7 +17046,7 @@
 2-3	do	_	_	_	_	_	_	_	_
 2	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-4	sector	sector	NOUN	NCMS000	_	9	obl	_	Treeler:sn
+4	sector	sector	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
 5	servicios	servicio	NOUN	NCMP000	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 6	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 7	son	ser	AUX	VSIP1S0	_	9	cop	_	Treeler:sentence
@@ -20471,7 +20471,7 @@
 
 # sent_id = test-510
 # text = Cando o coñecemento, as habilidades e as capacidades non poden ser valoradas no mercado externo de forma rápida, o desenvolvemento dun mercado interno é a alternativa adecuada.
-1	Cando	cando	PRON	PR0CN000	PronType=Rel	30	obl	_	Treeler:cc
+1	Cando	cando	PRON	PR0CN000	PronType=Rel	30	nmod	_	Treeler:cc
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	coñecemento	coñecemento	NOUN	NCMS000	_	30	nsubj	_	SpaceAfter=No|Treeler:suj
 4	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
@@ -31413,7 +31413,7 @@
 18	revelando	revelar	VERB	VMG0000	_	17	ccomp	_	Treeler:S
 19	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	18	dep	_	Treeler:morfema.pronominal
 20	este	este	DET	DD0MS0	PronType=Dem	22	det	_	Treeler:spec
-21	como	como	PRON	PR0CN000	PronType=Rel	22	obl	_	Treeler:cc
+21	como	como	PRON	PR0CN000	PronType=Rel	22	nmod	_	Treeler:cc
 22	pendenciero	pendenciero	PROPN	NP00000	_	18	obj	_	SpaceAfter=No|Treeler:cd
 23	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 

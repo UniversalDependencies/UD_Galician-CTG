@@ -69,11 +69,11 @@
     <dep name="iobj">562</dep>
     <dep name="list">3</dep>
     <dep name="mark">1566</dep>
-    <dep name="nmod">16534</dep>
+    <dep name="nmod">16580</dep>
     <dep name="nsubj">6517</dep>
     <dep name="nummod">542</dep>
     <dep name="obj">7366</dep>
-    <dep name="obl">6259</dep>
+    <dep name="obl">6213</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">2</dep>
     <dep name="punct">13316</dep>

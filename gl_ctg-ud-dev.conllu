@@ -713,7 +713,7 @@
 22	vida	vida	NOUN	NCFS000	_	19	nmod	_	Treeler:sn
 23-24	postergáronnos	_	_	_	_	_	_	_	_
 23	postergaron	postergar	VERB	VMIS3P0	_	2	flat	_	Treeler:sentence
-24	nos	nos	PRON	PP1CP000	PronType=Prs	2	obl	_	Treeler:cc
+24	nos	nos	PRON	PP1CP000	PronType=Prs	2	nmod	_	Treeler:cc
 25	a	a	ADP	SPS00	_	26	case	_	Treeler:cc
 26	vivir	vivir	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 27	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	28	det	_	Treeler:spec
@@ -1495,7 +1495,7 @@
 16	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 18	bicicleta	bicicleta	NOUN	NCFS000	_	15	nmod	_	Treeler:sn
-19	como	como	PRON	PR0CN000	PronType=Rel	20	obl	_	Treeler:sp
+19	como	como	PRON	PR0CN000	PronType=Rel	20	nmod	_	Treeler:sp
 20	medio	medio	NOUN	NCMS000	_	18	nmod	_	Treeler:sn
 21	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 22	transporte	transporte	NOUN	NCMS000	_	20	nmod	_	Treeler:sn
@@ -2098,7 +2098,7 @@
 34	de	de	ADP	SPS00	_	36	case	_	Treeler:sp
 35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
 36	mercado	mercado	NOUN	NCMS000	_	32	nmod	_	Treeler:sn
-37	como	como	PRON	PR0CN000	PronType=Rel	36	obl	_	Treeler:cc
+37	como	como	PRON	PR0CN000	PronType=Rel	36	nmod	_	Treeler:cc
 38	específicos	específico	ADJ	AQ0MP0	_	32	amod	_	Treeler:s.a
 39-40	da	_	_	_	_	_	_	_	_
 39	de	de	ADP	SPS00	_	41	case	_	Treeler:sp
@@ -5779,7 +5779,7 @@
 3	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	5	det	_	Treeler:spec
 4	mal	mal	ADJ	AQ0MS0	_	5	amod	_	Treeler:s.a
 5	sinal	sinal	NOUN	NCMS000	_	0	root	_	Treeler:atr
-6	cando	cando	PRON	PR0CN000	PronType=Rel	17	obl	_	Treeler:cc
+6	cando	cando	PRON	PR0CN000	PronType=Rel	17	nmod	_	Treeler:cc
 7	os	o	DET	DA0MP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	barrios	barrio	NOUN	NCMP000	_	17	nsubj	_	Treeler:suj
 9	con	con	ADP	SPS00	_	11	case	_	Treeler:sp
@@ -14441,7 +14441,7 @@
 2	embargo	embargo	NOUN	NCMS000	_	9	obl	_	SpaceAfter=No|Treeler:sn
 3	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 4	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-5	título	título	NOUN	NCMS000	_	2	obl	_	Treeler:sadv
+5	título	título	NOUN	NCMS000	_	2	nmod	_	Treeler:sadv
 6	informativo	informativo	ADJ	AQ0MS0	_	5	amod	_	SpaceAfter=No|Treeler:s.a
 7	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 8	é	ser	AUX	VSIP3S0	_	9	cop	_	Treeler:sentence
@@ -16934,7 +16934,7 @@
 39-40	manteranas	_	_	_	_	_	_	_	_
 39	manterán	manter	VERB	VMIF3P0	_	18	ccomp	_	Treeler:S
 40	as	o	PRON	PP3FPA00	PronType=Prs	39	obj	_	Treeler:cd
-41	como	como	PRON	PR0CN000	PronType=Rel	40	obl	_	Treeler:sp
+41	como	como	PRON	PR0CN000	PronType=Rel	40	nmod	_	Treeler:sp
 42	condición	condición	NOUN	NCFS000	_	39	obj	_	Treeler:cd
 43	máis	máis	ADV	RG	_	44	advmod	_	Treeler:spec
 44	beneficiosa	beneficioso	ADJ	AQ0FS0	_	42	amod	_	SpaceAfter=No|Treeler:s.a
@@ -18334,7 +18334,7 @@
 # text = Debido a isto, unha das pedras angulares para a prevención da todas as violencias de xénero é a educación na igualdade, na cal debe participar fundamentalmente a familia, a escola e os medios de comunicación.
 1	Debido	deber	VERB	VMP00SM	_	22	advcl	_	Treeler:cc
 2	a	a	ADP	SPS00	_	3	case	_	Treeler:creg
-3	isto	isto	PRON	PD0CN000	PronType=Dem	22	obl	_	SpaceAfter=No|Treeler:sn
+3	isto	isto	PRON	PD0CN000	PronType=Dem	22	nmod	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 5	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	8	det	_	Treeler:spec
 6-7	das	_	_	_	_	_	_	_	_
@@ -21393,7 +21393,7 @@
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	SIX-07	six-07	NUM	Z	_	5	nmod	_	Treeler:sn
 4	algún	algún	DET	DI0MS0	PronType=Ind	5	det	_	Treeler:spec
-5	colexio	colexio	NOUN	NCMS000	_	8	obl	_	Treeler:sn
+5	colexio	colexio	NOUN	NCMS000	_	8	nmod	_	Treeler:sn
 6	(	(	PUNCT	Fpa	_	8	punct	_	SpaceAfter=No|Treeler:f
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	instancias	instancia	NOUN	NCFP000	Foreign=Yes	0	root	_	Treeler:inc
@@ -23305,7 +23305,7 @@
 28	durante	durante	ADP	SPS00	_	30	case	_	Treeler:cc
 29	as	o	DET	DA0FP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	reunións	reunión	NOUN	NCFP000	_	24	obl	_	Treeler:sn
-31	como	como	PRON	PR0CN000	PronType=Rel	30	obl	_	Treeler:sp
+31	como	como	PRON	PR0CN000	PronType=Rel	30	nmod	_	Treeler:sp
 32	despois	despois	ADV	RG	_	31	advmod	_	Treeler:sadv
 33	e	e	CCONJ	CC	_	35	cc	_	Treeler:coord
 34	entre	entre	ADP	SPS00	_	35	case	_	Treeler:sp
@@ -27564,7 +27564,7 @@
 19-20	nesta	_	_	_	_	_	_	_	_
 19	en	en	ADP	SPS00	_	21	case	_	Treeler:cc
 20	esta	este	DET	DD0FS0	PronType=Dem	21	det	_	Treeler:spec
-21	teoría	teoría	NOUN	NCFS000	_	3	obl	_	Treeler:sn
+21	teoría	teoría	NOUN	NCFS000	_	3	nmod	_	Treeler:sn
 22	engadindo	engadir	VERB	VMG0000	_	3	advcl	_	Treeler:cc
 23	tres	tres	NOUN	NCMS000	_	3	obj	_	Treeler:cd
 24	conceptos	concepto	NOUN	NCMP000	_	3	obj	_	Treeler:cd
@@ -30165,7 +30165,7 @@
 20	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	21	det	_	Treeler:spec
 21	expresión	expresión	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 22	actual	actual	ADJ	AQ0CS0	_	21	amod	_	Treeler:s.a
-23	como	como	PRON	PR0CN000	PronType=Rel	26	obl	_	Treeler:coord
+23	como	como	PRON	PR0CN000	PronType=Rel	26	nmod	_	Treeler:coord
 24	as	o	DET	DA0FP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 25	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	26	det	_	Treeler:d
 26	tendencias	tendencia	NOUN	NCFP000	_	18	conj	_	Treeler:cd
