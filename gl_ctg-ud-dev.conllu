@@ -4297,7 +4297,7 @@
 5	o	o	PRON	PP3MSA00	PronType=Prs	6	obj	_	Treeler:cd
 6	precise	precisar	VERB	VMSP1S0	_	10	dep	_	SpaceAfter=No|Treeler:ao
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
-8	vostede	vostede	PRON	PP3CSO00	_	10	iobj	_	Treeler:ci
+8	vostede	vostede	PRON	PP3CSO00	PronType=Prs	10	iobj	_	Treeler:ci
 9	será	ser	AUX	VSIF3S0	_	10	aux	_	Treeler:v
 10	remitido	remitir	VERB	VMP00SM	_	0	root	_	Treeler:sentence
 11-12	polo	_	_	_	_	_	_	_	_
@@ -14529,7 +14529,7 @@
 13	fillos	fillo	NOUN	NCMP000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	quizais	quizais	ADV	RG	_	17	advmod	_	Treeler:sadv
-16	ti	ti	PRON	PP2CSO00	_	15	ccomp	_	Treeler:S
+16	ti	ti	PRON	PP2CSO00	PronType=Prs	15	ccomp	_	Treeler:S
 17	chores	chor	NOUN	NCFP000	_	13	nmod	_	Treeler:sn
 18	Galiza	galiza	PROPN	NP00000	_	17	nmod	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
@@ -23555,7 +23555,7 @@
 25	:	:	PUNCT	Fd	_	24	punct	_	Treeler:f
 26-27	gustaríache	_	_	_	_	_	_	_	_
 26	gustaría	gustar	VERB	VMIC1S0	_	23	ccomp	_	Treeler:S
-27	che	che	PRON	PP2CSD00	_	28	iobj	_	Treeler:ci
+27	che	che	PRON	PP2CSD00	PronType=Prs	28	iobj	_	Treeler:ci
 28	viaxar	viaxar	VERB	VMN0000	_	26	ccomp	_	Treeler:S
 29	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	España	españa	PROPN	NP00000	_	28	obj	_	SpaceAfter=No|Treeler:cd
@@ -31622,7 +31622,7 @@
 9	con	con	ADP	SPS00	_	7	conj	_	Treeler:S
 10	poder	poder	VERB	VMN0000	_	15	dep	_	Treeler:infinitiu
 11	e	e	CCONJ	CC	_	10	cc	_	Treeler:coord
-12	eu	eu	PRON	PP1CSN00	_	15	nsubj	_	Treeler:suj
+12	eu	eu	PRON	PP1CSN00	PronType=Prs	15	nsubj	_	Treeler:suj
 13	estou	estar	AUX	VMIP1S0	_	15	cop	_	Treeler:S
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:atr
 15	acordo	acordo	NOUN	NCMS000	_	2	ccomp	_	Treeler:sn
@@ -32686,7 +32686,7 @@
 8	:	:	PUNCT	Fd	_	17	punct	_	Treeler:f
 9	«	«	PUNCT	Fra	_	17	punct	_	SpaceAfter=No|Treeler:f
 10	Cando	cando	PRON	PR0CN000	PronType=Rel	17	obl	_	Treeler:cc
-11	eu	eu	PRON	PP1CSN00	_	17	nsubj	_	Treeler:suj
+11	eu	eu	PRON	PP1CSN00	PronType=Prs	17	nsubj	_	Treeler:suj
 12	fun	ir	VERB	VMIS1S0	_	17	advcl	_	Treeler:cc
 13-14	á	_	_	_	_	_	_	_	_
 13	a	a	ADP	SPS00	_	15	case	_	Treeler:cc
@@ -34174,7 +34174,7 @@
 
 # sent_id = dev-842
 # text = Nós atopamos unha diferencia de 5 puntos porcentuais ó fin do seguimento e a simple observación da gráfica 11, que representa as funcións de perigo dos grupos G- e G+, apoia esta apreciación.
-1	Nós	nós	PRON	PP1CPO00	_	2	nsubj	_	Treeler:suj
+1	Nós	nós	PRON	PP1CPO00	PronType=Prs	2	nsubj	_	Treeler:suj
 2	atopamos	atopar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 3	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	4	det	_	Treeler:spec
 4	diferencia	diferencia	NOUN	NCFS000	_	2	obj	_	Treeler:cd
@@ -34595,7 +34595,7 @@
 
 # sent_id = dev-852
 # text = Nós, como Dióxenes ante a pregunta de Alexandre Magno (que precisas de min?), respondemos unha vez máis: "só que che apartes do sol".
-1	Nós	nós	PRON	PP1CPO00	_	3	nmod	_	SpaceAfter=No|Treeler:sn
+1	Nós	nós	PRON	PP1CPO00	PronType=Prs	3	nmod	_	SpaceAfter=No|Treeler:sn
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 3	como	como	PRON	PR0CN000	PronType=Rel	19	obl	_	Treeler:cc
 4	Dióxenes	dióxenes	PROPN	NP00000	_	3	nmod	_	Treeler:sn
@@ -34609,7 +34609,7 @@
 12	que	que	PRON	PR0CN000	PronType=Rel	13	nsubj	_	Treeler:suj
 13	precisas	precisar	VERB	VMIP2S0	_	7	ccomp	_	Treeler:S
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:creg
-15	min	min	PRON	PP1CSO00	_	13	obl	_	SpaceAfter=No|Treeler:sn
+15	min	min	PRON	PP1CSO00	PronType=Prs	13	obl	_	SpaceAfter=No|Treeler:sn
 16	?	?	PUNCT	Fit	_	13	punct	_	SpaceAfter=No|Treeler:f
 17	)	)	PUNCT	Fpt	_	13	punct	_	SpaceAfter=No|Treeler:f
 18	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
@@ -34621,7 +34621,7 @@
 24	"	"	PUNCT	Fe	_	25	punct	_	SpaceAfter=No|Treeler:f
 25	só	só	ADV	RG	_	19	advmod	_	Treeler:cc
 26	que	que	SCONJ	CS	_	27	mark	_	Treeler:conj
-27	che	che	PRON	PP2CSD00	_	19	ccomp	_	Treeler:S
+27	che	che	PRON	PP2CSD00	PronType=Prs	19	ccomp	_	Treeler:S
 28	apartes	aparte	NOUN	NCMP000	_	19	ccomp	_	Treeler:S
 29-30	do	_	_	_	_	_	_	_	_
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:sp

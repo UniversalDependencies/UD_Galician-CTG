@@ -1388,7 +1388,7 @@
 18	mg	mg	PROPN	NP00000	_	17	nmod	_	Treeler:sn
 19	cada	cada	DET	DI0NN0	PronType=Tot	20	det	_	Treeler:spec
 20	3-5	3-5	NUM	Z	_	18	nmod	_	Treeler:sn
-21	min	min	PRON	PP1CSO00	_	18	nmod	_	SpaceAfter=No|Treeler:sn
+21	min	min	PRON	PP1CSO00	PronType=Prs	18	nmod	_	SpaceAfter=No|Treeler:sn
 22	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 23	ata	ata	ADP	SPS00	_	25	case	_	Treeler:cc
 24	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	25	det	_	Treeler:spec
@@ -13958,7 +13958,7 @@
 
 # sent_id = test-352
 # text = Nós entendemos que esta é unha adaptación da Política Agraria Común ás posicións da globalización neoliberal, o que vai permitir incrementar o dumping, a industrialización das produccións agrarias, e o aprovisionamento a prezos artificialmente baixos.
-1	Nós	nós	PRON	PP1CPO00	_	2	obj	_	Treeler:cd
+1	Nós	nós	PRON	PP1CPO00	PronType=Prs	2	obj	_	Treeler:cd
 2	entendemos	entender	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 3	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
 4	esta	este	DET	DD0FS0	PronType=Dem	7	det	_	Treeler:spec
@@ -25614,7 +25614,7 @@
 9	poden	poder	AUX	VMIP3P0	_	10	aux	_	Treeler:v
 10	chegar	chegar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 11	ata	ata	ADP	SPS00	_	12	case	_	Treeler:cc
-12	nós	nós	PRON	PP1CPO00	_	10	obl	_	Treeler:sn
+12	nós	nós	PRON	PP1CPO00	PronType=Prs	10	obl	_	Treeler:sn
 13	aire	aire	NOUN	NCMS000	_	10	obj	_	Treeler:cd
 14	ártico	ártico	ADJ	AQ0MS0	_	13	amod	_	Treeler:s.a
 15	continental	continental	ADJ	AQ0CS0	_	13	amod	_	Treeler:s.a

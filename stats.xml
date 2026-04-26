@@ -44,7 +44,7 @@
     <feat name="PronType" value="Ind" upos="DET,PRON">1003</feat><!-- outros, mesmo, outra, outras, outro, calquera, algúns, mesma, uns, moitas -->
     <feat name="PronType" value="Int" upos="DET">5</feat><!-- qué -->
     <feat name="PronType" value="Neg" upos="DET,PRON">47</feat><!-- ningún, ningunha, nada, ninguén -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">3877</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">3895</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
     <feat name="PronType" value="Rel" upos="DET,PRON">2763</feat><!-- que, como, cando, onde, cal, canto, quen, cales, cantas, cantos -->
     <feat name="PronType" value="Tot" upos="DET">491</feat><!-- cada, todo, todos, todas, toda, ambos, ambas, entrambos -->
     <feat name="Reflex" value="Yes" upos="PRON">2192</feat><!-- se, si, consigo -->
