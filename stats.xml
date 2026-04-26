@@ -51,12 +51,12 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="29">
     <dep name="acl">7</dep>
-    <dep name="advcl">5</dep>
+    <dep name="advcl">449</dep>
     <dep name="advmod">2607</dep>
     <dep name="amod">10490</dep>
     <dep name="appos">6</dep>
     <dep name="aux">1198</dep>
-    <dep name="case">24996</dep>
+    <dep name="case">24552</dep>
     <dep name="cc">4410</dep>
     <dep name="ccomp">6169</dep>
     <dep name="compound">147</dep>
