@@ -1925,7 +1925,7 @@
 20	desde	desde	ADP	SPS00	_	22	case	_	Treeler:cc
 21	esa	ese	DET	DD0FS0	PronType=Dem	22	det	_	Treeler:spec
 22	perspectiva	perspectiva	NOUN	NCFS000	_	10	obl	_	Treeler:sn
-23	cando	cando	PRON	PR0CN000	PronType=Rel	24	nsubj	_	Treeler:suj
+23	cando	cando	PRON	PR0CN000	PronType=Rel	24	obl	_	Treeler:suj
 24	dividían	dividir	VERB	VMII3P0	_	22	ccomp	_	Treeler:S
 25	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 26	sociedade	sociedade	NOUN	NCFS000	_	24	obj	_	Treeler:cd
@@ -10533,7 +10533,7 @@
 6	tenida	tenida	NOUN	NCFS000	_	0	root	_	Treeler:atr
 7	en	en	ADP	SPS00	_	8	case	_	Treeler:sp
 8	conta	conta	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
-9	cando	cando	PRON	PR0CN000	PronType=Rel	11	nsubj	_	Treeler:suj
+9	cando	cando	PRON	PR0CN000	PronType=Rel	11	obl	_	Treeler:suj
 10	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	11	obj	_	Treeler:cd
 11	debate	debater	VERB	VMIP3S0	_	6	ccomp	_	Treeler:S
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
@@ -13007,7 +13007,7 @@
 24	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
 25	marea	marea	NOUN	NCFS000	_	23	nmod	_	Treeler:sn
 26	baixa	baixo	ADJ	AQ0FS0	_	25	amod	_	Treeler:s.a
-27	cando	cando	PRON	PR0CN000	PronType=Rel	30	nsubj	_	Treeler:suj
+27	cando	cando	PRON	PR0CN000	PronType=Rel	30	obl	_	Treeler:suj
 28	estas	este	DET	DD0FP0	PronType=Dem	30	nsubj	_	Treeler:suj
 29	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	30	obj	_	Treeler:cd
 30	atopen	atopar	VERB	VMSP3P0	_	23	ccomp	_	Treeler:S
@@ -14218,7 +14218,7 @@
 
 # sent_id = dev-345
 # text = Cando se limpa un equipo inmediatamente despois do seu uso evítase a formación de depósitos endurecidos, que esixen o consumo de grandes cantidades de disolventes ou de auga para o seu arrastre.
-1	Cando	cando	PRON	PR0CN000	PronType=Rel	3	nsubj	_	Treeler:suj
+1	Cando	cando	PRON	PR0CN000	PronType=Rel	3	obl	_	Treeler:suj
 2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	3	obj	_	Treeler:cd
 3	limpa	limpar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	5	det	_	Treeler:spec
@@ -15143,7 +15143,7 @@
 # text = Ademais, cando nas salas de espera o espazo o permita, invitaráselles a que se senten polo menos a 1 metro de distancia doutras persoas.
 1	Ademais	ademais	ADV	RG	_	8	cc	_	SpaceAfter=No|Treeler:et
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-3	cando	cando	PRON	PR0CN000	PronType=Rel	8	nsubj	_	Treeler:suj
+3	cando	cando	PRON	PR0CN000	PronType=Rel	8	obl	_	Treeler:suj
 4-5	nas	_	_	_	_	_	_	_	_
 4	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
 5	as	o	DET	DA0FP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -17824,7 +17824,7 @@
 27	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 28	que	que	PRON	PR0CN000	PronType=Rel	29	nsubj	_	Treeler:suj
 29	é	ser	VERB	VSIP3S0	_	26	ccomp	_	Treeler:S
-30	cando	cando	PRON	PR0CN000	PronType=Rel	35	nsubj	_	Treeler:suj
+30	cando	cando	PRON	PR0CN000	PronType=Rel	35	obl	_	Treeler:suj
 31	as	o	DET	DA0FP0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
 32	taxas	taxa	NOUN	NCFP000	_	35	nsubj	_	Treeler:suj
 33	de	de	ADP	SPS00	_	34	case	_	Treeler:sp
@@ -23147,7 +23147,7 @@
 38	eleccions	eleccions	PROPN	NP00000	_	35	nmod	_	Treeler:sn
 39	xerais	xeral	ADJ	AQ0CP0	_	38	amod	_	SpaceAfter=No|Treeler:s.a
 40	,	,	PUNCT	Fc	_	45	punct	_	Treeler:f
-41	cando	cando	PRON	PR0CN000	PronType=Rel	45	nsubj	_	Treeler:suj
+41	cando	cando	PRON	PR0CN000	PronType=Rel	45	obl	_	Treeler:suj
 42	menos	menos	ADV	RG	_	45	case	_	Treeler:cc
 43	ata	ata	ADP	SPS00	_	45	case	_	Treeler:cc
 44	o	o	DET	DA0MS0	Definite=Def|PronType=Art	45	det	_	Treeler:spec
@@ -23242,7 +23242,7 @@
 8-9	utilízase	_	_	_	_	_	_	_	_
 8	utiliza	utilizar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 9	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	8	obj	_	Treeler:cd
-10	cando	cando	PRON	PR0CN000	PronType=Rel	12	nsubj	_	Treeler:suj
+10	cando	cando	PRON	PR0CN000	PronType=Rel	12	obl	_	Treeler:suj
 11	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	12	obj	_	Treeler:cd
 12	determina	determinar	VERB	VMIP3S0	_	8	obj	_	Treeler:cd
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
@@ -23259,7 +23259,7 @@
 22	momento	momento	NOUN	NCMS000	_	12	obl	_	Treeler:sn
 23	determinado	determinar	VERB	VMP00SM	_	22	ccomp	_	Treeler:S
 24	ou	ou	CCONJ	CC	_	27	cc	_	Treeler:coord
-25	cando	cando	PRON	PR0CN000	PronType=Rel	27	nsubj	_	Treeler:suj
+25	cando	cando	PRON	PR0CN000	PronType=Rel	27	obl	_	Treeler:suj
 26	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	27	obj	_	Treeler:cd
 27	observa	observar	VERB	VMIP3S0	_	12	conj	_	Treeler:S
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
@@ -24161,7 +24161,7 @@
 
 # sent_id = dev-589
 # text = Cando se poñen en contacto os consumidores e os produtores cos seus planos de consumo e produción no mercado, é cando se determina o prezo.
-1	Cando	cando	PRON	PR0CN000	PronType=Rel	3	nsubj	_	Treeler:suj
+1	Cando	cando	PRON	PR0CN000	PronType=Rel	3	obl	_	Treeler:suj
 2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	3	obj	_	Treeler:cd
 3	poñen	poñer	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
@@ -24186,7 +24186,7 @@
 21	mercado	mercado	NOUN	NCMS000	_	16	nmod	_	SpaceAfter=No|Treeler:sn
 22	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
 23	é	ser	AUX	VSIP3S0	_	26	cop	_	Treeler:S
-24	cando	cando	PRON	PR0CN000	PronType=Rel	26	nsubj	_	Treeler:suj
+24	cando	cando	PRON	PR0CN000	PronType=Rel	26	obl	_	Treeler:suj
 25	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	26	obj	_	Treeler:cd
 26	determina	determinar	VERB	VMIP3S0	_	3	ccomp	_	Treeler:atr
 27	o	o	DET	DA0MS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
@@ -25472,7 +25472,7 @@
 11	nos	nos	PRON	PP1CP000	PronType=Prs	9	obj	_	Treeler:cd
 12	periódicos	periódico	ADJ	AQ0MP0	_	9	xcomp	_	SpaceAfter=No|Treeler:cpred
 13	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
-14	cando	cando	PRON	PR0CN000	PronType=Rel	15	nsubj	_	Treeler:suj
+14	cando	cando	PRON	PR0CN000	PronType=Rel	15	obl	_	Treeler:suj
 15	traducen	traducir	VERB	VMIP3P0	_	2	ccomp	_	Treeler:S
 16	as	o	DET	DA0FP0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
 17	entrevistas	entrevista	NOUN	NCFP000	_	15	obj	_	Treeler:cd
@@ -32629,7 +32629,7 @@
 32	14	14	NUM	Z	_	29	nmod	_	Treeler:sn
 33	por	por	ADP	SPS00	_	34	case	_	Treeler:sp
 34	cento	cento	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
-35	cando	cando	PRON	PR0CN000	PronType=Rel	37	nsubj	_	Treeler:suj
+35	cando	cando	PRON	PR0CN000	PronType=Rel	37	obl	_	Treeler:suj
 36	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	37	obj	_	Treeler:cd
 37	trata	tratar	VERB	VMIP3S0	_	34	ccomp	_	Treeler:S
 38-39	dun	_	_	_	_	_	_	_	_

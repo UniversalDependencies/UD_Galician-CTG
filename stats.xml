@@ -71,10 +71,10 @@
     <dep name="list">3</dep>
     <dep name="mark">1566</dep>
     <dep name="nmod">16580</dep>
-    <dep name="nsubj">6449</dep>
+    <dep name="nsubj">6371</dep>
     <dep name="nummod">542</dep>
     <dep name="obj">7366</dep>
-    <dep name="obl">6213</dep>
+    <dep name="obl">6291</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">2</dep>
     <dep name="punct">13316</dep>
