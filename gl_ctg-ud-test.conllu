@@ -6986,7 +6986,7 @@
 16	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 17	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 18	mesmo	mesmo	DET	DI0MS0	PronType=Ind	20	det	_	SpaceAfter=No|Treeler:d
-19	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
+19	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 20	necesaria	necesario	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
 21	para	para	ADP	SPS00	_	23	case	_	Treeler:sp
 22	poder	poder	AUX	VMN0000	_	23	aux	_	Treeler:v
@@ -30503,7 +30503,7 @@
 21-22	aqueloutros	_	_	_	_	_	_	_	SpaceAfter=No
 21	aqueles	aquel	DET	DD0MP0	PronType=Dem	37	det	_	Treeler:d
 22	outros	outro	DET	DI0MP0	PronType=Ind	37	nmod	_	Treeler:sn
-23	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
+23	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 24-25	dos	_	_	_	_	_	_	_	_
 24	de	de	ADP	SPS00	_	26	case	_	Treeler:creg
 25	os	o	DET	DA0MP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
