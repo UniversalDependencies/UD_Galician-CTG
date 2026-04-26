@@ -513,7 +513,7 @@
 27	horario	horario	NOUN	NCMS000	_	24	obl	_	Treeler:sn
 28	establecido	establecer	VERB	VMP00SM	_	27	ccomp	_	Treeler:S
 29	para	para	ADP	SPS00	_	31	case	_	Treeler:cc
-30	tal	tal	DET	DI0CS0	_	31	det	_	Treeler:spec
+30	tal	tal	DET	DI0CS0	PronType=Dem	31	det	_	Treeler:spec
 31	efecto	efecto	NOUN	NCMS000	_	28	obl	_	SpaceAfter=No|Treeler:sn
 32	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
@@ -6845,7 +6845,7 @@
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
 16	conta	conta	NOUN	NCFS000	_	14	obl	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
-18	tal	tal	DET	DI0CS0	_	20	det	_	Treeler:spec
+18	tal	tal	DET	DI0CS0	PronType=Dem	20	det	_	Treeler:spec
 19	e	e	CCONJ	CC	_	18	cc	_	Treeler:coord
 20	como	como	PRON	PR0CN000	PronType=Rel	21	obj	_	Treeler:cd
 21	indica	indicar	VERB	VMIP3S0	_	16	ccomp	_	Treeler:S
@@ -7699,7 +7699,7 @@
 20	como	como	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
 21	inherentes	inherente	ADJ	AQ0CP0	_	22	amod	_	Treeler:s.a
 22	valores	valor	NOUN	NCMP000	_	19	obj	_	Treeler:cd
-23	tales	tal	DET	DI0CP0	_	22	amod	_	Treeler:s.a
+23	tales	tal	DET	DI0CP0	PronType=Dem	22	amod	_	Treeler:s.a
 24	como	como	PRON	PR0CN000	PronType=Rel	26	dep	_	SpaceAfter=No|Treeler:relatiu
 25	:	:	PUNCT	Fd	_	24	punct	_	Treeler:f
 26	cooperación	cooperación	NOUN	NCFS000	_	22	nmod	_	SpaceAfter=No|Treeler:sn
@@ -7855,7 +7855,7 @@
 
 # sent_id = test-197
 # text = Tal como as multinacionáis, e os investigadores vinculados a elas, falan da biotecnoloxía da a impresión de que todo é infinitamente sinxelo, que está baixo control.
-1	Tal	tal	DET	DI0CS0	_	2	det	_	Treeler:spec
+1	Tal	tal	DET	DI0CS0	PronType=Dem	2	det	_	Treeler:spec
 2	como	como	PRON	PR0CN000	PronType=Rel	13	nsubj	_	Treeler:suj
 3	as	o	DET	DA0FP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 4	multinacionáis	multinacionáis	ADV	RG	_	8	advmod	_	SpaceAfter=No|Treeler:sadv
@@ -8727,7 +8727,7 @@
 11	economía	economía	NOUN	NCFS000	_	6	nmod	_	SpaceAfter=No|Treeler:sn
 12	_	_	PUNCT	Fz	_	18	punct	_	SpaceAfter=No|Treeler:f
 13	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
-14	tales	tal	DET	DI0CP0	_	18	det	_	Treeler:d
+14	tales	tal	DET	DI0CP0	PronType=Dem	18	det	_	Treeler:d
 15	como	como	PRON	PR0CN000	PronType=Rel	18	nmod	_	Treeler:sn
 16	os	o	DET	DA0MP0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sn
@@ -9316,7 +9316,7 @@
 24	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 25	humidade	humidade	NOUN	NCFS000	_	23	nmod	_	SpaceAfter=No|Treeler:sn
 26	,	,	PUNCT	Fc	_	31	punct	_	Treeler:f
-27	tal	tal	DET	DI0CS0	_	31	det	_	Treeler:spec
+27	tal	tal	DET	DI0CS0	PronType=Dem	31	det	_	Treeler:spec
 28	e	e	CCONJ	CC	_	31	cc	_	Treeler:coord
 29	como	como	PRON	PR0CN000	PronType=Rel	31	nsubj	_	Treeler:suj
 30	lle	lle	PRON	PP3CSD00	PronType=Prs	31	iobj	_	Treeler:ci
@@ -12279,7 +12279,7 @@
 12	consideran	considerar	VERB	VMIP3P0	_	6	ccomp	_	Treeler:S
 13	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	12	dep	_	Treeler:morfema.pronominal
 14	como	como	SCONJ	CS	_	12	xcomp	_	Treeler:cpred
-15	tales	tal	DET	DI0CP0	_	16	det	_	Treeler:spec
+15	tales	tal	DET	DI0CP0	PronType=Dem	16	det	_	Treeler:spec
 16	aqueles	aquel	PRON	PD0MP000	PronType=Dem	14	nmod	_	Treeler:sn
 17	destinados	destinar	VERB	VMP00PM	_	16	ccomp	_	Treeler:S
 18-19	á	_	_	_	_	_	_	_	_
@@ -13260,7 +13260,7 @@
 22	calidade	calidade	NOUN	NCFS000	_	20	nmod	_	Treeler:sn
 23	medioambiental	medioambiental	ADJ	AQ0MS0	_	22	amod	_	Treeler:s.a
 24	a	a	ADP	SPS00	_	26	case	_	Treeler:sp
-25	tal	tal	DET	DI0CS0	_	26	det	_	Treeler:spec
+25	tal	tal	DET	DI0CS0	PronType=Dem	26	det	_	Treeler:spec
 26	efecto	efecto	NOUN	NCMS000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 27	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -14269,7 +14269,7 @@
 # text = De prosperar tal moción, os membros da Comisión deberán dimitir colectivamente dos seus cargos e o ministro de Asuntos Exteriores da Unión deberá dimitir do cargo que exerce na Comisión.
 1	De	de	ADP	SPS00	_	2	case	_	Treeler:cc
 2	prosperar	prosperar	VERB	VMN0000	_	12	ccomp	_	Treeler:S
-3	tal	tal	DET	DI0CS0	_	4	det	_	Treeler:spec
+3	tal	tal	DET	DI0CS0	PronType=Dem	4	det	_	Treeler:spec
 4	moción	moción	NOUN	NCFS000	_	2	obj	_	SpaceAfter=No|Treeler:cd
 5	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 6	os	o	DET	DA0MP0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
@@ -17562,7 +17562,7 @@
 6	ou	ou	CCONJ	CC	_	7	cc	_	Treeler:coord
 7	percibida	percibir	VERB	VMP00SF	_	5	conj	_	Treeler:S
 8	como	como	PRON	PR0CN000	PronType=Rel	11	obl	_	Treeler:cc
-9	tal	tal	DET	DI0CS0	_	11	det	_	SpaceAfter=No|Treeler:spec
+9	tal	tal	DET	DI0CS0	PronType=Dem	11	det	_	SpaceAfter=No|Treeler:spec
 10	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 11	baseada	basear	VERB	VMP00SF	_	5	ccomp	_	Treeler:S
 12-13	na	_	_	_	_	_	_	_	_
@@ -21242,7 +21242,7 @@
 15	2003	2003	NUM	Z	_	13	nmod	_	Treeler:sn
 16	facía	facer	VERB	VMII3S0	_	0	root	_	Treeler:sentence
 17	que	que	SCONJ	CS	_	20	mark	_	Treeler:conj
-18	tal	tal	DET	DI0CS0	_	19	det	_	Treeler:spec
+18	tal	tal	DET	DI0CS0	PronType=Dem	19	det	_	Treeler:spec
 19	suba	suba	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
 20	atentase	atentar	VERB	VMSI3S0	_	16	obj	_	Treeler:cd
 21	irremediablemente	irremediable	ADV	RG	_	20	case	_	Treeler:cc
@@ -25824,7 +25824,7 @@
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 7	pobreza	pobreza	NOUN	NCFS000	_	5	nmod	_	SpaceAfter=No|Treeler:sn
 8	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
-9	tal	tal	DET	DI0CS0	_	13	det	_	Treeler:spec
+9	tal	tal	DET	DI0CS0	PronType=Dem	13	det	_	Treeler:spec
 10	e	e	CCONJ	CC	_	13	cc	_	Treeler:coord
 11	como	como	PRON	PR0CN000	PronType=Rel	13	nsubj	_	Treeler:suj
 12	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	13	obj	_	Treeler:cd
@@ -26762,7 +26762,7 @@
 2	votos	voto	NOUN	NCMP000	_	1	obj	_	Treeler:cd
 3	para	para	ADP	SPS00	_	11	case	_	Treeler:cc
 4	que	que	SCONJ	CS	_	11	mark	_	Treeler:conj
-5	tal	tal	DET	DI0CS0	_	6	det	_	Treeler:spec
+5	tal	tal	DET	DI0CS0	PronType=Dem	6	det	_	Treeler:spec
 6	recompilación	recompilación	NOUN	NCFS000	_	11	nsubj	_	Treeler:suj
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 8	datos	dato	NOUN	NCMP000	_	6	nmod	_	Treeler:sn
@@ -28246,7 +28246,7 @@
 33	LIC	lic	PROPN	NP00000	_	28	nmod	_	SpaceAfter=No|Treeler:sn
 34	)	)	PUNCT	Fpt	_	33	punct	_	SpaceAfter=No|Treeler:f
 35	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
-36	tal	tal	DET	DI0CS0	_	39	det	_	Treeler:spec
+36	tal	tal	DET	DI0CS0	PronType=Dem	39	det	_	Treeler:spec
 37	como	como	PRON	PR0CN000	PronType=Rel	39	nsubj	_	Treeler:suj
 38	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	39	obj	_	Treeler:cd
 39	amosa	amosar	VERB	VMIP3S0	_	28	ccomp	_	Treeler:S
@@ -29521,7 +29521,7 @@
 23	facer	facer	VERB	VMN0000	_	21	ccomp	_	Treeler:S
 24	fronte	fronte	NOUN	NCFS000	_	23	obj	_	Treeler:cd
 25	a	a	ADP	SPS00	_	27	case	_	Treeler:ci
-26	tales	tal	DET	DI0CP0	_	27	det	_	Treeler:spec
+26	tales	tal	DET	DI0CP0	PronType=Dem	27	det	_	Treeler:spec
 27	exixencias	exixencia	NOUN	NCFP000	_	23	iobj	_	SpaceAfter=No|Treeler:sn
 28	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 29	expresa	expresar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -34535,7 +34535,7 @@
 5	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	6	det	_	Treeler:spec
 6	contorno	contorno	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 7	é	ser	VERB	VSIP3S0	_	0	root	_	Treeler:sentence
-8	tal	tal	DET	DI0CS0	_	7	det	_	Treeler:spec
+8	tal	tal	DET	DI0CS0	PronType=Dem	7	det	_	Treeler:spec
 9	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
 10	este	este	DET	DD0MS0	PronType=Dem	11	det	_	Treeler:spec
 11	coñecemento	coñecemento	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj

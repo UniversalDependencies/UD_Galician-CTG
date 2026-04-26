@@ -5796,7 +5796,7 @@
 20	indicadores	indicador	NOUN	NCMP000	_	19	obj	_	Treeler:cd
 21	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 22	pobreza	pobreza	NOUN	NCFS000	_	20	nmod	_	Treeler:sn
-23	tales	tal	DET	DI0CP0	_	26	det	_	Treeler:spec
+23	tales	tal	DET	DI0CP0	PronType=Dem	26	det	_	Treeler:spec
 24	como	como	PRON	PR0CN000	PronType=Rel	26	dep	_	Treeler:relatiu
 25	o	o	DET	DA0MS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 26	paro	paro	NOUN	NCMS000	_	19	nsubj	_	SpaceAfter=No|Treeler:suj
@@ -8906,7 +8906,7 @@
 14	a	a	ADP	SPS00	_	15	case	_	Treeler:ci
 15	Francia	francia	PROPN	NP00000	_	11	iobj	_	Treeler:sn
 16	de	de	ADP	SPS00	_	18	case	_	Treeler:cc
-17	tantos	tanto	DET	DI0MP0	_	18	det	_	Treeler:spec
+17	tantos	tanto	DET	DI0MP0	PronType=Dem	18	det	_	Treeler:spec
 18	millóns	millón	NOUN	NCMP000	_	11	obl	_	Treeler:sn
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 20	dólares	dólar	NOUN	NCMP000	_	18	nmod	_	SpaceAfter=No|Treeler:sn
@@ -11704,7 +11704,7 @@
 44	factores	factor	NOUN	NCMP000	_	0	root	_	Treeler:atr
 45	que	que	PRON	PR0CN000	PronType=Rel	46	nsubj	_	Treeler:suj
 46	desencadearon	desencadear	VERB	VMIS3P0	_	44	ccomp	_	Treeler:S
-47	tal	tal	DET	DI0CS0	_	48	det	_	Treeler:spec
+47	tal	tal	DET	DI0CS0	PronType=Dem	48	det	_	Treeler:spec
 48	situación	situación	NOUN	NCFS000	_	46	obj	_	SpaceAfter=No|Treeler:cd
 49	.	.	PUNCT	Fp	_	44	punct	_	Treeler:f
 
@@ -11871,7 +11871,7 @@
 22	década	década	NOUN	NCFS000	_	19	nmod	_	Treeler:sn
 23	non	non	PART	RN	_	24	advmod	_	Treeler:mod
 24	presente	presentar	VERB	VMSP1S0	_	12	ccomp	_	Treeler:S
-25	tantas	tanto	DET	DI0FP0	_	26	det	_	Treeler:spec
+25	tantas	tanto	DET	DI0FP0	PronType=Dem	26	det	_	Treeler:spec
 26	incertezas	incerteza	NOUN	NCFP000	_	24	obj	_	SpaceAfter=No|Treeler:cd
 27	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -15749,7 +15749,7 @@
 # text = Para que tanto esforzo?
 1	Para	para	ADP	SPS00	_	0	root	_	Treeler:sentence
 2	que	que	SCONJ	CS	_	4	mark	_	Treeler:conj
-3	tanto	tanto	DET	DI0MS0	_	4	det	_	Treeler:spec
+3	tanto	tanto	DET	DI0MS0	PronType=Dem	4	det	_	Treeler:spec
 4	esforzo	esforzo	NOUN	NCMS000	_	1	ccomp	_	SpaceAfter=No|Treeler:S
 5	?	?	PUNCT	Fit	_	1	punct	_	Treeler:f
 
@@ -17741,7 +17741,7 @@
 # sent_id = dev-431
 # text = Para tal efecto, o presidente da Comisión Nacional do Mercado de Valores poderá solicitar motivadamente dos órganos competentes da Cámara a realización de sesión secreta ou a aplicación do procedemento establecido para o acceso ás materias clasificadas."
 1	Para	para	ADP	SPS00	_	3	case	_	Treeler:cc
-2	tal	tal	DET	DI0CS0	_	3	det	_	Treeler:spec
+2	tal	tal	DET	DI0CS0	PronType=Dem	3	det	_	Treeler:spec
 3	efecto	efecto	NOUN	NCMS000	_	17	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -19467,7 +19467,7 @@
 
 # sent_id = dev-474
 # text = Tal como se reflicte na figura 2.4, algúns ambientes son extensos e mostran unha clara homoxeneidade espacial, mentres que outros aparecen repartidos en diversos sectores.
-1	Tal	tal	DET	DI0CS0	_	2	det	_	Treeler:spec
+1	Tal	tal	DET	DI0CS0	PronType=Dem	2	det	_	Treeler:spec
 2	como	como	PRON	PR0CN000	PronType=Rel	4	nsubj	_	Treeler:suj
 3	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	obj	_	Treeler:cd
 4	reflicte	reflectir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -19936,7 +19936,7 @@
 33	seres	ser	NOUN	NCMP000	_	31	obj	_	Treeler:cd
 34	humanos	humano	ADJ	AQ0MP0	_	33	amod	_	SpaceAfter=No|Treeler:s.a
 35	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
-36	tal	tal	DET	DI0CS0	_	39	det	_	Treeler:spec
+36	tal	tal	DET	DI0CS0	PronType=Dem	39	det	_	Treeler:spec
 37	como	como	PRON	PR0CN000	PronType=Rel	39	dep	_	Treeler:relatiu
 38	a	o	DET	DA0FS0	Definite=Def|PronType=Art	39	det	_	Treeler:spec
 39	asistencia	asistencia	NOUN	NCFS000	_	33	nmod	_	Treeler:sn
@@ -24888,7 +24888,7 @@
 
 # sent_id = dev-607
 # text = Tales factores podemos agrupalos en seis pares, que a continuación describimos: Cognitivos/Afectivos: Os factores cognitivos fan referencia a un proceso comparativo individual e colectivo de obxectivos e logros acadados (Cantril2, 1965).
-1	Tales	tal	DET	DI0CP0	_	2	det	_	Treeler:spec
+1	Tales	tal	DET	DI0CP0	PronType=Dem	2	det	_	Treeler:spec
 2	factores	factor	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
 3	podemos	poder	AUX	VMIP1P0	_	4	aux	_	Treeler:v
 4-5	agrupalos	_	_	_	_	_	_	_	_
@@ -27406,7 +27406,7 @@
 5	referente	referente	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 6	prestixiado	prestixiar	VERB	VMP00SM	_	5	ccomp	_	Treeler:S
 7	durante	durante	ADP	SPS00	_	9	case	_	Treeler:cc
-8	tanto	tanto	DET	DI0MS0	_	9	det	_	Treeler:spec
+8	tanto	tanto	DET	DI0MS0	PronType=Dem	9	det	_	Treeler:spec
 9	tempo	tempo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 10-11	polo	_	_	_	_	_	_	_	_
 10	por	por	ADP	SPS00	_	12	case	_	Treeler:cag
@@ -28323,7 +28323,7 @@
 23	políticas	política	NOUN	NCFP000	_	20	nmod	_	Treeler:sn
 24	públicas	público	ADJ	AQ0FP0	_	23	amod	_	SpaceAfter=No|Treeler:s.a
 25	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
-26	tal	tal	DET	DI0CS0	_	28	det	_	Treeler:spec
+26	tal	tal	DET	DI0CS0	PronType=Dem	28	det	_	Treeler:spec
 27	e	e	CCONJ	CC	_	26	cc	_	Treeler:coord
 28	como	como	PRON	PR0CN000	PronType=Rel	30	nsubj	_	Treeler:suj
 29	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	28	nmod	_	Treeler:sn
