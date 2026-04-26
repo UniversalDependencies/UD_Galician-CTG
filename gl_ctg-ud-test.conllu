@@ -11007,7 +11007,7 @@
 23	gastos	gasto	NOUN	NCMP000	_	21	dep	_	_
 24	en	en	ADP	SPS00	_	26	case	_	_
 25	cada	cada	DET	DI0NN0	PronType=Tot	26	det	_	_
-26	un	un	PRON	PI0MS000	_	19	nmod	_	_
+26	un	un	PRON	PI0MS000	PronType=Ind	19	nmod	_	_
 27-28	dos	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	29	case	_	_
 28	os	o	DET	DA0MP0	Definite=Def|PronType=Art	29	det	_	_
@@ -26777,7 +26777,7 @@
 17	estes	este	DET	DD0MP0	PronType=Dem	19	nsubj	_	Treeler:suj
 18	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	19	obj	_	Treeler:cd
 19	vexan	ver	VERB	VMSP3P0	_	11	dep	_	Treeler:ao
-20	un	un	PRON	PI0MS000	_	19	nsubj	_	Treeler:suj
+20	un	un	PRON	PI0MS000	PronType=Ind	19	nsubj	_	Treeler:suj
 21	tanto	tanto	ADV	RG	_	22	case	_	Treeler:cc
 22	cortapisados	cortapisados	VERB	VMP00PM	_	19	xcomp	_	Treeler:cpred
 23-24	pola	_	_	_	_	_	_	_	_
@@ -28776,7 +28776,7 @@
 27	simple	simple	ADJ	AQ0CS0	_	25	amod	_	Treeler:s.a
 28	para	para	ADP	SPS00	_	30	case	_	Treeler:sp
 29	cada	cada	DET	DI0NN0	PronType=Tot	30	det	_	Treeler:spec
-30	un	un	PRON	PI0MS000	_	27	nmod	_	Treeler:sn
+30	un	un	PRON	PI0MS000	PronType=Ind	27	nmod	_	Treeler:sn
 31-32	deles	_	_	_	_	_	_	_	_
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
 32	eles	el	PRON	PP3MP000	PronType=Prs	30	nmod	_	Treeler:sn
@@ -31757,7 +31757,7 @@
 10	servir	servir	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:creg
 12	cada	cada	DET	DI0NN0	PronType=Tot	13	det	_	Treeler:spec
-13	un	un	PRON	PI0MS000	_	10	obl	_	Treeler:sn
+13	un	un	PRON	PI0MS000	PronType=Ind	10	obl	_	Treeler:sn
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 15	os	o	DET	DA0MP0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
@@ -34227,7 +34227,7 @@
 31	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 32	por	por	ADP	SPS00	_	34	case	_	Treeler:cag
 33	cada	cada	DET	DI0NN0	PronType=Tot	34	det	_	Treeler:spec
-34	un	un	PRON	PI0MS000	_	29	nmod	_	Treeler:sn
+34	un	un	PRON	PI0MS000	PronType=Ind	29	nmod	_	Treeler:sn
 35	e	e	CCONJ	CC	_	36	cc	_	Treeler:coord
 36	para	para	ADP	SPS00	_	34	conj	_	Treeler:sp
 37	todos	todo	DET	DI0MP0	PronType=Tot	29	det	_	SpaceAfter=No|Treeler:d
