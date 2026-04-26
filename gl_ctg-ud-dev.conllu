@@ -101,7 +101,7 @@
 11	podemos	poder	AUX	VMIP1P0	_	12	aux	_	Treeler:v
 12-13	consideralos	_	_	_	_	_	_	_	_
 12	considerar	considerar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
-13	os	o	PRON	PP3MPA00	_	12	obj	_	Treeler:cd
+13	os	o	PRON	PP3MPA00	PronType=Prs	12	obj	_	Treeler:cd
 14	como	como	PRON	PR0CN000	PronType=Rel	12	xcomp	_	Treeler:cpred
 15	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	17	det	_	Treeler:spec
 16	_	_	PUNCT	Fz	_	15	punct	_	SpaceAfter=No|Treeler:f
@@ -329,7 +329,7 @@
 4	a	a	ADP	SPS00	_	5	case	_	Treeler:s
 5-6	dala	_	_	_	_	_	_	_	_
 5	dar	dar	VERB	VMN0000	_	0	root	_	Treeler:sentence
-6	a	o	PRON	PP3FSA00	_	5	obj	_	Treeler:cd
+6	a	o	PRON	PP3FSA00	PronType=Prs	5	obj	_	Treeler:cd
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	provincia	provincia	NOUN	NCFS000	_	5	obj	_	Treeler:cd
 9	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
@@ -462,7 +462,7 @@
 35	discriminación	discriminación	NOUN	NCFS000	_	33	obj	_	Treeler:cd
 36	porque	porque	SCONJ	CS	_	33	mark	_	Treeler:conj
 37	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	33	iobj	_	Treeler:ci
-38	nos	nos	PRON	PP1CP000	_	33	iobj	_	Treeler:ci
+38	nos	nos	PRON	PP1CP000	PronType=Prs	33	iobj	_	Treeler:ci
 39	une	unir	VERB	VMIP3S0	_	33	case	_	ToDo=case-upos|Treeler:cc
 40	a	o	DET	DA0FS0	Definite=Def|PronType=Art	41	det	_	Treeler:spec
 41	pobreza	pobreza	NOUN	NCFS000	_	33	nsubj	_	Treeler:suj
@@ -488,7 +488,7 @@
 9	a	a	ADP	SPS00	_	10	case	_	Treeler:creg
 10-11	facelo	_	_	_	_	_	_	_	SpaceAfter=No
 10	facer	facer	VERB	VMN0000	_	7	ccomp	_	Treeler:S
-11	o	o	PRON	PP3MSA00	_	10	obj	_	Treeler:cd
+11	o	o	PRON	PP3MSA00	PronType=Prs	10	obj	_	Treeler:cd
 12	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 13-14	polo	_	_	_	_	_	_	_	_
 13	por	por	ADP	SPS00	_	19	case	_	Treeler:cc
@@ -521,7 +521,7 @@
 37	,	,	PUNCT	Fc	_	38	punct	_	Treeler:f
 38-39	converténdoa	_	_	_	_	_	_	_	_
 38	convertendo	converter	VERB	VMG0000	_	30	ccomp	_	Treeler:S
-39	a	o	PRON	PP3FSA00	_	38	obj	_	Treeler:cd
+39	a	o	PRON	PP3FSA00	PronType=Prs	38	obj	_	Treeler:cd
 40	así	así	ADV	RG	_	38	case	_	Treeler:cc
 41-42	nun	_	_	_	_	_	_	_	_
 41	en	en	ADP	SPS00	_	43	case	_	Treeler:cc
@@ -654,7 +654,7 @@
 20	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 21	posto	posto	NOUN	NCMS000	_	18	xcomp	_	Treeler:cpred
 22	que	que	PRON	PR0CN000	PronType=Rel	24	nsubj	_	Treeler:suj
-23	as	o	PRON	PP3FPA00	_	24	obj	_	Treeler:cd
+23	as	o	PRON	PP3FPA00	PronType=Prs	24	obj	_	Treeler:cd
 24	bagoas	bagoar	VERB	VMIP2S0	_	21	ccomp	_	Treeler:S
 25	axudaran	axudar	VERB	VMIM3P0	_	27	compound	_	Treeler:v
 26	a	a	ADP	SPS00	_	27	case	_	Treeler:s
@@ -713,7 +713,7 @@
 22	vida	vida	NOUN	NCFS000	_	19	nmod	_	Treeler:sn
 23-24	postergáronnos	_	_	_	_	_	_	_	_
 23	postergaron	postergar	VERB	VMIS3P0	_	2	flat	_	Treeler:sentence
-24	nos	nos	PRON	PP1CP000	_	2	obl	_	Treeler:cc
+24	nos	nos	PRON	PP1CP000	PronType=Prs	2	obl	_	Treeler:cc
 25	a	a	ADP	SPS00	_	26	case	_	Treeler:cc
 26	vivir	vivir	VERB	VMN0000	_	2	ccomp	_	Treeler:S
 27	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	28	det	_	Treeler:spec
@@ -810,7 +810,7 @@
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4-5	propoñémoslle	_	_	_	_	_	_	_	_
 4	propoñemos	propoñer	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
-5	lle	lle	PRON	PP3CSD00	_	4	obj	_	Treeler:cd
+5	lle	lle	PRON	PP3CSD00	PronType=Prs	4	obj	_	Treeler:cd
 6	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	7	det	_	Treeler:spec
 7	serie	serie	NOUN	NCFS000	_	4	obj	_	Treeler:cd
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
@@ -818,7 +818,7 @@
 10	hábitos	hábito	NOUN	NCMP000	_	7	nmod	_	Treeler:sn
 11	cotiáns	cotián	ADJ	AQ0MP0	_	10	amod	_	Treeler:s.a
 12	que	que	PRON	PR0CN000	PronType=Rel	14	nsubj	_	Treeler:suj
-13	lle	lle	PRON	PP3CSD00	_	14	obj	_	Treeler:cd
+13	lle	lle	PRON	PP3CSD00	PronType=Prs	14	obj	_	Treeler:cd
 14	axudarán	axudar	VERB	VMIF3P0	_	10	ccomp	_	Treeler:S
 15	a	a	ADP	SPS00	_	16	case	_	Treeler:creg
 16	reducir	reducir	VERB	VMN0000	_	14	ccomp	_	Treeler:S
@@ -1284,7 +1284,7 @@
 2	conclusión	conclusión	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3-4	lévanos	_	_	_	_	_	_	_	_
 3	levan	levar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-4	os	o	PRON	PP3MPA00	_	3	obj	_	Treeler:cd
+4	os	o	PRON	PP3MPA00	PronType=Prs	3	obj	_	Treeler:cd
 5	a	a	ADP	SPS00	_	6	case	_	Treeler:creg
 6	analizar	analizar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
 7	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
@@ -2114,7 +2114,7 @@
 3	lecer	lecer	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 4-5	perténcelles	_	_	_	_	_	_	_	SpaceAfter=No
 4	pertence	pertencer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-5	lles	lle	PRON	PP3CPD00	_	30	nmod	_	ToDo=nmod|Treeler:sn
+5	lles	lle	PRON	PP3CPD00	PronType=Prs	30	nmod	_	ToDo=nmod|Treeler:sn
 6	:	:	PUNCT	Fd	_	5	punct	_	Treeler:f
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	maioría	maioría	NOUN	NCFS000	_	30	nmod	_	ToDo=nmod|Treeler:sn
@@ -2399,8 +2399,8 @@
 1	En	en	ADP	SPS00	_	2	case	_	Treeler:cc
 2-4	termos	_	_	_	_	_	_	_	_
 2	ter	ter	VERB	VMN0000	_	18	ccomp	_	Treeler:S
-3	me	me	PRON	PP1CS000	_	2	iobj	_	Treeler:ci
-4	os	o	PRON	PP3MPA00	_	2	obj	_	Treeler:cd
+3	me	me	PRON	PP1CS000	PronType=Prs	2	iobj	_	Treeler:ci
+4	os	o	PRON	PP3MPA00	PronType=Prs	2	obj	_	Treeler:cd
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:creg
 6	emisións	emisión	NOUN	NCFP000	_	2	obl	_	Treeler:sn
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
@@ -2483,8 +2483,8 @@
 31	e	e	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord
 32-34	notificaranllo	_	_	_	_	_	_	_	_
 32	notificarán	notificar	VERB	VMIF3P0	_	22	ccomp	_	Treeler:S
-33	lle	lle	PRON	PP3CSD00	_	38	obj	_	Treeler:cd
-34	o	o	PRON	PP3MSA00	_	38	obj	_	Treeler:cd
+33	lle	lle	PRON	PP3CSD00	PronType=Prs	38	obj	_	Treeler:cd
+34	o	o	PRON	PP3MSA00	PronType=Prs	38	obj	_	Treeler:cd
 35	previamente	previamente	ADV	RG	_	38	case	_	Treeler:cc
 36-37	ao	_	_	_	_	_	_	_	_
 36	a	a	ADP	SPS00	_	38	obj	_	Treeler:cd
@@ -3608,7 +3608,7 @@
 18	realidade	realidade	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 19	xuvenil	xuvenil	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
 20	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
-21	lles	lle	PRON	PP3CPD00	_	22	iobj	_	Treeler:ci
+21	lles	lle	PRON	PP3CPD00	PronType=Prs	22	iobj	_	Treeler:ci
 22	proporcionen	proporcionar	VERB	VMSP3P0	_	18	ccomp	_	Treeler:S
 23	ás	á	NOUN	NCFP000	_	22	obj	_	Treeler:cd
 24	entidades	entidade	NOUN	NCFP000	_	22	nsubj	_	Treeler:suj
@@ -3970,7 +3970,7 @@
 13	provincias	provincia	NOUN	NCFP000	_	14	obl	_	Treeler:sn
 14-15	vémola	_	_	_	_	_	_	_	_
 14	vemos	ver	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
-15	a	o	PRON	PP3FSA00	_	14	obj	_	Treeler:cd
+15	a	o	PRON	PP3FSA00	PronType=Prs	14	obj	_	Treeler:cd
 16-17	na	_	_	_	_	_	_	_	_
 16	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
@@ -4138,7 +4138,7 @@
 27	marco	marco	NOUN	NCMS000	_	23	obl	_	Treeler:sn
 28	comunitario	comunitario	ADJ	AQ0MS0	_	27	amod	_	Treeler:s.a
 29	onde	onde	PRON	PR0CN000	_	31	obj	_	Treeler:cd
-30	nos	nos	PRON	PP1CP000	_	31	obj	_	Treeler:cd
+30	nos	nos	PRON	PP1CP000	PronType=Prs	31	obj	_	Treeler:cd
 31	movemos	mover	VERB	VMIS1P0	_	27	ccomp	_	SpaceAfter=No|Treeler:S
 32	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
 33	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
@@ -4294,7 +4294,7 @@
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 3	seu	seu	DET	DP3MS0	_	4	det	_	Treeler:spec
 4	caso	caso	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
-5	o	o	PRON	PP3MSA00	_	6	obj	_	Treeler:cd
+5	o	o	PRON	PP3MSA00	PronType=Prs	6	obj	_	Treeler:cd
 6	precise	precisar	VERB	VMSP1S0	_	10	dep	_	SpaceAfter=No|Treeler:ao
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 8	vostede	vostede	PRON	PP3CSO00	_	10	iobj	_	Treeler:ci
@@ -4413,7 +4413,7 @@
 9	participación	participación	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
 10-11	confírelle	_	_	_	_	_	_	_	_
 10	confire	conferir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-11	lle	lle	PRON	PP3CSD00	_	12	det	_	Treeler:spec
+11	lle	lle	PRON	PP3CSD00	PronType=Prs	12	det	_	Treeler:spec
 12	á	á	NOUN	NCFS000	_	10	obj	_	Treeler:cd
 13	sociedade	sociedade	NOUN	NCFS000	_	12	amod	_	Treeler:s.a
 14	cooperativa	cooperativa	NOUN	NCFS000	_	13	amod	_	Treeler:s.a
@@ -5963,7 +5963,7 @@
 9	Europeo	europeo	ADJ	AQ0MS0	_	7	amod	_	Treeler:s.a
 10	que	que	PRON	PR0CN000	PronType=Rel	13	nsubj	_	Treeler:suj
 11	non	non	PART	RN	_	13	advmod	_	Treeler:mod
-12	os	o	PRON	PP3MPA00	_	13	obj	_	Treeler:cd
+12	os	o	PRON	PP3MPA00	PronType=Prs	13	obj	_	Treeler:cd
 13	impoñen	impoñer	VERB	VMIP3P0	_	2	ccomp	_	SpaceAfter=No|Treeler:S
 14	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 15	como	como	PRON	PR0CN000	PronType=Rel	18	nsubj	_	Treeler:suj
@@ -6301,7 +6301,7 @@
 3	propoñen	propoñer	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4-5	ensinarlles	_	_	_	_	_	_	_	_
 4	ensinar	ensinar	VERB	VMN0000	_	3	obj	_	Treeler:cd
-5	lles	lle	PRON	PP3CPD00	_	4	iobj	_	Treeler:ci
+5	lles	lle	PRON	PP3CPD00	PronType=Prs	4	iobj	_	Treeler:ci
 6-7	ós	_	_	_	_	_	_	_	_
 6	a	a	ADP	SPS00	_	4	obj	_	Treeler:cd
 7	os	o	DET	DA0MP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
@@ -6547,7 +6547,7 @@
 16	máquina	máquina	NOUN	NCFS000	_	13	nmod	_	Treeler:sn
 17	e	e	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
 18	se	se	SCONJ	CS	_	20	mark	_	Treeler:conj
-19	lle	lle	PRON	PP3CSD00	_	20	obj	_	Treeler:cd
+19	lle	lle	PRON	PP3CSD00	PronType=Prs	20	obj	_	Treeler:cd
 20	suprime	suprimir	VERB	VMIP3S0	_	6	ccomp	_	Treeler:S
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 22	medicación	medicación	NOUN	NCFS000	_	20	nsubj	_	SpaceAfter=No|Treeler:suj
@@ -6645,7 +6645,7 @@
 21	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
 22	resulte	resultar	VERB	VMSP1S0	_	14	ccomp	_	Treeler:atr
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:creg
-24	lle	lle	PRON	PP3CSD00	_	22	obl	_	Treeler:sn
+24	lle	lle	PRON	PP3CSD00	PronType=Prs	22	obl	_	Treeler:sn
 25	aplicar	aplicar	VERB	VMN0000	_	24	ccomp	_	Treeler:S
 26-27	ó	_	_	_	_	_	_	_	_
 26	a	a	ADP	SPS00	_	25	obj	_	Treeler:cd
@@ -7970,7 +7970,7 @@
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13-14	propolo	_	_	_	_	_	_	_	_
 13	propor	propor	VERB	VMN0000	_	11	nsubj	_	Treeler:suj
-14	o	o	PRON	PP3MSA00	_	13	obj	_	Treeler:cd
+14	o	o	PRON	PP3MSA00	PronType=Prs	13	obj	_	Treeler:cd
 15-16	nun	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
 16	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	17	det	_	Treeler:spec
@@ -9054,7 +9054,7 @@
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15-16	documentarnos	_	_	_	_	_	_	_	SpaceAfter=No
 15	documentar	documentar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
-16	nos	nos	PRON	PP1CP000	_	15	dep	_	Treeler:morfema.pronominal
+16	nos	nos	PRON	PP1CP000	PronType=Prs	15	dep	_	Treeler:morfema.pronominal
 17	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 18	temos	ter	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 19	que	que	SCONJ	CS	_	34	mark	_	Treeler:conj
@@ -9578,7 +9578,7 @@
 19	%	%	SYM	Ft	_	18	nmod	_	Treeler:sn
 20-21	considérana	_	_	_	_	_	_	_	_
 20	consideran	considerar	VERB	VMIP3P0	_	12	ccomp	_	Treeler:S
-21	a	o	PRON	PP3FSA00	_	20	obj	_	Treeler:cd
+21	a	o	PRON	PP3FSA00	PronType=Prs	20	obj	_	Treeler:cd
 22	mala	mal	ADJ	AQ0FS0	_	21	amod	_	Treeler:s.a
 23	ou	ou	CCONJ	CC	_	20	cc	_	ToDo=cc-without-conj|Treeler:coord
 24	regular	regular	VERB	VMN0000	_	20	ccomp	_	Treeler:S
@@ -9726,7 +9726,7 @@
 36	xurídica	xurídico	ADJ	AQ0FS0	_	35	amod	_	SpaceAfter=No|Treeler:s.a
 37	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
 38	que	que	PRON	PR0CN000	PronType=Rel	40	nsubj	_	Treeler:suj
-39	nos	nos	PRON	PP1CP000	_	40	iobj	_	Treeler:ci
+39	nos	nos	PRON	PP1CP000	PronType=Prs	40	iobj	_	Treeler:ci
 40	parece	parecer	VERB	VMIP3S0	_	28	ccomp	_	Treeler:S
 41	útil	útil	ADJ	AQ0CS0	_	40	xcomp	_	SpaceAfter=No|Treeler:atr
 42	.	.	PUNCT	Fp	_	11	punct	_	Treeler:f
@@ -10236,7 +10236,7 @@
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13	dose	dose	NOUN	NCFS000	_	5	obj	_	Treeler:cd
 14	que	que	PRON	PR0CN000	PronType=Rel	16	obj	_	Treeler:cd
-15	lle	lle	PRON	PP3CSD00	_	16	obj	_	Treeler:cd
+15	lle	lle	PRON	PP3CSD00	PronType=Prs	16	obj	_	Treeler:cd
 16	toca	tocar	VERB	VMIP3S0	_	13	ccomp	_	SpaceAfter=No|Treeler:S
 17	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 18	é	ser	AUX	VSIP3S0	_	19	cop	_	Treeler:ao
@@ -10654,7 +10654,7 @@
 11	os	o	DET	DA0MP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
 12-13	vinte	_	_	_	_	_	_	_	_
 12	vin	ver	VERB	VMIS1S0	_	9	nmod	_	Treeler:sn
-13	te	te	PRON	PP2CSA00	_	12	nsubj	_	Treeler:suj
+13	te	te	PRON	PP2CSA00	PronType=Prs	12	nsubj	_	Treeler:suj
 14	anos	ano	NOUN	NCMP000	_	12	obj	_	Treeler:cd
 15-16	do	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
@@ -10771,7 +10771,7 @@
 40	a	a	ADP	SPS00	_	41	case	_	Treeler:cc
 41-42	xestionalos	_	_	_	_	_	_	_	_
 41	xestionar	xestionar	VERB	VMN0000	_	36	ccomp	_	Treeler:S
-42	os	o	PRON	PP3MPA00	_	41	obj	_	Treeler:cd
+42	os	o	PRON	PP3MPA00	PronType=Prs	41	obj	_	Treeler:cd
 43	por	por	ADP	SPS00	_	44	case	_	Treeler:cc
 44	si	si	PRON	PP3CNO00	_	41	obl	_	Treeler:sn
 45	mesmos	mesmo	DET	DI0MP0	PronType=Ind	36	dep	_	SpaceAfter=No|Treeler:ao
@@ -11211,7 +11211,7 @@
 14	que	que	SCONJ	CS	_	18	mark	_	Treeler:conj
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	integración	integración	NOUN	NCFS000	_	18	nsubj	_	Treeler:suj
-17	lles	lle	PRON	PP3CPD00	_	18	iobj	_	Treeler:ci
+17	lles	lle	PRON	PP3CPD00	PronType=Prs	18	iobj	_	Treeler:ci
 18	daría	dar	VERB	VMIC3S0	_	6	ccomp	_	Treeler:S
 19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	atractivo	atractivo	NOUN	NCMS000	_	18	obj	_	Treeler:cd
@@ -11960,7 +11960,7 @@
 27	dúas	dous	NOUN	NCFP000	_	24	nmod	_	Treeler:sn
 28	investigacións	investigación	NOUN	NCFP000	_	27	amod	_	Treeler:s.a
 29	que	que	PRON	PR0CN000	PronType=Rel	31	nsubj	_	Treeler:suj
-30	nos	nos	PRON	PP1CP000	_	31	iobj	_	Treeler:ci
+30	nos	nos	PRON	PP1CP000	PronType=Prs	31	iobj	_	Treeler:ci
 31	serven	servir	VERB	VMIP3P0	_	28	ccomp	_	Treeler:S
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:creg
 33	referencia	referencia	NOUN	NCFS000	_	31	obl	_	Treeler:sn
@@ -12491,7 +12491,7 @@
 19	latitudinal	latitudinal	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
 20	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
 21	que	que	PRON	PR0CN000	PronType=Rel	23	nsubj	_	Treeler:suj
-22	lle	lle	PRON	PP3CSD00	_	23	obj	_	Treeler:cd
+22	lle	lle	PRON	PP3CSD00	PronType=Prs	23	obj	_	Treeler:cd
 23	imprime	imprimir	VERB	VMIP3S0	_	4	ccomp	_	SpaceAfter=No|Treeler:S
 24	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 25	como	como	PRON	PR0CN000	PronType=Rel	27	obj	_	Treeler:cd
@@ -12579,7 +12579,7 @@
 6	pequena	pequeno	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 7	empresa	empresa	NOUN	NCFS000	_	10	nsubj	_	Treeler:suj
 8	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	10	iobj	_	Treeler:ci
-9	lle	lle	PRON	PP3CSD00	_	10	obj	_	Treeler:cd
+9	lle	lle	PRON	PP3CSD00	PronType=Prs	10	obj	_	Treeler:cd
 10	esixe	esixir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 11	a	a	ADP	SPS00	_	10	iobj	_	Treeler:ci
 12	mesma	mesmo	DET	DI0FS0	PronType=Ind	13	det	_	Treeler:spec
@@ -12602,7 +12602,7 @@
 28	para	para	ADP	SPS00	_	29	case	_	Treeler:sp
 29-30	levala	_	_	_	_	_	_	_	_
 29	levar	levar	VERB	VMN0000	_	27	ccomp	_	Treeler:S
-30	a	o	PRON	PP3FSA00	_	29	obj	_	Treeler:cd
+30	a	o	PRON	PP3FSA00	PronType=Prs	29	obj	_	Treeler:cd
 31	a	o	DET	DA0FS0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
 32	cabo	cabo	NOUN	NCMS000	_	29	obj	_	Treeler:cd
 33	e	e	CCONJ	CC	_	32	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -12789,7 +12789,7 @@
 36	podemos	poder	AUX	VMIP1P0	_	37	aux	_	Treeler:v
 37-38	explicarnos	_	_	_	_	_	_	_	_
 37	explicar	explicar	VERB	VMN0000	_	12	ccomp	_	Treeler:S
-38	nos	nos	PRON	PP1CP000	_	37	iobj	_	Treeler:ci
+38	nos	nos	PRON	PP1CP000	PronType=Prs	37	iobj	_	Treeler:ci
 39	por	por	ADP	SPS00	_	37	case	_	Treeler:cc
 40	que	que	SCONJ	CS	_	12	mark	_	SpaceAfter=No|Treeler:conj
 41	?	?	PUNCT	Fit	_	40	punct	_	SpaceAfter=No|Treeler:f
@@ -13058,7 +13058,7 @@
 34	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 35-36	substituiraa	_	_	_	_	_	_	_	SpaceAfter=No
 35	substituirá	substituír	VERB	VMIF3S0	_	7	ccomp	_	Treeler:S
-36	a	o	PRON	PP3FSA00	_	35	obj	_	Treeler:cd
+36	a	o	PRON	PP3FSA00	PronType=Prs	35	obj	_	Treeler:cd
 37	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = dev-319
@@ -13137,7 +13137,7 @@
 20	a	a	ADP	SPS00	_	21	case	_	Treeler:creg
 21-22	exportalos	_	_	_	_	_	_	_	SpaceAfter=No
 21	exportar	exportar	VERB	VMN0000	_	18	ccomp	_	Treeler:S
-22	os	o	PRON	PP3MPA00	_	21	obj	_	Treeler:cd
+22	os	o	PRON	PP3MPA00	PronType=Prs	21	obj	_	Treeler:cd
 23	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
 24	ben	ben	ADV	RG	_	21	case	_	ToDo=case-upos|Treeler:cc
 25	a	a	ADP	SPS00	_	27	case	_	Treeler:cc
@@ -13147,7 +13147,7 @@
 29	ou	ou	CCONJ	CC	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
 30-31	relegándoos	_	_	_	_	_	_	_	_
 30	relegando	relegar	VERB	VMG0000	_	18	ccomp	_	Treeler:S
-31	os	o	PRON	PP3MPA00	_	30	obj	_	Treeler:cd
+31	os	o	PRON	PP3MPA00	PronType=Prs	30	obj	_	Treeler:cd
 32-33	ó	_	_	_	_	_	_	_	_
 32	a	a	ADP	SPS00	_	34	case	_	Treeler:creg
 33	o	o	DET	DA0MS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
@@ -13358,7 +13358,7 @@
 2	consideracións	consideración	NOUN	NCFP000	_	3	nsubj	_	Treeler:suj
 3-4	lévanme	_	_	_	_	_	_	_	_
 3	levan	levar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-4	me	me	PRON	PP1CS000	_	6	obj	_	Treeler:cd
+4	me	me	PRON	PP1CS000	PronType=Prs	6	obj	_	Treeler:cd
 5	a	a	ADP	SPS00	_	6	case	_	Treeler:s
 6	afirmar	afirmar	VERB	VMN0000	_	3	obj	_	Treeler:cd
 7	que	que	SCONJ	CS	_	34	mark	_	SpaceAfter=No|Treeler:conj
@@ -13606,7 +13606,7 @@
 14	Administración	administración	NOUN	NCFS000	_	18	nsubj	_	Treeler:suj
 15	pública	público	ADJ	AQ0FS0	_	14	amod	_	Treeler:s.a
 16	competente	competente	ADJ	AQ0CS0	_	14	amod	_	Treeler:s.a
-17	lle	lle	PRON	PP3CSD00	_	18	obj	_	Treeler:cd
+17	lle	lle	PRON	PP3CSD00	PronType=Prs	18	obj	_	Treeler:cd
 18	ceda	ceder	VERB	VMSP1S0	_	11	ccomp	_	Treeler:S
 19-20	á	_	_	_	_	_	_	_	_
 19	a	a	ADP	SPS00	_	18	obj	_	Treeler:cd
@@ -14280,7 +14280,7 @@
 18	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	cal	cal	PRON	PR0CS000	PronType=Rel	22	nsubj	_	Treeler:suj
-21	me	me	PRON	PP1CS000	_	22	iobj	_	Treeler:ci
+21	me	me	PRON	PP1CS000	PronType=Prs	22	iobj	_	Treeler:ci
 22	fixo	facer	VERB	VMIS3S0	_	13	ccomp	_	Treeler:S
 23	sentir	sentir	VERB	VMN0000	_	22	obj	_	Treeler:cd
 24	mellor	mellor	ADJ	AQ0CS0	_	23	xcomp	_	SpaceAfter=No|Treeler:cpred
@@ -15152,13 +15152,13 @@
 8	espera	esperar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 9	o	o	DET	DA0MS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
 10	espazo	espazo	NOUN	NCMS000	_	8	obj	_	Treeler:cd
-11	o	o	PRON	PP3MSA00	_	12	obj	_	Treeler:cd
+11	o	o	PRON	PP3MSA00	PronType=Prs	12	obj	_	Treeler:cd
 12	permita	permitir	VERB	VMSP1S0	_	8	obj	_	SpaceAfter=No|Treeler:cd
 13	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
 14-16	invitaráselles	_	_	_	_	_	_	_	_
 14	invitará	invitar	VERB	VMIF3S0	_	12	obj	_	Treeler:cd
 15	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	nsubj	_	Treeler:suj
-16	lles	lle	PRON	PP3CPD00	_	15	iobj	_	Treeler:ci
+16	lles	lle	PRON	PP3CPD00	PronType=Prs	15	iobj	_	Treeler:ci
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 18	que	que	PRON	PR0CN000	PronType=Rel	20	nsubj	_	Treeler:suj
 19	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	20	obj	_	Treeler:cd
@@ -15243,7 +15243,7 @@
 3	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	subpoboación	subpoboación	NOUN	NCFS000	_	2	nmod	_	ToDo=nmod|Treeler:sn
 5	M	m	NOUN	NCMS000	_	7	obj	_	Treeler:cd
-6	o	o	PRON	PP3MSA00	_	7	obj	_	Treeler:cd
+6	o	o	PRON	PP3MSA00	PronType=Prs	7	obj	_	Treeler:cd
 7	fan	facer	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 8-9	da	_	_	_	_	_	_	_	_
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:creg
@@ -15583,8 +15583,8 @@
 19	en	en	ADP	SPS00	_	20	case	_	Treeler:cc
 20-22	termos	_	_	_	_	_	_	_	_
 20	ter	ter	VERB	VMN0000	_	13	ccomp	_	Treeler:S
-21	me	me	PRON	PP1CS000	_	20	iobj	_	Treeler:ci
-22	os	o	PRON	PP3MPA00	_	20	obj	_	Treeler:cd
+21	me	me	PRON	PP1CS000	PronType=Prs	20	iobj	_	Treeler:ci
+22	os	o	PRON	PP3MPA00	PronType=Prs	20	obj	_	Treeler:cd
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:creg
 24	xuros	xuro	NOUN	NCMP000	_	20	obl	_	Treeler:sn
 25	para	para	ADP	SPS00	_	26	case	_	Treeler:cc
@@ -16463,7 +16463,7 @@
 24	o	o	DET	DA0MS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	que	que	PRON	PR0CN000	PronType=Rel	23	nmod	_	ToDo=nmod|Treeler:sn
 26	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	28	iobj	_	Treeler:ci
-27	lle	lle	PRON	PP3CSD00	_	28	obj	_	Treeler:cd
+27	lle	lle	PRON	PP3CSD00	PronType=Prs	28	obj	_	Treeler:cd
 28	remitirá	remitir	VERB	VMIF3S0	_	19	ccomp	_	Treeler:S
 29	esta	este	DET	DD0FS0	PronType=Dem	31	det	_	SpaceAfter=No|Treeler:spec
 30	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
@@ -16503,7 +16503,7 @@
 2	pesar	pesar	VERB	VMN0000	_	16	ccomp	_	Treeler:S
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:creg
 4	que	que	PRON	PR0CN000	PronType=Rel	2	dep	_	Treeler:relatiu
-5	nos	nos	PRON	PP1CP000	_	2	dep	_	Treeler:morfema.pronominal
+5	nos	nos	PRON	PP1CP000	PronType=Prs	2	dep	_	Treeler:morfema.pronominal
 6	meses	mes	NOUN	NCMP000	_	2	obj	_	Treeler:cd
 7-8	do	_	_	_	_	_	_	_	_
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
@@ -16933,7 +16933,7 @@
 38	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
 39-40	manteranas	_	_	_	_	_	_	_	_
 39	manterán	manter	VERB	VMIF3P0	_	18	ccomp	_	Treeler:S
-40	as	o	PRON	PP3FPA00	_	39	obj	_	Treeler:cd
+40	as	o	PRON	PP3FPA00	PronType=Prs	39	obj	_	Treeler:cd
 41	como	como	PRON	PR0CN000	PronType=Rel	40	obl	_	Treeler:sp
 42	condición	condición	NOUN	NCFS000	_	39	obj	_	Treeler:cd
 43	máis	máis	ADV	RG	_	44	advmod	_	Treeler:spec
@@ -17368,13 +17368,13 @@
 18	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	investidores	investidor	NOUN	NCMP000	_	13	nmod	_	Treeler:sn
 20	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
-21	o	o	PRON	PP3MSA00	_	22	obj	_	Treeler:cd
+21	o	o	PRON	PP3MSA00	PronType=Prs	22	obj	_	Treeler:cd
 22	explotan	explotar	VERB	VMIP3P0	_	19	ccomp	_	Treeler:S
 23	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 24	os	o	DET	DA0MP0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	consumidores	consumidor	NOUN	NCMP000	_	13	nmod	_	Treeler:sn
 26	que	que	PRON	PR0CN000	PronType=Rel	28	obj	_	Treeler:cd
-27	o	o	PRON	PP3MSA00	_	28	obj	_	Treeler:cd
+27	o	o	PRON	PP3MSA00	PronType=Prs	28	obj	_	Treeler:cd
 28	utilizan	utilizar	VERB	VMIP3P0	_	25	ccomp	_	SpaceAfter=No|Treeler:S
 29	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -17670,7 +17670,7 @@
 24	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 25-26	transformándoa	_	_	_	_	_	_	_	_
 25	transformando	transformar	VERB	VMG0000	_	18	case	_	ToDo=case-upos|Treeler:cc
-26	a	o	PRON	PP3FSA00	_	18	obj	_	Treeler:cd
+26	a	o	PRON	PP3FSA00	PronType=Prs	18	obj	_	Treeler:cd
 27-28	do	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	29	case	_	Treeler:creg
 28	o	o	DET	DA0MS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
@@ -19005,7 +19005,7 @@
 24	%	%	SYM	Ft	_	23	amod	_	Treeler:s.a
 25	que	que	PRON	PR0CN000	PronType=Rel	28	nsubj	_	Treeler:suj
 26	só	só	ADV	RG	_	28	case	_	Treeler:cc
-27	o	o	PRON	PP3MSA00	_	28	obj	_	Treeler:cd
+27	o	o	PRON	PP3MSA00	PronType=Prs	28	obj	_	Treeler:cd
 28	presentan	presentar	VERB	VMIP3P0	_	13	ccomp	_	Treeler:S
 29	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	28	det	_	Treeler:spec
 30	ou	ou	CCONJ	CC	_	32	cc	_	Treeler:coord
@@ -19857,7 +19857,7 @@
 33	de	de	ADP	SPS00	_	34	case	_	Treeler:sp
 34-35	perdelo	_	_	_	_	_	_	_	SpaceAfter=No
 34	perder	perder	VERB	VMN0000	_	32	ccomp	_	Treeler:S
-35	o	o	PRON	PP3MSA00	_	34	obj	_	Treeler:cd
+35	o	o	PRON	PP3MSA00	PronType=Prs	34	obj	_	Treeler:cd
 36	.	.	PUNCT	Fp	_	13	punct	_	Treeler:f
 
 # sent_id = dev-485
@@ -20904,8 +20904,8 @@
 12	en	en	ADP	SPS00	_	13	case	_	Treeler:cc
 13-15	térmos	_	_	_	_	_	_	_	_
 13	ter	ter	VERB	VMN0000	_	11	ccomp	_	Treeler:S
-14	me	me	PRON	PP1CS000	_	13	iobj	_	Treeler:ci
-15	os	o	PRON	PP3MPA00	_	13	obj	_	Treeler:cd
+14	me	me	PRON	PP1CS000	PronType=Prs	13	iobj	_	Treeler:ci
+15	os	o	PRON	PP3MPA00	PronType=Prs	13	obj	_	Treeler:cd
 16	de	de	ADP	SPS00	_	17	case	_	Treeler:cc
 17	eficacia	eficacia	NOUN	NCFS000	_	13	obl	_	Treeler:sn
 18	en	en	ADP	SPS00	_	19	case	_	Treeler:sp
@@ -21009,7 +21009,7 @@
 15	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
 16-17	medila	_	_	_	_	_	_	_	_
 16	medir	medir	VERB	VMN0000	_	3	ccomp	_	Treeler:S
-17	a	o	PRON	PP3FSA00	_	16	obj	_	Treeler:cd
+17	a	o	PRON	PP3FSA00	PronType=Prs	16	obj	_	Treeler:cd
 18	e	e	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
 19	mesmo	mesmo	ADV	RG	_	16	case	_	Treeler:cc
 20	gardar	gardar	VERB	VMN0000	_	16	ccomp	_	Treeler:S
@@ -21284,7 +21284,7 @@
 26	os	o	DET	DA0MP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 27	que	que	PRON	PR0CN000	PronType=Rel	30	nsubj	_	Treeler:suj
 28	non	non	PART	RN	_	30	advmod	_	Treeler:mod
-29	as	o	PRON	PP3FPA00	_	30	obj	_	Treeler:cd
+29	as	o	PRON	PP3FPA00	PronType=Prs	30	obj	_	Treeler:cd
 30	xeran	xerar	VERB	VMIP3P0	_	23	ccomp	_	SpaceAfter=No|Treeler:S
 31	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
@@ -21913,12 +21913,12 @@
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19-20	enganalos	_	_	_	_	_	_	_	SpaceAfter=No
 19	enganar	enganar	VERB	VMN0000	_	17	ccomp	_	Treeler:S
-20	os	o	PRON	PP3MPA00	_	19	obj	_	Treeler:cd
+20	os	o	PRON	PP3MPA00	PronType=Prs	19	obj	_	Treeler:cd
 21	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
 23-24	convencelos	_	_	_	_	_	_	_	_
 23	convencer	convencer	VERB	VMN0000	_	19	ccomp	_	Treeler:S
-24	os	o	PRON	PP3MPA00	_	23	obj	_	Treeler:cd
+24	os	o	PRON	PP3MPA00	PronType=Prs	23	obj	_	Treeler:cd
 25	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 26	están	estar	AUX	VMIP3P0	_	27	cop	_	Treeler:S
 27	dominadas	dominar	VERB	VMP00PF	_	15	ccomp	_	Treeler:atr
@@ -22359,7 +22359,7 @@
 34	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
 35-36	deixándoa	_	_	_	_	_	_	_	_
 35	deixando	deixar	VERB	VMG0000	_	28	case	_	ToDo=case-upos|Treeler:cc
-36	a	o	PRON	PP3FSA00	_	28	obj	_	Treeler:cd
+36	a	o	PRON	PP3FSA00	PronType=Prs	28	obj	_	Treeler:cd
 37	só	só	ADV	RG	_	28	case	_	Treeler:cc
 38	en	en	ADP	SPS00	_	39	case	_	Treeler:cc
 39	mans	man	NOUN	NCFP000	_	28	obl	_	Treeler:sn
@@ -22567,7 +22567,7 @@
 8	vou	ir	AUX	VMIP1S0	_	9	aux	_	Treeler:v
 9-10	apoiarme	_	_	_	_	_	_	_	_
 9	apoiar	apoiar	VERB	VMN0000	_	0	root	_	Treeler:sentence
-10	me	me	PRON	PP1CS000	_	9	dep	_	Treeler:morfema.pronominal
+10	me	me	PRON	PP1CS000	PronType=Prs	9	dep	_	Treeler:morfema.pronominal
 11	inicialmente	inicial	ADV	RG	_	9	case	_	Treeler:cc
 12-13	nos	_	_	_	_	_	_	_	_
 12	en	en	ADP	SPS00	_	14	case	_	Treeler:cc
@@ -22605,7 +22605,7 @@
 # text = Vémonos obrigados a acometer este proxecto non tanto por unha demanda interior da sociedade galega como polo discurso acelerado de acontecementos exteriores (do conxunto do Estado Español).
 1-2	Vémonos	_	_	_	_	_	_	_	_
 1	Vemos	ver	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
-2	nos	nos	PRON	PP1CP000	_	1	nsubj	_	Treeler:suj
+2	nos	nos	PRON	PP1CP000	PronType=Prs	1	nsubj	_	Treeler:suj
 3	obrigados	obrigar	VERB	VMP00PM	_	1	xcomp	_	Treeler:cpred
 4	a	a	ADP	SPS00	_	5	case	_	Treeler:creg
 5	acometer	acometer	VERB	VMN0000	_	3	ccomp	_	Treeler:S
@@ -22821,7 +22821,7 @@
 3	as	o	DET	DA0FP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	atribucións	atribución	NOUN	NCFP000	_	22	obl	_	Treeler:sn
 5	que	que	PRON	PR0CN000	PronType=Rel	7	obj	_	Treeler:cd
-6	lle	lle	PRON	PP3CSD00	_	7	obj	_	Treeler:cd
+6	lle	lle	PRON	PP3CSD00	PronType=Prs	7	obj	_	Treeler:cd
 7	confire	conferir	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
 8	o	o	DET	DA0MS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
 9	artigo	artigo	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
@@ -22844,7 +22844,7 @@
 24	demais	demais	DET	DI0CN0	_	23	det	_	Treeler:d
 25	funcións	función	NOUN	NCFP000	_	22	obj	_	Treeler:cd
 26	que	que	PRON	PR0CN000	PronType=Rel	29	nsubj	_	Treeler:suj
-27	lle	lle	PRON	PP3CSD00	_	29	iobj	_	Treeler:ci
+27	lle	lle	PRON	PP3CSD00	PronType=Prs	29	iobj	_	Treeler:ci
 28	poidan	poder	AUX	VMSP3P0	_	29	aux	_	Treeler:v
 29	corresponder	corresponder	VERB	VMN0000	_	25	ccomp	_	SpaceAfter=No|Treeler:S
 30	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
@@ -23034,8 +23034,8 @@
 11	saínte	saínte	ADJ	AQ0CS0	_	10	amod	_	SpaceAfter=No|Treeler:s.a
 12	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 13-14	mas	_	_	_	_	_	_	_	_
-13	me	me	PRON	PP1CS000	_	21	iobj	_	Treeler:ci
-14	as	o	PRON	PP3FPA00	_	13	nmod	_	Treeler:sn
+13	me	me	PRON	PP1CS000	PronType=Prs	21	iobj	_	Treeler:ci
+14	as	o	PRON	PP3FPA00	PronType=Prs	13	nmod	_	Treeler:sn
 15	o	o	DET	DA0MS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	conceito	conceito	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
@@ -23153,7 +23153,7 @@
 44	o	o	DET	DA0MS0	Definite=Def|PronType=Art	45	det	_	Treeler:spec
 45-46	dia	_	_	_	_	_	_	_	_
 45	di	dicir	VERB	VMIP3S0	_	38	ccomp	_	Treeler:S
-46	a	o	PRON	PP3FSA00	_	45	obj	_	Treeler:cd
+46	a	o	PRON	PP3FSA00	PronType=Prs	45	obj	_	Treeler:cd
 47	11	11	NUM	Z	_	45	obj	_	Treeler:cd
 48	de	de	ADP	SPS00	_	49	case	_	Treeler:sp
 49	marzo	marzo	NOUN	NCMS000	_	47	nmod	_	SpaceAfter=No|Treeler:sn
@@ -23299,7 +23299,7 @@
 23	para	para	ADP	SPS00	_	24	case	_	Treeler:sp
 24-25	traballala	_	_	_	_	_	_	_	_
 24	traballar	traballar	VERB	VMN0000	_	21	ccomp	_	Treeler:S
-25	a	o	PRON	PP3FSA00	_	24	obj	_	Treeler:cd
+25	a	o	PRON	PP3FSA00	PronType=Prs	24	obj	_	Treeler:cd
 26	(	(	PUNCT	Fpa	_	30	punct	_	SpaceAfter=No|Treeler:f
 27	tanto	tanto	ADV	RG	_	30	cc	_	Treeler:coord
 28	durante	durante	ADP	SPS00	_	30	case	_	Treeler:cc
@@ -23535,7 +23535,7 @@
 8-10	achegóuseme	_	_	_	_	_	_	_	_
 8	achegou	achegar	VERB	VMIS3S0	_	1	ccomp	_	Treeler:S
 9	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	8	dep	_	Treeler:morfema.pronominal
-10	me	me	PRON	PP1CS000	_	9	iobj	_	Treeler:ci
+10	me	me	PRON	PP1CS000	PronType=Prs	9	iobj	_	Treeler:ci
 11	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	12	det	_	Treeler:spec
 12	rapaz	rapaz	NOUN	NCMS000	_	8	obj	_	Treeler:cd
 13	que	que	PRON	PR0CN000	PronType=Rel	15	nsubj	_	Treeler:suj
@@ -23546,12 +23546,12 @@
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 18	señora	señor	NOUN	NCFS000	_	15	nmod	_	ToDo=nmod|Treeler:sn
 19	que	que	PRON	PR0CN000	PronType=Rel	21	nsubj	_	Treeler:suj
-20	me	me	PRON	PP1CS000	_	21	obj	_	Treeler:cd
+20	me	me	PRON	PP1CS000	PronType=Prs	21	obj	_	Treeler:cd
 21	trouxo	traer	VERB	VMIS3S0	_	18	ccomp	_	SpaceAfter=No|Treeler:S
 22	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 23-24	díxome	_	_	_	_	_	_	_	SpaceAfter=No
 23	dixo	dicir	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
-24	me	me	PRON	PP1CS000	_	26	iobj	_	Treeler:ci
+24	me	me	PRON	PP1CS000	PronType=Prs	26	iobj	_	Treeler:ci
 25	:	:	PUNCT	Fd	_	24	punct	_	Treeler:f
 26-27	gustaríache	_	_	_	_	_	_	_	_
 26	gustaría	gustar	VERB	VMIC1S0	_	23	ccomp	_	Treeler:S
@@ -23946,7 +23946,7 @@
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
 17	selo	selo	NOUN	NCMS000	_	15	obj	_	Treeler:cd
 18	cando	cando	PRON	PR0CN000	_	20	obj	_	Treeler:cd
-19	nos	nos	PRON	PP1CP000	_	20	obj	_	Treeler:cd
+19	nos	nos	PRON	PP1CP000	PronType=Prs	20	obj	_	Treeler:cd
 20	centramos	centrar	VERB	VMIP1P0	_	17	ccomp	_	Treeler:S
 21-22	nas	_	_	_	_	_	_	_	_
 21	en	en	ADP	SPS00	_	24	case	_	Treeler:creg
@@ -23978,8 +23978,8 @@
 10	non	non	PART	RN	_	11	advmod	_	Treeler:mod
 11-13	contarmos	_	_	_	_	_	_	_	_
 11	contar	contar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
-12	me	me	PRON	PP1CS000	_	11	iobj	_	Treeler:ci
-13	os	o	PRON	PP3MPA00	_	11	obj	_	Treeler:cd
+12	me	me	PRON	PP1CS000	PronType=Prs	11	iobj	_	Treeler:ci
+13	os	o	PRON	PP3MPA00	PronType=Prs	11	obj	_	Treeler:cd
 14-15	cun	_	_	_	_	_	_	_	_
 14	con	con	ADP	SPS00	_	16	case	_	Treeler:creg
 15	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	16	det	_	Treeler:spec
@@ -24893,7 +24893,7 @@
 3	podemos	poder	AUX	VMIP1P0	_	4	aux	_	Treeler:v
 4-5	agrupalos	_	_	_	_	_	_	_	_
 4	agrupar	agrupar	VERB	VMN0000	_	0	root	_	Treeler:sentence
-5	os	o	PRON	PP3MPA00	_	4	obj	_	Treeler:cd
+5	os	o	PRON	PP3MPA00	PronType=Prs	4	obj	_	Treeler:cd
 6	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
 7	seis	seis	NOUN	NCMP000	_	4	obl	_	Treeler:sn
 8	pares	par	ADJ	AQ0CP0	_	7	amod	_	SpaceAfter=No|Treeler:s.a
@@ -24965,7 +24965,7 @@
 25	os	o	DET	DA0MP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 26	que	que	PRON	PR0CN000	PronType=Rel	24	nmod	_	ToDo=nmod|Treeler:sn
 27	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	29	iobj	_	Treeler:ci
-28	lles	lle	PRON	PP3CPD00	_	29	obj	_	Treeler:cd
+28	lles	lle	PRON	PP3CPD00	PronType=Prs	29	obj	_	Treeler:cd
 29	administra	administrar	VERB	VMIP3S0	_	18	ccomp	_	Treeler:S
 30	IPC	ipc	PROPN	NP00000	_	29	nsubj	_	SpaceAfter=No|Treeler:suj
 31	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
@@ -25150,7 +25150,7 @@
 13	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
 14-15	atribúelle	_	_	_	_	_	_	_	_
 14	atribúe	atribuír	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-15	lle	lle	PRON	PP3CSD00	_	14	nsubj	_	Treeler:suj
+15	lle	lle	PRON	PP3CSD00	PronType=Prs	14	nsubj	_	Treeler:suj
 16-17	á	_	_	_	_	_	_	_	_
 16	a	a	ADP	SPS00	_	14	obj	_	Treeler:cd
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
@@ -25468,8 +25468,8 @@
 8	dominante	dominante	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
 9-10	vémola	_	_	_	_	_	_	_	_
 9	vemos	ver	VERB	VMIP1P0	_	2	ccomp	_	Treeler:S
-10	a	o	PRON	PP3FSA00	_	9	obj	_	Treeler:cd
-11	nos	nos	PRON	PP1CP000	_	9	obj	_	Treeler:cd
+10	a	o	PRON	PP3FSA00	PronType=Prs	9	obj	_	Treeler:cd
+11	nos	nos	PRON	PP1CP000	PronType=Prs	9	obj	_	Treeler:cd
 12	periódicos	periódico	ADJ	AQ0MP0	_	9	xcomp	_	SpaceAfter=No|Treeler:cpred
 13	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 14	cando	cando	PRON	PR0CN000	_	15	nsubj	_	Treeler:suj
@@ -25561,7 +25561,7 @@
 1-3	Dáselle	_	_	_	_	_	_	_	_
 1	Dá	dar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	nsubj	_	Treeler:suj
-3	lle	lle	PRON	PP3CSD00	_	1	nsubj	_	Treeler:suj
+3	lle	lle	PRON	PP3CSD00	PronType=Prs	1	nsubj	_	Treeler:suj
 4	nova	novo	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 5	redacción	redacción	NOUN	NCFS000	_	1	obj	_	Treeler:cd
 6-7	ao	_	_	_	_	_	_	_	_
@@ -25584,8 +25584,8 @@
 20	seguintes	seguinte	ADJ	AQ0CP0	_	17	obl	_	Treeler:sn
 21-23	termos	_	_	_	_	_	_	_	SpaceAfter=No
 21	ter	ter	VERB	VMN0000	_	16	nsubj	_	Treeler:suj
-22	me	me	PRON	PP1CS000	_	21	iobj	_	Treeler:ci
-23	os	o	PRON	PP3MPA00	_	21	obj	_	Treeler:cd
+22	me	me	PRON	PP1CS000	PronType=Prs	21	iobj	_	Treeler:ci
+23	os	o	PRON	PP3MPA00	PronType=Prs	21	obj	_	Treeler:cd
 24	:	:	PUNCT	Fd	_	26	punct	_	Treeler:f
 25	2	2	NUM	Z	_	26	nsubj	_	Treeler:suj
 26-27	Enténdese	_	_	_	_	_	_	_	_
@@ -25674,7 +25674,7 @@
 16	que	que	SCONJ	CS	_	21	mark	_	Treeler:conj
 17	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 18	que	que	PRON	PR0CN000	PronType=Rel	20	nsubj	_	Treeler:suj
-19	te	te	PRON	PP2CSA00	_	20	obj	_	Treeler:cd
+19	te	te	PRON	PP2CSA00	PronType=Prs	20	obj	_	Treeler:cd
 20	respaldan	respaldan	VERB	VMIP3P0	_	21	nsubj	_	Treeler:suj
 21	senten	sentir	VERB	VMIP3P0	_	15	obj	_	Treeler:cd
 22	interese	interese	NOUN	NCMS000	_	21	obj	_	Treeler:cd
@@ -25797,7 +25797,7 @@
 # text = Referímonos, pois, a ese conxunto poboacional de máis de 440.000 persoas, superior xa ó 16 por cento do toda a poboación galega, rondando o 22 e o 23 por cento respectivamente nas provincias de Lugo e Ourense.
 1-2	Referímonos	_	_	_	_	_	_	_	SpaceAfter=No
 1	Referimos	referir	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
-2	nos	nos	PRON	PP1CP000	_	1	nsubj	_	Treeler:suj
+2	nos	nos	PRON	PP1CP000	PronType=Prs	1	nsubj	_	Treeler:suj
 3	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 4	pois	pois	SCONJ	CS	_	1	mark	_	SpaceAfter=No|Treeler:conj
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
@@ -26207,7 +26207,7 @@
 7	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	8	det	_	Treeler:spec
 8	regra	regra	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 9	que	que	PRON	PR0CN000	PronType=Rel	11	nsubj	_	Treeler:suj
-10	nos	nos	PRON	PP1CP000	_	11	iobj	_	Treeler:ci
+10	nos	nos	PRON	PP1CP000	PronType=Prs	11	iobj	_	Treeler:ci
 11	permita	permitir	VERB	VMSP1S0	_	8	ccomp	_	Treeler:S
 12	determinar	determinar	VERB	VMN0000	_	11	obj	_	Treeler:cd
 13	nin	nin	CCONJ	CC	_	12	obj	_	Treeler:cd
@@ -27129,7 +27129,7 @@
 10	061	061	NUM	Z	_	11	nsubj	_	Treeler:suj
 11-12	envíalle	_	_	_	_	_	_	_	_
 11	envía	enviar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-12	lle	lle	PRON	PP3CSD00	_	11	nsubj	_	Treeler:suj
+12	lle	lle	PRON	PP3CSD00	PronType=Prs	11	nsubj	_	Treeler:suj
 13	por	por	ADP	SPS00	_	14	case	_	Treeler:cc
 14	correo	correo	NOUN	NCMS000	_	11	obl	_	Treeler:sn
 15	electrónico	electrónico	ADJ	AQ0MS0	_	14	amod	_	Treeler:s.a
@@ -28302,7 +28302,7 @@
 4	aspecto	aspecto	NOUN	NCMS000	_	10	nsubj	_	Treeler:suj
 5	que	que	PRON	PR0CN000	PronType=Rel	8	nsubj	_	Treeler:suj
 6	máis	máis	ADV	RG	_	8	case	_	Treeler:cc
-7	nos	nos	PRON	PP1CP000	_	8	iobj	_	Treeler:ci
+7	nos	nos	PRON	PP1CP000	PronType=Prs	8	iobj	_	Treeler:ci
 8	interesa	interesar	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
 9	é	ser	AUX	VSIP3S0	_	10	cop	_	Treeler:sentence
 10	examinar	examinar	VERB	VMN0000	_	0	root	_	Treeler:atr
@@ -28716,7 +28716,7 @@
 # sent_id = dev-705
 # text = Non me parece banal, agora que se van cumpir 20 anos do Estatuto de Autonomía, lembrar da man do profesor Meilán as liñas mestras do Estatuto.
 1	Non	non	PART	RN	_	3	advmod	_	Treeler:mod
-2	me	me	PRON	PP1CS000	_	3	iobj	_	Treeler:ci
+2	me	me	PRON	PP1CS000	PronType=Prs	3	iobj	_	Treeler:ci
 3	parece	parecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	banal	banal	ADJ	AQ0CS0	_	3	xcomp	_	SpaceAfter=No|Treeler:atr
 5	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
@@ -29055,7 +29055,7 @@
 30	que	que	SCONJ	CS	_	34	mark	_	Treeler:conj
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
 32	desemprego	desemprego	NOUN	NCMS000	_	34	nsubj	_	Treeler:suj
-33	o	o	PRON	PP3MSA00	_	34	obj	_	Treeler:cd
+33	o	o	PRON	PP3MSA00	PronType=Prs	34	obj	_	Treeler:cd
 34	fai	facer	VERB	VMIP3S0	_	27	ccomp	_	Treeler:S
 35	a	o	DET	DA0FS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
 36	taxas	taxa	NOUN	NCFP000	_	34	obj	_	Treeler:cd
@@ -29302,7 +29302,7 @@
 25	o	o	DET	DA0MS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 26	que	que	PRON	PR0CN000	PronType=Rel	24	nmod	_	ToDo=nmod|Treeler:sn
 27	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	29	iobj	_	Treeler:ci
-28	lle	lle	PRON	PP3CSD00	_	29	iobj	_	Treeler:ci
+28	lle	lle	PRON	PP3CSD00	PronType=Prs	29	iobj	_	Treeler:ci
 29	dá	dar	VERB	VMIP3S0	_	22	ccomp	_	Treeler:S
 30	o	o	DET	DA0MS0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
 31	nivel	nivel	NOUN	NCMS000	_	29	nsubj	_	Treeler:suj
@@ -29482,7 +29482,7 @@
 37	e	e	CCONJ	CC	_	36	cc	_	ToDo=cc-without-conj|Treeler:coord
 38	feitos	feito	NOUN	NCMP000	_	36	dep	_	Treeler:grup.nom
 39	que	que	PRON	PR0CN000	PronType=Rel	41	nsubj	_	Treeler:suj
-40	as	o	PRON	PP3FPA00	_	41	obj	_	Treeler:cd
+40	as	o	PRON	PP3FPA00	PronType=Prs	41	obj	_	Treeler:cd
 41	avalan	avalar	VERB	VMIP3P0	_	36	ccomp	_	SpaceAfter=No|Treeler:S
 42	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -29980,7 +29980,7 @@
 22	as	o	DET	DA0FP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 23	que	que	PRON	PR0CN000	PronType=Rel	26	obj	_	Treeler:cd
 24	non	non	PART	RN	_	26	advmod	_	Treeler:mod
-25	os	o	PRON	PP3MPA00	_	26	obj	_	Treeler:cd
+25	os	o	PRON	PP3MPA00	PronType=Prs	26	obj	_	Treeler:cd
 26	teñen	ter	VERB	VMIP3P0	_	13	ccomp	_	SpaceAfter=No|Treeler:S
 27	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -30370,7 +30370,7 @@
 # text = Tamén se lles fará chegar a información que proceda dos organismos competentes en materia de seguridade e saúde dos traballadores cando éstos a remitan ó empresario.
 1	Tamén	tamén	ADV	RG	_	4	case	_	Treeler:cc
 2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	iobj	_	Treeler:ci
-3	lles	lle	PRON	PP3CPD00	_	4	iobj	_	Treeler:ci
+3	lles	lle	PRON	PP3CPD00	PronType=Prs	4	iobj	_	Treeler:ci
 4	fará	facer	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 5	chegar	chegar	VERB	VMN0000	_	4	obj	_	Treeler:cd
 6	a	o	DET	DA0FS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
@@ -30788,7 +30788,7 @@
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
 2-3	superalo	_	_	_	_	_	_	_	_
 2	superar	superar	VERB	VMN0000	_	4	ccomp	_	Treeler:S
-3	o	o	PRON	PP3MSA00	_	2	obj	_	Treeler:cd
+3	o	o	PRON	PP3MSA00	PronType=Prs	2	obj	_	Treeler:cd
 4-5	identifícase	_	_	_	_	_	_	_	_
 4	identifica	identificar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 5	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	dep	_	Treeler:morfema.pronominal
@@ -31203,7 +31203,7 @@
 33	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 34-35	axeitándoo	_	_	_	_	_	_	_	_
 34	axeitando	axeitar	VERB	VMG0000	_	32	case	_	ToDo=case-upos|Treeler:cc
-35	o	o	PRON	PP3MSA00	_	32	obj	_	Treeler:cd
+35	o	o	PRON	PP3MSA00	PronType=Prs	32	obj	_	Treeler:cd
 36-37	ao	_	_	_	_	_	_	_	_
 36	a	a	ADP	SPS00	_	32	obj	_	Treeler:cd
 37	o	o	DET	DA0MS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
@@ -31631,7 +31631,7 @@
 18	as	o	DET	DA0FP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 19	miñas	meu	DET	DP1FPS	_	20	det	_	Treeler:spec
 20	amigas	amigo	NOUN	NCFP000	_	14	nsubj	_	Treeler:suj
-21	lles	lle	PRON	PP3CPD00	_	14	iobj	_	Treeler:ci
+21	lles	lle	PRON	PP3CPD00	PronType=Prs	14	iobj	_	Treeler:ci
 22	pareza	parecer	VERB	VMSP1S0	_	14	case	_	ToDo=case-upos|Treeler:cc
 23	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	24	det	_	Treeler:spec
 24	extravio	extravio	ADJ	AQ0MS0	_	14	xcomp	_	SpaceAfter=No|Treeler:atr
@@ -31691,7 +31691,7 @@
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	modelos	modelo	NOUN	NCMP000	_	4	obj	_	Treeler:cd
 7	que	que	PRON	PR0CN000	PronType=Rel	9	nsubj	_	Treeler:suj
-8	lles	lle	PRON	PP3CPD00	_	9	iobj	_	Treeler:ci
+8	lles	lle	PRON	PP3CPD00	PronType=Prs	9	iobj	_	Treeler:ci
 9	permitan	permitir	VERB	VMSP3P0	_	6	ccomp	_	Treeler:S
 10	ás	á	NOUN	NCFP000	_	9	obj	_	Treeler:cd
 11	empresas	empresa	NOUN	NCFP000	_	9	nsubj	_	Treeler:suj
@@ -31803,7 +31803,7 @@
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 23-24	compatibilizándoa	_	_	_	_	_	_	_	_
 23	compatibilizando	compatibilizar	VERB	VMG0000	_	17	case	_	ToDo=case-upos|Treeler:cc
-24	a	o	PRON	PP3FSA00	_	17	obj	_	Treeler:cd
+24	a	o	PRON	PP3FSA00	PronType=Prs	17	obj	_	Treeler:cd
 25-26	coa	_	_	_	_	_	_	_	_
 25	con	con	ADP	SPS00	_	27	case	_	Treeler:creg
 26	a	o	DET	DA0FS0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
@@ -31922,7 +31922,7 @@
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	datos	dato	NOUN	NCMP000	_	16	nsubj	_	Treeler:suj
 7	que	que	PRON	PR0CN000	PronType=Rel	9	obj	_	Treeler:cd
-8	nos	nos	PRON	PP1CP000	_	9	iobj	_	Treeler:ci
+8	nos	nos	PRON	PP1CP000	PronType=Prs	9	iobj	_	Treeler:ci
 9	facilita	facilitar	VERB	VMIP3S0	_	6	ccomp	_	Treeler:S
 10	a	o	DET	DA0FS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
 11	historia	historia	NOUN	NCFS000	_	9	obj	_	Treeler:cd
@@ -32597,7 +32597,7 @@
 4	pobreza	pobreza	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
 5-6	aféctalles	_	_	_	_	_	_	_	_
 5	afecta	afectar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-6	lles	lle	PRON	PP3CPD00	_	5	obj	_	Treeler:cd
+6	lles	lle	PRON	PP3CPD00	PronType=Prs	5	obj	_	Treeler:cd
 7	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 8	maior	maior	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
 9	medida	medida	NOUN	NCFS000	_	5	obl	_	Treeler:sn
@@ -32703,7 +32703,7 @@
 24	que	que	SCONJ	CS	_	29	mark	_	Treeler:conj
 25-26	dicirvos	_	_	_	_	_	_	_	_
 25	dicir	dicir	VERB	VMN0000	_	29	nsubj	_	Treeler:suj
-26	vos	vos	PRON	PP2CP000	_	25	iobj	_	Treeler:ci
+26	vos	vos	PRON	PP2CP000	PronType=Prs	25	iobj	_	Treeler:ci
 27	que	que	DET	DT0CN0	PronType=Rel	26	obj	_	Treeler:cd
 28	son	ser	AUX	VSIP1S0	_	29	cop	_	Treeler:cd
 29	fillo	fillo	NOUN	NCMS000	_	17	obj	_	Treeler:atr
@@ -33414,8 +33414,8 @@
 10	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
 11-13	proxectarmos	_	_	_	_	_	_	_	_
 11	proxectar	proxectar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
-12	me	me	PRON	PP1CS000	_	11	iobj	_	Treeler:ci
-13	os	o	PRON	PP3MPA00	_	11	obj	_	Treeler:cd
+12	me	me	PRON	PP1CS000	PronType=Prs	11	iobj	_	Treeler:ci
+13	os	o	PRON	PP3MPA00	PronType=Prs	11	obj	_	Treeler:cd
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
 15	cultura	cultura	NOUN	NCFS000	_	11	obj	_	Treeler:cd
 16	galega	galego	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
@@ -33666,7 +33666,7 @@
 12	a	a	ADP	SPS00	_	13	case	_	Treeler:sp
 13-14	transformalo	_	_	_	_	_	_	_	_
 13	transformar	transformar	VERB	VMN0000	_	9	ccomp	_	Treeler:S
-14	o	o	PRON	PP3MSA00	_	13	obj	_	Treeler:cd
+14	o	o	PRON	PP3MSA00	PronType=Prs	13	obj	_	Treeler:cd
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:creg
 16	algo	algo	PRON	PI0CN000	_	13	obl	_	Treeler:sn
 17	útil	útil	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
@@ -33885,7 +33885,7 @@
 18	:	:	PUNCT	Fd	_	19	punct	_	Treeler:f
 19-20	imparte	_	_	_	_	_	_	_	_
 19	impar	impar	VERB	VMN0000	_	1	ccomp	_	Treeler:S
-20	te	te	PRON	PP2CSA00	_	19	obj	_	Treeler:cd
+20	te	te	PRON	PP2CSA00	PronType=Prs	19	obj	_	Treeler:cd
 21	conferencias	conferencia	NOUN	NCFP000	_	19	obj	_	SpaceAfter=No|Treeler:cd
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 23	escribe	escribir	VERB	VMIP3S0	_	1	ccomp	_	Treeler:S
@@ -34042,7 +34042,7 @@
 8	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 9-10	encontrámonos	_	_	_	_	_	_	_	_
 9	encontramos	encontrar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
-10	nos	nos	PRON	PP1CP000	_	9	nsubj	_	Treeler:suj
+10	nos	nos	PRON	PP1CP000	PronType=Prs	9	nsubj	_	Treeler:suj
 11	aínda	aínda	ADV	RG	_	9	case	_	Treeler:cc
 12	moi	moi	ADV	RG	_	13	case	_	Treeler:cc
 13	afastados	afastar	VERB	VMP00PM	_	9	xcomp	_	Treeler:atr
@@ -34314,7 +34314,7 @@
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
 32-33	crealas	_	_	_	_	_	_	_	_
 32	crear	crear	VERB	VMN0000	_	22	ccomp	_	Treeler:S
-33	as	o	PRON	PP3FPA00	_	32	obj	_	Treeler:cd
+33	as	o	PRON	PP3FPA00	PronType=Prs	32	obj	_	Treeler:cd
 34	ou	ou	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 35	en	en	ADP	SPS00	_	36	case	_	Treeler:sp
 36	acordos	acordo	NOUN	NCMP000	_	10	nmod	_	Treeler:sn
@@ -34354,8 +34354,8 @@
 28	en	en	ADP	SPS00	_	29	case	_	Treeler:cc
 29-31	termos	_	_	_	_	_	_	_	_
 29	ter	ter	VERB	VMN0000	_	24	ccomp	_	Treeler:S
-30	me	me	PRON	PP1CS000	_	29	iobj	_	Treeler:ci
-31	os	o	PRON	PP3MPA00	_	29	obj	_	Treeler:cd
+30	me	me	PRON	PP1CS000	PronType=Prs	29	iobj	_	Treeler:ci
+31	os	o	PRON	PP3MPA00	PronType=Prs	29	obj	_	Treeler:cd
 32-33	do	_	_	_	_	_	_	_	_
 32	de	de	ADP	SPS00	_	34	case	_	Treeler:sp
 33	o	o	DET	DA0MS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
@@ -34366,8 +34366,8 @@
 38	en	en	ADP	SPS00	_	39	case	_	Treeler:cc
 39-41	termos	_	_	_	_	_	_	_	_
 39	ter	ter	VERB	VMN0000	_	29	ccomp	_	Treeler:S
-40	me	me	PRON	PP1CS000	_	39	iobj	_	Treeler:ci
-41	os	o	PRON	PP3MPA00	_	39	obj	_	Treeler:cd
+40	me	me	PRON	PP1CS000	PronType=Prs	39	iobj	_	Treeler:ci
+41	os	o	PRON	PP3MPA00	PronType=Prs	39	obj	_	Treeler:cd
 42	de	de	ADP	SPS00	_	43	case	_	Treeler:creg
 43	valores	valor	NOUN	NCMP000	_	39	obl	_	Treeler:sn
 44	pecuniarios	pecuniario	ADJ	AQ0MP0	_	43	amod	_	SpaceAfter=No|Treeler:s.a
@@ -34483,12 +34483,12 @@
 18	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 19-21	tentaríamos	_	_	_	_	_	_	_	_
 19	tentaría	tentar	VERB	VMIC1S0	_	0	root	_	Treeler:sentence
-20	me	me	PRON	PP1CS000	_	19	nsubj	_	Treeler:suj
-21	os	o	PRON	PP3MPA00	_	19	obj	_	Treeler:cd
+20	me	me	PRON	PP1CS000	PronType=Prs	19	nsubj	_	Treeler:suj
+21	os	o	PRON	PP3MPA00	PronType=Prs	19	obj	_	Treeler:cd
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:creg
 23-24	concilialos	_	_	_	_	_	_	_	_
 23	conciliar	conciliar	VERB	VMN0000	_	19	ccomp	_	Treeler:S
-24	os	o	PRON	PP3MPA00	_	23	obj	_	Treeler:cd
+24	os	o	PRON	PP3MPA00	PronType=Prs	23	obj	_	Treeler:cd
 25-26	cunha	_	_	_	_	_	_	_	_
 25	con	con	ADP	SPS00	_	27	case	_	Treeler:cc
 26	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	27	det	_	Treeler:spec
@@ -35011,8 +35011,8 @@
 49	seguintes	seguinte	ADJ	AQ0CP0	_	45	nmod	_	Treeler:sn
 50-52	termos	_	_	_	_	_	_	_	SpaceAfter=No
 50	ter	ter	VERB	VMN0000	_	49	nmod	_	ToDo=nmod|Treeler:sn
-51	me	me	PRON	PP1CS000	_	50	iobj	_	Treeler:ci
-52	os	o	PRON	PP3MPA00	_	50	obj	_	Treeler:cd
+51	me	me	PRON	PP1CS000	PronType=Prs	50	iobj	_	Treeler:ci
+52	os	o	PRON	PP3MPA00	PronType=Prs	50	obj	_	Treeler:cd
 53	:	:	PUNCT	Fd	_	45	punct	_	Treeler:f
 
 # sent_id = dev-861

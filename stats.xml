@@ -41,7 +41,7 @@
     <feat name="PronType" value="Art" upos="DET">20226</feat><!-- o, a, os, as, un, unha, unhas -->
     <feat name="PronType" value="Dem" upos="DET,PRON">1295</feat><!-- este, esta, estes, estas, isto, ese, aqueles, iso, esa, aquelas -->
     <feat name="PronType" value="Ind" upos="DET">683</feat><!-- outros, mesmo, outra, outras, outro, calquera, mesma, algún, algunhas, algunha -->
-    <feat name="PronType" value="Prs" upos="PRON">2181</feat><!-- se -->
+    <feat name="PronType" value="Prs" upos="PRON">2772</feat><!-- se, o, os, lle, me, nos, lles, a, as, te -->
     <feat name="PronType" value="Rel" upos="DET,PRON">2502</feat><!-- que, como, cal, quen, cales -->
     <feat name="PronType" value="Tot" upos="DET">464</feat><!-- cada, todo, todos, todas, toda -->
     <feat name="Reflex" value="Yes" upos="PRON">2181</feat><!-- se -->
