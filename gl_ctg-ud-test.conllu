@@ -20,7 +20,7 @@
 17	coidado	coidado	NOUN	NCMS000	_	15	obj	_	Treeler:cd
 18-19	destes	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
-19	estes	este	DET	DD0MP0	_	20	det	_	Treeler:spec
+19	estes	este	DET	DD0MP0	PronType=Dem	20	det	_	Treeler:spec
 20	animais	animal	NOUN	NCMP000	_	17	nmod	_	SpaceAfter=No|Treeler:sn
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 22	logo	logo	ADV	RG	_	27	advmod	_	Treeler:sadv
@@ -55,7 +55,7 @@
 # sent_id = test-2
 # text = A esta calculadora tamén se pode acceder pulsando a tecla F5 en calquera dos datos da aplicación, permitindo devolver resultados no caso de datos numéricos.
 1	A	a	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	calculadora	calculador	NOUN	NCFS000	_	8	obl	_	Treeler:sn
 4	tamén	tamén	ADV	RG	_	8	case	_	Treeler:cc
 5	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
@@ -90,7 +90,7 @@
 
 # sent_id = test-3
 # text = Este fenómeno de incorporación de novos socios traballadores á entidade poderíase dar cando a dimensión da empresa medra progresivamente e ten boas perspectivas de futuro; sen embargo, as reticencias son habituais entre os socios orixinarios fundamentalmente por dous motivos.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	fenómeno	fenómeno	NOUN	NCMS000	_	14	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	incorporación	incorporación	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
@@ -439,7 +439,7 @@
 2	risco	risco	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	padecer	padecer	VERB	VMN0000	_	2	ccomp	_	Treeler:S
-5	este	este	DET	DD0MS0	_	6	det	_	Treeler:spec
+5	este	este	DET	DD0MS0	PronType=Dem	6	det	_	Treeler:spec
 6	tipo	tipo	NOUN	NCMS000	_	4	obj	_	Treeler:cd
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 8	cancro	cancro	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
@@ -649,7 +649,7 @@
 17	se	se	PRON	PP3CN000	_	18	obj	_	Treeler:cd
 18	adaptou	adaptar	VERB	VMIS3S0	_	8	ccomp	_	Treeler:S
 19	a	a	ADP	SPS00	_	21	case	_	Treeler:cc
-20	esta	este	DET	DD0FS0	_	21	det	_	Treeler:spec
+20	esta	este	DET	DD0FS0	PronType=Dem	21	det	_	Treeler:spec
 21	civilización	civilización	NOUN	NCFS000	_	18	obl	_	Treeler:sn
 22-23	do	_	_	_	_	_	_	_	_
 22	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
@@ -787,7 +787,7 @@
 
 # sent_id = test-18
 # text = Este resultado pode te-la súa explicación en que ata 1989 se dá un comportamento relativamente uniforme nas políticas de endebedamento das CC.AA., producíndose de novo unha certa converxencia a partir do ano 1992.
-1	Este	este	DET	DD0MS0	_	2	det	_	_
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	_
 2	resultado	resultado	NOUN	NCMS000	_	4	nsubj	_	_
 3	pode	poder	AUX	VMIP3S0	_	4	aux	_	_
 4-5	te-la	_	_	_	_	_	_	_	_
@@ -924,7 +924,7 @@
 26	detrás	detrás	ADV	RG	_	6	case	_	ToDo=case-upos|Treeler:cc
 27-28	desa	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
-28	esa	ese	DET	DD0FS0	_	29	det	_	Treeler:spec
+28	esa	ese	DET	DD0FS0	PronType=Dem	29	det	_	Treeler:spec
 29	proposta	proposta	NOUN	NCFS000	_	6	obl	_	Treeler:sn
 30	estaba	estar	VERB	VMII3S0	_	6	case	_	ToDo=case-upos|Treeler:cc
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
@@ -1055,7 +1055,7 @@
 34	está	estar	AUX	VMIP3S0	_	35	aux	_	Treeler:v
 35	velando	velar	VERB	VMG0000	_	27	ccomp	_	Treeler:S
 36	ante	ante	ADP	SPS00	_	38	case	_	Treeler:cc
-37	este	este	DET	DD0MS0	_	38	det	_	Treeler:spec
+37	este	este	DET	DD0MS0	PronType=Dem	38	det	_	Treeler:spec
 38	debate	debate	NOUN	NCMS000	_	35	obl	_	SpaceAfter=No|Treeler:sn
 39	.	.	PUNCT	Fp	_	21	punct	_	Treeler:f
 
@@ -1183,7 +1183,7 @@
 5	aplicables	aplicable	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
 6	a	a	ADP	SPS00	_	9	case	_	Treeler:sp
 7	todas	todo	DET	DI0FP0	PronType=Tot	8	det	_	Treeler:d
-8	aquelas	aquel	DET	DD0FP0	_	9	det	_	Treeler:spec
+8	aquelas	aquel	DET	DD0FP0	PronType=Dem	9	det	_	Treeler:spec
 9	persoas	persoa	NOUN	NCFP000	_	5	obl	_	Treeler:sn
 10	físicas	físico	ADJ	AQ0FP0	_	9	amod	_	Treeler:s.a
 11	ou	ou	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -1550,7 +1550,7 @@
 17	súas	seu	DET	DP3FP0	_	18	det	_	Treeler:spec
 18	vidas	vida	NOUN	NCFP000	_	14	nmod	_	Treeler:sn
 19	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
-20	esta	este	DET	DD0FS0	_	24	det	_	Treeler:spec
+20	esta	este	DET	DD0FS0	PronType=Dem	24	det	_	Treeler:spec
 21	é	ser	AUX	VSIP3S0	_	24	cop	_	Treeler:S
 22	a	o	DET	DA0FS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
 23	principal	principal	ADJ	AQ0CS0	_	24	amod	_	Treeler:s.a
@@ -1651,11 +1651,11 @@
 3	implantación	implantación	NOUN	NCFS000	_	7	obl	_	Treeler:sn
 4-5	desta	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
-5	esta	este	DET	DD0FS0	_	6	det	_	Treeler:spec
+5	esta	este	DET	DD0FS0	PronType=Dem	6	det	_	Treeler:spec
 6	técnica	técnica	NOUN	NCFS000	_	3	nmod	_	Treeler:sn
 7	cómpre	cómprer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	seguir	seguir	VERB	VMN0000	_	7	obj	_	Treeler:cd
-9	estas	este	DET	DD0FP0	_	10	det	_	Treeler:spec
+9	estas	este	DET	DD0FP0	PronType=Dem	10	det	_	Treeler:spec
 10	liñas	liña	NOUN	NCFP000	_	8	obj	_	Treeler:cd
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 12	actuación	actuación	NOUN	NCFS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
@@ -1818,7 +1818,7 @@
 19	derivados	derivado	NOUN	NCMP000	_	16	nmod	_	Treeler:sn
 20	revelan	revelar	VERB	VMIP3P0	_	7	ccomp	_	Treeler:S
 21	que	que	SCONJ	CS	_	25	mark	_	Treeler:conj
-22	esa	ese	DET	DD0FS0	_	25	nsubj	_	Treeler:suj
+22	esa	ese	DET	DD0FS0	PronType=Dem	25	nsubj	_	Treeler:suj
 23	é	ser	AUX	VSIP3S0	_	25	cop	_	Treeler:cd
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	situación	situación	NOUN	NCFS000	_	20	obj	_	Treeler:atr
@@ -2024,7 +2024,7 @@
 # sent_id = test-52
 # text = Se esta dirección xeral expresa a súa conformidade á adquisición ou incremento de participación significativa, poderá fixar un prazo máximo distinto ao comunicado para efectuar a adquisición.
 1	Se	se	SCONJ	CS	_	5	mark	_	Treeler:conj
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	dirección	dirección	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
 4	xeral	xeral	ADJ	AQ0CS0	_	3	amod	_	Treeler:s.a
 5	expresa	expresar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -2248,7 +2248,7 @@
 3	:	:	PUNCT	Fd	_	4	punct	_	Treeler:f
 4	Instaladas	instalar	VERB	VMP00PF	_	1	xcomp	_	SpaceAfter=No|Treeler:cpred
 5	:	:	PUNCT	Fd	_	8	punct	_	Treeler:f
-6	aquelas	aquel	DET	DD0FP0	_	7	det	_	Treeler:spec
+6	aquelas	aquel	DET	DD0FP0	PronType=Dem	7	det	_	Treeler:spec
 7	salas	sala	NOUN	NCFP000	_	8	obj	_	Treeler:cd
 8	coas	coar	VERB	VMIP2S0	_	1	ccomp	_	Treeler:S
 9	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
@@ -2456,7 +2456,7 @@
 41	prestar	prestar	VERB	VMN0000	_	37	nsubj	_	Treeler:suj
 42-43	nestes	_	_	_	_	_	_	_	_
 42	en	en	ADP	SPS00	_	44	case	_	Treeler:cc
-43	estes	este	DET	DD0MP0	_	44	det	_	Treeler:spec
+43	estes	este	DET	DD0MP0	PronType=Dem	44	det	_	Treeler:spec
 44	contratos	contrato	NOUN	NCMP000	_	41	obl	_	SpaceAfter=No|Treeler:sn
 45	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -2513,7 +2513,7 @@
 
 # sent_id = test-64
 # text = Esta confluencia a un lugar común crea vínculos entre a poboación da comarca, xerarquiza as relacións entre os concellos e, en definitiva, crea espacios comúns, puntos de encontro, que afortalan a noción de identidade.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	confluencia	confluencia	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 3	a	a	ADP	SPS00	_	7	iobj	_	Treeler:ci
 4	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	5	det	_	Treeler:spec
@@ -2560,7 +2560,7 @@
 # text = Para facilitar esta separación, as estelas sométense a un prequentamento con vapor a unha presión de 9-10 kg/cm2 e a unha temperatura de 170°C ou máis, o que incrementa notablemente a disolución dos compoñentes da madeira.
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
 2	facilitar	facilitar	VERB	VMN0000	_	8	ccomp	_	Treeler:S
-3	esta	este	DET	DD0FS0	_	4	det	_	Treeler:spec
+3	esta	este	DET	DD0FS0	PronType=Dem	4	det	_	Treeler:spec
 4	separación	separación	NOUN	NCFS000	_	2	obj	_	SpaceAfter=No|Treeler:cd
 5	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 6	as	o	DET	DA0FP0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
@@ -2660,7 +2660,7 @@
 # sent_id = test-67
 # text = Por iso é desexábel a reducción dos límites de velocidade nas estradas (o cumprimento dos límites actuais xa sería un avanzo importante).
 1	Por	por	ADP	SPS00	_	2	case	_	Treeler:cc
-2	iso	iso	PRON	PD0CN000	_	4	obl	_	Treeler:sn
+2	iso	iso	PRON	PD0CN000	PronType=Dem	4	obl	_	Treeler:sn
 3	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
 4	desexábel	desexábel	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -2693,7 +2693,7 @@
 
 # sent_id = test-68
 # text = Este campo estendeuse máis aló da identificación e prevención de cancronóxenos para abarcar estudios de intervencións específicas destinadas a diminuí-lo risco do cancro e tamén a detección selectiva para o diagnóstico precoz deste.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	campo	campo	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3-4	estendeuse	_	_	_	_	_	_	_	_
 3	estendeu	estender	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
@@ -2735,7 +2735,7 @@
 36	precoz	precoz	ADJ	AQ0CS0	_	35	amod	_	Treeler:s.a
 37-38	deste	_	_	_	_	_	_	_	SpaceAfter=No
 37	de	de	ADP	SPS00	_	35	case	_	Treeler:sp
-38	este	este	DET	DD0MS0	_	35	det	_	Treeler:spec
+38	este	este	DET	DD0MS0	PronType=Dem	35	det	_	Treeler:spec
 39	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = test-69
@@ -2752,7 +2752,7 @@
 10	separados	separar	VERB	VMP00PM	_	4	nsubj	_	Treeler:suj
 11-12	deste	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:cc
-12	este	este	DET	DD0MS0	_	13	det	_	Treeler:spec
+12	este	este	DET	DD0MS0	PronType=Dem	13	det	_	Treeler:spec
 13	cargo	cargo	NOUN	NCMS000	_	10	obl	_	Treeler:sn
 14	dentro	dentro	ADV	RG	_	10	case	_	ToDo=case-upos|Treeler:cc
 15-16	dos	_	_	_	_	_	_	_	_
@@ -2814,7 +2814,7 @@
 # sent_id = test-71
 # text = Por este motivo, os ambientalistas adoitan opoñerse de modo particular á aplicación da análise económica ós temas ambientais.
 1	Por	por	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	motivo	motivo	NOUN	NCMS000	_	7	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -2880,7 +2880,7 @@
 30	tuberculosa	tuberculoso	ADJ	AQ0FS0	_	29	amod	_	Treeler:s.a
 31-32	neste	_	_	_	_	_	_	_	_
 31	en	en	ADP	SPS00	_	33	case	_	Treeler:cc
-32	este	este	DET	DD0MS0	_	33	det	_	Treeler:spec
+32	este	este	DET	DD0MS0	PronType=Dem	33	det	_	Treeler:spec
 33	grupo	grupo	NOUN	NCMS000	_	25	obl	_	Treeler:sn
 34	de	de	ADP	SPS00	_	35	case	_	Treeler:sp
 35	idade	idade	NOUN	NCFS000	_	33	nmod	_	SpaceAfter=No|Treeler:sn
@@ -3041,7 +3041,7 @@
 
 # sent_id = test-77
 # text = Ese corpus lexislativo rara vez se ocupa do que ocorrería se, pese á normativa, se producisen danos ás persoas, aos seus bens e ao medio ambiente.
-1	Ese	ese	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Ese	ese	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	corpus	corpus	NOUN	NCMP000	_	7	obj	_	Treeler:cd
 3	lexislativo	lexislativo	ADJ	AQ0MS0	_	2	amod	_	Treeler:s.a
 4	rara	raro	ADJ	AQ0FS0	_	7	amod	_	Treeler:s.a
@@ -3201,7 +3201,7 @@
 1	Se	se	SCONJ	CS	_	3	mark	_	Treeler:conj
 2	se	se	PRON	PP3CN000	_	3	nsubj	_	Treeler:suj
 3	realiza	realizar	VERB	VMM02S0	_	8	dep	_	Treeler:ao
-4	esta	este	DET	DD0FS0	_	5	det	_	Treeler:spec
+4	esta	este	DET	DD0FS0	PronType=Dem	5	det	_	Treeler:spec
 5	determinación	determinación	NOUN	NCFS000	_	3	nsubj	_	SpaceAfter=No|Treeler:suj
 6	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 7	debe	deber	AUX	VMIP3S0	_	8	aux	_	Treeler:v
@@ -3337,7 +3337,7 @@
 21	Xunta	xunta	NOUN	NCFS000	_	18	nmod	_	Treeler:sn
 22-23	dese	_	_	_	_	_	_	_	_
 22	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
-23	ese	ese	DET	DD0MS0	_	24	det	_	Treeler:spec
+23	ese	ese	DET	DD0MS0	PronType=Dem	24	det	_	Treeler:spec
 24	réxime	réxime	NOUN	NCMS000	_	21	nmod	_	Treeler:sn
 25	fraguiano	fraguiano	ADJ	AQ0MS0	_	24	amod	_	Treeler:s.a
 26	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj
@@ -3409,7 +3409,7 @@
 3	éxito	éxito	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 4-5	destes	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	3	case	_	Treeler:sp
-5	estes	este	DET	DD0MP0	_	6	det	_	Treeler:spec
+5	estes	este	DET	DD0MP0	PronType=Dem	6	det	_	Treeler:spec
 6	dependerá	depender	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 7	non	non	PART	RN	_	6	advmod	_	Treeler:spec
 8	só	só	ADV	RG	_	6	case	_	ToDo=case-upos|Treeler:cc
@@ -3498,7 +3498,7 @@
 18	están	estar	AUX	VMIP3P0	_	19	aux	_	Treeler:v
 19	axudando	axudar	VERB	VMG0000	_	0	root	_	Treeler:sentence
 20	a	a	ADP	SPS00	_	19	obj	_	Treeler:cd
-21	este	este	DET	DD0MS0	_	22	det	_	Treeler:spec
+21	este	este	DET	DD0MS0	PronType=Dem	22	det	_	Treeler:spec
 22	proceso	proceso	NOUN	NCMS000	_	20	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 23	.	.	PUNCT	Fp	_	19	punct	_	Treeler:f
 
@@ -3889,7 +3889,7 @@
 15	próstata	próstata	NOUN	NCFS000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 16	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 17	sendo	ser	AUX	VSG0000	_	19	cop	_	Treeler:S
-18	esta	este	DET	DD0FS0	_	19	det	_	Treeler:spec
+18	esta	este	DET	DD0FS0	PronType=Dem	19	det	_	Treeler:spec
 19	asociación	asociación	NOUN	NCFS000	_	11	ccomp	_	Treeler:atr
 20	máis	máis	ADV	RG	_	21	advmod	_	Treeler:spec
 21	intensa	intenso	ADJ	AQ0FS0	_	19	amod	_	Treeler:s.a
@@ -4170,7 +4170,7 @@
 20	76	76	NUM	Z	_	19	nummod	_	Treeler:z
 21	anos	ano	NOUN	NCMP000	_	17	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
-23	iso	iso	PRON	PD0CN000	_	12	nmod	_	Treeler:sn
+23	iso	iso	PRON	PD0CN000	PronType=Dem	12	nmod	_	Treeler:sn
 24	non	non	PART	RN	_	25	advmod	_	Treeler:mod
 25	quere	querer	VERB	VMIP3S0	_	23	ccomp	_	Treeler:S
 26	dicir	dicir	VERB	VMN0000	_	25	obj	_	Treeler:cd
@@ -4336,7 +4336,7 @@
 35	,	,	PUNCT	Fc	_	36	punct	_	Treeler:f
 36	e	e	CCONJ	CC	_	29	cc	_	ToDo=cc-without-conj|Treeler:coord
 37	que	que	SCONJ	CS	_	43	mark	_	Treeler:conj
-38	este	este	DET	DD0MS0	_	39	det	_	Treeler:spec
+38	este	este	DET	DD0MS0	PronType=Dem	39	det	_	Treeler:spec
 39	valor	valor	NOUN	NCMS000	_	43	nsubj	_	Treeler:suj
 40	debería	deber	AUX	VMIC3S0	_	43	aux	_	Treeler:v
 41	de	de	ADP	SPS00	_	43	case	_	Treeler:s
@@ -4354,7 +4354,7 @@
 3	opinión	opinión	NOUN	NCFS000	_	1	nmod	_	ToDo=nmod|Treeler:sn
 4-5	deste	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
-5	este	este	DET	DD0MS0	_	6	det	_	Treeler:spec
+5	este	este	DET	DD0MS0	PronType=Dem	6	det	_	Treeler:spec
 6	autor	autor	NOUN	NCMS000	_	3	nmod	_	Treeler:sn
 7	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	compromiso	compromiso	NOUN	NCMS000	_	15	nsubj	_	Treeler:suj
@@ -4368,7 +4368,7 @@
 16	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	17	det	_	Treeler:spec
 17	ética	ética	NOUN	NCFS000	_	15	obj	_	SpaceAfter=No|Treeler:cd
 18	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
-19	isto	isto	PRON	PD0CN000	_	15	nsubj	_	Treeler:suj
+19	isto	isto	PRON	PD0CN000	PronType=Dem	15	nsubj	_	Treeler:suj
 20	é	ser	AUX	VSIP3S0	_	15	cop	_	SpaceAfter=No|Treeler:sentence
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 22	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	15	det	_	Treeler:spec
@@ -4440,7 +4440,7 @@
 34	extensificación	extensificación	NOUN	NCFS000	_	30	nmod	_	Treeler:sn
 35-36	destas	_	_	_	_	_	_	_	_
 35	de	de	ADP	SPS00	_	37	case	_	Treeler:sp
-36	estas	este	DET	DD0FP0	_	37	det	_	Treeler:spec
+36	estas	este	DET	DD0FP0	PronType=Dem	37	det	_	Treeler:spec
 37	explotacións	explotación	NOUN	NCFP000	_	34	nmod	_	SpaceAfter=No|Treeler:sn
 38	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
@@ -4670,7 +4670,7 @@
 6	abandono	abandono	NOUN	NCMS000	_	3	obj	_	Treeler:cd
 7-8	destas	_	_	_	_	_	_	_	_
 7	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
-8	estas	este	DET	DD0FP0	_	10	det	_	Treeler:spec
+8	estas	este	DET	DD0FP0	PronType=Dem	10	det	_	Treeler:spec
 9	boas	bo	ADJ	AQ0FP0	_	10	amod	_	Treeler:s.a
 10	prácticas	práctica	NOUN	NCFP000	_	6	nmod	_	SpaceAfter=No|Treeler:sn
 11	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
@@ -4775,7 +4775,7 @@
 
 # sent_id = test-121
 # text = Estes axentes tamén se consideran como carcinóxenos, pero nestes casos se denominan carcinóxenos epixenéticos (tamén denominados promotores).
-1	Estes	este	DET	DD0MP0	_	2	det	_	Treeler:spec
+1	Estes	este	DET	DD0MP0	PronType=Dem	2	det	_	Treeler:spec
 2	axentes	axente	NOUN	NCCP000	_	5	nsubj	_	Treeler:suj
 3	tamén	tamén	ADV	RG	_	5	case	_	Treeler:cc
 4	se	se	PRON	PP3CN000	_	5	obj	_	Treeler:cd
@@ -4786,7 +4786,7 @@
 9	pero	pero	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 10-11	nestes	_	_	_	_	_	_	_	_
 10	en	en	ADP	SPS00	_	12	case	_	Treeler:cc
-11	estes	este	DET	DD0MP0	_	12	det	_	Treeler:spec
+11	estes	este	DET	DD0MP0	PronType=Dem	12	det	_	Treeler:spec
 12	casos	caso	NOUN	NCMP000	_	14	obl	_	Treeler:sn
 13	se	se	PRON	PP3CN000	_	14	obj	_	Treeler:cd
 14	denominan	denominar	VERB	VMIP3P0	_	5	ccomp	_	Treeler:S
@@ -4803,7 +4803,7 @@
 # text = Neste sentido é que se define a sustentabilidade desde a economia ecológica, concepto que trata de ser especificado no apartado seguinte.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	7	dep	_	Treeler:ao
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	1	nmod	_	ToDo=nmod|Treeler:sn
 4	é	ser	AUX	VSIP3S0	_	7	cop	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
@@ -4880,7 +4880,7 @@
 43	suspensión	suspensión	NOUN	NCFS000	_	41	dep	_	Treeler:grup.nom
 44-45	desta	_	_	_	_	_	_	_	_
 44	de	de	ADP	SPS00	_	41	case	_	Treeler:sp
-45	esta	este	DET	DD0FS0	_	48	det	_	Treeler:spec
+45	esta	este	DET	DD0FS0	PronType=Dem	48	det	_	Treeler:spec
 46	por	por	ADP	SPS00	_	48	case	_	Treeler:cag
 47	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	48	det	_	Treeler:spec
 48	tempo	tempo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
@@ -5034,7 +5034,7 @@
 # text = Neste sentido, probablemente a prolongación do tempo de experimentación, ao nivel laboral, de lugar de residencia, de vida en parella, estea a contribuír a retardar o momento no que se forma un corpus estable de opinións e actitudes sociais.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	29	dep	_	Treeler:ao
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	1	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 5	probablemente	probable	ADV	RG	_	7	advmod	_	Treeler:sadv
@@ -5316,7 +5316,7 @@
 # sent_id = test-134
 # text = Asumindo este principio, é de esperar que o repartimento de recursos da administración seguise esta división e, polo tanto, hanse supor uns recursos similares en función da poboación que acollen.
 1	Asumindo	asumir	VERB	VMG0000	_	6	case	_	ToDo=case-upos|Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	principio	principio	NOUN	NCMS000	_	6	obj	_	SpaceAfter=No|Treeler:cd
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	é	ser	AUX	VSIP3S0	_	6	cop	_	Treeler:sentence
@@ -5332,7 +5332,7 @@
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
 15	administración	administración	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
 16	seguise	seguir	VERB	VMSI3S0	_	7	obj	_	Treeler:cd
-17	esta	este	DET	DD0FS0	_	18	det	_	Treeler:spec
+17	esta	este	DET	DD0FS0	PronType=Dem	18	det	_	Treeler:spec
 18	división	división	NOUN	NCFS000	_	16	obj	_	Treeler:cd
 19	e	e	CCONJ	CC	_	7	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 20	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
@@ -5376,7 +5376,7 @@
 12	prazo	prazo	NOUN	NCMS000	_	8	obl	_	Treeler:sn
 13	indicado	indicado	ADJ	AQ0MS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 14	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-15	este	este	DET	DD0MS0	_	16	det	_	Treeler:spec
+15	este	este	DET	DD0MS0	PronType=Dem	16	det	_	Treeler:spec
 16	acordo	acordo	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 18	iniciación	iniciación	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
@@ -5410,7 +5410,7 @@
 42	determinando	determinar	VERB	VMG0000	_	39	ccomp	_	Treeler:S
 43	se	se	PRON	PP3CN000	_	42	dep	_	Treeler:morfema.pronominal
 44	para	para	ADP	SPS00	_	46	case	_	Treeler:cc
-45	estes	este	DET	DD0MP0	_	46	det	_	Treeler:spec
+45	estes	este	DET	DD0MP0	PronType=Dem	46	det	_	Treeler:spec
 46	efectos	efecto	NOUN	NCMP000	_	42	obl	_	Treeler:sn
 47	o	o	DET	DA0MS0	Definite=Def|PronType=Art	48	det	_	Treeler:spec
 48	importe	importe	NOUN	NCMS000	_	42	obj	_	Treeler:cd
@@ -5441,7 +5441,7 @@
 17	1	1	NUM	Z	_	16	nmod	_	SpaceAfter=No|Treeler:sn
 18	)	)	PUNCT	Fpt	_	15	punct	_	SpaceAfter=No|Treeler:f
 19	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
-20	estas	este	DET	DD0FP0	_	21	det	_	Treeler:spec
+20	estas	este	DET	DD0FP0	PronType=Dem	21	det	_	Treeler:spec
 21	dúas	dous	NOUN	NCFP000	_	23	nsubj	_	Treeler:suj
 22	provincias	provincia	NOUN	NCFP000	_	21	amod	_	Treeler:s.a
 23	concentran	concentrar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -5606,7 +5606,7 @@
 # sent_id = test-140
 # text = Todas aquelas persoas ou entidades que se consideren afectadas poderán presentar as súas alegacións, nesta delegación provincial, no prazo de vinte días.
 1	Todas	todo	DET	DI0FP0	PronType=Tot	2	det	_	Treeler:d
-2	aquelas	aquel	DET	DD0FP0	_	3	det	_	Treeler:spec
+2	aquelas	aquel	DET	DD0FP0	PronType=Dem	3	det	_	Treeler:spec
 3	persoas	persoa	NOUN	NCFP000	_	11	nsubj	_	Treeler:suj
 4	ou	ou	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
 5	entidades	entidade	NOUN	NCFP000	_	3	dep	_	Treeler:grup.nom
@@ -5622,7 +5622,7 @@
 15	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 16-17	nesta	_	_	_	_	_	_	_	_
 16	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
-17	esta	este	DET	DD0FS0	_	18	det	_	Treeler:spec
+17	esta	este	DET	DD0FS0	PronType=Dem	18	det	_	Treeler:spec
 18	delegación	delegación	NOUN	NCFS000	_	11	obl	_	Treeler:sn
 19	provincial	provincial	ADJ	AQ0CS0	_	18	amod	_	SpaceAfter=No|Treeler:s.a
 20	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
@@ -5642,7 +5642,7 @@
 1	Dentro	dentro	ADV	RG	_	15	case	_	ToDo=case-upos|Treeler:cc
 2-3	deste	_	_	_	_	_	_	_	_
 2	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
-3	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
+3	este	este	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 4	terceiro	terceiro	ADJ	AO0MS0	_	5	amod	_	Treeler:s.a
 5	nivel	nivel	NOUN	NCMS000	_	15	obl	_	Treeler:sn
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
@@ -5672,7 +5672,7 @@
 # sent_id = test-142
 # text = Desde esta perspectiva parecería que a globalización supón, antes que nada, unha grave ameaza para as culturas locais.
 1	Desde	desde	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	perspectiva	perspectiva	NOUN	NCFS000	_	4	obl	_	Treeler:sn
 4	parecería	parecer	VERB	VMIC3S0	_	0	root	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	8	mark	_	Treeler:conj
@@ -5718,7 +5718,7 @@
 20	propios	propio	ADJ	AQ0MP0	_	16	amod	_	Treeler:s.a
 21-22	desta	_	_	_	_	_	_	_	_
 21	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
-22	esta	este	DET	DD0FS0	_	24	det	_	Treeler:spec
+22	esta	este	DET	DD0FS0	PronType=Dem	24	det	_	Treeler:spec
 23	nova	novo	ADJ	AQ0FS0	_	24	amod	_	Treeler:s.a
 24	realidade	realidade	NOUN	NCFS000	_	20	nmod	_	ToDo=nmod|Treeler:sn
 25	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj
@@ -6183,12 +6183,12 @@
 12	3.3	3.3	NUM	Z	_	8	dep	_	Treeler:grup.nom
 13-14	deste	_	_	_	_	_	_	_	_
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-14	este	este	DET	DD0MS0	_	15	det	_	Treeler:spec
+14	este	este	DET	DD0MS0	PronType=Dem	15	det	_	Treeler:spec
 15	documento	documento	NOUN	NCMS000	_	12	nmod	_	SpaceAfter=No|Treeler:sn
 16	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 17	sen	sen	ADP	SPS00	_	20	case	_	Treeler:cc
 18	que	que	SCONJ	CS	_	20	mark	_	Treeler:conj
-19	isto	isto	PRON	PD0CN000	_	20	nsubj	_	Treeler:suj
+19	isto	isto	PRON	PD0CN000	PronType=Dem	20	nsubj	_	Treeler:suj
 20	leve	levar	VERB	VMSP1S0	_	3	ccomp	_	Treeler:S
 21	a	a	ADP	SPS00	_	23	case	_	Treeler:creg
 22	non	non	PART	RN	_	23	advmod	_	Treeler:mod
@@ -6473,7 +6473,7 @@
 6	algúns	algún	DET	DI0MP0	_	7	det	_	Treeler:spec
 7-8	deses	_	_	_	_	_	_	_	_
 7	de	de	ADP	SPS00	_	10	obl	_	Treeler:sn
-8	eses	ese	DET	DD0MP0	_	9	det	_	Treeler:spec
+8	eses	ese	DET	DD0MP0	PronType=Dem	9	det	_	Treeler:spec
 9	defensores	defensor	NOUN	NCMP000	_	7	nmod	_	ToDo=nmod|Treeler:sn
 10	figuraban	figurar	VERB	VMII3P0	_	0	root	_	Treeler:sentence
 11	recoñecidos	recoñecer	VERB	VMP00PM	_	10	xcomp	_	Treeler:cpred
@@ -6655,7 +6655,7 @@
 # text = Neste punto, é preciso incluír as regras de urbanidade ou regras de educación urbana, o tráfico, a ecoloxía e a calidade de vida, o voluntariado, o respecto á autoridade, os modelos de negociación e a asunción de responsabilidade...
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	punto	punto	NOUN	NCMS000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	é	ser	AUX	VSIP3S0	_	6	cop	_	Treeler:sentence
@@ -6836,7 +6836,7 @@
 6	hora	hora	NOUN	NCFS000	_	13	obl	_	Treeler:sn
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 8	aplicar	aplicar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
-9	estes	este	DET	DD0MP0	_	12	det	_	Treeler:spec
+9	estes	este	DET	DD0MP0	PronType=Dem	12	det	_	Treeler:spec
 10	ou	ou	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	outros	outro	DET	DI0MP0	_	12	det	_	Treeler:spec
 12	sistemas	sistema	NOUN	NCMP000	_	8	obj	_	Treeler:cd
@@ -6883,7 +6883,7 @@
 
 # sent_id = test-172
 # text = Este sistema tamen formula un novo modelo de aprendizaxe baseada na aprendizaxe do estudante e non nas horas lectivas ou docentes como se fai agora.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	sistema	sistema	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 3	tamen	tamen	VERB	VMIP3P0	_	4	nsubj	_	Treeler:suj
 4	formula	formular	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -7240,7 +7240,7 @@
 20	derivada	derivar	VERB	VMP00SF	_	19	ccomp	_	Treeler:S
 21-22	desta	_	_	_	_	_	_	_	SpaceAfter=No
 21	de	de	ADP	SPS00	_	20	case	_	Treeler:creg
-22	esta	este	DET	DD0FS0	_	19	det	_	Treeler:spec
+22	esta	este	DET	DD0FS0	PronType=Dem	19	det	_	Treeler:spec
 23	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 24-25	impulsarase	_	_	_	_	_	_	_	SpaceAfter=No
 24	impulsará	impulsar	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -7372,7 +7372,7 @@
 # sent_id = test-184
 # text = Para iso, pode ser substituído o criterio da maximización polo da satisfacción adecuada das preferencias do socio, tanto a través da renda de carácter económico, coma daquelas de tipo non financeiro, ademais das satisfaccións non pecuniarias.
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
-2	iso	iso	PRON	PD0CN000	_	6	obl	_	SpaceAfter=No|Treeler:sn
+2	iso	iso	PRON	PD0CN000	PronType=Dem	6	obl	_	SpaceAfter=No|Treeler:sn
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	pode	poder	AUX	VMIP3S0	_	6	aux	_	Treeler:v
 5	ser	ser	AUX	VSN0000	_	6	aux	_	Treeler:v
@@ -7414,7 +7414,7 @@
 35	coma	coma	SCONJ	CS	_	39	mark	_	Treeler:conj
 36-37	daquelas	_	_	_	_	_	_	_	_
 36	de	de	ADP	SPS00	_	39	case	_	Treeler:sp
-37	aquelas	aquel	DET	DD0FP0	_	39	det	_	Treeler:spec
+37	aquelas	aquel	DET	DD0FP0	PronType=Dem	39	det	_	Treeler:spec
 38	de	de	ADP	SPS00	_	37	case	_	Treeler:s
 39	tipo	tipo	NOUN	NCMS000	_	14	nmod	_	ToDo=nmod|Treeler:sn
 40	non	non	PART	RN	Polarity=Neg	41	advmod	_	Treeler:neg
@@ -7561,7 +7561,7 @@
 # sent_id = test-189
 # text = Para estes efectos consideraranse servizos efectivos os prestados na situación de servizos especiais e de excedencia para o coidado de fillos e familiares (artigo 55.4º da Lei 4/1988).
 1	Para	para	ADP	SPS00	_	3	case	_	Treeler:cc
-2	estes	este	DET	DD0MP0	_	3	det	_	Treeler:spec
+2	estes	este	DET	DD0MP0	PronType=Dem	3	det	_	Treeler:spec
 3	efectos	efecto	NOUN	NCMP000	_	4	obl	_	Treeler:sn
 4-5	consideraranse	_	_	_	_	_	_	_	_
 4	considerarán	considerar	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
@@ -7745,7 +7745,7 @@
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	poderán	poder	AUX	VMIF3P0	_	5	aux	_	Treeler:v
 5	subsistir	subsistir	VERB	VMN0000	_	0	root	_	Treeler:sentence
-6	aquelas	aquel	DET	DD0FP0	_	7	det	_	Treeler:spec
+6	aquelas	aquel	DET	DD0FP0	PronType=Dem	7	det	_	Treeler:spec
 7	limitacións	limitación	NOUN	NCFP000	_	5	obj	_	Treeler:cd
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
 9	título	título	NOUN	NCMS000	_	5	obj	_	Treeler:cd
@@ -7897,7 +7897,7 @@
 3	cuestión	cuestión	NOUN	NCFS000	_	16	nsubj	_	Treeler:suj
 4	é	ser	AUX	VSIP3S0	_	16	cop	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
-6	eses	ese	DET	DD0MP0	_	7	det	_	Treeler:spec
+6	eses	ese	DET	DD0MP0	PronType=Dem	7	det	_	Treeler:spec
 7	fillos	fillo	NOUN	NCMP000	_	16	nsubj	_	SpaceAfter=No|Treeler:suj
 8	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 9	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	10	det	_	Treeler:spec
@@ -7915,7 +7915,7 @@
 21	mesmos	mesmo	DET	DI0MP0	_	20	advmod	_	SpaceAfter=No|Treeler:sadv
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 23	e	e	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
-24	iso	iso	PRON	PD0CN000	_	25	nsubj	_	Treeler:suj
+24	iso	iso	PRON	PD0CN000	PronType=Dem	25	nsubj	_	Treeler:suj
 25	ocorre	ocorrer	VERB	VMIP3S0	_	16	ccomp	_	Treeler:S
 26-27	na	_	_	_	_	_	_	_	_
 26	en	en	ADP	SPS00	_	30	case	_	Treeler:cc
@@ -8006,13 +8006,13 @@
 11	abordará	abordar	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 12	en	en	ADP	SPS00	_	13	case	_	Treeler:cc
 13	extenso	extenso	ADJ	AQ0MS0	_	11	amod	_	Treeler:s.a
-14	este	este	DET	DD0MS0	_	15	det	_	Treeler:spec
+14	este	este	DET	DD0MS0	PronType=Dem	15	det	_	Treeler:spec
 15	tema	tema	NOUN	NCMS000	_	11	obj	_	SpaceAfter=No|Treeler:cd
 16	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 17	regulará	regular	VERB	VMIF3S0	_	11	ccomp	_	Treeler:S
 18	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
 19	matizará	matizar	VERB	VMIF3S0	_	11	ccomp	_	Treeler:S
-20	estes	este	DET	DD0MP0	_	21	det	_	Treeler:spec
+20	estes	este	DET	DD0MP0	PronType=Dem	21	det	_	Treeler:spec
 21	aspectos	aspecto	NOUN	NCMP000	_	19	obj	_	SpaceAfter=No|Treeler:cd
 22	.	.	PUNCT	Fp	_	11	punct	_	Treeler:f
 
@@ -8117,7 +8117,7 @@
 23	ventilado	ventilar	VERB	VMP00SM	_	22	ccomp	_	Treeler:S
 24-25	nesta	_	_	_	_	_	_	_	_
 24	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
-25	esta	este	DET	DD0FS0	_	26	det	_	Treeler:spec
+25	esta	este	DET	DD0FS0	PronType=Dem	26	det	_	Treeler:spec
 26	queixa	queixa	NOUN	NCFS000	_	23	obl	_	SpaceAfter=No|Treeler:sn
 27	.	.	PUNCT	Fp	_	11	punct	_	Treeler:f
 
@@ -8178,7 +8178,7 @@
 2	incremento	incremento	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 3-4	desta	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
-4	esta	este	DET	DD0FS0	_	5	det	_	Treeler:spec
+4	esta	este	DET	DD0FS0	PronType=Dem	5	det	_	Treeler:spec
 5	eficacia	eficacia	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 6	enerxética	enerxético	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 7	resulta	resultar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -8266,7 +8266,7 @@
 13	singularidades	singularidade	NOUN	NCFP000	_	8	obl	_	Treeler:sn
 14-15	deste	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
-15	este	este	DET	DD0MS0	_	16	det	_	Treeler:spec
+15	este	este	DET	DD0MS0	PronType=Dem	16	det	_	Treeler:spec
 16	museo	museo	NOUN	NCMS000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 17	:	:	PUNCT	Fd	_	19	punct	_	Treeler:f
 18	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
@@ -8433,7 +8433,7 @@
 6	que	que	PRON	PR0CN000	_	8	nsubj	_	Treeler:suj
 7	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
 8	refire	referir	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
-9	este	este	DET	DD0MS0	_	10	det	_	Treeler:spec
+9	este	este	DET	DD0MS0	PronType=Dem	10	det	_	Treeler:spec
 10	artigo	artigo	NOUN	NCMS000	_	8	nsubj	_	SpaceAfter=No|Treeler:suj
 11	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 12-14	remitiráselles	_	_	_	_	_	_	_	_
@@ -8559,7 +8559,7 @@
 4	productoras	productoras	NOUN	NCFP000	_	2	amod	_	Treeler:s.a
 5-6	desta	_	_	_	_	_	_	_	_
 5	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
-6	esta	este	DET	DD0FS0	_	7	det	_	Treeler:spec
+6	esta	este	DET	DD0FS0	PronType=Dem	7	det	_	Treeler:spec
 7	forma	forma	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	afasia	afasia	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
@@ -8634,7 +8634,7 @@
 8	2º	2º	NUM	Z	_	9	nummod	_	Treeler:spec
 9	tenente	tenente	NOUN	NCMS000	_	1	nmod	_	ToDo=nmod|Treeler:sn
 10	por	por	ADP	SPS00	_	12	case	_	Treeler:sp
-11	ese	ese	DET	DD0MS0	_	12	det	_	Treeler:spec
+11	ese	ese	DET	DD0MS0	PronType=Dem	12	det	_	Treeler:spec
 12	destino	destino	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
 13	a	a	ADP	SPS00	_	14	case	_	Treeler:sp
 14	Ultramar	ultramar	NOUN	NCMS000	_	12	nmod	_	SpaceAfter=No|Treeler:sn
@@ -8917,7 +8917,7 @@
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
 9	provocada	provocar	VERB	VMP00SF	_	6	ccomp	_	Treeler:S
 10	por	por	ADP	SPS00	_	12	case	_	Treeler:cag
-11	esta	este	DET	DD0FS0	_	12	det	_	Treeler:spec
+11	esta	este	DET	DD0FS0	PronType=Dem	12	det	_	Treeler:spec
 12	amálgama	amálgama	NOUN	NCFS000	_	9	obl	_	Treeler:sn
 13	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 14	endebedamento	endebedamento	NOUN	NCMS000	_	12	nmod	_	SpaceAfter=No|Treeler:sn
@@ -8940,7 +8940,7 @@
 2	con	con	ADP	SPS00	_	3	case	_	Treeler:cc
 3	anterioridade	anterioridade	NOUN	NCFS000	_	10	obl	_	Treeler:sn
 4	a	a	ADP	SPS00	_	6	case	_	Treeler:sp
-5	estas	este	DET	DD0FP0	_	6	det	_	Treeler:spec
+5	estas	este	DET	DD0FP0	PronType=Dem	6	det	_	Treeler:spec
 6	datas	data	NOUN	NCFP000	_	3	nmod	_	SpaceAfter=No|Treeler:sn
 7	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 8	os	o	DET	DA0MP0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
@@ -9044,7 +9044,7 @@
 3	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 4-5	daqueles	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
-5	aqueles	aquel	DET	DD0MP0	_	7	det	_	Treeler:spec
+5	aqueles	aquel	DET	DD0MP0	PronType=Dem	7	det	_	Treeler:spec
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 7	natureza	natureza	NOUN	NCFS000	_	1	nmod	_	ToDo=nmod|Treeler:sn
 8	arxilosa	arxiloso	ADJ	AQ0FS0	_	7	amod	_	SpaceAfter=No|Treeler:s.a
@@ -9289,7 +9289,7 @@
 
 # sent_id = test-234
 # text = Isto é particularmente patente cando as montañas se atopan próximas ao mar e cando as masas de aire conteñen unha elevada cantidade de humidade, tal e como lle sucede a boa parte das que arriban a Galicia dende o océano.
-1	Isto	isto	PRON	PD0CN000	_	4	nsubj	_	Treeler:suj
+1	Isto	isto	PRON	PD0CN000	PronType=Dem	4	nsubj	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
 3	particularmente	particular	ADV	RG	_	4	advmod	_	Treeler:spec
 4	patente	patente	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
@@ -9471,7 +9471,7 @@
 15	hoxe	hoxe	ADV	RG	_	22	case	_	ToDo=case-upos|Treeler:cc
 16	en	en	ADP	SPS00	_	17	case	_	Treeler:sp
 17	día	día	NOUN	NCMS000	_	22	obl	_	Treeler:sn
-18	esta	este	DET	DD0FS0	_	19	det	_	Treeler:spec
+18	esta	este	DET	DD0FS0	PronType=Dem	19	det	_	Treeler:spec
 19	última	último	ADJ	AQ0FS0	_	17	amod	_	Treeler:s.a
 20	só	só	ADV	RG	_	22	case	_	Treeler:cc
 21	sexa	ser	AUX	VSSP1S0	_	22	cop	_	Treeler:inc
@@ -9527,7 +9527,7 @@
 # text = Neste contorno e ante a variedade e sofisticación dos instrumentos financeiros utilizados, estase a observar que un factor competitivo de enorme importancia está formado polo ordenamento xurídico ó que se suxeitan os intermediarios.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	contorno	contorno	NOUN	NCMS000	_	18	obl	_	Treeler:sn
 4	e	e	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
 5	ante	ante	ADP	SPS00	_	7	case	_	Treeler:sp
@@ -9845,7 +9845,7 @@
 # sent_id = test-248
 # text = Coñecer estas dinámicas e ós colectivos implicados permitirá saber cómo se xera a exclusión e anticiparse, con alternativas e propostas, ó dito fenómeno.
 1	Coñecer	coñecer	VERB	VMN0000	_	9	nsubj	_	Treeler:suj
-2	estas	este	DET	DD0FP0	_	3	det	_	Treeler:spec
+2	estas	este	DET	DD0FP0	PronType=Dem	3	det	_	Treeler:spec
 3	dinámicas	dinámica	NOUN	NCFP000	_	1	obj	_	Treeler:cd
 4	e	e	CCONJ	CC	_	1	cc	_	ToDo=cc-without-conj|Treeler:coord
 5-6	ós	_	_	_	_	_	_	_	_
@@ -9999,7 +9999,7 @@
 
 # sent_id = test-252
 # text = Esta investigación supón que o custo financeiro vén determinado polo custo medio da débeda que a empresa obtén para o seu financiamento ao longo do ano (r).
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	investigación	investigación	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3	supón	supor	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	que	que	SCONJ	CS	_	8	mark	_	Treeler:conj
@@ -10129,7 +10129,7 @@
 1	De	de	ADP	SPS00	_	2	case	_	Treeler:cc
 2	modo	modo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 3	que	que	SCONJ	CS	_	6	mark	_	Treeler:conj
-4	estas	este	DET	DD0FP0	_	5	det	_	Treeler:spec
+4	estas	este	DET	DD0FP0	PronType=Dem	5	det	_	Treeler:spec
 5	corporacións	corporación	NOUN	NCFP000	_	6	nsubj	_	Treeler:suj
 6	teñen	ter	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 7	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	8	det	_	Treeler:spec
@@ -10211,7 +10211,7 @@
 
 # sent_id = test-258
 # text = Este país necesita máis que nunca un goberno que teña á cabeza un presidente nacionalista e que poña ao servizo da cidadanía todos os recursos da administación autonómica, e doutras administacións, nomeadamente os fondos estruturais da UE.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	país	país	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3	necesita	necesitar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	máis	máis	ADV	RG	_	3	case	_	ToDo=case-upos|Treeler:cc
@@ -10372,7 +10372,7 @@
 2	diferencia	diferencia	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 3-4	desta	_	_	_	_	_	_	_	SpaceAfter=No
 3	de	de	ADP	SPS00	_	2	case	_	Treeler:sp
-4	esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+4	esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 5	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 6	é	ser	AUX	VSIP3S0	_	7	cop	_	Treeler:sentence
 7	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
@@ -10523,7 +10523,7 @@
 
 # sent_id = test-265
 # text = Estes criterios -obrigatorios e optativos descríbense na Decisión da comisión para concesión da etiqueta ecolóxica comunitaria aos servizos de aloxamento turístico.
-1	Estes	este	DET	DD0MP0	_	2	det	_	Treeler:spec
+1	Estes	este	DET	DD0MP0	PronType=Dem	2	det	_	Treeler:spec
 2	criterios	criterio	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
 3	-	_	PUNCT	Fg	_	4	punct	_	SpaceAfter=No|Treeler:f
 4	obrigatorios	obrigatorio	ADJ	AQ0MP0	_	2	amod	_	Treeler:s.a
@@ -10748,7 +10748,7 @@
 11	realización	realización	NOUN	NCFS000	_	8	obl	_	Treeler:sn
 12-13	desta	_	_	_	_	_	_	_	_
 12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
-13	esta	este	DET	DD0FS0	_	14	det	_	Treeler:spec
+13	esta	este	DET	DD0FS0	PronType=Dem	14	det	_	Treeler:spec
 14	ruta	ruta	NOUN	NCFS000	_	11	nmod	_	Treeler:sn
 15	pois	pois	SCONJ	CS	_	22	mark	_	Treeler:conj
 16	as	o	DET	DA0FP0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -10859,7 +10859,7 @@
 # sent_id = test-273
 # text = Como isto só é unha mostra do tesouro e parece que non chega de abondo para fachendear, a risco de que Facenda se meta coa miña renda, vou declarar outros bens que adornan o meu patrimonio.
 1	Como	como	SCONJ	CS	_	6	mark	_	Treeler:conj
-2	isto	isto	PRON	PD0CN000	_	6	nsubj	_	Treeler:suj
+2	isto	isto	PRON	PD0CN000	PronType=Dem	6	nsubj	_	Treeler:suj
 3	só	só	ADV	RG	_	6	case	_	Treeler:cc
 4	é	ser	AUX	VSIP3S0	_	6	cop	_	Treeler:sentence
 5	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	6	det	_	Treeler:spec
@@ -10906,7 +10906,7 @@
 # text = Nesta fase avalíanse os impactos ambientais potenciais xerados como consecuencia das entradas e saídas mencionadas na etapa anterior, clasificándoos en distintas categorías en función da natureza do impacto.
 1-2	Nesta	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	fase	fase	NOUN	NCFS000	_	4	obl	_	Treeler:sn
 4-5	avalíanse	_	_	_	_	_	_	_	_
 4	avalían	avaliar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -10951,7 +10951,7 @@
 
 # sent_id = test-275
 # text = Esta regra aplicarase no período impositivo en que se efectúe o cambio de residencia e durante os catro períodos impositivos seguintes.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	regra	regra	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3-4	aplicarase	_	_	_	_	_	_	_	_
 3	aplicará	aplicar	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -11372,7 +11372,7 @@
 # text = Neste caso esixiráselle unha garantía definitiva polo 20 % do importe de adxudicación ou do orzamento base de licitación, cando o prezo se determine en función de prezos unitarios.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	4	obl	_	Treeler:sn
 4-6	esixiráselle	_	_	_	_	_	_	_	_
 4	esixirá	esixir	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -11974,7 +11974,7 @@
 # text = Neste caso, os fertilizantes orgánicos deberían incorporarse con antelación suficiente e empregar os minerais en función da época de cultivo e da climatoloxía correspondente.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	9	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -12224,7 +12224,7 @@
 # text = Desta forma é aconsellable que o pequeno empresario debera contratar ou pedir asesoramento externo que o teña informado dos seus deberes e dereitos de xeito que cumpra co seu estándar de dilixencia.
 1-2	Desta	_	_	_	_	_	_	_	_
 1	De	de	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	forma	forma	NOUN	NCFS000	_	5	obl	_	Treeler:sn
 4	é	ser	AUX	VSIP3S0	_	5	cop	_	Treeler:sentence
 5	aconsellable	aconsellable	ADJ	AQ0CS0	_	0	root	_	Treeler:atr
@@ -12280,7 +12280,7 @@
 13	se	se	PRON	PP3CN000	_	12	dep	_	Treeler:morfema.pronominal
 14	como	como	SCONJ	CS	_	12	xcomp	_	Treeler:cpred
 15	tales	tal	DET	DI0CP0	_	16	det	_	Treeler:spec
-16	aqueles	aquel	PRON	PD0MP000	_	14	nmod	_	ToDo=nmod|Treeler:sn
+16	aqueles	aquel	PRON	PD0MP000	PronType=Dem	14	nmod	_	ToDo=nmod|Treeler:sn
 17	destinados	destinar	VERB	VMP00PM	_	16	ccomp	_	Treeler:S
 18-19	á	_	_	_	_	_	_	_	_
 18	a	a	ADP	SPS00	_	20	case	_	Treeler:creg
@@ -12377,7 +12377,7 @@
 3	te	te	PRON	PP2CSA00	_	4	det	_	Treeler:spec
 4	convenio	convenio	NOUN	NCMS000	_	2	obj	_	Treeler:cd
 5	con	con	ADP	SPS00	_	7	case	_	Treeler:cc
-6	estas	este	DET	DD0FP0	_	7	det	_	Treeler:spec
+6	estas	este	DET	DD0FP0	PronType=Dem	7	det	_	Treeler:spec
 7	Universidades	universidade	NOUN	NCFP000	_	2	obl	_	SpaceAfter=No|Treeler:sn
 8	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 9-10	consígnanse	_	_	_	_	_	_	_	_
@@ -12464,7 +12464,7 @@
 
 # sent_id = test-315
 # text = Este tipo de dosificación produce máis efectos secundarios, aínda que en ocasións é o único xeito de conseguir un mellor control da enfermidade.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	tipo	tipo	NOUN	NCMS000	_	5	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	dosificación	dosificación	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
@@ -12636,14 +12636,14 @@
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 7	equilibrio	equilibrio	NOUN	NCMS000	_	5	nmod	_	Treeler:sn
 8	entre	entre	ADP	SPS00	_	10	case	_	Treeler:sp
-9	aqueles	aquel	DET	DD0MP0	_	10	det	_	Treeler:spec
+9	aqueles	aquel	DET	DD0MP0	PronType=Dem	10	det	_	Treeler:spec
 10	enquisados	enquisar	VERB	VMP00PM	_	5	nmod	_	Treeler:sn
 11	que	que	PRON	PR0CN000	_	12	nsubj	_	Treeler:suj
 12	reciben	recibir	VERB	VMIP3P0	_	5	ccomp	_	Treeler:S
 13	axuda	axuda	NOUN	NCFS000	_	12	obj	_	Treeler:cd
 14	familiar	familiar	ADJ	AQ0CS0	_	13	amod	_	Treeler:s.a
 15	e	e	CCONJ	CC	_	12	cc	_	ToDo=cc-without-conj|Treeler:coord
-16	aqueles	aquel	DET	DD0MP0	_	20	det	_	Treeler:spec
+16	aqueles	aquel	DET	DD0MP0	PronType=Dem	20	det	_	Treeler:spec
 17	que	que	PRON	PR0CN000	_	20	nsubj	_	Treeler:suj
 18	non	non	PART	RN	_	20	advmod	_	Treeler:mod
 19	a	o	PRON	PP3FSA00	_	20	obj	_	Treeler:cd
@@ -12664,7 +12664,7 @@
 9	será	ser	AUX	VSIF3S0	_	10	cop	_	Treeler:sentence
 10	necesario	necesario	ADJ	AQ0MS0	_	0	root	_	Treeler:atr
 11	revisar	revisar	VERB	VMN0000	_	10	nsubj	_	Treeler:suj
-12	estas	este	DET	DD0FP0	_	14	det	_	Treeler:spec
+12	estas	este	DET	DD0FP0	PronType=Dem	14	det	_	Treeler:spec
 13	posibles	posible	ADJ	AQ0CP0	_	14	amod	_	Treeler:s.a
 14	complicacións	complicación	NOUN	NCFP000	_	11	obj	_	SpaceAfter=No|Treeler:cd
 15	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
@@ -13028,7 +13028,7 @@
 40	intensivas	intensivo	ADJ	AQ0FP0	_	39	amod	_	Treeler:s.a
 41-42	desta	_	_	_	_	_	_	_	_
 41	de	de	ADP	SPS00	_	43	case	_	Treeler:sp
-42	esta	este	DET	DD0FS0	_	43	det	_	Treeler:spec
+42	esta	este	DET	DD0FS0	PronType=Dem	43	det	_	Treeler:spec
 43	porcallada	porcallada	NOUN	NCFS000	_	39	nmod	_	Treeler:sn
 44	de	de	ADP	SPS00	_	45	case	_	Treeler:sp
 45	sociedade	sociedade	NOUN	NCFS000	_	43	nmod	_	Treeler:sn
@@ -13098,7 +13098,7 @@
 21	lle	lle	PRON	PP3CSD00	_	22	obj	_	Treeler:cd
 22	atribúen	atribuír	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 23	a	a	ADP	SPS00	_	22	obj	_	Treeler:cd
-24	esta	este	DET	DD0FS0	_	23	amod	_	Treeler:s.a
+24	esta	este	DET	DD0FS0	PronType=Dem	23	amod	_	Treeler:s.a
 25	primarán	primar	VERB	VMIF3P0	_	22	ccomp	_	Treeler:S
 26	sobre	sobre	ADP	SPS00	_	28	case	_	Treeler:cc
 27	o	o	DET	DA0MS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
@@ -13462,7 +13462,7 @@
 
 # sent_id = test-340
 # text = Estas persoas teñen un risco aumentado de contraer a enfermidade e tamén de transmitila á persoas de alto risco dentro dun centro sanitario, tanto de atención primaria como de especializada.
-1	Estas	este	DET	DD0FP0	_	2	det	_	Treeler:spec
+1	Estas	este	DET	DD0FP0	PronType=Dem	2	det	_	Treeler:spec
 2	persoas	persoa	NOUN	NCFP000	_	3	nsubj	_	Treeler:suj
 3	teñen	ter	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	5	det	_	Treeler:spec
@@ -13599,7 +13599,7 @@
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 22	enfermidade	enfermidade	NOUN	NCFS000	_	19	obl	_	SpaceAfter=No|Treeler:sn
 23	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-24	isto	isto	PRON	PD0CN000	_	28	nsubj	_	Treeler:suj
+24	isto	isto	PRON	PD0CN000	PronType=Dem	28	nsubj	_	Treeler:suj
 25	é	ser	AUX	VSIP3S0	_	28	cop	_	SpaceAfter=No|Treeler:sentence
 26	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 27	poden	poder	AUX	VMIP3P0	_	28	aux	_	Treeler:v
@@ -13653,7 +13653,7 @@
 # text = Neste ámbito, cabe destaca-la continuidade do dinamismo empresarial, reflectido polo crecemento do número de empresas e Pemes e pola práctica estabilización do peso específico de Galicia respecto a España neste ámbito (Cadro 7).
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	ámbito	ámbito	NOUN	NCMS000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	cabe	caber	VERB	VMIP3S0	_	6	compound	_	Treeler:v
@@ -13698,7 +13698,7 @@
 38	España	españa	PROPN	NP00000	_	36	nmod	_	Treeler:sn
 39-40	neste	_	_	_	_	_	_	_	_
 39	en	en	ADP	SPS00	_	41	case	_	Treeler:sp
-40	este	este	DET	DD0MS0	_	41	det	_	Treeler:spec
+40	este	este	DET	DD0MS0	PronType=Dem	41	det	_	Treeler:spec
 41	ámbito	ámbito	NOUN	NCMS000	_	29	nmod	_	Treeler:sn
 42	(	(	PUNCT	Fpa	_	43	punct	_	SpaceAfter=No|Treeler:f
 43	Cadro	cadro	NOUN	NCMS000	Foreign=Yes	6	flat	_	Treeler:inc
@@ -13816,7 +13816,7 @@
 
 # sent_id = test-348
 # text = Estes obxectivos non constitúen a base máis idónea para a toma de decisións, xa que en moitos casos a súa maximización non ten porque implicar a creación de valor para o accionista.
-1	Estes	este	DET	DD0MP0	_	2	det	_	Treeler:spec
+1	Estes	este	DET	DD0MP0	PronType=Dem	2	det	_	Treeler:spec
 2	obxectivos	obxectivo	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
 3	non	non	PART	RN	_	4	advmod	_	Treeler:mod
 4	constitúen	constituír	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -13899,7 +13899,7 @@
 # text = Nesta etapa do diagnóstico tamén se poden utilizar uns criterios de clasificación, deseñados para axudar a recoñecer a enfermidade.
 1-2	Nesta	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	etapa	etapa	NOUN	NCFS000	_	10	obl	_	Treeler:sn
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
@@ -13937,14 +13937,14 @@
 10	colexiados	colexiar	VERB	VMP00PM	_	6	nmod	_	Treeler:sn
 11-12	desta	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:cc
-12	esta	este	DET	DD0FS0	_	13	det	_	Treeler:spec
+12	esta	este	DET	DD0FS0	PronType=Dem	13	det	_	Treeler:spec
 13	corporación	corporación	NOUN	NCFS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 15	así	así	ADV	RG	_	5	case	_	ToDo=case-upos|Treeler:cc
 16	como	como	SCONJ	CS	_	17	mark	_	Treeler:conj
 17	a	a	ADP	SPS00	_	5	ccomp	_	Treeler:S
 18	todos	todo	DET	DI0MP0	PronType=Tot	19	det	_	Treeler:d
-19	aqueles	aquel	DET	DD0MP0	_	20	det	_	Treeler:spec
+19	aqueles	aquel	DET	DD0MP0	PronType=Dem	20	det	_	Treeler:spec
 20	avogados	avogado	NOUN	NCMP000	_	17	nmod	_	ToDo=nmod|Treeler:sn
 21	que	que	PRON	PR0CN000	_	22	nsubj	_	Treeler:suj
 22	exerzan	exercer	VERB	VMSP3P0	_	20	ccomp	_	Treeler:S
@@ -13961,7 +13961,7 @@
 1	Nós	nós	PRON	PP1CPO00	_	2	obj	_	Treeler:cd
 2	entendemos	entender	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 3	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
-4	esta	este	DET	DD0FS0	_	7	det	_	Treeler:spec
+4	esta	este	DET	DD0FS0	PronType=Dem	7	det	_	Treeler:spec
 5	é	ser	AUX	VSIP3S0	_	7	cop	_	Treeler:cd
 6	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	7	det	_	Treeler:spec
 7	adaptación	adaptación	NOUN	NCFS000	_	2	obj	_	Treeler:atr
@@ -14155,7 +14155,7 @@
 42	discriminatorio	discriminatorio	ADJ	AQ0MS0	_	41	amod	_	Treeler:s.a
 43	cara	cara	NOUN	NCFS000	_	41	amod	_	Treeler:s.a
 44	a	a	ADP	SPS00	_	43	case	_	Treeler:sp
-45	estas	este	DET	DD0FP0	_	43	det	_	SpaceAfter=No|Treeler:spec
+45	estas	este	DET	DD0FP0	PronType=Dem	43	det	_	SpaceAfter=No|Treeler:spec
 46	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
 # sent_id = test-357
@@ -14438,7 +14438,7 @@
 
 # sent_id = test-364
 # text = Esta hipótese pretende corroborar se a pertenza a un determinado grupo corporativo pode influír na variabilidade da rendibilidade económica dunha organización.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	hipótese	hipótese	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3	pretende	pretender	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	corroborar	corroborar	VERB	VMN0000	_	3	obj	_	Treeler:cd
@@ -14573,7 +14573,7 @@
 # text = Para acreditar esta ausencia abondará co recordo dos pais, porque, en xeral, este recordo é acertado, como mostran os resultados de numerosos estudos realizados en adolescentes e mozos de países con climas temperados sen un programa de vacinación infantil sistemática.
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
 2	acreditar	acreditar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
-3	esta	este	DET	DD0FS0	_	4	det	_	Treeler:spec
+3	esta	este	DET	DD0FS0	PronType=Dem	4	det	_	Treeler:spec
 4	ausencia	ausencia	NOUN	NCFS000	_	2	obj	_	Treeler:cd
 5	abondará	abondar	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 6-7	co	_	_	_	_	_	_	_	_
@@ -14590,7 +14590,7 @@
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
 16	xeral	xeral	ADJ	AQ0CS0	_	21	amod	_	SpaceAfter=No|Treeler:s.a
 17	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
-18	este	este	DET	DD0MS0	_	19	det	_	Treeler:spec
+18	este	este	DET	DD0MS0	PronType=Dem	19	det	_	Treeler:spec
 19	recordo	recordo	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
 20	é	ser	AUX	VSIP3S0	_	21	cop	_	Treeler:ao
 21	acertado	acertado	ADJ	AQ0MS0	_	24	dep	_	SpaceAfter=No|Treeler:atr
@@ -14724,7 +14724,7 @@
 # text = Neste grupo de modelos están o de Los Ángeles (Hall e Licari, 1974), o modelo de Mississippi (Adams et al., 1975) e o modelo para a economía andaluza de Ramírez (1993).
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	grupo	grupo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 4	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
 5	modelos	modelo	NOUN	NCMP000	_	3	nmod	_	Treeler:sn
@@ -14793,7 +14793,7 @@
 21	expresa	expresar	VERB	VMIP3S0	_	3	ccomp	_	Treeler:S
 22-23	neste	_	_	_	_	_	_	_	_
 22	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
-23	este	este	DET	DD0MS0	_	25	det	_	Treeler:spec
+23	este	este	DET	DD0MS0	PronType=Dem	25	det	_	Treeler:spec
 24	último	último	ADJ	AQ0MS0	_	25	amod	_	Treeler:s.a
 25	ano	ano	NOUN	NCMS000	_	21	obl	_	SpaceAfter=No|Treeler:sn
 26	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
@@ -14831,7 +14831,7 @@
 4	por	por	ADP	SPS00	_	6	case	_	Treeler:cag
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	miudo	miudo	PROPN	NP00000	_	3	obl	_	Treeler:sn
-7	esta	este	DET	DD0FS0	_	8	det	_	Treeler:spec
+7	esta	este	DET	DD0FS0	PronType=Dem	8	det	_	Treeler:spec
 8	distribución	distribución	NOUN	NCFS000	_	9	nsubj	_	Treeler:suj
 9	ten	ter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 10	grande	grande	ADJ	AQ0CS0	_	11	amod	_	Treeler:s.a
@@ -15113,7 +15113,7 @@
 40	o	o	DET	DA0MS0	Definite=Def|PronType=Art	41	det	_	Treeler:spec
 41	emprego	emprego	NOUN	NCMS000	_	38	nmod	_	Treeler:sn
 42	de	de	ADP	SPS00	_	44	case	_	Treeler:sp
-43	estes	este	DET	DD0MP0	_	44	det	_	Treeler:spec
+43	estes	este	DET	DD0MP0	PronType=Dem	44	det	_	Treeler:spec
 44	fondos	fondo	NOUN	NCMP000	_	41	nmod	_	Treeler:sn
 45	por	por	ADP	SPS00	_	46	case	_	Treeler:cc
 46	parte	parte	NOUN	NCCS000	_	33	obl	_	Treeler:sn
@@ -15254,7 +15254,7 @@
 # text = Neste sentido, a crecente e constante xeración de demandas sociais fai necesaria unha simultánea expansión da capacidade de organización e decisión das nosas institucións.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	13	dep	_	Treeler:ao
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	1	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
@@ -15333,7 +15333,7 @@
 3	habitual	habitual	ADJ	AQ0CS0	_	2	amod	_	Treeler:s.a
 4-5	desta	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
-5	esta	este	DET	DD0FS0	_	6	det	_	Treeler:spec
+5	esta	este	DET	DD0FS0	PronType=Dem	6	det	_	Treeler:spec
 6	actividade	actividade	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 7	distingue	distinguir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	dous	dous	NOUN	NCMP000	_	7	obj	_	Treeler:cd
@@ -15354,7 +15354,7 @@
 23	dentro	dentro	ADV	RG	_	27	case	_	ToDo=case-upos|Treeler:cc
 24-25	desta	_	_	_	_	_	_	_	_
 24	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
-25	esta	este	DET	DD0FS0	_	26	det	_	Treeler:spec
+25	esta	este	DET	DD0FS0	PronType=Dem	26	det	_	Treeler:spec
 26	última	último	ADJ	AQ0FS0	_	27	obl	_	Treeler:sn
 27-28	distínguese	_	_	_	_	_	_	_	_
 27	distingue	distinguir	VERB	VMIP3S0	_	7	ccomp	_	Treeler:S
@@ -15409,7 +15409,7 @@
 # sent_id = test-386
 # text = A esta demanda tamén responde a celebración en curso (Xenebra 2003- únez 2005) do Cumio Mundial da Sociedade da Información (WSIS)5.
 1	A	a	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	demanda	demanda	NOUN	NCFS000	_	5	obl	_	Treeler:sn
 4	tamén	tamén	ADV	RG	_	5	case	_	Treeler:cc
 5	responde	responder	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -15512,7 +15512,7 @@
 4	poder	poder	VERB	VMN0000	_	2	ccomp	_	SpaceAfter=No|Treeler:S
 5	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 6	desde	desde	ADP	SPS00	_	8	case	_	Treeler:cc
-7	esta	este	DET	DD0FS0	_	8	det	_	Treeler:spec
+7	esta	este	DET	DD0FS0	PronType=Dem	8	det	_	Treeler:spec
 8	perspectiva	perspectiva	NOUN	NCFS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 9	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 10	tería	ter	VERB	VMIC3S0	_	0	root	_	Treeler:sentence
@@ -15732,7 +15732,7 @@
 20	parte	parte	NOUN	NCCS000	_	18	nmod	_	ToDo=nmod|Treeler:sn
 21-22	destes	_	_	_	_	_	_	_	_
 21	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
-22	estes	este	DET	DD0MP0	_	23	det	_	Treeler:spec
+22	estes	este	DET	DD0MP0	PronType=Dem	23	det	_	Treeler:spec
 23	créditos	crédito	NOUN	NCMP000	_	20	nmod	_	Treeler:sn
 24	que	que	PRON	PR0CN000	_	25	nsubj	_	Treeler:suj
 25	exceda	exceder	VERB	VMSP3S0	_	23	ccomp	_	Treeler:S
@@ -15851,7 +15851,7 @@
 22	xeralizado	xeralizado	ADJ	AQ0MS0	_	21	amod	_	Treeler:s.a
 23-24	deste	_	_	_	_	_	_	_	_
 23	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
-24	este	este	DET	DD0MS0	_	26	det	_	Treeler:spec
+24	este	este	DET	DD0MS0	PronType=Dem	26	det	_	Treeler:spec
 25	último	último	ADJ	AQ0MS0	_	26	amod	_	Treeler:s.a
 26	producto	producto	NOUN	NCMS000	_	21	nmod	_	Treeler:sn
 27	en	en	ADP	SPS00	_	28	case	_	Treeler:cc
@@ -15917,7 +15917,7 @@
 6	prescindir	prescindir	VERB	VMN0000	_	4	obj	_	Treeler:cd
 7-8	desta	_	_	_	_	_	_	_	_
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:creg
-8	esta	este	DET	DD0FS0	_	9	det	_	Treeler:spec
+8	esta	este	DET	DD0FS0	PronType=Dem	9	det	_	Treeler:spec
 9	información	información	NOUN	NCFS000	_	6	obl	_	Treeler:sn
 10	pública	público	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
 11	cando	cando	PRON	PR0CN000	_	13	nsubj	_	Treeler:suj
@@ -16310,7 +16310,7 @@
 
 # sent_id = test-409
 # text = Este efecto föhn existe tamén, aínda que é de menor intensidade, no Xistral coas situacións de sudoeste, de forma que cando se dá esta situación, hai chuvias en toda Galicia, agás na Mariña luguesa.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	efecto	efecto	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 3	föhn	föhn	PART	RN	_	4	advmod	_	Treeler:mod
 4	existe	existir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -16340,7 +16340,7 @@
 26	cando	cando	ADV	RG	_	28	case	_	Treeler:cc
 27	se	se	PRON	PP3CN000	_	28	obj	_	Treeler:cd
 28	dá	dar	VERB	VMIP3S0	_	24	ccomp	_	Treeler:S
-29	esta	este	DET	DD0FS0	_	30	det	_	Treeler:spec
+29	esta	este	DET	DD0FS0	PronType=Dem	30	det	_	Treeler:spec
 30	situación	situación	NOUN	NCFS000	_	28	nsubj	_	SpaceAfter=No|Treeler:suj
 31	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 32	hai	haber	VERB	VMIP3S0	_	28	ccomp	_	Treeler:S
@@ -16498,7 +16498,7 @@
 2	feito	feito	NOUN	NCMS000	_	16	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 4	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
-5	estes	este	DET	DD0MP0	_	6	det	_	Treeler:spec
+5	estes	este	DET	DD0MP0	PronType=Dem	6	det	_	Treeler:spec
 6	lugares	lugar	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
 7	reúnan	reunir	VERB	VMSP3P0	_	2	ccomp	_	Treeler:S
 8	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	10	det	_	Treeler:spec
@@ -16730,7 +16730,7 @@
 21	garden	gardar	VERB	VMSP3P0	_	16	ccomp	_	Treeler:S
 22	relación	relación	NOUN	NCFS000	_	21	obj	_	Treeler:cd
 23	con	con	ADP	SPS00	_	25	case	_	Treeler:sp
-24	esas	ese	DET	DD0FP0	_	25	det	_	Treeler:spec
+24	esas	ese	DET	DD0FP0	PronType=Dem	25	det	_	Treeler:spec
 25	actividades	actividade	NOUN	NCFP000	_	22	nmod	_	Treeler:sn
 26-27	dunha	_	_	_	_	_	_	_	_
 26	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -16797,7 +16797,7 @@
 2	se	se	PRON	PP3CN000	_	1	dep	_	Treeler:morfema.pronominal
 3-4	nestes	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
-4	estes	este	DET	DD0MP0	_	5	det	_	Treeler:spec
+4	estes	este	DET	DD0MP0	PronType=Dem	5	det	_	Treeler:spec
 5	casos	caso	NOUN	NCMP000	_	1	obl	_	Treeler:sn
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 7	Cartografía	cartografía	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
@@ -16914,7 +16914,7 @@
 14	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 15-16	neste	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
-16	este	este	DET	DD0MS0	_	17	det	_	Treeler:spec
+16	este	este	DET	DD0MS0	PronType=Dem	17	det	_	Treeler:spec
 17	mes	mes	NOUN	NCMS000	_	20	obl	_	Treeler:sn
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19	outubro	outubro	NOUN	NCMS000	_	17	nmod	_	Treeler:sn
@@ -16939,7 +16939,7 @@
 36	Galicia	galicia	PROPN	NP00000	_	33	nmod	_	SpaceAfter=No|Treeler:sn
 37	,	,	PUNCT	Fc	_	38	punct	_	Treeler:f
 38	acadando	acadar	VERB	VMG0000	_	20	case	_	ToDo=case-upos|Treeler:cc
-39	este	este	DET	DD0MS0	_	40	det	_	Treeler:spec
+39	este	este	DET	DD0MS0	PronType=Dem	40	det	_	Treeler:spec
 40	saldo	saldo	NOUN	NCMS000	_	20	obj	_	Treeler:cd
 41	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	42	det	_	Treeler:spec
 42	valor	valor	NOUN	NCMS000	_	20	obj	_	Treeler:cd
@@ -17102,7 +17102,7 @@
 52	estaban	estar	AUX	VMII3P0	_	53	cop	_	Treeler:S
 53-54	nesta	_	_	_	_	_	_	_	_
 53	en	en	ADP	SPS00	_	46	ccomp	_	Treeler:atr
-54	esta	este	DET	DD0FS0	_	55	det	_	Treeler:spec
+54	esta	este	DET	DD0FS0	PronType=Dem	55	det	_	Treeler:spec
 55	situación	situación	NOUN	NCFS000	_	53	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 56	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
 
@@ -17146,7 +17146,7 @@
 
 # sent_id = test-426
 # text = Aqueles nenos con síntomas e analíticas moi suxestivos de FMF deben ser tratados con colchicina, durante uns seis meses.
-1	Aqueles	aquel	DET	DD0MP0	_	2	det	_	Treeler:spec
+1	Aqueles	aquel	DET	DD0MP0	PronType=Dem	2	det	_	Treeler:spec
 2	nenos	neno	NOUN	NCMP000	_	13	nsubj	_	Treeler:suj
 3	con	con	ADP	SPS00	_	4	case	_	Treeler:sp
 4	síntomas	síntoma	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
@@ -17185,7 +17185,7 @@
 12	se	se	PRON	PP3CN000	_	11	dep	_	Treeler:morfema.pronominal
 13	a	a	ADP	SPS00	_	14	case	_	Treeler:creg
 14	reflectir	reflectir	VERB	VMN0000	_	11	ccomp	_	Treeler:S
-15	esa	ese	DET	DD0FS0	_	16	det	_	Treeler:spec
+15	esa	ese	DET	DD0FS0	PronType=Dem	16	det	_	Treeler:spec
 16	ideoloxía	ideoloxía	NOUN	NCFS000	_	14	obj	_	SpaceAfter=No|Treeler:cd
 17	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 18	ás	á	NOUN	NCFP000	_	14	nmod	_	Treeler:spec
@@ -17250,7 +17250,7 @@
 6	contidas	conter	VERB	VMP00PF	_	2	ccomp	_	Treeler:S
 7-8	neste	_	_	_	_	_	_	_	_
 7	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
-8	este	este	DET	DD0MS0	_	9	det	_	Treeler:spec
+8	este	este	DET	DD0MS0	PronType=Dem	9	det	_	Treeler:spec
 9	capítulo	capítulo	NOUN	NCMS000	_	12	obl	_	Treeler:sn
 10-11	deberanse	_	_	_	_	_	_	_	_
 10	deberán	deber	AUX	VMIF3P0	_	12	aux	_	Treeler:v
@@ -17349,7 +17349,7 @@
 2	caso	caso	NOUN	NCMS000	_	9	nmod	_	ToDo=nmod|Treeler:sn
 3	necesario	necesario	ADJ	AQ0MS0	_	2	amod	_	SpaceAfter=No|Treeler:s.a
 4	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-5	este	este	DET	DD0MS0	_	9	nsubj	_	Treeler:suj
+5	este	este	DET	DD0MS0	PronType=Dem	9	nsubj	_	Treeler:suj
 6	debe	deber	AUX	VMIP3S0	_	9	aux	_	Treeler:v
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:s
 8	ser	ser	AUX	VSN0000	_	9	cop	_	Treeler:sentence
@@ -17383,7 +17383,7 @@
 
 # sent_id = test-432
 # text = Esta íntima identificación cultural da Compostela patrimonial con Galicia, apórtalle ó contorno cultural representado pola cidade un contido referencial e simbólico que transcende amplamente do ámbito local para pertencer ó conxunto da comunidade galega.
-1	Esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 2	íntima	íntimo	ADJ	AQ0FS0	_	3	amod	_	Treeler:s.a
 3	identificación	identificación	NOUN	NCFS000	_	12	nsubj	_	Treeler:suj
 4	cultural	cultural	ADJ	AQ0CS0	_	3	amod	_	Treeler:s.a
@@ -17529,7 +17529,7 @@
 
 # sent_id = test-435
 # text = Esta é o instrumento de comunicación idóneo para transmitir o coñecemento que alberga o museo nos obxectos que conserva.
-1	Esta	este	DET	DD0FS0	_	4	nsubj	_	Treeler:suj
+1	Esta	este	DET	DD0FS0	PronType=Dem	4	nsubj	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	instrumento	instrumento	NOUN	NCMS000	_	0	root	_	Treeler:atr
@@ -17554,7 +17554,7 @@
 
 # sent_id = test-436
 # text = Esta ameaza pode ser real ou percibida como tal, baseada na necesidade de atribuír -males- a alguén externo á propia comunidade.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	ameaza	ameaza	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
 3	pode	poder	AUX	VMIP3S0	_	5	aux	_	Treeler:v
 4	ser	ser	AUX	VSN0000	_	5	cop	_	Treeler:sentence
@@ -17677,7 +17677,7 @@
 7	tamén	tamén	ADV	RG	_	5	case	_	Treeler:cc
 8	que	que	SCONJ	CS	_	5	mark	_	Treeler:conj
 9	todas	todo	DET	DI0FP0	PronType=Tot	10	det	_	Treeler:d
-10	estas	este	DET	DD0FP0	_	11	det	_	Treeler:spec
+10	estas	este	DET	DD0FP0	PronType=Dem	11	det	_	Treeler:spec
 11	liñas	liña	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 13	pensamento	pensamento	NOUN	NCMS000	_	11	nmod	_	Treeler:sn
@@ -18081,7 +18081,7 @@
 15	cambio	cambio	NOUN	NCMS000	_	13	nmod	_	Treeler:sn
 16-17	nestes	_	_	_	_	_	_	_	SpaceAfter=No
 16	en	en	ADP	SPS00	_	17	case	_	Treeler:sp
-17	estes	este	DET	DD0MP0	_	15	nmod	_	Treeler:f
+17	estes	este	DET	DD0MP0	PronType=Dem	15	nmod	_	Treeler:f
 18	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 19	detallando	detallar	VERB	VMG0000	_	1	case	_	ToDo=case-upos|Treeler:cc
 20	os	o	DET	DA0MP0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
@@ -18105,7 +18105,7 @@
 
 # sent_id = test-450
 # text = Estes equipos teñen dúas saídas de gases ao exterior, unha de gases de combustión e outra de aire de quentamento.
-1	Estes	este	DET	DD0MP0	_	2	det	_	Treeler:spec
+1	Estes	este	DET	DD0MP0	PronType=Dem	2	det	_	Treeler:spec
 2	equipos	equipo	NOUN	NCMP000	_	3	nsubj	_	Treeler:suj
 3	teñen	ter	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	dúas	dous	NOUN	NCFP000	_	3	obj	_	Treeler:cd
@@ -18229,7 +18229,7 @@
 9	en	en	ADP	SPS00	_	10	case	_	Treeler:sp
 10	Galicia	galicia	PROPN	NP00000	_	8	nmod	_	Treeler:sn
 11	durante	durante	ADP	SPS00	_	13	case	_	Treeler:cc
-12	ese	ese	DET	DD0MS0	_	13	det	_	Treeler:spec
+12	ese	ese	DET	DD0MS0	PronType=Dem	13	det	_	Treeler:spec
 13	mes	mes	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 14-15	no	_	_	_	_	_	_	_	_
 14	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
@@ -18262,7 +18262,7 @@
 2	moitas	moito	DET	DI0FP0	_	3	det	_	Treeler:spec
 3	ocasións	ocasión	NOUN	NCFP000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	isto	isto	PRON	PD0CN000	_	6	nsubj	_	Treeler:suj
+5	isto	isto	PRON	PD0CN000	PronType=Dem	6	nsubj	_	Treeler:suj
 6	redunda	redundar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 7-8	nunha	_	_	_	_	_	_	_	_
 7	en	en	ADP	SPS00	_	12	case	_	Treeler:cc
@@ -18447,7 +18447,7 @@
 24	os	o	DET	DA0MP0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	efectos	efecto	NOUN	NCMP000	_	22	nmod	_	ToDo=nmod|Treeler:sn
 26	que	que	SCONJ	CS	_	30	mark	_	Treeler:conj
-27	esa	ese	DET	DD0FS0	_	28	det	_	Treeler:spec
+27	esa	ese	DET	DD0FS0	PronType=Dem	28	det	_	Treeler:spec
 28	acción	acción	NOUN	NCFS000	_	30	nsubj	_	Treeler:suj
 29	estea	estar	AUX	VMSP1S0	_	30	aux	_	Treeler:v
 30	exercendo	exercer	VERB	VMG0000	_	14	ccomp	_	SpaceAfter=No|Treeler:S
@@ -18615,7 +18615,7 @@
 1	Así	así	ADV	RG	_	11	dep	_	Treeler:ao
 2	pois	pois	SCONJ	CS	_	11	mark	_	Treeler:conj
 3	para	para	ADP	SPS00	_	5	case	_	Treeler:cc
-4	esta	este	DET	DD0FS0	_	5	det	_	Treeler:spec
+4	esta	este	DET	DD0FS0	PronType=Dem	5	det	_	Treeler:spec
 5	campaña	campaña	NOUN	NCFS000	_	11	obl	_	Treeler:sn
 6-7	do	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
@@ -18691,7 +18691,7 @@
 # text = Porén, estes niveis de produción están orixinando un alto grao de sobreexplotación dos recursos na maior parte dos océanos, situación que enfronta á industria pesqueira cun futuro de incertas consecuencias.
 1	Porén	porén	ADV	RG	_	8	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-3	estes	este	DET	DD0MP0	_	4	det	_	Treeler:spec
+3	estes	este	DET	DD0MP0	PronType=Dem	4	det	_	Treeler:spec
 4	niveis	nivel	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 6	produción	produción	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
@@ -19152,7 +19152,7 @@
 # text = Desta forma, a incapacidade de proxectar unha política internacional común é principalmente resultado dos fenómenos experimentados no interior da UE, a cal deu prioridade aos temas de integración.
 1-2	Desta	_	_	_	_	_	_	_	_
 1	De	de	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	forma	forma	NOUN	NCFS000	_	15	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -19196,7 +19196,7 @@
 # text = Deste xeito, os mozos e as mozas terían a oportunidade de converterse en responsables directos da consecución de retos como a eliminación das barreiras étnicas, culturais e de xénero e a protección do medio.
 1-2	Deste	_	_	_	_	_	_	_	_
 1	De	de	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	xeito	xeito	NOUN	NCMS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -19497,7 +19497,7 @@
 33	,	,	PUNCT	Fc	_	31	punct	_	Treeler:f
 34-35	nese	_	_	_	_	_	_	_	_
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
-35	ese	ese	DET	DD0MS0	_	36	det	_	Treeler:spec
+35	ese	ese	DET	DD0MS0	PronType=Dem	36	det	_	Treeler:spec
 36	campo	campo	NOUN	NCMS000	_	25	obl	_	SpaceAfter=No|Treeler:sn
 37	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
@@ -19512,7 +19512,7 @@
 6	anos	ano	NOUN	NCMP000	_	7	obl	_	Treeler:sn
 7	cabería	caber	VERB	VMIC3S0	_	0	root	_	Treeler:sentence
 8	relacionar	relacionar	VERB	VMN0000	_	7	obj	_	Treeler:cd
-9	este	este	DET	DD0MS0	_	10	det	_	Treeler:spec
+9	este	este	DET	DD0MS0	PronType=Dem	10	det	_	Treeler:spec
 10	dato	dato	NOUN	NCMS000	_	8	obj	_	Treeler:cd
 11-12	co	_	_	_	_	_	_	_	_
 11	con	con	ADP	SPS00	_	13	case	_	Treeler:creg
@@ -19561,7 +19561,7 @@
 18	excesivas	excesivo	ADJ	AQ0FP0	_	17	amod	_	Treeler:s.a
 19-20	destes	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
-20	estes	este	DET	DD0MP0	_	21	det	_	Treeler:spec
+20	estes	este	DET	DD0MP0	PronType=Dem	21	det	_	Treeler:spec
 21	elementos	elemento	NOUN	NCMP000	_	17	nmod	_	Treeler:sn
 22	actúan	actuar	VERB	VMIP3P0	_	8	ccomp	_	Treeler:S
 23	como	como	PRON	PR0CN000	_	8	det	_	Treeler:spec
@@ -19612,7 +19612,7 @@
 
 # sent_id = test-488
 # text = Esta cobertura garántese mediante a contratación dunha póliza para os empregados ou mediante a creación dun fondo de autoseguro.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	cobertura	cobertura	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3-4	garántese	_	_	_	_	_	_	_	_
 3	garante	garantir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -19727,7 +19727,7 @@
 
 # sent_id = test-491
 # text = Este vai aumentando a medida que o vapor vai cedendo o seu contido enerxético, para poder aproveitar mellor a súa enerxía.
-1	Este	este	DET	DD0MS0	_	3	nsubj	_	Treeler:suj
+1	Este	este	DET	DD0MS0	PronType=Dem	3	nsubj	_	Treeler:suj
 2	vai	ir	AUX	VMIP3S0	_	3	aux	_	Treeler:v
 3	aumentando	aumentar	VERB	VMG0000	_	0	root	_	Treeler:sentence
 4	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -19879,7 +19879,7 @@
 5	establecemento	establecemento	NOUN	NCMS000	_	10	nsubj	_	Treeler:suj
 6-7	destes	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-7	estes	este	DET	DD0MP0	_	8	det	_	Treeler:spec
+7	estes	este	DET	DD0MP0	PronType=Dem	8	det	_	Treeler:spec
 8	acordos	acordo	NOUN	NCMP000	_	5	nmod	_	Treeler:sn
 9	non	non	PART	RN	_	10	advmod	_	Treeler:mod
 10	exime	eximir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -20058,7 +20058,7 @@
 
 # sent_id = test-500
 # text = Este está alicerzado sólidamente numha base material, a natureza, e sujeito, como acabamos de ver, a determinadas restriçons que o fam unidireccional e irrevocável.
-1	Este	este	DET	DD0MS0	_	3	nsubj	_	Treeler:suj
+1	Este	este	DET	DD0MS0	PronType=Dem	3	nsubj	_	Treeler:suj
 2	está	estar	AUX	VMIP3S0	_	3	cop	_	Treeler:suj
 3	alicerzado	alicerzar	VERB	VMP00SM	_	5	nsubj	_	Treeler:atr
 4	sólidamente	sólido	ADV	RG	_	5	case	_	Treeler:cc
@@ -20138,7 +20138,7 @@
 8	ou	ou	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 9	fosen	ser	AUX	VSSI3P0	_	10	cop	_	Treeler:S
 10	emendadas	emendar	VERB	VMP00PF	_	20	ccomp	_	Treeler:atr
-11	estas	este	DET	DD0FP0	_	14	det	_	SpaceAfter=No|Treeler:spec
+11	estas	este	DET	DD0FP0	PronType=Dem	14	det	_	SpaceAfter=No|Treeler:spec
 12	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
 13	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
 14	órgano	órgano	NOUN	NCMS000	_	20	nsubj	_	Treeler:suj
@@ -20295,12 +20295,12 @@
 5	importancia	importancia	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 6-7	nesta	_	_	_	_	_	_	_	_
 6	en	en	ADP	SPS00	_	8	case	_	Treeler:sp
-7	esta	este	DET	DD0FS0	_	8	det	_	Treeler:spec
+7	esta	este	DET	DD0FS0	PronType=Dem	8	det	_	Treeler:spec
 8	dimensión	dimensión	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 9	son	ser	AUX	VSIP1S0	_	16	cop	_	SpaceAfter=No|Treeler:sentence
 10	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 11	por	por	ADP	SPS00	_	13	case	_	Treeler:cc
-12	esta	este	DET	DD0FS0	_	13	det	_	Treeler:spec
+12	esta	este	DET	DD0FS0	PronType=Dem	13	det	_	Treeler:spec
 13	orde	orde	NOUN	NCFS000	_	16	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 14	:	:	PUNCT	Fd	_	13	punct	_	Treeler:f
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
@@ -20388,7 +20388,7 @@
 26	obxecto	obxecto	NOUN	NCMS000	_	22	ccomp	_	Treeler:atr
 27-28	desta	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
-28	esta	este	DET	DD0FS0	_	29	det	_	Treeler:spec
+28	esta	este	DET	DD0FS0	PronType=Dem	29	det	_	Treeler:spec
 29	delegación	delegación	NOUN	NCFS000	_	26	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 30	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -20597,7 +20597,7 @@
 31	e	e	CCONJ	CC	_	25	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 32	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 33	se	se	SCONJ	CS	_	21	mark	_	Treeler:conj
-34	este	este	DET	DD0MS0	_	21	nsubj	_	Treeler:suj
+34	este	este	DET	DD0MS0	PronType=Dem	21	nsubj	_	Treeler:suj
 35	é	ser	AUX	VSIP3S0	_	21	cop	_	ToDo=case-upos|Treeler:cc
 36	o	o	DET	DA0MS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
 37	caso	caso	NOUN	NCMS000	_	21	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:atr
@@ -20941,7 +20941,7 @@
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
 24	declaración	declaración	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
 25	durante	durante	ADP	SPS00	_	27	case	_	Treeler:cc
-26	ese	ese	DET	DD0MS0	_	27	det	_	Treeler:spec
+26	ese	ese	DET	DD0MS0	PronType=Dem	27	det	_	Treeler:spec
 27	ano	ano	NOUN	NCMS000	_	18	obl	_	SpaceAfter=No|Treeler:sn
 28	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -21071,7 +21071,7 @@
 
 # sent_id = test-524
 # text = Este é o modelo colonial de produción porque os gobernos están preocupados só para ter comodidades en grandes cantidades e prezos baratos.
-1	Este	este	DET	DD0MS0	_	4	nsubj	_	Treeler:suj
+1	Este	este	DET	DD0MS0	PronType=Dem	4	nsubj	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	modelo	modelo	NOUN	NCCS000	_	0	root	_	Treeler:atr
@@ -21355,7 +21355,7 @@
 1	En	en	ADP	SPS00	_	2	case	_	Treeler:cc
 2	España	españa	PROPN	NP00000	_	3	obl	_	Treeler:sn
 3	había	haber	VERB	VMII3S0	_	0	root	_	Treeler:sentence
-4	eses	ese	DET	DD0MP0	_	5	det	_	Treeler:spec
+4	eses	ese	DET	DD0MP0	PronType=Dem	5	det	_	Treeler:spec
 5	xéneros	xénero	NOUN	NCMP000	_	3	obj	_	Treeler:cd
 6	que	que	PRON	PR0CN000	_	7	nsubj	_	Treeler:suj
 7	mandaba	mandar	VERB	VMII3S0	_	5	ccomp	_	Treeler:S
@@ -21382,7 +21382,7 @@
 # sent_id = test-531
 # text = Dende estas páxinas queremos darlle a nosa noraboa a Pablo Pita, da delegación de Ferrol, por ter superado o exame de anelador na convocatoria de 1998.
 1	Dende	dende	ADP	SPS00	_	3	case	_	Treeler:cc
-2	estas	este	DET	DD0FP0	_	3	det	_	Treeler:spec
+2	estas	este	DET	DD0FP0	PronType=Dem	3	det	_	Treeler:spec
 3	páxinas	páxina	NOUN	NCFP000	_	4	obl	_	Treeler:sn
 4	queremos	querer	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 5-6	darlle	_	_	_	_	_	_	_	_
@@ -21586,7 +21586,7 @@
 4	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 5	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
 6	todo	todo	DET	DI0MS0	PronType=Tot	7	det	_	Treeler:spec
-7	iso	iso	PRON	PD0CN000	_	10	nsubj	_	Treeler:suj
+7	iso	iso	PRON	PD0CN000	PronType=Dem	10	nsubj	_	Treeler:suj
 8	pode	poder	AUX	VMIP3S0	_	10	aux	_	Treeler:v
 9	ser	ser	AUX	VSN0000	_	10	cop	_	Treeler:S
 10	factible	factible	ADJ	AQ0CS0	_	3	ccomp	_	Treeler:atr
@@ -21625,7 +21625,7 @@
 15	dimensión	dimensión	NOUN	NCFS000	_	2	obl	_	Treeler:sn
 16	axeitada	axeitado	ADJ	AQ0FS0	_	15	amod	_	SpaceAfter=No|Treeler:s.a
 17	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
-18	isto	isto	PRON	PD0CN000	_	15	nmod	_	Treeler:sn
+18	isto	isto	PRON	PD0CN000	PronType=Dem	15	nmod	_	Treeler:sn
 19	conlevaría	conlevaría	VERB	VMIC3S0	_	18	ccomp	_	Treeler:S
 20	uns	un	DET	DI0MP0	_	22	det	_	Treeler:spec
 21	mellores	mellor	ADJ	AQ0CP0	_	22	amod	_	Treeler:s.a
@@ -21751,14 +21751,14 @@
 39	establecidos	establecer	VERB	VMP00PM	_	32	ccomp	_	Treeler:S
 40-41	nesta	_	_	_	_	_	_	_	_
 40	en	en	ADP	SPS00	_	42	case	_	Treeler:cc
-41	esta	este	DET	DD0FS0	_	42	det	_	Treeler:spec
+41	esta	este	DET	DD0FS0	PronType=Dem	42	det	_	Treeler:spec
 42	orde	orde	NOUN	NCFS000	_	39	obl	_	SpaceAfter=No|Treeler:sn
 43	.	.	PUNCT	Fp	_	15	punct	_	Treeler:f
 
 # sent_id = test-542
 # text = Todo iso fundaméntase na crenza da auto-obriga de demostrar o que eles cren estatus e superioridade, non nunha auténtica seguranza no dito ou en si mesmos.
 1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:spec
-2	iso	iso	PRON	PD0CN000	_	3	nsubj	_	Treeler:suj
+2	iso	iso	PRON	PD0CN000	PronType=Dem	3	nsubj	_	Treeler:suj
 3-4	fundaméntase	_	_	_	_	_	_	_	_
 3	fundamenta	fundamentar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	se	se	PRON	PP3CN000	_	3	dep	_	Treeler:morfema.pronominal
@@ -21903,7 +21903,7 @@
 36	asignan	asignar	VERB	VMIP3P0	_	29	ccomp	_	Treeler:S
 37-38	neste	_	_	_	_	_	_	_	_
 37	en	en	ADP	SPS00	_	39	case	_	Treeler:cc
-38	este	este	DET	DD0MS0	_	39	det	_	Treeler:spec
+38	este	este	DET	DD0MS0	PronType=Dem	39	det	_	Treeler:spec
 39	regulamento	regulamento	NOUN	NCMS000	_	36	obl	_	SpaceAfter=No|Treeler:sn
 40	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
 
@@ -21911,14 +21911,14 @@
 # text = Neste apartado teranse en conta aqueles factores intrínsecos que poidan afectarlles á calidade e á fraxilidade visual da paisaxe: relevo-pendente, altitude, desnivel, litoloxía, presenza de auga, usos do solo, vexetación, construcións humanas, accesibilidade e presenza potencial de observadores.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	apartado	apartado	NOUN	NCMS000	_	4	obl	_	Treeler:sn
 4-5	teranse	_	_	_	_	_	_	_	_
 4	terán	ter	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
 5	se	se	PRON	PP3CN000	_	4	dep	_	Treeler:morfema.pronominal
 6	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
 7	conta	conta	NOUN	NCFS000	_	4	obl	_	Treeler:sn
-8	aqueles	aquel	DET	DD0MP0	_	9	det	_	Treeler:spec
+8	aqueles	aquel	DET	DD0MP0	PronType=Dem	9	det	_	Treeler:spec
 9	factores	factor	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
 10	intrínsecos	intrínseco	ADJ	AQ0MP0	_	9	amod	_	Treeler:s.a
 11	que	que	PRON	PR0CN000	_	13	nsubj	_	Treeler:suj
@@ -21973,7 +21973,7 @@
 # sent_id = test-546
 # text = En este sentido, cuando el Estado ha pretendido regular los medios de comunicación, éstos se han escudado en su carácter empresarial y en que el funcionamiento del mercado es el mejor garante de la libertad de expresión.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	18	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	cuando	cuando	VERB	VMG0000	_	18	case	_	ToDo=case-upos|Treeler:cc
@@ -22236,7 +22236,7 @@
 42	nenos	neno	NOUN	NCMP000	_	40	nmod	_	Treeler:sn
 43-44	desa	_	_	_	_	_	_	_	_
 43	de	de	ADP	SPS00	_	45	case	_	Treeler:sp
-44	esa	ese	DET	DD0FS0	_	45	det	_	Treeler:spec
+44	esa	ese	DET	DD0FS0	PronType=Dem	45	det	_	Treeler:spec
 45	idade	idade	NOUN	NCFS000	_	42	nmod	_	Treeler:sn
 46-47	da	_	_	_	_	_	_	_	_
 46	de	de	ADP	SPS00	_	48	case	_	Treeler:sp
@@ -22547,7 +22547,7 @@
 # text = Asemade, este aumento da EMSC está asociado a unha soa cepa, a C:2a:P1.5, que foi detectada por vez primeira en Galicia na tempada 1998/99 e dende a tempada 2000/01 e a única do serogrupo C atopada nos illados estudados.
 1	Asemade	asemade	ADV	RG	_	9	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-3	este	este	DET	DD0MS0	_	4	det	_	Treeler:spec
+3	este	este	DET	DD0MS0	PronType=Dem	4	det	_	Treeler:spec
 4	aumento	aumento	NOUN	NCMS000	_	9	nsubj	_	Treeler:suj
 5-6	da	_	_	_	_	_	_	_	_
 5	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
@@ -22603,7 +22603,7 @@
 2	primeiro	primeiro	ADJ	AO0MS0	_	3	amod	_	Treeler:s.a
 3	lugar	lugar	NOUN	NCMS000	_	7	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-5	este	este	DET	DD0MS0	_	6	det	_	Treeler:spec
+5	este	este	DET	DD0MS0	PronType=Dem	6	det	_	Treeler:spec
 6	estudo	estudo	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 7	suxire	suxerir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
@@ -22645,7 +22645,7 @@
 
 # sent_id = test-561
 # text = Estas redes funcionan coma se foran un trasmallo, as aves quedan prendidas o enrredarse no fino entramado que forma a rede, por suposto sen sufrir dano algún.
-1	Estas	este	DET	DD0FP0	_	2	det	_	Treeler:spec
+1	Estas	este	DET	DD0FP0	PronType=Dem	2	det	_	Treeler:spec
 2	redes	rede	NOUN	NCFP000	_	3	nsubj	_	Treeler:suj
 3	funcionan	funcionar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	coma	coma	SCONJ	CS	_	6	mark	_	Treeler:conj
@@ -22732,7 +22732,7 @@
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 3-4	nese	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
-4	ese	ese	DET	DD0MS0	_	5	det	_	Treeler:spec
+4	ese	ese	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 5	período	período	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 6	diminuíu	diminuír	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
 7	tamén	tamén	ADV	RG	_	6	case	_	SpaceAfter=No|Treeler:cc
@@ -22778,7 +22778,7 @@
 
 # sent_id = test-564
 # text = Iso significa que rexeitamos a hipótese unitaria fronte á hipótese alternativa de que o parámetro de Pibh90 é maior ca 1.
-1	Iso	iso	PRON	PD0CN000	_	2	nsubj	_	Treeler:suj
+1	Iso	iso	PRON	PD0CN000	PronType=Dem	2	nsubj	_	Treeler:suj
 2	significa	significar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 3	que	que	SCONJ	CS	_	4	mark	_	Treeler:conj
 4	rexeitamos	rexeitar	VERB	VMIP1P0	_	2	obj	_	Treeler:cd
@@ -22908,7 +22908,7 @@
 2	todo	todo	DET	DI0MS0	PronType=Tot	3	det	_	Treeler:spec
 3-4	neste	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	1	nmod	_	ToDo=nmod|Treeler:sn
-4	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
+4	este	este	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 5	tempo	tempo	NOUN	NCMS000	_	3	nmod	_	ToDo=nmod|Treeler:sn
 6	en	en	ADP	SPS00	_	0	root	_	Treeler:sentence
 7	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
@@ -22946,7 +22946,7 @@
 
 # sent_id = test-568
 # text = Este proxecto implica a cinco equipos de investigación correspondentes a cinco países europeos: Galicia, Escocia, Irlanda, Francia e Holanda.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	proxecto	proxecto	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3	implica	implicar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -23042,7 +23042,7 @@
 30	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 31-32	neste	_	_	_	_	_	_	_	_
 31	en	en	ADP	SPS00	_	33	case	_	Treeler:cc
-32	este	este	DET	DD0MS0	_	33	det	_	Treeler:spec
+32	este	este	DET	DD0MS0	PronType=Dem	33	det	_	Treeler:spec
 33	caso	caso	NOUN	NCMS000	_	22	obl	_	Treeler:sn
 34	plurilingüe	plurilingüe	ADJ	AQ0CS0	_	33	amod	_	SpaceAfter=No|Treeler:s.a
 35	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
@@ -23266,7 +23266,7 @@
 14	Vigo	vigo	PROPN	NP00000	_	12	nmod	_	SpaceAfter=No|Treeler:sn
 15	;	;	PUNCT	Fx	_	22	punct	_	Treeler:f
 16	desde	desde	ADP	SPS00	_	18	case	_	Treeler:cc
-17	esta	este	DET	DD0FS0	_	18	det	_	Treeler:spec
+17	esta	este	DET	DD0FS0	PronType=Dem	18	det	_	Treeler:spec
 18	perspectiva	perspectiva	NOUN	NCFS000	_	22	obl	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 20-21	pódese	_	_	_	_	_	_	_	_
@@ -23347,7 +23347,7 @@
 # text = Neste sentido, a aplicación da Lei 16/2002, de prevención e control integrados da contaminación vai incidir de xeito decisivo nas actuacións que terá que desenvolver este organismo no futuro máis inmediato.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	20	dep	_	Treeler:ao
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	1	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -23380,7 +23380,7 @@
 29	terá	ter	AUX	VMIF3S0	_	31	aux	_	Treeler:v
 30	que	que	SCONJ	CS	_	31	mark	_	Treeler:c
 31	desenvolver	desenvolver	VERB	VMN0000	_	27	ccomp	_	Treeler:S
-32	este	este	DET	DD0MS0	_	33	det	_	Treeler:spec
+32	este	este	DET	DD0MS0	PronType=Dem	33	det	_	Treeler:spec
 33	organismo	organismo	NOUN	NCMS000	_	31	obj	_	Treeler:cd
 34-35	no	_	_	_	_	_	_	_	_
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
@@ -23461,7 +23461,7 @@
 27	20	20	NUM	Z	_	25	dep	_	Treeler:grup.nom
 28-29	deste	_	_	_	_	_	_	_	_
 28	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
-29	este	este	DET	DD0MS0	_	30	det	_	Treeler:spec
+29	este	este	DET	DD0MS0	PronType=Dem	30	det	_	Treeler:spec
 30	regulamento	regulamento	NOUN	NCMS000	_	27	nmod	_	Treeler:sn
 31	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 32	formular	formular	VERB	VMN0000	_	15	ccomp	_	Treeler:S
@@ -23606,7 +23606,7 @@
 # sent_id = test-584
 # text = Con estas medidas quérese contribuír ó recoñecemento dos beneficios xerais que os propietarios lle achegan á sociedade cos seus montes.
 1	Con	con	ADP	SPS00	_	3	case	_	Treeler:cc
-2	estas	este	DET	DD0FP0	_	3	det	_	Treeler:spec
+2	estas	este	DET	DD0FP0	PronType=Dem	3	det	_	Treeler:spec
 3	medidas	medida	NOUN	NCFP000	_	4	obl	_	Treeler:sn
 4-5	quérese	_	_	_	_	_	_	_	_
 4	quere	querer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -23751,14 +23751,14 @@
 39	previstas	prever	VERB	VMP00PF	_	38	ccomp	_	Treeler:S
 40-41	neste	_	_	_	_	_	_	_	_
 40	en	en	ADP	SPS00	_	42	case	_	Treeler:cc
-41	este	este	DET	DD0MS0	_	42	det	_	Treeler:spec
+41	este	este	DET	DD0MS0	PronType=Dem	42	det	_	Treeler:spec
 42	Regulamento	regulamento	NOUN	NCMS000	_	39	obl	_	Treeler:sn
 43	que	que	PRON	PR0CN000	_	45	nsubj	_	Treeler:suj
 44	sexan	ser	AUX	VSSP3P0	_	45	cop	_	Treeler:S
 45	imprescindibles	imprescindible	ADJ	AQ0CP0	_	38	ccomp	_	Treeler:atr
 46	para	para	ADP	SPS00	_	47	case	_	Treeler:sp
 47	asegurar	asegurar	VERB	VMN0000	_	45	ccomp	_	Treeler:S
-48	aquela	aquel	DET	DD0FS0	_	49	det	_	Treeler:spec
+48	aquela	aquel	DET	DD0FS0	PronType=Dem	49	det	_	Treeler:spec
 49	asunción	asunción	NOUN	NCFS000	_	47	obj	_	SpaceAfter=No|Treeler:cd
 50	.	.	PUNCT	Fp	_	34	punct	_	Treeler:f
 
@@ -23786,7 +23786,7 @@
 18	MTD	mtd	PROPN	NP00000	_	15	nmod	_	Treeler:sn
 19	implica	implicar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 20	que	que	SCONJ	CS	_	24	mark	_	Treeler:conj
-21	aqueles	aquel	DET	DD0MP0	_	24	nsubj	_	Treeler:suj
+21	aqueles	aquel	DET	DD0MP0	PronType=Dem	24	nsubj	_	Treeler:suj
 22	poderán	poder	AUX	VMIF3P0	_	24	aux	_	Treeler:v
 23	ser	ser	AUX	VSN0000	_	24	aux	_	Treeler:v
 24	modificados	modificar	VERB	VMP00PM	_	19	obj	_	Treeler:cd
@@ -23879,7 +23879,7 @@
 # sent_id = test-591
 # text = Para este efecto, formulamos unha serie de modelos econométricos co fin de determinar en que medida os impostos e o feito de integrar as novas tecnoloxías no seu funcionamento poden afectar o nivel de ingresos declarados no noso país.
 1	Para	para	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	efecto	efecto	NOUN	NCMS000	_	5	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	formulamos	formular	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
@@ -24487,7 +24487,7 @@
 27	será	ser	AUX	VSIF3S0	_	28	cop	_	Treeler:S
 28	aplicable	aplicable	ADJ	AQ0CS0	_	4	ccomp	_	Treeler:atr
 29	cando	cando	PRON	PR0CN000	_	31	nsubj	_	Treeler:suj
-30	este	este	DET	DD0MS0	_	31	nsubj	_	Treeler:suj
+30	este	este	DET	DD0MS0	PronType=Dem	31	nsubj	_	Treeler:suj
 31	teña	ter	VERB	VMSP1S0	_	28	nsubj	_	Treeler:suj
 32	dereito	dereito	NOUN	NCMS000	_	31	obj	_	Treeler:cd
 33	á	á	NOUN	NCFS000	_	32	amod	_	Treeler:s.a
@@ -24500,7 +24500,7 @@
 39	cuarta	cuarta	NOUN	NCFS000	_	37	amod	_	Treeler:s.a
 40-41	desta	_	_	_	_	_	_	_	_
 40	de	de	ADP	SPS00	_	42	case	_	Treeler:sp
-41	esta	este	DET	DD0FS0	_	42	det	_	Treeler:spec
+41	esta	este	DET	DD0FS0	PronType=Dem	42	det	_	Treeler:spec
 42	lei	lei	NOUN	NCFS000	_	39	nmod	_	SpaceAfter=No|Treeler:sn
 43	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
@@ -24712,7 +24712,7 @@
 2	en	en	ADP	SPS00	_	3	case	_	Treeler:cc
 3	relación	relación	NOUN	NCFS000	_	26	obl	_	Treeler:sn
 4	con	con	ADP	SPS00	_	6	case	_	Treeler:sp
-5	estes	este	DET	DD0MP0	_	6	det	_	Treeler:spec
+5	estes	este	DET	DD0MP0	PronType=Dem	6	det	_	Treeler:spec
 6	datos	dato	NOUN	NCMP000	_	3	nmod	_	Treeler:sn
 7	se	se	PRON	PP3CN000	_	8	obj	_	Treeler:cd
 8	proceda	proceder	VERB	VMSP1S0	_	3	ccomp	_	Treeler:S
@@ -24838,7 +24838,7 @@
 36	capítulos	capítulo	NOUN	NCMP000	_	33	obl	_	Treeler:sn
 37-38	deste	_	_	_	_	_	_	_	_
 37	de	de	ADP	SPS00	_	39	case	_	Treeler:sp
-38	este	este	DET	DD0MS0	_	39	det	_	Treeler:spec
+38	este	este	DET	DD0MS0	PronType=Dem	39	det	_	Treeler:spec
 39	libro	libro	NOUN	NCMS000	_	36	nmod	_	SpaceAfter=No|Treeler:sn
 40	.	.	PUNCT	Fp	_	28	punct	_	Treeler:f
 
@@ -24936,7 +24936,7 @@
 # sent_id = test-616
 # text = Para iso créanse en diversos hospitais galegos unidades funcionais integradas por persoal do centro, que se encargarán de realiza-lo estudio diagnóstico dos lactantes remitidos das unidades de cribado por sospeita de hipoacusia incapacitante (bilateral permanente maior de 40 dB).
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
-2	iso	iso	PRON	PD0CN000	_	3	obl	_	Treeler:sn
+2	iso	iso	PRON	PD0CN000	PronType=Dem	3	obl	_	Treeler:sn
 3-4	créanse	_	_	_	_	_	_	_	_
 3	crean	crear	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	se	se	PRON	PP3CN000	_	3	dep	_	Treeler:morfema.pronominal
@@ -25251,7 +25251,7 @@
 36	parte	parte	NOUN	NCCS000	_	32	nmod	_	SpaceAfter=No|Treeler:sn
 37	,	,	PUNCT	Fc	_	40	punct	_	Treeler:f
 38	por	por	ADP	SPS00	_	40	case	_	Treeler:cag
-39	esta	este	DET	DD0FS0	_	40	det	_	Treeler:spec
+39	esta	este	DET	DD0FS0	PronType=Dem	40	det	_	Treeler:spec
 40	concentración	concentración	NOUN	NCFS000	_	29	obl	_	Treeler:sn
 41	de	de	ADP	SPS00	_	42	case	_	Treeler:sp
 42	locais	local	NOUN	NCMP000	_	40	nmod	_	Treeler:sn
@@ -25499,7 +25499,7 @@
 
 # sent_id = test-629
 # text = Esta é a vía para que os Gobernos autónomicos poidan _controlar_ o proceso de privatizacións que afecten a empresas establecidas nos sus territorios.
-1	Esta	este	DET	DD0FS0	_	4	nsubj	_	Treeler:suj
+1	Esta	este	DET	DD0FS0	PronType=Dem	4	nsubj	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	4	cop	_	Treeler:sentence
 3	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	vía	vía	NOUN	NCFS000	_	0	root	_	Treeler:atr
@@ -25530,7 +25530,7 @@
 
 # sent_id = test-630
 # text = Isto fai que a introducción dalgúns aspectos da xestión empresarial clásica sexa difícil no contexto sanitario.
-1	Isto	isto	PRON	PD0CN000	_	2	nsubj	_	Treeler:suj
+1	Isto	isto	PRON	PD0CN000	PronType=Dem	2	nsubj	_	Treeler:suj
 2	fai	facer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 3	que	que	SCONJ	CS	_	15	mark	_	Treeler:conj
 4	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -25693,7 +25693,7 @@
 9	que	que	PRON	PR0CN000	_	11	nsubj	_	Treeler:suj
 10	incluso	incluso	ADV	RG	_	11	advmod	_	Treeler:mod
 11	sobrepasarán	sobrepasarán	VERB	VMIF3P0	_	8	ccomp	_	Treeler:S
-12	estas	este	DET	DD0FP0	_	13	det	_	Treeler:spec
+12	estas	este	DET	DD0FP0	PronType=Dem	13	det	_	Treeler:spec
 13	perspectivas	perspectiva	NOUN	NCFP000	_	11	obj	_	SpaceAfter=No|Treeler:cd
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 15	garantindo	garantir	VERB	VMG0000	_	11	case	_	ToDo=case-upos|Treeler:cc
@@ -26056,7 +26056,7 @@
 # sent_id = test-644
 # text = Con esta directiva, que se debe traspoñer antes do 19 de xullo de 2001, adoptaranse os novos valores límites de inmisión.
 1	Con	con	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	directiva	directivo	NOUN	NCFS000	_	8	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	que	que	PRON	PR0CN000	_	8	nsubj	_	Treeler:suj
@@ -26139,7 +26139,7 @@
 # sent_id = test-647
 # text = Todo iso sen prexuízo da posibilidade de interpor recurso extraordinario de revisión nos supostos e prazos previstos no artigo 118 da Lei 30/1992, do 26 de novembro, de réxime xurídico das administracións públicas e do procedemento administrativo común.
 1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:spec
-2	iso	iso	PRON	PD0CN000	_	0	root	_	Treeler:sentence
+2	iso	iso	PRON	PD0CN000	PronType=Dem	0	root	_	Treeler:sentence
 3	sen	sen	ADP	SPS00	_	4	case	_	Treeler:sp
 4	prexuízo	prexuízo	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 5-6	da	_	_	_	_	_	_	_	_
@@ -26409,7 +26409,7 @@
 
 # sent_id = test-653
 # text = Este traballo completouse coa cesión dunha cámara para ter no barco para que a propia tripulación recolla fotos, e así o fixeron; deste xeito podemos confirmar as identificacións.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	traballo	traballo	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3-4	completouse	_	_	_	_	_	_	_	_
 3	completou	completar	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
@@ -26443,7 +26443,7 @@
 28	;	;	PUNCT	Fx	_	33	punct	_	Treeler:f
 29-30	deste	_	_	_	_	_	_	_	_
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
-30	este	este	DET	DD0MS0	_	31	det	_	Treeler:spec
+30	este	este	DET	DD0MS0	PronType=Dem	31	det	_	Treeler:spec
 31	xeito	xeito	NOUN	NCMS000	_	33	obl	_	Treeler:sn
 32	podemos	poder	AUX	VMIP1P0	_	33	aux	_	Treeler:v
 33	confirmar	confirmar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
@@ -26458,7 +26458,7 @@
 3	forma	forma	NOUN	NCFS000	_	13	nsubj	_	Treeler:suj
 4	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
 5	executar	executar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
-6	estas	este	DET	DD0FP0	_	7	det	_	Treeler:spec
+6	estas	este	DET	DD0FP0	PronType=Dem	7	det	_	Treeler:spec
 7	accións	acción	NOUN	NCFP000	_	5	obj	_	Treeler:cd
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	mellora	mellora	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
@@ -26497,7 +26497,7 @@
 2	:	:	PUNCT	Fd	_	6	punct	_	Treeler:f
 3-4	neste	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
-4	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
+4	este	este	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 5	grupo	grupo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 6	están	estar	VERB	VMIP3P0	_	1	ccomp	_	Treeler:S
 7	os	o	DET	DA0MP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
@@ -26774,7 +26774,7 @@
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 15	aínda	aínda	ADV	RG	_	19	case	_	ToDo=case-upos|Treeler:cc
 16	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
-17	estes	este	DET	DD0MP0	_	19	nsubj	_	Treeler:suj
+17	estes	este	DET	DD0MP0	PronType=Dem	19	nsubj	_	Treeler:suj
 18	se	se	PRON	PP3CN000	_	19	obj	_	Treeler:cd
 19	vexan	ver	VERB	VMSP3P0	_	11	dep	_	Treeler:ao
 20	un	un	PRON	PI0MS000	_	19	nsubj	_	Treeler:suj
@@ -26875,7 +26875,7 @@
 5	verdadeiros	verdadeiro	ADJ	AQ0MP0	_	6	amod	_	Treeler:s.a
 6	tíos	tío	NOUN	NCMP000	_	0	root	_	SpaceAfter=No|Treeler:atr
 7	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
-8	isto	isto	PRON	PD0CN000	_	11	nsubj	_	Treeler:suj
+8	isto	isto	PRON	PD0CN000	PronType=Dem	11	nsubj	_	Treeler:suj
 9	é	ser	AUX	VSIP3S0	_	11	cop	_	SpaceAfter=No|Treeler:S
 10	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 11	anciáns	ancián	NOUN	NCMP000	_	6	ccomp	_	Treeler:atr
@@ -27126,7 +27126,7 @@
 
 # sent_id = test-671
 # text = Esta última licenza, demostrada a súa indubidable necesidade, concederase no acto, sen prexuízo das sancións que se lle poidan impoñer ao traballador que alegue causas que resulten falsas.
-1	Esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 2	última	último	ADJ	AQ0FS0	_	3	amod	_	Treeler:s.a
 3	licenza	licenza	NOUN	NCFS000	_	11	nsubj	_	SpaceAfter=No|Treeler:suj
 4	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
@@ -27268,7 +27268,7 @@
 19	hora	hora	NOUN	NCFS000	_	17	nmod	_	ToDo=nmod|Treeler:sn
 20	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 21	definir	definir	VERB	VMN0000	_	19	ccomp	_	Treeler:S
-22	este	este	DET	DD0MS0	_	23	det	_	Treeler:spec
+22	este	este	DET	DD0MS0	PronType=Dem	23	det	_	Treeler:spec
 23	apartado	apartado	NOUN	NCMS000	_	21	obj	_	Treeler:cd
 24	[	[	PUNCT	Fca	_	25	punct	_	SpaceAfter=No|Treeler:spec
 25	44	44	NUM	Z	_	21	nmod	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
@@ -27397,7 +27397,7 @@
 3	aplicación	aplicación	NOUN	NCFS000	_	20	obl	_	Treeler:sn
 4-5	desta	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
-5	esta	este	DET	DD0FS0	_	6	det	_	Treeler:spec
+5	esta	este	DET	DD0FS0	PronType=Dem	6	det	_	Treeler:spec
 6	directiva	directivo	NOUN	NCFS000	_	3	nmod	_	Treeler:sn
 7	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	Plan	plan	NOUN	NCMS000	_	20	nsubj	_	Treeler:suj
@@ -27657,7 +27657,7 @@
 # text = Nesa dirección, o primeiro paso é a elaboración de políticas activas para conducir o proceso de cambio estructural, crear emprego e evitar o esfaragullamento da sociedade.
 1-2	Nesa	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esa	ese	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esa	ese	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	dirección	dirección	NOUN	NCFS000	_	10	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
@@ -28154,7 +28154,7 @@
 27	posibilidades	posibilidade	NOUN	NCFP000	_	25	nmod	_	Treeler:sn
 28	para	para	ADP	SPS00	_	33	case	_	Treeler:sp
 29	que	que	SCONJ	CS	_	33	mark	_	Treeler:conj
-30	estes	este	DET	DD0MP0	_	31	det	_	Treeler:spec
+30	estes	este	DET	DD0MP0	PronType=Dem	31	det	_	Treeler:spec
 31	últimos	último	ADJ	AQ0MP0	_	33	nsubj	_	Treeler:suj
 32	se	se	PRON	PP3CN000	_	33	obj	_	Treeler:cd
 33	fagan	facer	VERB	VMSP3P0	_	27	ccomp	_	Treeler:S
@@ -28334,7 +28334,7 @@
 # sent_id = test-700
 # text = Contra este acordo non poderá formularse recurso baseado na concorrencia de prohibicións absolutas ou relativas, pero si poderá fundarse no incumprimento dos requisitos esixidos para a válida transformación ou concesión directa do rexistro internacional solicitado.
 1	Contra	contra	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	acordo	acordo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 4	non	non	PART	RN	_	6	advmod	_	Treeler:mod
 5	poderá	poder	AUX	VMIF3S0	_	6	aux	_	Treeler:v
@@ -28482,7 +28482,7 @@
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 3-4	neste	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
-4	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
+4	este	este	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 5	caso	caso	NOUN	NCMS000	_	7	obl	_	Treeler:sn
 6	sería	ser	AUX	VSIC3S0	_	7	cop	_	Treeler:sentence
 7	necesario	necesario	ADJ	AQ0MS0	_	0	root	_	Treeler:atr
@@ -28973,7 +28973,7 @@
 # text = Nesta sección preséntanse varios modelos alternativos para contrasta-la hipótese do capital público e estúdianse as distintas series utilizadas para estima-la función de producción ampliada da economía española.
 1-2	Nesta	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esta	este	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esta	este	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	sección	sección	NOUN	NCFS000	_	4	obl	_	Treeler:sn
 4-5	preséntanse	_	_	_	_	_	_	_	_
 4	presentan	presentar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -29031,7 +29031,7 @@
 14	elaboración	elaboración	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
 15-16	deste	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
-16	este	este	DET	DD0MS0	_	17	det	_	Treeler:spec
+16	este	este	DET	DD0MS0	PronType=Dem	17	det	_	Treeler:spec
 17	documento	documento	NOUN	NCMS000	_	14	nmod	_	SpaceAfter=No|Treeler:sn
 18	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 19-20	desenvolveuse	_	_	_	_	_	_	_	_
@@ -29062,7 +29062,7 @@
 7	tratarían	tratar	VERB	VMIC3P0	_	2	ccomp	_	Treeler:S
 8-9	nesta	_	_	_	_	_	_	_	_
 8	en	en	ADP	SPS00	_	10	case	_	Treeler:cc
-9	esta	este	DET	DD0FS0	_	10	det	_	Treeler:spec
+9	esta	este	DET	DD0FS0	PronType=Dem	10	det	_	Treeler:spec
 10	planta	planta	NOUN	NCFS000	_	7	obl	_	Treeler:sn
 11	serían	ser	AUX	VSIC3P0	_	12	cop	_	Treeler:sentence
 12	residuos	residuo	NOUN	NCMP000	_	0	root	_	Treeler:atr
@@ -29266,7 +29266,7 @@
 29	que	que	PRON	PR0CN000	_	31	obj	_	Treeler:cd
 30	pode	poder	AUX	VMIP3S0	_	31	aux	_	Treeler:v
 31	ter	ter	VERB	VMN0000	_	28	ccomp	_	Treeler:S
-32	ese	ese	DET	DD0MS0	_	33	det	_	Treeler:spec
+32	ese	ese	DET	DD0MS0	PronType=Dem	33	det	_	Treeler:spec
 33	refluxo	refluxo	NOUN	NCMS000	_	31	obj	_	Treeler:cd
 34-35	no	_	_	_	_	_	_	_	_
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
@@ -29446,7 +29446,7 @@
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 6	prazas	praza	NOUN	NCFP000	_	4	nmod	_	SpaceAfter=No|Treeler:sn
 7	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-8	estas	este	DET	DD0FP0	_	9	det	_	Treeler:spec
+8	estas	este	DET	DD0FP0	PronType=Dem	9	det	_	Treeler:spec
 9	porcentaxes	porcentaxe	NOUN	NCFP000	_	10	nsubj	_	Treeler:suj
 10-11	situáronse	_	_	_	_	_	_	_	_
 10	situaron	situar	VERB	VMIS3P0	_	0	root	_	Treeler:sentence
@@ -29534,7 +29534,7 @@
 
 # sent_id = test-727
 # text = Este montañoso e exuberante territorio -12% da biodiversidade mundial- ten como base social as comunidades dos Mixtecos, Zapotecos, Chatinos, Chinantecos e outros pobos indios que falan 16 liguas inintelixibles entre elas, polo que utilizan o español para a comunicación intercomunitaria.
-1	Este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 2	montañoso	montañoso	ADJ	AQ0MS0	_	5	amod	_	Treeler:s.a
 3	e	e	CCONJ	CC	_	2	cc	_	ToDo=cc-without-conj|Treeler:coord
 4	exuberante	exuberante	ADJ	AQ0CS0	_	2	dep	_	Treeler:grup.a
@@ -29589,7 +29589,7 @@
 # sent_id = test-728
 # text = Acadar este obxectivo necesita, nunha primeira fase de inicio, coñecer a práctica forestal mediante a caracterización da propiedade individual da terra e do xestor.
 1	Acadar	acadar	VERB	VMN0000	_	4	nsubj	_	Treeler:suj
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	obxectivo	obxectivo	NOUN	NCMS000	_	1	obj	_	Treeler:cd
 4	necesita	necesitar	VERB	VMIP3S0	_	0	root	_	SpaceAfter=No|Treeler:sentence
 5	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
@@ -29802,7 +29802,7 @@
 # text = Neste sentido, os avances acadados nos últimos tempos para catapultar industria audiovisual galega ao mercado nacional e internacional, son moi para exportar as diferentes formas e modos da cultura .
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	24	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -29854,7 +29854,7 @@
 8	previsto	prever	VERB	VMP00SM	_	2	nmod	_	Treeler:sn
 9-10	neste	_	_	_	_	_	_	_	_
 9	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
-10	este	este	DET	DD0MS0	_	11	det	_	Treeler:spec
+10	este	este	DET	DD0MS0	PronType=Dem	11	det	_	Treeler:spec
 11	punto	punto	NOUN	NCMS000	_	8	obl	_	Treeler:sn
 12-13	reducirase	_	_	_	_	_	_	_	_
 12	reducirá	reducir	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -29972,7 +29972,7 @@
 19	valorados	valorar	VERB	VMP00PM	_	14	ccomp	_	Treeler:atr
 20	para	para	ADP	SPS00	_	21	case	_	Treeler:cc
 21	obter	obter	VERB	VMN0000	_	19	ccomp	_	Treeler:S
-22	esa	ese	DET	DD0FS0	_	23	det	_	Treeler:spec
+22	esa	ese	DET	DD0FS0	PronType=Dem	23	det	_	Treeler:spec
 23	visión	visión	NOUN	NCFS000	_	21	obj	_	Treeler:cd
 24	global	global	ADJ	AQ0CS0	_	23	amod	_	Treeler:s.a
 25	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj
@@ -30045,7 +30045,7 @@
 
 # sent_id = test-741
 # text = Esta chegada recoñécese por presentar temperaturas en inverno de -12º a -17º C na topografía dos 700 hPa e de -30º a -36º C á altitude dos 500 hPa, e por unha tropopausa moi baixa (6 km aproximadamente).
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	chegada	chegada	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3-4	recoñécese	_	_	_	_	_	_	_	_
 3	recoñece	recoñecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -30157,7 +30157,7 @@
 21-22	notarase	_	_	_	_	_	_	_	_
 21	notará	notar	VERB	VMIF3S0	_	3	ccomp	_	Treeler:S
 22	se	se	PRON	PP3CN000	_	21	dep	_	Treeler:morfema.pronominal
-23	isto	isto	PRON	PD0CN000	_	21	nsubj	_	Treeler:suj
+23	isto	isto	PRON	PD0CN000	PronType=Dem	21	nsubj	_	Treeler:suj
 24-25	nos	_	_	_	_	_	_	_	_
 24	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
 25	os	o	DET	DA0MP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
@@ -30235,7 +30235,7 @@
 # text = Neste tratado recóllese un punto fundamental, que é "a libre circulación das persoas que se atopen dentro do territorio da Unión Europea".
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	tratado	tratado	NOUN	NCMS000	_	4	obl	_	Treeler:sn
 4-5	recóllese	_	_	_	_	_	_	_	_
 4	recolle	recoller	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -30438,7 +30438,7 @@
 34	5	5	NUM	Z	_	33	nmod	_	Treeler:sn
 35-36	deste	_	_	_	_	_	_	_	_
 35	de	de	ADP	SPS00	_	37	case	_	Treeler:sp
-36	este	este	DET	DD0MS0	_	37	det	_	Treeler:spec
+36	este	este	DET	DD0MS0	PronType=Dem	37	det	_	Treeler:spec
 37	documento	documento	NOUN	NCMS000	_	33	nmod	_	SpaceAfter=No|Treeler:sn
 38	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
@@ -30473,16 +30473,16 @@
 25	mecanismos	mecanismo	NOUN	NCMP000	_	21	nmod	_	Treeler:sn
 26	que	que	PRON	PR0CN000	_	27	nsubj	_	Treeler:suj
 27	xeran	xerar	VERB	VMIP3P0	_	25	ccomp	_	Treeler:S
-28	esta	este	DET	DD0FS0	_	29	det	_	Treeler:spec
+28	esta	este	DET	DD0FS0	PronType=Dem	29	det	_	Treeler:spec
 29	pobreza	pobreza	NOUN	NCFS000	_	27	obj	_	SpaceAfter=No|Treeler:cd
 30	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 # sent_id = test-752
 # text = Esta lei respecta esas disposicións doutros corpos legais, pero está obrigada a regular diferenciadamente estes documentos públicos e aqueloutros, dos que se veu tratando ata aquí, que por si mesmo fan proba plena.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	lei	lei	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3	respecta	respectar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-4	esas	ese	DET	DD0FP0	_	5	det	_	Treeler:spec
+4	esas	ese	DET	DD0FP0	PronType=Dem	5	det	_	Treeler:spec
 5	disposicións	disposición	NOUN	NCFP000	_	3	obj	_	Treeler:cd
 6-7	doutros	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
@@ -30496,12 +30496,12 @@
 14	a	a	ADP	SPS00	_	15	case	_	Treeler:creg
 15	regular	regular	VERB	VMN0000	_	13	ccomp	_	Treeler:S
 16	diferenciadamente	diferenciadamente	ADV	RG	_	15	case	_	Treeler:cc
-17	estes	este	DET	DD0MP0	_	18	det	_	Treeler:spec
+17	estes	este	DET	DD0MP0	PronType=Dem	18	det	_	Treeler:spec
 18	documentos	documento	NOUN	NCMP000	_	15	obj	_	Treeler:cd
 19	públicos	público	ADJ	AQ0MP0	_	18	amod	_	Treeler:s.a
 20	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 21-22	aqueloutros	_	_	_	_	_	_	_	SpaceAfter=No
-21	aqueles	aquel	DET	DD0MP0	_	37	det	_	Treeler:d
+21	aqueles	aquel	DET	DD0MP0	PronType=Dem	37	det	_	Treeler:d
 22	outros	outro	DET	DI0MP0	_	21	nmod	_	Treeler:sn
 23	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 24-25	dos	_	_	_	_	_	_	_	_
@@ -30611,7 +30611,7 @@
 2	cómputo	cómputo	NOUN	NCMS000	_	9	nsubj	_	Treeler:suj
 3-4	deste	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
-4	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
+4	este	este	DET	DD0MS0	PronType=Dem	5	det	_	Treeler:spec
 5	período	período	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 7	reelección	reelección	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
@@ -30751,7 +30751,7 @@
 # sent_id = test-759
 # text = Escribo isto ao tempo que en Nova York se está a analizar o progreso acadado durante o último decenio na posta en práctica da Plataforma de Acción de Beijing.
 1	Escribo	escribir	VERB	VMIP1S0	_	0	root	_	Treeler:sentence
-2	isto	isto	PRON	PD0CN000	_	1	obj	_	Treeler:cd
+2	isto	isto	PRON	PD0CN000	PronType=Dem	1	obj	_	Treeler:cd
 3-4	ao	_	_	_	_	_	_	_	_
 3	a	a	ADP	SPS00	_	1	obj	_	Treeler:cd
 4	o	o	DET	DA0MS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -30918,7 +30918,7 @@
 # text = Deste xeito, o obxectivo principal desta análise é obter información que proporcione unha orde de magnitude sobre os impactos que o produto en cuestión produce sobre o medio ambiente.
 1-2	Deste	_	_	_	_	_	_	_	_
 1	De	de	ADP	SPS00	_	12	dep	_	Treeler:ao
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	xeito	xeito	NOUN	NCMS000	_	1	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -30926,7 +30926,7 @@
 7	principal	principal	ADJ	AQ0CS0	_	6	amod	_	Treeler:s.a
 8-9	desta	_	_	_	_	_	_	_	_
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
-9	esta	este	DET	DD0FS0	_	10	det	_	Treeler:spec
+9	esta	este	DET	DD0FS0	PronType=Dem	10	det	_	Treeler:spec
 10	análise	análise	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
 11	é	ser	AUX	VSIP3S0	_	12	cop	_	Treeler:sentence
 12	obter	obter	VERB	VMN0000	_	0	root	_	Treeler:atr
@@ -31128,7 +31128,7 @@
 
 # sent_id = test-768
 # text = Este decreto define unha nova estrutura de consellería, na que Persoal deixa de ser competencia da Secretaría Xeral Técnica, para adquirir o rango de dirección xeral.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	decreto	decreto	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3	define	definir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	6	det	_	Treeler:spec
@@ -31220,7 +31220,7 @@
 18	carecer	carecer	VERB	VMN0000	_	16	ccomp	_	Treeler:S
 19-20	desas	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:creg
-20	esas	ese	DET	DD0FP0	_	21	det	_	Treeler:spec
+20	esas	ese	DET	DD0FP0	PronType=Dem	21	det	_	Treeler:spec
 21	transferencias	transferencia	NOUN	NCFP000	_	18	obl	_	Treeler:sn
 22	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	23	det	_	Treeler:spec
 23	parte	parte	NOUN	NCCS000	_	27	nsubj	_	Treeler:suj
@@ -31412,7 +31412,7 @@
 18-19	revelándose	_	_	_	_	_	_	_	_
 18	revelando	revelar	VERB	VMG0000	_	17	ccomp	_	Treeler:S
 19	se	se	PRON	PP3CN000	_	18	dep	_	Treeler:morfema.pronominal
-20	este	este	DET	DD0MS0	_	22	det	_	Treeler:spec
+20	este	este	DET	DD0MS0	PronType=Dem	22	det	_	Treeler:spec
 21	como	como	PRON	PR0CN000	_	20	obl	_	Treeler:cc
 22	pendenciero	pendenciero	PROPN	NP00000	_	18	obj	_	SpaceAfter=No|Treeler:cd
 23	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
@@ -31934,7 +31934,7 @@
 # text = Neste ámbito os programas EMAS e Etiqueta ecolóxica permiten garantir uns requisitos ambientais mínimos avalados polas administracións públicas.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	ámbito	ámbito	NOUN	NCMS000	_	10	obl	_	Treeler:sn
 4	os	o	DET	DA0MP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 5	programas	programa	NOUN	NCMP000	_	10	nsubj	_	Treeler:suj
@@ -32032,7 +32032,7 @@
 # text = Nesa proposta recolle Blair as máis veteranas consignas do "Contrato ", cun enfoque novo: a política hoxe -di- debe permitir sobre todo que cada se poida realizar individualmente...
 1-2	Nesa	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	esa	ese	DET	DD0FS0	_	3	det	_	Treeler:spec
+2	esa	ese	DET	DD0FS0	PronType=Dem	3	det	_	Treeler:spec
 3	proposta	proposta	NOUN	NCFS000	_	4	obl	_	Treeler:sn
 4	recolle	recoller	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 5	Blair	blair	PROPN	NP00000	_	4	nsubj	_	Treeler:suj
@@ -32081,7 +32081,7 @@
 5	PASA	pasar	VERB	VMIP3S0	_	1	obj	_	Treeler:cd
 6	UNILATERAL	unilateral	ADJ	AQ0CS0	_	5	xcomp	_	SpaceAfter=No|Treeler:cpred
 7	_	_	PUNCT	Fz	_	9	punct	_	Treeler:f
-8	aqueles	aquel	DET	DD0MP0	_	9	det	_	Treeler:spec
+8	aqueles	aquel	DET	DD0MP0	PronType=Dem	9	det	_	Treeler:spec
 9	casos	caso	NOUN	NCMP000	_	30	nsubj	_	Treeler:suj
 10-11	nos	_	_	_	_	_	_	_	_
 10	en	en	ADP	SPS00	_	12	case	_	Treeler:cc
@@ -32153,7 +32153,7 @@
 
 # sent_id = test-794
 # text = Isto é consecuencia dos cambios que se viñeron a producir internamente no sistema agrario, reflectidos en boa medida polo comportamento do reemprego, os gastos fóra do sector, as subvencións da explotación e o emprego agrario.
-1	Isto	isto	PRON	PD0CN000	_	3	nsubj	_	Treeler:suj
+1	Isto	isto	PRON	PD0CN000	PronType=Dem	3	nsubj	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	3	cop	_	Treeler:sentence
 3	consecuencia	consecuencia	NOUN	NCFS000	_	0	root	_	Treeler:atr
 4-5	dos	_	_	_	_	_	_	_	_
@@ -32403,7 +32403,7 @@
 # text = Neste sentido, Bhargava e Welford (1996, pp. 26-27) recollen as seguintes consideracións dirixidas a obter vantaxes competitivas por parte das empresas: 1) Excelencia medioambiental.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	14	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	Bhargava	bhargava	ADJ	AO0FS0	_	14	amod	_	Treeler:s.a
@@ -32445,7 +32445,7 @@
 4	que	que	PRON	PR0CN000	_	6	obl	_	Treeler:sn
 5	se	se	PRON	PP3CN000	_	6	obj	_	Treeler:cd
 6	refire	referir	VERB	VMIP3S0	_	2	ccomp	_	Treeler:S
-7	esta	este	DET	DD0FS0	_	8	det	_	Treeler:spec
+7	esta	este	DET	DD0FS0	PronType=Dem	8	det	_	Treeler:spec
 8	alínea	alínea	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
 9	serán	ser	AUX	VSIF3P0	_	10	aux	_	Treeler:v
 10	redactados	redactar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
@@ -32558,7 +32558,7 @@
 # text = Neste sentido, o Sr. Kofi Annan, secretario xeral da ONU, resumiu os progresos que esperaba ver en Johannesburgo en cinco cuestións claves: auga, saúde, enerxía, agricultura e mais diversidade biolóxica e ecosistemas.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	sentido	sentido	NOUN	NCMS000	_	16	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -32635,7 +32635,7 @@
 
 # sent_id = test-807
 # text = Esta lei mantén os criterios xerais para a atribución da competencia territorial, sen multiplicar innecesariamente os foros especiais por razón da materia e sen converter todas esas regras en disposicións de aplicación necesaria.
-1	Esta	este	DET	DD0FS0	_	2	det	_	Treeler:spec
+1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
 2	lei	lei	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
 3	mantén	manter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	os	o	DET	DA0MP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -32666,7 +32666,7 @@
 27	sen	sen	ADP	SPS00	_	28	case	_	Treeler:sp
 28	converter	converter	VERB	VMN0000	_	22	ccomp	_	Treeler:S
 29	todas	todo	DET	DI0FP0	PronType=Tot	30	det	_	Treeler:d
-30	esas	ese	DET	DD0FP0	_	31	det	_	Treeler:spec
+30	esas	ese	DET	DD0FP0	PronType=Dem	31	det	_	Treeler:spec
 31	regras	regra	NOUN	NCFP000	_	28	obj	_	Treeler:cd
 32	en	en	ADP	SPS00	_	33	case	_	Treeler:sp
 33	disposicións	disposición	NOUN	NCFP000	_	31	nmod	_	Treeler:sn
@@ -32923,7 +32923,7 @@
 
 # sent_id = test-814
 # text = Este indicador mide o impacto da  mortalidade por unha causa de morte sobre o promedio de anos que vive a poboación entre dúas idades, neste caso os 35 e os 65 anos.
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	indicador	indicador	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3	mide	medir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	o	o	DET	DA0MS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
@@ -32952,7 +32952,7 @@
 26	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 27-28	neste	_	_	_	_	_	_	_	_
 27	en	en	ADP	SPS00	_	29	case	_	Treeler:sp
-28	este	este	DET	DD0MS0	_	29	det	_	Treeler:spec
+28	este	este	DET	DD0MS0	PronType=Dem	29	det	_	Treeler:spec
 29	caso	caso	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
 30	os	o	DET	DA0MP0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
 31	35	35	PROPN	NP00000	_	29	nmod	_	Treeler:sn
@@ -33126,7 +33126,7 @@
 7	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	5	nmod	_	Treeler:sn
 8-9	desta	_	_	_	_	_	_	_	_
 8	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
-9	esta	este	DET	DD0FS0	_	10	det	_	Treeler:spec
+9	esta	este	DET	DD0FS0	PronType=Dem	10	det	_	Treeler:spec
 10	normativa	normativa	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
 11	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 12	polo	polo	NOUN	NCMS000	_	10	dep	_	Treeler:grup.nom
@@ -33389,7 +33389,7 @@
 5	aumento	aumento	NOUN	NCMS000	_	9	nsubj	_	Treeler:suj
 6-7	nese	_	_	_	_	_	_	_	_
 6	en	en	ADP	SPS00	_	8	case	_	Treeler:sp
-7	ese	ese	DET	DD0MS0	_	8	det	_	Treeler:spec
+7	ese	ese	DET	DD0MS0	PronType=Dem	8	det	_	Treeler:spec
 8	consumo	consumo	NOUN	NCMS000	_	5	nmod	_	Treeler:sn
 9	supón	supor	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 10	melloras	mellora	NOUN	NCFP000	_	9	obj	_	Treeler:cd
@@ -33452,7 +33452,7 @@
 4	derroga	derrogar	VERB	VMIP3S0	_	2	ccomp	_	Treeler:S
 5	son	ser	AUX	VSIP1S0	_	6	cop	_	Treeler:sentence
 6	pois	pois	SCONJ	CS	_	0	root	_	Treeler:atr
-7	aqueles	aquel	DET	DD0MP0	_	8	det	_	Treeler:spec
+7	aqueles	aquel	DET	DD0MP0	PronType=Dem	8	det	_	Treeler:spec
 8	referentes	referente	NOUN	NCMP000	_	6	xcomp	_	Treeler:atr
 9-10	aos	_	_	_	_	_	_	_	_
 9	a	a	ADP	SPS00	_	11	case	_	Treeler:sp
@@ -33716,7 +33716,7 @@
 32	parte	parte	NOUN	NCCS000	_	27	obl	_	Treeler:sn
 33-34	daquelas	_	_	_	_	_	_	_	_
 33	de	de	ADP	SPS00	_	35	case	_	Treeler:sp
-34	aquelas	aquel	DET	DD0FP0	_	35	det	_	Treeler:spec
+34	aquelas	aquel	DET	DD0FP0	PronType=Dem	35	det	_	Treeler:spec
 35	de	de	ADP	SPS00	_	32	nmod	_	Treeler:sn
 36	calquera	calquera	DET	DI0NN0	_	37	det	_	Treeler:spec
 37-38	das	_	_	_	_	_	_	_	_
@@ -33928,7 +33928,7 @@
 11	tan	tan	ADV	RG	_	12	advmod	_	Treeler:spec
 12	amplo	amplo	ADJ	AQ0MS0	_	10	amod	_	Treeler:s.a
 13	a	a	ADP	SPS00	_	15	case	_	Treeler:sp
-14	este	este	DET	DD0MS0	_	15	det	_	Treeler:spec
+14	este	este	DET	DD0MS0	PronType=Dem	15	det	_	Treeler:spec
 15	respecto	respecto	NOUN	NCMS000	_	12	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 16	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 17	xa	xa	ADV	RG	_	12	advmod	_	Treeler:sadv
@@ -34000,7 +34000,7 @@
 
 # sent_id = test-841
 # text = Este proceso de evolución continua a partir dunha primeira cepa epidémica, que nos subtipos dos virus A coincide cunha cepa que no seu momento foi pandémica (ver logo), chámase "tendencia (drift) antixénica".
-1	Este	este	DET	DD0MS0	_	2	det	_	Treeler:spec
+1	Este	este	DET	DD0MS0	PronType=Dem	2	det	_	Treeler:spec
 2	proceso	proceso	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	evolución	evolución	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
@@ -34235,7 +34235,7 @@
 
 # sent_id = test-846
 # text = Estas rochas están formadas por calcaria, mineral brando que fractura con facilidade e soluble na auga que contén ácido carbónico.
-1	Estas	este	DET	DD0FP0	_	2	det	_	Treeler:spec
+1	Estas	este	DET	DD0FP0	PronType=Dem	2	det	_	Treeler:spec
 2	rochas	rocha	NOUN	NCFP000	_	4	nsubj	_	Treeler:suj
 3	están	estar	AUX	VMIP3P0	_	4	cop	_	Treeler:sentence
 4	formadas	formar	VERB	VMP00PF	_	0	root	_	Treeler:atr
@@ -34537,7 +34537,7 @@
 7	é	ser	VERB	VSIP3S0	_	0	root	_	Treeler:sentence
 8	tal	tal	DET	DI0CS0	_	7	det	_	Treeler:spec
 9	que	que	SCONJ	CS	_	7	mark	_	Treeler:conj
-10	este	este	DET	DD0MS0	_	11	det	_	Treeler:spec
+10	este	este	DET	DD0MS0	PronType=Dem	11	det	_	Treeler:spec
 11	coñecemento	coñecemento	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 12	resulta	resultar	VERB	VMIP3S0	_	7	case	_	ToDo=case-upos|Treeler:cc
 13	crítico	crítico	ADJ	AQ0MS0	_	7	xcomp	_	Treeler:cpred
@@ -34610,7 +34610,7 @@
 2	beneficiarios	beneficiario	NOUN	NCMP000	_	32	nsubj	_	Treeler:suj
 3-4	destas	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
-4	estas	este	DET	DD0FP0	_	5	det	_	Treeler:spec
+4	estas	este	DET	DD0FP0	PronType=Dem	5	det	_	Treeler:spec
 5	axudas	axuda	NOUN	NCFP000	_	2	nmod	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 7	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	9	det	_	Treeler:spec
@@ -34661,7 +34661,7 @@
 # text = Neste grupo temos varias especies endémicas, e a máis importante, pois só se en-controu en Ancares foi o Haptoderus subiasi.
 1-2	Neste	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+2	este	este	DET	DD0MS0	PronType=Dem	3	det	_	Treeler:spec
 3	grupo	grupo	NOUN	NCMS000	_	4	obl	_	Treeler:sn
 4	temos	ter	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 5	varias	varios	DET	DI0FP0	_	6	det	_	Treeler:spec
@@ -34851,7 +34851,7 @@
 27	reguladas	regular	VERB	VMP00PF	_	26	ccomp	_	Treeler:S
 28-29	nesta	_	_	_	_	_	_	_	_
 28	en	en	ADP	SPS00	_	30	case	_	Treeler:cc
-29	esta	este	DET	DD0FS0	_	30	det	_	Treeler:spec
+29	esta	este	DET	DD0FS0	PronType=Dem	30	det	_	Treeler:spec
 30	lei	lei	NOUN	NCFS000	_	27	obl	_	SpaceAfter=No|Treeler:sn
 31	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
