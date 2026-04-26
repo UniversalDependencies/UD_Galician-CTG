@@ -200,7 +200,7 @@
 7	forman	formar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 8	se	se	PRON	PP3CN000	_	7	obj	_	Treeler:cd
 9	asignando	asignar	VERB	VMG0000	_	7	case	_	ToDo=case-upos|Treeler:cc
-10	cada	cada	DET	DI0NN0	_	11	det	_	Treeler:spec
+10	cada	cada	DET	DI0NN0	PronType=Tot	11	det	_	Treeler:spec
 11	comarca	comarca	NOUN	NCFS000	_	7	obj	_	Treeler:cd
 12-13	ó	_	_	_	_	_	_	_	_
 12	a	a	ADP	SPS00	_	7	obj	_	Treeler:cd
@@ -236,7 +236,7 @@
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
 14	intervencion	intervencion	PROPN	NP00000	_	11	nmod	_	Treeler:sn
 15	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
-16	cada	cada	DET	DI0NN0	_	17	det	_	Treeler:spec
+16	cada	cada	DET	DI0NN0	PronType=Tot	17	det	_	Treeler:spec
 17	caso	caso	NOUN	NCMS000	_	4	obl	_	SpaceAfter=No|Treeler:sn
 18	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
 19	asi	asi	ADV	RG	_	4	case	_	ToDo=case-upos|Treeler:cc
@@ -480,7 +480,7 @@
 
 # sent_id = test-11
 # text = Todo o persoal da empresa ten dereito ao servizo de cociña e comedores, de acordo coas condicións actuais, dentro do horario establecido para tal efecto.
-1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:d
+1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:d
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	persoal	persoal	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 4-5	da	_	_	_	_	_	_	_	_
@@ -616,7 +616,7 @@
 25	crédito	crédito	NOUN	NCMS000	_	23	nmod	_	ToDo=nmod|Treeler:sn
 26	fiscal	fiscal	ADJ	AQ0CS0	_	25	amod	_	Treeler:s.a
 27	para	para	ADP	SPS00	_	30	case	_	Treeler:sp
-28	todos	todo	DET	DI0MP0	_	29	det	_	Treeler:d
+28	todos	todo	DET	DI0MP0	PronType=Tot	29	det	_	Treeler:d
 29	os	o	DET	DA0MP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	grupos	grupo	NOUN	NCMP000	_	25	nmod	_	Treeler:sn
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
@@ -908,7 +908,7 @@
 10	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	11	det	_	Treeler:spec
 11	coalición	coalición	NOUN	NCFS000	_	9	obj	_	Treeler:cd
 12	entre	entre	ADP	SPS00	_	15	case	_	Treeler:cc
-13	todos	todo	DET	DI0MP0	_	14	det	_	Treeler:d
+13	todos	todo	DET	DI0MP0	PronType=Tot	14	det	_	Treeler:d
 14	os	o	DET	DA0MP0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
 15	grupos	grupo	NOUN	NCMP000	_	9	obl	_	Treeler:sn
 16	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
@@ -1182,7 +1182,7 @@
 4	son	ser	AUX	VSIP1S0	_	5	cop	_	Treeler:sentence
 5	aplicables	aplicable	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
 6	a	a	ADP	SPS00	_	9	case	_	Treeler:sp
-7	todas	todo	DET	DI0FP0	_	8	det	_	Treeler:d
+7	todas	todo	DET	DI0FP0	PronType=Tot	8	det	_	Treeler:d
 8	aquelas	aquel	DET	DD0FP0	_	9	det	_	Treeler:spec
 9	persoas	persoa	NOUN	NCFP000	_	5	obl	_	Treeler:sn
 10	físicas	físico	ADJ	AQ0FP0	_	9	amod	_	Treeler:s.a
@@ -1386,7 +1386,7 @@
 16	a	a	ADP	SPS00	_	17	case	_	Treeler:sp
 17	0,5	0,5	NUM	Z	_	15	nmod	_	Treeler:sn
 18	mg	mg	PROPN	NP00000	_	17	nmod	_	Treeler:sn
-19	cada	cada	DET	DI0NN0	_	20	det	_	Treeler:spec
+19	cada	cada	DET	DI0NN0	PronType=Tot	20	det	_	Treeler:spec
 20	3-5	3-5	NUM	Z	_	18	nmod	_	Treeler:sn
 21	min	min	PRON	PP1CSO00	_	18	nmod	_	SpaceAfter=No|Treeler:sn
 22	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
@@ -1507,7 +1507,7 @@
 17	idóneos	idóneo	ADJ	AQ0MP0	_	3	amod	_	Treeler:s.a
 18	para	para	ADP	SPS00	_	19	case	_	Treeler:sp
 19	mostrar	mostrar	VERB	VMN0000	_	3	ccomp	_	Treeler:S
-20	todos	todo	DET	DI0MP0	_	21	det	_	Treeler:d
+20	todos	todo	DET	DI0MP0	PronType=Tot	21	det	_	Treeler:d
 21	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 22	valores	valor	NOUN	NCMP000	_	19	obj	_	Treeler:cd
 23-24	do	_	_	_	_	_	_	_	_
@@ -1533,7 +1533,7 @@
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 3	8	8	NUM	Z	_	8	nsubj	_	Treeler:suj
 4	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
-5	cada	cada	DET	DI0NN0	_	7	det	_	Treeler:spec
+5	cada	cada	DET	DI0NN0	PronType=Tot	7	det	_	Treeler:spec
 6	10	10	NUM	Z	_	5	nummod	_	Treeler:z
 7	persoas	persoa	NOUN	NCFP000	_	3	nmod	_	Treeler:sn
 8	sufrirán	sufrir	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
@@ -1667,7 +1667,7 @@
 18	auga	auga	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
 19	requirida	requirir	VERB	VMP00SF	_	18	ccomp	_	Treeler:S
 20	para	para	ADP	SPS00	_	22	case	_	Treeler:cc
-21	cada	cada	DET	DI0NN0	_	22	det	_	Treeler:spec
+21	cada	cada	DET	DI0NN0	PronType=Tot	22	det	_	Treeler:spec
 22	operación	operación	NOUN	NCFS000	_	19	obl	_	SpaceAfter=No|Treeler:sn
 23	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
@@ -2151,7 +2151,7 @@
 17	é	ser	AUX	VSIP3S0	_	18	cop	_	Treeler:S
 18	inferior	inferior	ADJ	AQ0CS0	_	1	ccomp	_	Treeler:atr
 19	en	en	ADP	SPS00	_	22	case	_	Treeler:sp
-20	todos	todo	DET	DI0MP0	_	21	det	_	Treeler:d
+20	todos	todo	DET	DI0MP0	PronType=Tot	21	det	_	Treeler:d
 21	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 22	ámbitos	ámbito	NOUN	NCMP000	_	18	obl	_	Treeler:sn
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
@@ -3168,7 +3168,7 @@
 5	inciden	incidir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 6	en	en	ADP	SPS00	_	7	case	_	Treeler:creg
 7	expresar	expresar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
-8	cada	cada	DET	DI0NN0	_	9	det	_	Treeler:spec
+8	cada	cada	DET	DI0NN0	PronType=Tot	9	det	_	Treeler:spec
 9	tipo	tipo	NOUN	NCMS000	_	7	obj	_	Treeler:cd
 10	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
 11	débeda	débeda	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
@@ -3488,7 +3488,7 @@
 8	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 9	que	que	PRON	PR0CN000	_	12	nsubj	_	Treeler:suj
 10	son	ser	AUX	VSIP1S0	_	12	cop	_	Treeler:S
-11	cada	cada	DET	DI0NN0	_	12	det	_	Treeler:spec
+11	cada	cada	DET	DI0NN0	PronType=Tot	12	det	_	Treeler:spec
 12	vez	vez	NOUN	NCFS000	_	7	ccomp	_	Treeler:atr
 13	máis	máis	ADV	RG	_	14	advmod	_	Treeler:spec
 14	importantes	importante	ADJ	AQ0CP0	_	12	amod	_	Treeler:s.a
@@ -3643,7 +3643,7 @@
 26	produzan	producir	VERB	VMSP3P0	_	23	ccomp	_	SpaceAfter=No|Treeler:S
 27	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 28	en	en	ADP	SPS00	_	30	case	_	Treeler:cc
-29	cada	cada	DET	DI0NN0	_	30	det	_	Treeler:spec
+29	cada	cada	DET	DI0NN0	PronType=Tot	30	det	_	Treeler:spec
 30	caso	caso	NOUN	NCMS000	_	21	obl	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 32-33	no	_	_	_	_	_	_	_	_
@@ -3710,7 +3710,7 @@
 14	amplamente	amplamente	ADV	RG	_	15	case	_	Treeler:cc
 15	compartida	compartir	VERB	VMP00SF	_	10	ccomp	_	Treeler:atr
 16	por	por	ADP	SPS00	_	19	case	_	Treeler:cag
-17	toda	todo	DET	DI0FS0	_	18	det	_	Treeler:d
+17	toda	todo	DET	DI0FS0	PronType=Tot	18	det	_	Treeler:d
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	organización	organización	NOUN	NCFS000	_	15	obl	_	SpaceAfter=No|Treeler:sn
 20	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
@@ -4522,7 +4522,7 @@
 31	debedor	debedor	NOUN	NCMS000	_	23	nmod	_	Treeler:sn
 32	e	e	CCONJ	CC	_	23	cc	_	ToDo=cc-without-conj|Treeler:coord
 33-34	tódalas	_	_	_	_	_	_	_	_
-33	todas	todo	DET	DI0FP0	_	34	det	_	Treeler:d
+33	todas	todo	DET	DI0FP0	PronType=Tot	34	det	_	Treeler:d
 34	as	o	DET	DA0FP0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
 35	persoas	persoa	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
 36	que	que	PRON	PR0CN000	_	38	nsubj	_	Treeler:suj
@@ -4586,7 +4586,7 @@
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	representación	representación	NOUN	NCFS000	_	17	obj	_	Treeler:cd
 20	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
-21	todas	todo	DET	DI0FP0	_	22	det	_	Treeler:spec
+21	todas	todo	DET	DI0FP0	PronType=Tot	22	det	_	Treeler:spec
 22	elas	el	PRON	PP3FP000	_	19	nmod	_	SpaceAfter=No|Treeler:sn
 23	.	.	PUNCT	Fp	_	11	punct	_	Treeler:f
 
@@ -4902,7 +4902,7 @@
 6	realiza	realizar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	obj	_	Treeler:cd
 8	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
-9	todo	todo	DET	DI0MS0	_	10	det	_	Treeler:d
+9	todo	todo	DET	DI0MS0	PronType=Tot	10	det	_	Treeler:d
 10	o	o	DET	DA0MS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
 11	mundo	mundo	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 12	coordinada	coordinado	ADJ	AQ0FS0	_	11	amod	_	Treeler:s.a
@@ -5139,7 +5139,7 @@
 16	etioloxía	etioloxía	NOUN	NCFS000	_	13	nmod	_	Treeler:sn
 17	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 18-19	tódolos	_	_	_	_	_	_	_	_
-18	todos	todo	DET	DI0MP0	_	19	det	_	Treeler:d
+18	todos	todo	DET	DI0MP0	PronType=Tot	19	det	_	Treeler:d
 19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	incidentes	incidente	NOUN	NCMP000	_	16	nmod	_	SpaceAfter=No|Treeler:sn
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
@@ -5605,7 +5605,7 @@
 
 # sent_id = test-140
 # text = Todas aquelas persoas ou entidades que se consideren afectadas poderán presentar as súas alegacións, nesta delegación provincial, no prazo de vinte días.
-1	Todas	todo	DET	DI0FP0	_	2	det	_	Treeler:d
+1	Todas	todo	DET	DI0FP0	PronType=Tot	2	det	_	Treeler:d
 2	aquelas	aquel	DET	DD0FP0	_	3	det	_	Treeler:spec
 3	persoas	persoa	NOUN	NCFP000	_	11	nsubj	_	Treeler:suj
 4	ou	ou	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -5854,7 +5854,7 @@
 5	psíquicos	psíquico	ADJ	AQ0MP0	_	4	amod	_	Treeler:s.a
 6	acumulados	acumular	VERB	VMP00PM	_	4	ccomp	_	SpaceAfter=No|Treeler:S
 7	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
-8	toda	todo	DET	DI0FS0	_	10	det	_	Treeler:spec
+8	toda	todo	DET	DI0FS0	PronType=Tot	10	det	_	Treeler:spec
 9	nova	novo	ADJ	AQ0FS0	_	10	amod	_	Treeler:s.a
 10	percepción	percepción	NOUN	NCFS000	_	13	nsubj	_	Treeler:suj
 11	tende	tender	VERB	VMIP3S0	_	13	compound	_	Treeler:v
@@ -6872,7 +6872,7 @@
 42	,	,	PUNCT	Fc	_	43	punct	_	Treeler:f
 43	cubrindo	cubrir	VERB	VMG0000	_	41	ccomp	_	Treeler:S
 44-45	tódalas	_	_	_	_	_	_	_	_
-44	todas	todo	DET	DI0FP0	_	45	det	_	Treeler:d
+44	todas	todo	DET	DI0FP0	PronType=Tot	45	det	_	Treeler:d
 45	as	o	DET	DA0FP0	Definite=Def|PronType=Art	46	det	_	Treeler:spec
 46	actividades	actividade	NOUN	NCFP000	_	43	obj	_	Treeler:cd
 47-48	da	_	_	_	_	_	_	_	_
@@ -7106,7 +7106,7 @@
 # sent_id = test-178
 # text = En todo caso, deberán ser respectadas as premisas indicadas de seguido: -A realización de funcións de categoría superior non excederá de seis meses consecutivos ou alternos nun período dun ano natural, ou oito meses durante dous anos.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	todo	todo	DET	DI0MS0	_	3	det	_	Treeler:spec
+2	todo	todo	DET	DI0MS0	PronType=Tot	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	7	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	deberán	deber	AUX	VMIF3P0	_	7	aux	_	Treeler:v
@@ -7469,7 +7469,7 @@
 
 # sent_id = test-186
 # text = Cada cadea de tratamento está formada por un cambiador de catións, dous de anións e un de leito mixto.
-1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Cada	cada	DET	DI0NN0	PronType=Tot	2	det	_	Treeler:spec
 2	cadea	cadea	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	tratamento	tratamento	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
@@ -7879,7 +7879,7 @@
 20	impresión	impresión	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
 21	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 22	que	que	SCONJ	CS	_	26	mark	_	Treeler:conj
-23	todo	todo	DET	DI0MS0	_	26	nsubj	_	Treeler:suj
+23	todo	todo	DET	DI0MS0	PronType=Tot	26	nsubj	_	Treeler:suj
 24	é	ser	AUX	VSIP3S0	_	26	cop	_	Treeler:S
 25	infinitamente	infinitamente	ADV	RG	_	26	advmod	_	Treeler:spec
 26	sinxelo	sinxelo	ADJ	AQ0MS0	_	20	ccomp	_	SpaceAfter=No|Treeler:atr
@@ -8426,7 +8426,7 @@
 # sent_id = test-211
 # text = De todas as transferencias a que se refire este artigo, remitiráselles trimestralmente información ás Comisións de Orzamentos do Congreso dos Deputados e do Senado, identificando as partidas afectadas, o seu importe e a finalidade delas.
 1	De	de	ADP	SPS00	_	4	case	_	Treeler:cc
-2	todas	todo	DET	DI0FP0	_	3	det	_	Treeler:d
+2	todas	todo	DET	DI0FP0	PronType=Tot	3	det	_	Treeler:d
 3	as	o	DET	DA0FP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	transferencias	transferencia	NOUN	NCFP000	_	12	obl	_	Treeler:sn
 5	a	a	ADP	SPS00	_	8	case	_	Treeler:creg
@@ -9446,7 +9446,7 @@
 29	cidadáns	cidadán	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
 30	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 31-32	tódalas	_	_	_	_	_	_	_	_
-31	todas	todo	DET	DI0FP0	_	32	det	_	Treeler:d
+31	todas	todo	DET	DI0FP0	PronType=Tot	32	det	_	Treeler:d
 32	as	o	DET	DA0FP0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
 33	idades	idade	NOUN	NCFP000	_	29	nmod	_	SpaceAfter=No|Treeler:sn
 34	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
@@ -10115,7 +10115,7 @@
 35	de	de	ADP	SPS00	_	36	case	_	Treeler:sp
 36	maio	maio	NOUN	NCMS000	_	34	nmod	_	Treeler:sn
 37	de	de	ADP	SPS00	_	40	case	_	Treeler:sp
-38	todo	todo	DET	DI0MS0	_	39	det	_	Treeler:d
+38	todo	todo	DET	DI0MS0	PronType=Tot	39	det	_	Treeler:d
 39	o	o	DET	DA0MS0	Definite=Def|PronType=Art	40	det	_	Treeler:spec
 40	período	período	NOUN	NCMS000	_	36	nmod	_	Treeler:sn
 41	considerado	considerar	VERB	VMP00SM	_	40	ccomp	_	Treeler:S
@@ -10239,7 +10239,7 @@
 23	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	cidadanía	cidadanía	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
-26	todos	todo	DET	DI0MP0	_	27	det	_	Treeler:d
+26	todos	todo	DET	DI0MP0	PronType=Tot	27	det	_	Treeler:d
 27	os	o	DET	DA0MP0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
 28	recursos	recurso	NOUN	NCMP000	_	19	obj	_	Treeler:cd
 29-30	da	_	_	_	_	_	_	_	_
@@ -10408,7 +10408,7 @@
 2	resultados	resultado	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
 3	obtidos	obter	VERB	VMP00PM	_	2	ccomp	_	Treeler:S
 4	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
-5	cada	cada	DET	DI0NN0	_	6	det	_	Treeler:spec
+5	cada	cada	DET	DI0NN0	PronType=Tot	6	det	_	Treeler:spec
 6	zona	zona	NOUN	NCFS000	_	3	obl	_	Treeler:sn
 7	son	ser	AUX	VSIP1S0	_	8	aux	_	Treeler:v
 8	remitidos	remitir	VERB	VMP00PM	_	0	root	_	Treeler:sentence
@@ -10426,7 +10426,7 @@
 19	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	información	información	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 21	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
-22	todas	todo	DET	DI0FP0	_	23	det	_	Treeler:d
+22	todas	todo	DET	DI0FP0	PronType=Tot	23	det	_	Treeler:d
 23	as	o	DET	DA0FP0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
 24	comunidades	comunidade	NOUN	NCFP000	_	20	nmod	_	Treeler:sn
 25	autónomas	autónomo	ADJ	AQ0FP0	_	24	amod	_	Treeler:s.a
@@ -10818,7 +10818,7 @@
 
 # sent_id = test-272
 # text = Todos eles contemplan medidas, nalgúns casos coincidentes, e o nivel de posta en práctica dos cales non é doado determinar debido á falta de avaliación e seguimento sistemático.
-1	Todos	todo	DET	DI0MP0	_	2	det	_	Treeler:spec
+1	Todos	todo	DET	DI0MP0	PronType=Tot	2	det	_	Treeler:spec
 2	eles	el	PRON	PP3MP000	_	3	nsubj	_	Treeler:suj
 3	contemplan	contemplar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	medidas	medida	NOUN	NCFP000	_	3	obj	_	SpaceAfter=No|Treeler:cd
@@ -11006,7 +11006,7 @@
 22	ou	ou	CCONJ	CC	_	21	cc	_	_
 23	gastos	gasto	NOUN	NCMP000	_	21	dep	_	_
 24	en	en	ADP	SPS00	_	26	case	_	_
-25	cada	cada	DET	DI0NN0	_	26	det	_	_
+25	cada	cada	DET	DI0NN0	PronType=Tot	26	det	_	_
 26	un	un	PRON	PI0MS000	_	19	nmod	_	_
 27-28	dos	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	29	case	_	_
@@ -11512,7 +11512,7 @@
 19	maneira	maneira	NOUN	NCFS000	_	16	obl	_	Treeler:sn
 20	para	para	ADP	SPS00	_	23	case	_	Treeler:sp
 21-22	tódalas	_	_	_	_	_	_	_	_
-21	todas	todo	DET	DI0FP0	_	22	det	_	Treeler:d
+21	todas	todo	DET	DI0FP0	PronType=Tot	22	det	_	Treeler:d
 22	as	o	DET	DA0FP0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
 23	comunidades	comunidade	NOUN	NCFP000	_	19	nmod	_	Treeler:sn
 24	autónomas	autónomo	ADJ	AQ0FP0	_	23	amod	_	SpaceAfter=No|Treeler:s.a
@@ -11541,7 +11541,7 @@
 18	10	10	NUM	Z	_	3	obj	_	SpaceAfter=No|Treeler:cd
 19	%	%	SYM	Ft	_	18	nmod	_	Treeler:sn
 20	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
-21	cada	cada	DET	DI0NN0	_	22	det	_	Treeler:spec
+21	cada	cada	DET	DI0NN0	PronType=Tot	22	det	_	Treeler:spec
 22	ecorexión	ecorexión	NOUN	NCFS000	_	18	nmod	_	Treeler:sn
 23	(	(	PUNCT	Fpa	_	24	punct	_	SpaceAfter=No|Treeler:f
 24	tema	tema	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
@@ -11862,7 +11862,7 @@
 # sent_id = test-299
 # text = En toda Europa prodúcense movementos de ultradereita que conlevan violentas actitudes de racismo contra grupos de persoas que proveñen doutros países.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	toda	todo	DET	DI0FS0	_	3	det	_	Treeler:spec
+2	toda	todo	DET	DI0FS0	PronType=Tot	3	det	_	Treeler:spec
 3	Europa	europa	PROPN	NP00000	_	4	obl	_	Treeler:sn
 4-5	prodúcense	_	_	_	_	_	_	_	_
 4	producen	producir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -12059,7 +12059,7 @@
 5	permite	permitir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 6	se	se	PRON	PP3CN000	_	5	obj	_	Treeler:cd
 7	que	que	SCONJ	CS	_	24	mark	_	Treeler:conj
-8	cada	cada	DET	DI0NN0	_	9	det	_	Treeler:spec
+8	cada	cada	DET	DI0NN0	PronType=Tot	9	det	_	Treeler:spec
 9	autoridade	autoridade	NOUN	NCFS000	_	24	nsubj	_	Treeler:suj
 10	portuaria	portuario	ADJ	AQ0FS0	_	9	amod	_	SpaceAfter=No|Treeler:s.a
 11	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
@@ -12083,7 +12083,7 @@
 29	consolidar	consolidar	VERB	VMN0000	_	27	ccomp	_	Treeler:S
 30	tráficos	tráfico	NOUN	NCMP000	_	27	obj	_	Treeler:cd
 31	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
-32	cada	cada	DET	DI0NN0	_	33	det	_	Treeler:spec
+32	cada	cada	DET	DI0NN0	PronType=Tot	33	det	_	Treeler:spec
 33	porto	porto	NOUN	NCMS000	_	30	nmod	_	SpaceAfter=No|Treeler:sn
 34	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
@@ -12415,7 +12415,7 @@
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13	sintomatoloxía	sintomatoloxía	NOUN	NCFS000	_	11	obj	_	Treeler:cd
 14	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
-15	todo	todo	DET	DI0MS0	_	17	det	_	Treeler:spec
+15	todo	todo	DET	DI0MS0	PronType=Tot	17	det	_	Treeler:spec
 16	é	ser	AUX	VSIP3S0	_	17	cop	_	Treeler:S
 17	normal	normal	ADJ	AQ0CS0	_	6	ccomp	_	SpaceAfter=No|Treeler:atr
 18	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
@@ -13635,7 +13635,7 @@
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 18	negación	negación	NOUN	NCFS000	_	15	obl	_	Treeler:sn
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
-20	todo	todo	DET	DI0MS0	_	21	det	_	Treeler:spec
+20	todo	todo	DET	DI0MS0	PronType=Tot	21	det	_	Treeler:spec
 21	criterio	criterio	NOUN	NCMS000	_	18	nmod	_	Treeler:sn
 22	universal	universal	ADJ	AQ0CS0	_	21	amod	_	Treeler:s.a
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
@@ -13887,7 +13887,7 @@
 29	son	ser	AUX	VSIP1S0	_	37	cop	_	SpaceAfter=No|Treeler:S
 30	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 31	para	para	ADP	SPS00	_	34	case	_	Treeler:cc
-32	todos	todo	DET	DI0MP0	_	33	det	_	Treeler:d
+32	todos	todo	DET	DI0MP0	PronType=Tot	33	det	_	Treeler:d
 33	os	o	DET	DA0MP0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
 34	fins	fin	NOUN	NCMP000	_	37	obl	_	Treeler:sn
 35	prácticos	práctico	ADJ	AQ0MP0	_	34	amod	_	SpaceAfter=No|Treeler:s.a
@@ -13932,7 +13932,7 @@
 5	de	de	ADP	SPS00	_	0	root	_	Treeler:atr
 6	aplicación	aplicación	NOUN	NCFS000	_	5	nmod	_	ToDo=nmod|Treeler:sn
 7	a	a	ADP	SPS00	_	10	case	_	Treeler:sp
-8	todos	todo	DET	DI0MP0	_	9	det	_	Treeler:d
+8	todos	todo	DET	DI0MP0	PronType=Tot	9	det	_	Treeler:d
 9	os	o	DET	DA0MP0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
 10	colexiados	colexiar	VERB	VMP00PM	_	6	nmod	_	Treeler:sn
 11-12	desta	_	_	_	_	_	_	_	_
@@ -13943,7 +13943,7 @@
 15	así	así	ADV	RG	_	5	case	_	ToDo=case-upos|Treeler:cc
 16	como	como	SCONJ	CS	_	17	mark	_	Treeler:conj
 17	a	a	ADP	SPS00	_	5	ccomp	_	Treeler:S
-18	todos	todo	DET	DI0MP0	_	19	det	_	Treeler:d
+18	todos	todo	DET	DI0MP0	PronType=Tot	19	det	_	Treeler:d
 19	aqueles	aquel	DET	DD0MP0	_	20	det	_	Treeler:spec
 20	avogados	avogado	NOUN	NCMP000	_	17	nmod	_	ToDo=nmod|Treeler:sn
 21	que	que	PRON	PR0CN000	_	22	nsubj	_	Treeler:suj
@@ -14259,7 +14259,7 @@
 11	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	12	det	_	Treeler:spec
 12	restricción	restricción	NOUN	NCFS000	_	9	obl	_	Treeler:sn
 13	orzamentaria	orzamentario	ADJ	AQ0FS0	_	12	amod	_	Treeler:s.a
-14	cada	cada	DET	DI0NN0	_	15	det	_	Treeler:spec
+14	cada	cada	DET	DI0NN0	PronType=Tot	15	det	_	Treeler:spec
 15	día	día	NOUN	NCMS000	_	12	nmod	_	Treeler:sn
 16	máis	máis	ADV	RG	_	17	advmod	_	Treeler:spec
 17	ríxida	ríxido	ADJ	AQ0FS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
@@ -15045,7 +15045,7 @@
 21	6,2	6,2	NUM	Z	_	22	nummod	_	Treeler:spec
 22	mortes	morte	NOUN	NCFP000	_	19	obl	_	Treeler:sn
 23	por	por	ADP	SPS00	_	26	case	_	Treeler:cc
-24	cada	cada	DET	DI0NN0	_	25	det	_	Treeler:spec
+24	cada	cada	DET	DI0NN0	PronType=Tot	25	det	_	Treeler:spec
 25	dez	dez	NUM	Z	_	26	nmod	_	Treeler:sn
 26	mil	mil	NOUN	NCMS000	_	19	obl	_	Treeler:sn
 27	casos	caso	NOUN	NCMP000	_	19	obj	_	Treeler:cd
@@ -15126,7 +15126,7 @@
 
 # sent_id = test-379
 # text = Todo o persoal ten que recibir dúas fundas ou batas ao entrar na empresa por primeira vez e unha peza de roupa máis cada seis meses.
-1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:d
+1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:d
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	persoal	persoal	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 4	ten	ter	AUX	VMIP3S0	_	6	aux	_	Treeler:v
@@ -15153,7 +15153,7 @@
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 24	roupa	roupa	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
 25	máis	máis	ADV	RG	_	22	advmod	_	Treeler:sadv
-26	cada	cada	DET	DI0NN0	_	27	det	_	Treeler:spec
+26	cada	cada	DET	DI0NN0	PronType=Tot	27	det	_	Treeler:spec
 27	seis	seis	NOUN	NCMP000	_	22	nmod	_	Treeler:sn
 28	meses	mes	NOUN	NCMP000	_	27	amod	_	SpaceAfter=No|Treeler:s.a
 29	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
@@ -16346,7 +16346,7 @@
 32	hai	haber	VERB	VMIP3S0	_	28	ccomp	_	Treeler:S
 33	chuvias	chuvia	NOUN	NCFP000	_	32	obj	_	Treeler:cd
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
-35	toda	todo	DET	DI0FS0	_	36	det	_	Treeler:spec
+35	toda	todo	DET	DI0FS0	PronType=Tot	36	det	_	Treeler:spec
 36	Galicia	galicia	PROPN	NP00000	_	32	obl	_	SpaceAfter=No|Treeler:sn
 37	,	,	PUNCT	Fc	_	41	punct	_	Treeler:f
 38	agás	agás	ADP	SPS00	_	41	case	_	Treeler:cc
@@ -16452,7 +16452,7 @@
 
 # sent_id = test-412
 # text = Todos eles foron responsábeis da lesa culpa de opinar mais alá da comodidade, quizais mais alá da corrente e, sen dúbida, mais alá da prudencia.
-1	Todos	todo	DET	DI0MP0	_	2	det	_	Treeler:spec
+1	Todos	todo	DET	DI0MP0	PronType=Tot	2	det	_	Treeler:spec
 2	eles	el	PRON	PP3MP000	_	4	nsubj	_	Treeler:suj
 3	foron	ser	AUX	VSIS3P0	_	4	cop	_	Treeler:sentence
 4	responsábeis	responsábel	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
@@ -16510,7 +16510,7 @@
 14	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 15	consumistas	consumista	ADJ	AQ0CP0	_	13	dep	_	Treeler:grup.a
 16	resulta	resultar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-17	cada	cada	DET	DI0NN0	_	16	det	_	Treeler:spec
+17	cada	cada	DET	DI0NN0	PronType=Tot	16	det	_	Treeler:spec
 18	vez	vez	NOUN	NCFS000	_	16	case	_	ToDo=case-upos|Treeler:cc
 19	máis	máis	ADV	RG	_	16	case	_	Treeler:cc
 20	atractivo	atractivo	ADJ	AQ0MS0	_	16	xcomp	_	Treeler:cpred
@@ -16950,7 +16950,7 @@
 
 # sent_id = test-422
 # text = Cada establecemento pode ofertar as que considere convenientes, pero as máis usuais son as seguintes: - Pago inmediato ou ó contado: o cargo realizase no momento de efectuar as compras e non leva consigo xuro algún.
-1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Cada	cada	DET	DI0NN0	PronType=Tot	2	det	_	Treeler:spec
 2	establecemento	establecemento	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 3	pode	poder	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	ofertar	ofertar	VERB	VMN0000	_	0	root	_	Treeler:sentence
@@ -17272,7 +17272,7 @@
 26	e	e	CCONJ	CC	_	19	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 27	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 28	en	en	ADP	SPS00	_	30	case	_	Treeler:cc
-29	todo	todo	DET	DI0MS0	_	30	det	_	Treeler:spec
+29	todo	todo	DET	DI0MS0	PronType=Tot	30	det	_	Treeler:spec
 30	caso	caso	NOUN	NCMS000	_	19	obl	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 32	con	con	ADP	SPS00	_	33	case	_	Treeler:sp
@@ -17676,7 +17676,7 @@
 6	se	se	PRON	PP3CN000	_	5	dep	_	Treeler:morfema.pronominal
 7	tamén	tamén	ADV	RG	_	5	case	_	Treeler:cc
 8	que	que	SCONJ	CS	_	5	mark	_	Treeler:conj
-9	todas	todo	DET	DI0FP0	_	10	det	_	Treeler:d
+9	todas	todo	DET	DI0FP0	PronType=Tot	10	det	_	Treeler:d
 10	estas	este	DET	DD0FP0	_	11	det	_	Treeler:spec
 11	liñas	liña	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
@@ -17775,7 +17775,7 @@
 20	intervención	intervención	NOUN	NCFS000	_	30	nsubj	_	Treeler:suj
 21	pública	público	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
 22	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
-23	todas	todo	DET	DI0FP0	_	24	det	_	Treeler:d
+23	todas	todo	DET	DI0FP0	PronType=Tot	24	det	_	Treeler:d
 24	as	o	DET	DA0FP0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	instancias	instancia	NOUN	NCFP000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 26	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
@@ -18242,7 +18242,7 @@
 21	máis	máis	ADV	RG	_	22	advmod	_	Treeler:spec
 22	baixa	baixo	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
 23	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
-24	todas	todo	DET	DI0FP0	_	25	det	_	Treeler:d
+24	todas	todo	DET	DI0FP0	PronType=Tot	25	det	_	Treeler:d
 25	as	o	DET	DA0FP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 26	Comunidades	comunidade	NOUN	NCFP000	_	20	nmod	_	Treeler:sn
 27	autónomas	autónomo	ADJ	AQ0FP0	_	26	amod	_	Treeler:s.a
@@ -18503,7 +18503,7 @@
 33	múltiple	múltiple	ADJ	AQ0CS0	_	31	amod	_	Treeler:s.a
 34	obtidos	obter	VERB	VMP00PM	_	29	ccomp	_	Treeler:S
 35	con	con	ADP	SPS00	_	38	case	_	Treeler:cc
-36	todas	todo	DET	DI0FP0	_	37	det	_	Treeler:d
+36	todas	todo	DET	DI0FP0	PronType=Tot	37	det	_	Treeler:d
 37	as	o	DET	DA0FP0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
 38	variables	variable	NOUN	NCFP000	_	34	obl	_	Treeler:sn
 39	explicativas	explicativo	ADJ	AQ0FP0	_	38	amod	_	SpaceAfter=No|Treeler:s.a
@@ -18579,7 +18579,7 @@
 
 # sent_id = test-462
 # text = Cada hospital debe ter asignado un hospital de referencia para o tratamento de enfermos con IAM e debe existir un circuíto de derivación ben definido, estable e fluído.
-1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Cada	cada	DET	DI0NN0	PronType=Tot	2	det	_	Treeler:spec
 2	hospital	hospital	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 3	debe	deber	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	ter	ter	VERB	VMN0000	_	0	root	_	Treeler:sentence
@@ -18914,7 +18914,7 @@
 # text = Mais sobre todo, é ter claro que, ás veces, o desenvolvemento non pode ser sustentábel, non é compatíbel coa conservación.
 1	Mais	mais	CCONJ	CC	_	6	cc	_	Treeler:et
 2	sobre	sobre	ADP	SPS00	_	6	dep	_	Treeler:ao
-3	todo	todo	DET	DI0MS0	_	2	advmod	_	SpaceAfter=No|Treeler:sadv
+3	todo	todo	DET	DI0MS0	PronType=Tot	2	advmod	_	SpaceAfter=No|Treeler:sadv
 4	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 5	é	ser	AUX	VSIP3S0	_	6	cop	_	Treeler:sentence
 6	ter	ter	VERB	VMN0000	_	0	root	_	Treeler:atr
@@ -19821,7 +19821,7 @@
 28	que	que	PRON	PR0CN000	_	30	obj	_	SpaceAfter=No|Treeler:cd
 29	,	,	PUNCT	Fc	_	28	punct	_	Treeler:f
 30	abranguendo	abranguer	VERB	VMG0000	_	26	ccomp	_	Treeler:S
-31	todo	todo	DET	DI0MS0	_	32	det	_	Treeler:d
+31	todo	todo	DET	DI0MS0	PronType=Tot	32	det	_	Treeler:d
 32	o	o	DET	DA0MS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
 33	territorio	territorio	NOUN	NCMS000	_	30	obj	_	Treeler:cd
 34	español	español	ADJ	AQ0MS0	_	33	amod	_	SpaceAfter=No|Treeler:s.a
@@ -20178,7 +20178,7 @@
 2	se	se	PRON	PP3CN000	_	1	obj	_	Treeler:cd
 3	a	a	ADP	SPS00	_	1	obj	_	Treeler:cd
 4-5	tódolos	_	_	_	_	_	_	_	_
-4	todos	todo	DET	DI0MP0	_	5	det	_	Treeler:d
+4	todos	todo	DET	DI0MP0	PronType=Tot	5	det	_	Treeler:d
 5	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	profesionais	profesional	NOUN	NCCP000	_	3	nmod	_	ToDo=nmod|Treeler:sn
 7	sanitarios	sanitario	ADJ	AQ0MP0	_	6	amod	_	Treeler:s.a
@@ -20365,7 +20365,7 @@
 3	poderá	poder	VERB	VMIF3S0	_	0	root	_	SpaceAfter=No|Treeler:sentence
 4	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 5	con	con	ADP	SPS00	_	8	case	_	Treeler:cc
-6	todo	todo	DET	DI0MS0	_	8	obl	_	SpaceAfter=No|Treeler:sn
+6	todo	todo	DET	DI0MS0	PronType=Tot	8	obl	_	SpaceAfter=No|Treeler:sn
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 8	avocar	avocar	VERB	VMN0000	_	3	obl	_	Treeler:sn
 9	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
@@ -20435,7 +20435,7 @@
 34	AEVP	aevp	PROPN	NP00000	_	30	nmod	_	Treeler:sn
 35	por	por	ADP	SPS00	_	38	case	_	Treeler:cc
 36-37	tódalas	_	_	_	_	_	_	_	_
-36	todas	todo	DET	DI0FP0	_	37	det	_	Treeler:d
+36	todas	todo	DET	DI0FP0	PronType=Tot	37	det	_	Treeler:d
 37	as	o	DET	DA0FP0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
 38	causas	causa	NOUN	NCFP000	_	28	obl	_	Treeler:sn
 39	(	(	PUNCT	Fpa	_	40	punct	_	SpaceAfter=No|Treeler:f
@@ -21453,7 +21453,7 @@
 18	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
 19	dese	dar	VERB	VMSI3S0	_	17	obj	_	Treeler:cd
 20	para	para	ADP	SPS00	_	23	case	_	Treeler:cc
-21	todo	todo	DET	DI0MS0	_	22	det	_	Treeler:d
+21	todo	todo	DET	DI0MS0	PronType=Tot	22	det	_	Treeler:d
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
 23	persoal	persoal	NOUN	NCMS000	_	19	obl	_	Treeler:sn
 24-25	da	_	_	_	_	_	_	_	_
@@ -21511,7 +21511,7 @@
 
 # sent_id = test-535
 # text = Todas elas empezaron facendo ladrillos, algunhas tamén tellas para a construción e, máis tarde, foron diversificando a oferta.
-1	Todas	todo	DET	DI0FP0	_	2	det	_	Treeler:spec
+1	Todas	todo	DET	DI0FP0	PronType=Tot	2	det	_	Treeler:spec
 2	elas	el	PRON	PP3FP000	_	4	nsubj	_	Treeler:suj
 3	empezaron	empezar	VERB	VMIS3P0	_	4	compound	_	Treeler:v
 4	facendo	facer	VERB	VMG0000	_	0	root	_	Treeler:sentence
@@ -21585,7 +21585,7 @@
 3	esperanzadores	esperanzador	ADJ	AQ0MP0	_	2	amod	_	Treeler:s.a
 4	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 5	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
-6	todo	todo	DET	DI0MS0	_	7	det	_	Treeler:spec
+6	todo	todo	DET	DI0MS0	PronType=Tot	7	det	_	Treeler:spec
 7	iso	iso	PRON	PD0CN000	_	10	nsubj	_	Treeler:suj
 8	pode	poder	AUX	VMIP3S0	_	10	aux	_	Treeler:v
 9	ser	ser	AUX	VSN0000	_	10	cop	_	Treeler:S
@@ -21757,7 +21757,7 @@
 
 # sent_id = test-542
 # text = Todo iso fundaméntase na crenza da auto-obriga de demostrar o que eles cren estatus e superioridade, non nunha auténtica seguranza no dito ou en si mesmos.
-1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:spec
+1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:spec
 2	iso	iso	PRON	PD0CN000	_	3	nsubj	_	Treeler:suj
 3-4	fundaméntase	_	_	_	_	_	_	_	_
 3	fundamenta	fundamentar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -22152,7 +22152,7 @@
 7	levaren	levar	VERB	VMN03P0	_	5	ccomp	_	Treeler:S
 8	á	á	NOUN	NCFS000	_	7	obj	_	Treeler:cd
 9	boca	boca	NOUN	NCFS000	_	7	obj	_	Treeler:cd
-10	todo	todo	DET	DI0MS0	_	11	det	_	Treeler:d
+10	todo	todo	DET	DI0MS0	PronType=Tot	11	det	_	Treeler:d
 11	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 12	que	que	PRON	PR0CN000	_	13	nsubj	_	Treeler:suj
 13	manipulan	manipular	VERB	VMIP3P0	_	5	ccomp	_	SpaceAfter=No|Treeler:S
@@ -22215,7 +22215,7 @@
 24	lles	lle	PRON	PP3CPD00	_	23	iobj	_	Treeler:ci
 25	realizado	realizar	VERB	VMP00SM	_	20	ccomp	_	Treeler:S
 26-27	tódolos	_	_	_	_	_	_	_	_
-26	todos	todo	DET	DI0MP0	_	27	det	_	Treeler:d
+26	todos	todo	DET	DI0MP0	PronType=Tot	27	det	_	Treeler:d
 27	os	o	DET	DA0MP0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
 28	controis	control	NOUN	NCMP000	_	25	obj	_	Treeler:cd
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
@@ -22905,7 +22905,7 @@
 # sent_id = test-567
 # text = Sobre todo neste tempo en que a humanidade conta cos suficientes medios económicios, técnicos e científicos como para erradicar do planeta terra a fame, o analfabetismo, as enfermidades curables.
 1	Sobre	sobre	ADP	SPS00	_	6	ccomp	_	Treeler:S
-2	todo	todo	DET	DI0MS0	_	3	det	_	Treeler:spec
+2	todo	todo	DET	DI0MS0	PronType=Tot	3	det	_	Treeler:spec
 3-4	neste	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	1	nmod	_	ToDo=nmod|Treeler:sn
 4	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
@@ -23153,7 +23153,7 @@
 # sent_id = test-574
 # text = Con todo, consideramos que o volume de vendas e o número de empregados son variables que están correlacionadas co número de empresas que forman os distintos grupos multinacionais.
 1	Con	con	ADP	SPS00	_	2	case	_	Treeler:cc
-2	todo	todo	DET	DI0MS0	_	4	advmod	_	SpaceAfter=No|Treeler:sadv
+2	todo	todo	DET	DI0MS0	PronType=Tot	4	advmod	_	SpaceAfter=No|Treeler:sadv
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	consideramos	considerar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
@@ -23301,7 +23301,7 @@
 7	traballadores	traballador	NOUN	NCMP000	_	5	nmod	_	Treeler:sn
 8	afectados	afectar	VERB	VMP00PM	_	7	ccomp	_	Treeler:S
 9	por	por	ADP	SPS00	_	11	case	_	Treeler:cag
-10	cada	cada	DET	DI0NN0	_	11	det	_	Treeler:spec
+10	cada	cada	DET	DI0NN0	PronType=Tot	11	det	_	Treeler:spec
 11	convenio	convenio	NOUN	NCMS000	_	8	obl	_	Treeler:sn
 12-13	pódese	_	_	_	_	_	_	_	_
 12	pode	poder	AUX	VMIP3S0	_	14	aux	_	Treeler:v
@@ -24506,7 +24506,7 @@
 
 # sent_id = test-606
 # text = Todo procedemento que permita o aproveitamento dos recursos contidos nos residuos sen poñer en perigo a saúde humana e sen utilizar métodos que poidan causar prexuízos ó medio ambiente, Lei 10/1998, de residuos.
-1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:spec
+1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:spec
 2	procedemento	procedemento	NOUN	NCMS000	_	0	root	_	Treeler:sentence
 3	que	que	PRON	PR0CN000	_	4	nsubj	_	Treeler:suj
 4	permita	permitir	VERB	VMSP1S0	_	2	ccomp	_	Treeler:S
@@ -24879,7 +24879,7 @@
 29	que	que	PRON	PR0CN000	_	42	nsubj	_	SpaceAfter=No|Treeler:suj
 30	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 31	en	en	ADP	SPS00	_	33	case	_	Treeler:cc
-32	todo	todo	DET	DI0MS0	_	33	det	_	Treeler:spec
+32	todo	todo	DET	DI0MS0	PronType=Tot	33	det	_	Treeler:spec
 33	caso	caso	NOUN	NCMS000	_	42	obl	_	SpaceAfter=No|Treeler:sn
 34	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
 35	en	en	ADP	SPS00	_	39	case	_	Treeler:sp
@@ -25079,7 +25079,7 @@
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 15	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
 16	sobre	sobre	ADP	SPS00	_	19	case	_	Treeler:sp
-17	todo	todo	DET	DI0MS0	_	18	det	_	Treeler:d
+17	todo	todo	DET	DI0MS0	PronType=Tot	18	det	_	Treeler:d
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	consecución	consecución	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 20-21	dunha	_	_	_	_	_	_	_	_
@@ -25244,7 +25244,7 @@
 29	dada	dar	VERB	VMP00SF	_	14	xcomp	_	SpaceAfter=No|Treeler:cpred
 30	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 31	en	en	ADP	SPS00	_	32	case	_	Treeler:cc
-32	toda	todo	DET	DI0FS0	_	29	amod	_	Treeler:s.a
+32	toda	todo	DET	DI0FS0	PronType=Tot	29	amod	_	Treeler:s.a
 33	ou	ou	CCONJ	CC	_	32	cc	_	ToDo=cc-without-conj|Treeler:coord
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:sp
 35	boa	bo	ADJ	AQ0FS0	_	36	amod	_	Treeler:s.a
@@ -25281,7 +25281,7 @@
 15	pretensión	pretensión	NOUN	NCFS000	_	14	amod	_	Treeler:s.a
 16	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 17	que	que	SCONJ	CS	_	22	mark	_	Treeler:conj
-18	todos	todo	DET	DI0MP0	_	19	det	_	Treeler:d
+18	todos	todo	DET	DI0MP0	PronType=Tot	19	det	_	Treeler:d
 19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	seres	ser	NOUN	NCMP000	_	22	nsubj	_	Treeler:suj
 21	humanos	humano	ADJ	AQ0MP0	_	20	amod	_	Treeler:s.a
@@ -25339,7 +25339,7 @@
 35	e	e	CCONJ	CC	_	34	cc	_	ToDo=cc-without-conj|Treeler:coord
 36	corazón	corazón	NOUN	NCMS000	_	34	dep	_	Treeler:grup.nom
 37	de	de	ADP	SPS00	_	40	case	_	Treeler:sp
-38	todo	todo	DET	DI0MS0	_	39	det	_	Treeler:d
+38	todo	todo	DET	DI0MS0	PronType=Tot	39	det	_	Treeler:d
 39	o	o	DET	DA0MS0	Definite=Def|PronType=Art	40	det	_	Treeler:spec
 40	mundo	mundo	NOUN	NCMS000	_	36	nmod	_	SpaceAfter=No|Treeler:sn
 41	,	,	PUNCT	Fc	_	43	punct	_	Treeler:f
@@ -25480,7 +25480,7 @@
 22	máxima	máximo	ADJ	AQ0FS0	_	23	amod	_	Treeler:s.a
 23	xerarquía	xerarquía	NOUN	NCFS000	_	16	nmod	_	Treeler:sn
 24	en	en	ADP	SPS00	_	27	case	_	Treeler:sp
-25	todas	todo	DET	DI0FP0	_	26	det	_	Treeler:d
+25	todas	todo	DET	DI0FP0	PronType=Tot	26	det	_	Treeler:d
 26	as	o	DET	DA0FP0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
 27	dimensións	dimensión	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
 28	e	e	CCONJ	CC	_	27	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -25490,7 +25490,7 @@
 31	indicadores	indicador	NOUN	NCMP000	_	27	nmod	_	Treeler:sn
 32	que	que	PRON	PR0CN000	_	33	nsubj	_	Treeler:suj
 33	compoñen	compoñer	VERB	VMIP3P0	_	31	ccomp	_	Treeler:S
-34	cada	cada	DET	DI0NN0	_	37	det	_	Treeler:spec
+34	cada	cada	DET	DI0NN0	PronType=Tot	37	det	_	Treeler:spec
 35	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	34	det	_	Treeler:d
 36-37	delas	_	_	_	_	_	_	_	SpaceAfter=No
 36	de	de	ADP	SPS00	_	37	case	_	Treeler:creg
@@ -25658,7 +25658,7 @@
 23	orixe	orixe	NOUN	NCFS000	_	21	obj	_	Treeler:cd
 24	común	común	ADJ	AQ0CS0	_	23	amod	_	Treeler:s.a
 25	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
-26	todas	todo	DET	DI0FP0	_	27	det	_	Treeler:spec
+26	todas	todo	DET	DI0FP0	PronType=Tot	27	det	_	Treeler:spec
 27	elas	el	PRON	PP3FP000	_	23	nmod	_	Treeler:sn
 28	a	a	ADP	SPS00	_	29	case	_	Treeler:cc
 29	partir	partir	VERB	VMN0000	_	21	ccomp	_	Treeler:S
@@ -25725,7 +25725,7 @@
 12	participación	participación	NOUN	NCFS000	_	10	nmod	_	ToDo=nmod|Treeler:sn
 13	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 14-15	tódolos	_	_	_	_	_	_	_	_
-14	todos	todo	DET	DI0MP0	_	15	det	_	Treeler:d
+14	todos	todo	DET	DI0MP0	PronType=Tot	15	det	_	Treeler:d
 15	os	o	DET	DA0MP0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	cidadáns	cidadán	NOUN	NCMP000	_	12	nmod	_	Treeler:sn
 17	interesados	interesado	ADJ	AQ0MP0	_	16	amod	_	SpaceAfter=No|Treeler:s.a
@@ -25751,7 +25751,7 @@
 9	os	o	DET	DA0MP0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
 10	inputs	inputs	PROPN	NP00000	_	6	obj	_	Treeler:atr
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
-12	cada	cada	DET	DI0NN0	_	13	det	_	Treeler:spec
+12	cada	cada	DET	DI0NN0	PronType=Tot	13	det	_	Treeler:spec
 13	rama	rama	NOUN	NCFS000	_	10	nmod	_	ToDo=nmod|Treeler:sn
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	actividade	actividade	NOUN	NCFS000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
@@ -26138,7 +26138,7 @@
 
 # sent_id = test-647
 # text = Todo iso sen prexuízo da posibilidade de interpor recurso extraordinario de revisión nos supostos e prazos previstos no artigo 118 da Lei 30/1992, do 26 de novembro, de réxime xurídico das administracións públicas e do procedemento administrativo común.
-1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:spec
+1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:spec
 2	iso	iso	PRON	PD0CN000	_	0	root	_	Treeler:sentence
 3	sen	sen	ADP	SPS00	_	4	case	_	Treeler:sp
 4	prexuízo	prexuízo	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
@@ -26560,7 +26560,7 @@
 6-7	incluiranse	_	_	_	_	_	_	_	_
 6	incluirán	incluír	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	dep	_	Treeler:morfema.pronominal
-8	todas	todo	DET	DI0FP0	_	9	det	_	Treeler:d
+8	todas	todo	DET	DI0FP0	PronType=Tot	9	det	_	Treeler:d
 9	as	o	DET	DA0FP0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
 10	indicacións	indicación	NOUN	NCFP000	_	6	obj	_	Treeler:cd
 11-12	do	_	_	_	_	_	_	_	_
@@ -27180,7 +27180,7 @@
 8	polomenos	polomenos	ADV	RG	_	3	case	_	Treeler:cc
 9	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	3	det	_	Treeler:spec
 10	vez	vez	NOUN	NCFS000	_	3	case	_	ToDo=case-upos|Treeler:cc
-11	cada	cada	DET	DI0NN0	_	12	det	_	Treeler:spec
+11	cada	cada	DET	DI0NN0	PronType=Tot	12	det	_	Treeler:spec
 12	dous	dous	NOUN	NCMP000	_	22	nsubj	_	Treeler:suj
 13	meses	mes	NOUN	NCMP000	_	12	amod	_	Treeler:s.a
 14	e	e	CCONJ	CC	_	13	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
@@ -27256,7 +27256,7 @@
 8	as	o	DET	DA0FP0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
 9	características	característica	NOUN	NCFP000	_	6	nmod	_	Treeler:sn
 10	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
-11	cada	cada	DET	DI0NN0	_	12	det	_	Treeler:spec
+11	cada	cada	DET	DI0NN0	PronType=Tot	12	det	_	Treeler:spec
 12	tipo	tipo	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
 13	para	para	ADP	SPS00	_	14	case	_	Treeler:sp
 14	ter	ter	VERB	VMN0000	_	12	ccomp	_	Treeler:S
@@ -28764,7 +28764,7 @@
 16	se	se	PRON	PP3CN000	_	15	dep	_	Treeler:morfema.pronominal
 17	aleatoriamente	aleatoriamente	ADV	RG	_	15	case	_	Treeler:cc
 18	en	en	ADP	SPS00	_	20	case	_	Treeler:cc
-19	cada	cada	DET	DI0NN0	_	20	det	_	Treeler:spec
+19	cada	cada	DET	DI0NN0	PronType=Tot	20	det	_	Treeler:spec
 20	estrato	estrato	NOUN	NCMS000	_	15	obl	_	SpaceAfter=No|Treeler:sn
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 22-23	determinándose	_	_	_	_	_	_	_	_
@@ -28775,7 +28775,7 @@
 26	aleatoria	aleatorio	ADJ	AQ0FS0	_	25	amod	_	Treeler:s.a
 27	simple	simple	ADJ	AQ0CS0	_	25	amod	_	Treeler:s.a
 28	para	para	ADP	SPS00	_	30	case	_	Treeler:sp
-29	cada	cada	DET	DI0NN0	_	30	det	_	Treeler:spec
+29	cada	cada	DET	DI0NN0	PronType=Tot	30	det	_	Treeler:spec
 30	un	un	PRON	PI0MS000	_	27	nmod	_	ToDo=nmod|Treeler:sn
 31-32	deles	_	_	_	_	_	_	_	_
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
@@ -29432,7 +29432,7 @@
 37	o	o	DET	DA0MS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
 38	resultado	resultado	NOUN	NCMS000	_	34	nmod	_	Treeler:sn
 39	de	de	ADP	SPS00	_	41	case	_	Treeler:sp
-40	cada	cada	DET	DI0NN0	_	41	det	_	Treeler:spec
+40	cada	cada	DET	DI0NN0	PronType=Tot	41	det	_	Treeler:spec
 41	exercicio	exercicio	NOUN	NCMS000	_	38	nmod	_	SpaceAfter=No|Treeler:sn
 42	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
 
@@ -29950,7 +29950,7 @@
 
 # sent_id = test-738
 # text = Cada unha das áreas que definen a CVRS posúe así mesmo diferentes compoñentes que deben ser necesariamente valorados para obter esa visión global que se busca.
-1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Cada	cada	DET	DI0NN0	PronType=Tot	2	det	_	Treeler:spec
 2	unha	un	PRON	PI0FS000	_	10	nsubj	_	Treeler:suj
 3-4	das	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
@@ -31360,7 +31360,7 @@
 5	plurianual	plurianual	ADJ	AQ0CS0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 6	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 7	xustificarán	xustificar	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
-8	cada	cada	DET	DI0NN0	_	9	det	_	Treeler:spec
+8	cada	cada	DET	DI0NN0	PronType=Tot	9	det	_	Treeler:spec
 9	anualidade	anualidade	NOUN	NCFS000	_	7	obj	_	Treeler:cd
 10	especificamente	especificamente	ADV	RG	_	7	case	_	ToDo=case-upos|Treeler:cc
 11	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -31373,7 +31373,7 @@
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 18	decembro	decembro	NOUN	NCMS000	_	16	nmod	_	Treeler:sn
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
-20	cada	cada	DET	DI0NN0	_	21	det	_	Treeler:spec
+20	cada	cada	DET	DI0NN0	PronType=Tot	21	det	_	Treeler:spec
 21	exercicio	exercicio	NOUN	NCMS000	_	18	nmod	_	SpaceAfter=No|Treeler:sn
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 23	presentando	presentar	VERB	VMG0000	_	7	case	_	ToDo=case-upos|Treeler:cc
@@ -31443,7 +31443,7 @@
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
 21	lei	lei	NOUN	NCFS000	_	25	nsubj	_	Treeler:suj
 22	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
-23	cada	cada	DET	DI0NN0	_	24	det	_	Treeler:spec
+23	cada	cada	DET	DI0NN0	PronType=Tot	24	det	_	Treeler:spec
 24	tributo	tributo	NOUN	NCMS000	_	21	nmod	_	Treeler:sn
 25	dispoña	dispor	VERB	VMSP1S0	_	6	ccomp	_	Treeler:S
 26	outra	outro	DET	DI0FS0	_	27	det	_	Treeler:spec
@@ -31616,7 +31616,7 @@
 # sent_id = test-780
 # text = En toda historia clínica de persoas de 14 ou máis anos de idade que acudan a consulta no último ano, quedará rexistrado.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	toda	todo	DET	DI0FS0	_	3	det	_	Treeler:spec
+2	toda	todo	DET	DI0FS0	PronType=Tot	3	det	_	Treeler:spec
 3	historia	historia	NOUN	NCFS000	_	23	obl	_	Treeler:sn
 4	clínica	clínico	ADJ	AQ0FS0	_	3	amod	_	Treeler:s.a
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
@@ -31756,7 +31756,7 @@
 9	que	que	SCONJ	CS	_	10	mark	_	Treeler:c
 10	servir	servir	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:creg
-12	cada	cada	DET	DI0NN0	_	13	det	_	Treeler:spec
+12	cada	cada	DET	DI0NN0	PronType=Tot	13	det	_	Treeler:spec
 13	un	un	PRON	PI0MS000	_	10	obl	_	Treeler:sn
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
@@ -31811,7 +31811,7 @@
 
 # sent_id = test-785
 # text = Toda a preparación debe estar tinguida dunha cultura que facilite no futuro a aprendizaxe continua, o traballo en equipo multidisciplinar, a innovación e a harmonización entre a teoría e a práctica dos coñecementos.
-1	Toda	todo	DET	DI0FS0	_	2	det	_	Treeler:d
+1	Toda	todo	DET	DI0FS0	PronType=Tot	2	det	_	Treeler:d
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	preparación	preparación	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
 4	debe	deber	AUX	VMIP3S0	_	6	aux	_	Treeler:v
@@ -32062,9 +32062,9 @@
 27	debe	deber	AUX	VMIP3S0	_	25	aux	_	Treeler:v
 28	permitir	permitir	VERB	VMN0000	_	25	flat	_	Treeler:S
 29	sobre	sobre	ADP	SPS00	_	31	case	_	Treeler:cc
-30	todo	todo	DET	DI0MS0	_	31	det	_	Treeler:spec
+30	todo	todo	DET	DI0MS0	PronType=Tot	31	det	_	Treeler:spec
 31	que	que	PRON	PR0CN000	_	25	obl	_	Treeler:sn
-32	cada	cada	DET	DI0NN0	_	33	det	_	Treeler:spec
+32	cada	cada	DET	DI0NN0	PronType=Tot	33	det	_	Treeler:spec
 33	se	se	PRON	PP3CN000	_	25	dep	_	Treeler:morfema.pronominal
 34	poida	poder	AUX	VMSP1S0	_	35	aux	_	Treeler:v
 35	realizar	realizar	VERB	VMN0000	_	25	obj	_	Treeler:cd
@@ -32508,7 +32508,7 @@
 20	galegas	galego	ADJ	AQ0FP0	_	19	amod	_	SpaceAfter=No|Treeler:s.a
 21	,	,	PUNCT	Fc	_	24	punct	_	Treeler:f
 22	en	en	ADP	SPS00	_	24	case	_	Treeler:cc
-23	todas	todo	DET	DI0FP0	_	24	det	_	Treeler:spec
+23	todas	todo	DET	DI0FP0	PronType=Tot	24	det	_	Treeler:spec
 24	agás	agás	ADP	SPS00	_	10	obl	_	Treeler:sn
 25	en	en	ADP	SPS00	_	26	case	_	Treeler:sp
 26	Lugo	lugo	PROPN	NP00000	_	24	nmod	_	ToDo=nmod|Treeler:sn
@@ -32665,7 +32665,7 @@
 26	e	e	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord
 27	sen	sen	ADP	SPS00	_	28	case	_	Treeler:sp
 28	converter	converter	VERB	VMN0000	_	22	ccomp	_	Treeler:S
-29	todas	todo	DET	DI0FP0	_	30	det	_	Treeler:d
+29	todas	todo	DET	DI0FP0	PronType=Tot	30	det	_	Treeler:d
 30	esas	ese	DET	DD0FP0	_	31	det	_	Treeler:spec
 31	regras	regra	NOUN	NCFP000	_	28	obj	_	Treeler:cd
 32	en	en	ADP	SPS00	_	33	case	_	Treeler:sp
@@ -33418,7 +33418,7 @@
 # text = Con tódolos datos que viñemos analizando ó longo do documento, a conclusión ou reflexión final pode ser incluso contradictoria.
 1	Con	con	ADP	SPS00	_	4	case	_	Treeler:cc
 2-3	tódolos	_	_	_	_	_	_	_	_
-2	todos	todo	DET	DI0MP0	_	3	det	_	Treeler:d
+2	todos	todo	DET	DI0MP0	PronType=Tot	3	det	_	Treeler:d
 3	os	o	DET	DA0MP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	datos	dato	NOUN	NCMP000	_	23	obl	_	Treeler:sn
 5	que	que	PRON	PR0CN000	_	6	obj	_	Treeler:cd
@@ -34108,7 +34108,7 @@
 
 # sent_id = test-843
 # text = Cada Kwh eléctrico producido xera unhas emisións de CO2 entre 2 e 2,5 veces maiores que un Kwh térmico xerado con gas, gasóleo ou GLP (gas licuado de petróleo).
-1	Cada	cada	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Cada	cada	DET	DI0NN0	PronType=Tot	2	det	_	Treeler:spec
 2	Kwh	kwh	NOUN	NCCN000	_	5	nsubj	_	Treeler:suj
 3	eléctrico	eléctrico	ADJ	AQ0MS0	_	2	amod	_	Treeler:s.a
 4	producido	producir	VERB	VMP00SM	_	2	ccomp	_	Treeler:S
@@ -34222,15 +34222,15 @@
 26	libre	libre	ADJ	AQ0CS0	_	25	amod	_	SpaceAfter=No|Treeler:s.a
 27	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 28	desde	desde	ADP	SPS00	_	29	case	_	Treeler:cc
-29	cada	cada	DET	DI0NN0	_	25	advmod	_	Treeler:sadv
+29	cada	cada	DET	DI0NN0	PronType=Tot	25	advmod	_	Treeler:sadv
 30	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	29	det	_	SpaceAfter=No|Treeler:d
 31	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 32	por	por	ADP	SPS00	_	34	case	_	Treeler:cag
-33	cada	cada	DET	DI0NN0	_	34	det	_	Treeler:spec
+33	cada	cada	DET	DI0NN0	PronType=Tot	34	det	_	Treeler:spec
 34	un	un	PRON	PI0MS000	_	37	nmod	_	Treeler:sn
 35	e	e	CCONJ	CC	_	34	cc	_	ToDo=cc-without-conj|Treeler:coord
 36	para	para	ADP	SPS00	_	34	case	_	Treeler:sp
-37	todos	todo	DET	DI0MP0	_	30	det	_	SpaceAfter=No|Treeler:d
+37	todos	todo	DET	DI0MP0	PronType=Tot	30	det	_	SpaceAfter=No|Treeler:d
 38	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 # sent_id = test-846
@@ -34401,7 +34401,7 @@
 3	Recollida	recollida	NOUN	NCFS000	_	9	obl	_	Treeler:sn
 4	Selectiva	selectivo	ADJ	AQ0FS0	_	3	amod	_	Treeler:s.a
 5-6	tódolos	_	_	_	_	_	_	_	_
-5	todos	todo	DET	DI0MP0	_	6	det	_	Treeler:d
+5	todos	todo	DET	DI0MP0	PronType=Tot	6	det	_	Treeler:d
 6	os	o	DET	DA0MP0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
 7	concellos	concello	NOUN	NCMP000	_	3	nmod	_	SpaceAfter=No|Treeler:sn
 8	:	:	PUNCT	Fd	_	3	punct	_	Treeler:f
@@ -34819,7 +34819,7 @@
 
 # sent_id = test-861
 # text = Todo o anterior enténdese sen prexuízo do deber xeral de colaboración con outros organismos e autoridades estranxeiras en relación co resto de materias reguladas nesta lei.
-1	Todo	todo	DET	DI0MS0	_	2	det	_	Treeler:d
+1	Todo	todo	DET	DI0MS0	PronType=Tot	2	det	_	Treeler:d
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	anterior	anterior	ADJ	AQ0CS0	_	4	nsubj	_	Treeler:suj
 4-5	enténdese	_	_	_	_	_	_	_	_
