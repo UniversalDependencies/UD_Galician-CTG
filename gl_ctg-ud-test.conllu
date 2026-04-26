@@ -66,7 +66,7 @@
 10	tecla	tecla	NOUN	NCFS000	_	8	obj	_	Treeler:cd
 11	F5	f5	NUM	Z	_	10	amod	_	Treeler:s.a
 12	en	en	ADP	SPS00	_	14	case	_	Treeler:cc
-13	calquera	calquera	DET	DI0NN0	_	14	det	_	Treeler:spec
+13	calquera	calquera	DET	DI0NN0	PronType=Ind	14	det	_	Treeler:spec
 14-15	dos	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	8	obl	_	Treeler:sn
 15	os	o	DET	DA0MP0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
@@ -11429,7 +11429,7 @@
 11	outras	outro	DET	DI0FP0	_	12	det	_	Treeler:spec
 12	entidades	entidade	NOUN	NCFP000	_	8	nmod	_	Treeler:sn
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-14	calquera	calquera	DET	DI0NN0	_	15	det	_	Treeler:spec
+14	calquera	calquera	DET	DI0NN0	PronType=Ind	15	det	_	Treeler:spec
 15	tipo	tipo	NOUN	NCMS000	_	12	nmod	_	Treeler:sn
 16	que	que	PRON	PR0CN000	PronType=Rel	17	nsubj	_	Treeler:suj
 17	formen	formar	VERB	VMSP3P0	_	12	ccomp	_	Treeler:S
@@ -14238,7 +14238,7 @@
 37	para	para	ADP	SPS00	_	39	case	_	Treeler:cc
 38	que	que	SCONJ	CS	_	39	mark	_	Treeler:conj
 39	resolvan	resolver	VERB	VMSP3P0	_	33	ccomp	_	Treeler:S
-40	calquera	calquera	DET	DI0NN0	_	41	det	_	Treeler:spec
+40	calquera	calquera	DET	DI0NN0	PronType=Ind	41	det	_	Treeler:spec
 41	deficiencia	deficiencia	NOUN	NCFS000	_	39	obj	_	Treeler:cd
 42	que	que	PRON	PR0CN000	PronType=Rel	43	obj	_	Treeler:cd
 43	presenten	presentar	VERB	VMSP3P0	_	41	ccomp	_	SpaceAfter=No|Treeler:S
@@ -18075,7 +18075,7 @@
 9	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 10	así	así	ADV	RG	_	13	advmod	_	Treeler:sadv
 11	como	como	SCONJ	CS	_	13	case	_	ToDo=case-upos|Treeler:cc
-12	calquera	calquera	DET	DI0NN0	_	13	det	_	Treeler:spec
+12	calquera	calquera	DET	DI0NN0	PronType=Ind	13	det	_	Treeler:spec
 13	previsión	previsión	NOUN	NCFS000	_	1	obl	_	Treeler:sn
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	cambio	cambio	NOUN	NCMS000	_	13	nmod	_	Treeler:sn
@@ -20369,14 +20369,14 @@
 7	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 8	avocar	avocar	VERB	VMN0000	_	3	obl	_	Treeler:sn
 9	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
-10	calquera	calquera	DET	DI0NN0	_	11	det	_	Treeler:spec
+10	calquera	calquera	DET	DI0NN0	PronType=Ind	11	det	_	Treeler:spec
 11	momento	momento	NOUN	NCMS000	_	8	obl	_	Treeler:sn
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13	debate	debate	NOUN	NCMS000	_	8	obj	_	Treeler:cd
 14	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 15	votación	votación	NOUN	NCFS000	_	13	dep	_	Treeler:grup.nom
 16	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
-17	calquera	calquera	DET	DI0NN0	_	18	det	_	Treeler:spec
+17	calquera	calquera	DET	DI0NN0	PronType=Ind	18	det	_	Treeler:spec
 18	proxecto	proxecto	NOUN	NCMS000	_	13	nmod	_	Treeler:sn
 19	ou	ou	CCONJ	CC	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	proposición	proposición	NOUN	NCFS000	_	18	dep	_	Treeler:grup.nom
@@ -24464,7 +24464,7 @@
 5	por	por	ADP	SPS00	_	6	case	_	Treeler:sp
 6	suxeito	suxeito	NOUN	NCMS000	_	4	obl	_	Treeler:sn
 7	pasivo	pasivo	ADJ	AQ0MS0	_	6	amod	_	Treeler:s.a
-8	calquera	calquera	DET	DI0NN0	_	12	det	_	Treeler:spec
+8	calquera	calquera	DET	DI0NN0	PronType=Ind	12	det	_	Treeler:spec
 9	que	que	PRON	PR0CN000	PronType=Rel	12	nsubj	_	Treeler:suj
 10	fose	ser	AUX	VSSI1S0	_	12	cop	_	Treeler:S
 11	o	o	DET	DA0MS0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
@@ -27198,7 +27198,7 @@
 26	oito	oito	NOUN	NCMS000	_	24	nmod	_	Treeler:sn
 27	membros	membro	NOUN	NCMP000	_	22	obj	_	Treeler:cd
 28	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
-29	calquera	calquera	DET	DI0NN0	_	30	det	_	Treeler:spec
+29	calquera	calquera	DET	DI0NN0	PronType=Ind	30	det	_	Treeler:spec
 30-31	das	_	_	_	_	_	_	_	_
 30	de	de	ADP	SPS00	_	27	nmod	_	Treeler:sn
 31	as	o	DET	DA0FP0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
@@ -28393,7 +28393,7 @@
 6	ha	haber	AUX	VMIP3S0	_	8	aux	_	Treeler:v
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:s
 8	incluír	incluír	VERB	VMN0000	_	0	root	_	Treeler:sentence
-9	calquera	calquera	DET	DI0NN0	_	11	det	_	Treeler:spec
+9	calquera	calquera	DET	DI0NN0	PronType=Ind	11	det	_	Treeler:spec
 10	outro	outro	DET	DI0MS0	_	9	det	_	Treeler:d
 11	tipo	tipo	NOUN	NCMS000	_	8	obj	_	Treeler:cd
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
@@ -28787,7 +28787,7 @@
 36	a	o	DET	DA0FS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
 37	xerada	xerar	VERB	VMP00SF	_	34	nmod	_	ToDo=nmod|Treeler:sn
 38	para	para	ADP	SPS00	_	37	case	_	Treeler:cc
-39	calquera	calquera	DET	DI0NN0	_	37	obl	_	Treeler:v
+39	calquera	calquera	DET	DI0NN0	PronType=Ind	37	obl	_	Treeler:v
 40	outro	outro	DET	DI0MS0	_	39	det	_	SpaceAfter=No|Treeler:d
 41	.	.	PUNCT	Fp	_	15	punct	_	Treeler:f
 
@@ -29695,7 +29695,7 @@
 
 # sent_id = test-731
 # text = Calquera modificación que se pretenda levar a cabo nos calendarios laborais deberá ser debidamente motivada, argumentada e negociada cos representantes dos traballadores, e notificarase coa antelación oportuna aos interesados.
-1	Calquera	calquera	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Calquera	calquera	DET	DI0NN0	PronType=Ind	2	det	_	Treeler:spec
 2	modificación	modificación	NOUN	NCFS000	_	16	nsubj	_	Treeler:suj
 3	que	que	PRON	PR0CN000	PronType=Rel	5	obj	_	Treeler:cd
 4	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	5	obj	_	Treeler:cd
@@ -31503,7 +31503,7 @@
 9	mesma	mesmo	DET	DI0FS0	_	8	det	_	Treeler:d
 10	que	que	SCONJ	CS	_	18	mark	_	Treeler:conj
 11	para	para	ADP	SPS00	_	13	case	_	Treeler:cc
-12	calquera	calquera	DET	DI0NN0	_	13	det	_	Treeler:spec
+12	calquera	calquera	DET	DI0NN0	PronType=Ind	13	det	_	Treeler:spec
 13	enfermidade	enfermidade	NOUN	NCFS000	_	18	obl	_	Treeler:sn
 14	cardiovascular	cardiovascular	ADJ	AQ0CS0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	:	:	PUNCT	Fd	_	13	punct	_	Treeler:f
@@ -32897,7 +32897,7 @@
 # sent_id = test-813
 # text = En calquera caso, a presentación da solicitude prorroga a validez da autorización anterior ata a resolución de procedemento.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	calquera	calquera	DET	DI0NN0	_	3	det	_	Treeler:spec
+2	calquera	calquera	DET	DI0NN0	PronType=Ind	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -33718,7 +33718,7 @@
 33	de	de	ADP	SPS00	_	35	case	_	Treeler:sp
 34	aquelas	aquel	DET	DD0FP0	PronType=Dem	35	det	_	Treeler:spec
 35	de	de	ADP	SPS00	_	32	nmod	_	Treeler:sn
-36	calquera	calquera	DET	DI0NN0	_	37	det	_	Treeler:spec
+36	calquera	calquera	DET	DI0NN0	PronType=Ind	37	det	_	Treeler:spec
 37-38	das	_	_	_	_	_	_	_	_
 37	de	de	ADP	SPS00	_	35	nmod	_	ToDo=nmod|Treeler:sn
 38	as	o	DET	DA0FP0	Definite=Def|PronType=Art	39	det	_	Treeler:spec

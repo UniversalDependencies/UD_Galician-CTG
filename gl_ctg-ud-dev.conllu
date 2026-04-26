@@ -181,7 +181,7 @@
 27	a	o	DET	DA0FS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
 28	complexidade	complexidade	NOUN	NCFS000	_	25	nmod	_	ToDo=nmod|Treeler:sn
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
-30	calquera	calquera	DET	DI0NN0	_	31	det	_	Treeler:spec
+30	calquera	calquera	DET	DI0NN0	PronType=Ind	31	det	_	Treeler:spec
 31	lingua	lingua	NOUN	NCFS000	_	28	nmod	_	Treeler:sn
 32	natural	natural	ADJ	AQ0CS0	_	31	amod	_	SpaceAfter=No|Treeler:s.a
 33	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
@@ -11316,7 +11316,7 @@
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 22	galeguidade	galeguidade	NOUN	NCFS000	_	19	nmod	_	Treeler:sn
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
-24	calquera	calquera	DET	DI0NN0	_	25	det	_	Treeler:spec
+24	calquera	calquera	DET	DI0NN0	PronType=Ind	25	det	_	Treeler:spec
 25	parte	parte	NOUN	NCCS000	_	22	nmod	_	Treeler:sn
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -11387,7 +11387,7 @@
 
 # sent_id = dev-279
 # text = Calquera bon observador da realidade galega sabe que, aquí, a economía sumerxida ven actuando á vez como paliativo da pobreza e como expresión delictiva.
-1	Calquera	calquera	DET	DI0NN0	_	2	det	_	Treeler:spec
+1	Calquera	calquera	DET	DI0NN0	PronType=Ind	2	det	_	Treeler:spec
 2	bon	bon	VERB	VSIP3P0	_	8	obj	_	Treeler:cd
 3	observador	observador	ADJ	AQ0MS0	_	2	xcomp	_	Treeler:atr
 4-5	da	_	_	_	_	_	_	_	_
@@ -13206,7 +13206,7 @@
 18	impulsar	impulsar	VERB	VMN0000	_	17	nsubj	_	Treeler:suj
 19	as	o	DET	DA0FP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 20	en	en	ADP	SPS00	_	22	case	_	Treeler:cc
-21	calquera	calquera	DET	DI0NN0	_	22	det	_	Treeler:spec
+21	calquera	calquera	DET	DI0NN0	PronType=Ind	22	det	_	Treeler:spec
 22	caso	caso	NOUN	NCMS000	_	18	obl	_	Treeler:sn
 23-24	ó	_	_	_	_	_	_	_	_
 23	a	a	ADP	SPS00	_	18	obj	_	Treeler:cd
@@ -14260,7 +14260,7 @@
 # sent_id = dev-346
 # text = De calquera xeito, tampouco era o canarés a lingua materna de dúas das tres aldeas, o cal me fixo sentir mellor.
 1	De	de	ADP	SPS00	_	3	case	_	Treeler:cc
-2	calquera	calquera	DET	DI0NN0	_	3	det	_	Treeler:spec
+2	calquera	calquera	DET	DI0NN0	PronType=Ind	3	det	_	Treeler:spec
 3	xeito	xeito	NOUN	NCMS000	_	8	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	tampouco	tampouco	ADV	RG	_	8	advmod	_	Treeler:mod
@@ -14740,7 +14740,7 @@
 24	escusa	escusar	VERB	VMIP3S0	_	21	ccomp	_	Treeler:S
 25	para	para	ADP	SPS00	_	26	case	_	Treeler:cc
 26	demorar	demorar	VERB	VMN0000	_	24	ccomp	_	Treeler:S
-27	calquera	calquera	DET	DI0NN0	_	28	det	_	Treeler:spec
+27	calquera	calquera	DET	DI0NN0	PronType=Ind	28	det	_	Treeler:spec
 28	proposta	proposta	NOUN	NCFS000	_	26	obj	_	Treeler:cd
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 30	reforma	reforma	NOUN	NCFS000	_	28	nmod	_	Treeler:sn
@@ -17970,7 +17970,7 @@
 9	galego	galego	ADJ	AQ0MS0	_	8	amod	_	Treeler:s.a
 10	para	para	ADP	SPS00	_	11	case	_	Treeler:sp
 11	realizar	realizar	VERB	VMN0000	_	8	ccomp	_	Treeler:S
-12	calquera	calquera	DET	DI0NN0	_	13	det	_	Treeler:spec
+12	calquera	calquera	DET	DI0NN0	PronType=Ind	13	det	_	Treeler:spec
 13	estudio	estudio	NOUN	NCMS000	_	11	obj	_	Treeler:cd
 14	ambiental	ambiental	ADJ	AQ0CS0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
@@ -18973,7 +18973,7 @@
 47	especial	especial	ADJ	AQ0CS0	_	48	amod	_	Treeler:s.a
 48	importancia	importancia	NOUN	NCFS000	_	44	nmod	_	Treeler:sn
 49	para	para	ADP	SPS00	_	51	case	_	Treeler:sp
-50	calquera	calquera	DET	DI0NN0	_	51	det	_	Treeler:spec
+50	calquera	calquera	DET	DI0NN0	PronType=Ind	51	det	_	Treeler:spec
 51	sociedade	sociedade	NOUN	NCFS000	_	48	nmod	_	SpaceAfter=No|Treeler:sn
 52	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -20221,7 +20221,7 @@
 3	pode	poder	AUX	VMIP3S0	_	4	aux	_	Treeler:v
 4	ocorrer	ocorrer	VERB	VMN0000	_	11	ccomp	_	Treeler:S
 5	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
-6	calquera	calquera	DET	DI0NN0	_	7	det	_	Treeler:spec
+6	calquera	calquera	DET	DI0NN0	PronType=Ind	7	det	_	Treeler:spec
 7	tendón	tendón	NOUN	NCMS000	_	4	obl	_	SpaceAfter=No|Treeler:sn
 8	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 9	pero	pero	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -21150,7 +21150,7 @@
 21	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 22	que	que	PRON	PR0CN000	PronType=Rel	23	nsubj	_	Treeler:suj
 23	oculta	ocultar	VERB	VMIP3S0	_	15	ccomp	_	Treeler:S
-24	calquera	calquera	DET	DI0NN0	_	25	det	_	Treeler:spec
+24	calquera	calquera	DET	DI0NN0	PronType=Ind	25	det	_	Treeler:spec
 25	iniciativa	iniciativa	NOUN	NCFS000	_	23	obj	_	Treeler:cd
 26	multilateral	multilateral	ADJ	AQ0CS0	_	25	amod	_	SpaceAfter=No|Treeler:s.a
 27	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
@@ -24011,7 +24011,7 @@
 # sent_id = dev-585
 # text = En calquera caso, o tempo medio de supervivencia dun transplante de ril está arredor dos 10 anos; de corazón, 13 anos, e de fígado, 17 anos.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	calquera	calquera	DET	DI0NN0	_	3	det	_	Treeler:spec
+2	calquera	calquera	DET	DI0NN0	PronType=Ind	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	16	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -29699,7 +29699,7 @@
 21	electrónicas	electrónico	ADJ	AQ0FP0	_	20	amod	_	Treeler:s.a
 22	ou	ou	CCONJ	CC	_	17	cc	_	ToDo=cc-without-conj|Treeler:coord
 23	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
-24	calquera	calquera	DET	DI0NN0	_	26	det	_	Treeler:spec
+24	calquera	calquera	DET	DI0NN0	PronType=Ind	26	det	_	Treeler:spec
 25	outro	outro	DET	DI0MS0	_	24	det	_	Treeler:d
 26	instrumento	instrumento	NOUN	NCMS000	_	17	nmod	_	Treeler:sn
 27	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
