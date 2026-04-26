@@ -11066,7 +11066,7 @@
 31	coa	coar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 32	tomada	tomar	VERB	VMP00SF	_	31	xcomp	_	Treeler:cpred
 33	para	para	ADP	SPS00	_	32	case	_	Treeler:cc
-34	aquel	aquel	DET	DD0MS0	_	32	dep	_	SpaceAfter=No|Treeler:infinitiu
+34	aquel	aquel	DET	DD0MS0	PronType=Dem	32	dep	_	SpaceAfter=No|Treeler:infinitiu
 35	:	:	PUNCT	Fd	_	31	punct	_	Treeler:f
 
 # sent_id = test-279
@@ -31456,7 +31456,7 @@
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	cabrón	cabrón	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
 4	é	ser	AUX	VSIP3S0	_	7	cop	_	Treeler:sentence
-5	aquel	aquel	DET	DD0MS0	_	7	det	_	Treeler:spec
+5	aquel	aquel	DET	DD0MS0	PronType=Dem	7	det	_	Treeler:spec
 6	"	"	PUNCT	Fe	_	7	punct	_	SpaceAfter=No|Treeler:f
 7	natural	natural	ADJ	AQ0CS0	_	0	root	_	SpaceAfter=No|Treeler:atr
 8	"	"	PUNCT	Fe	_	7	punct	_	SpaceAfter=No|Treeler:f
