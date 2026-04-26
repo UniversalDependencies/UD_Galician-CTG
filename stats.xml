@@ -19,14 +19,14 @@
     <tag name="ADP">23174</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
     <tag name="ADV">3350</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
     <tag name="AUX">2738</tag><!-- ser, poder, estar, deber, haber, ter, ir, seguir, deixar, vir -->
-    <tag name="CCONJ">4269</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
+    <tag name="CCONJ">4268</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
     <tag name="DET">23907</tag><!-- o, un, este, seu, outro, todo, mesmo, cada, algún, ese -->
     <tag name="INTJ">8</tag><!-- epa, ea, ó -->
-    <tag name="NOUN">31964</tag><!-- ano, caso, á, empresa, parte, dous, valor, lei, número, muller -->
-    <tag name="NUM">2363</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
+    <tag name="NOUN">31965</tag><!-- ano, caso, á, empresa, parte, dous, valor, lei, número, muller -->
+    <tag name="NUM">2364</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
     <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
     <tag name="PRON">5912</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
-    <tag name="PROPN">1904</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
+    <tag name="PROPN">1903</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
     <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1606</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
     <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
@@ -49,18 +49,18 @@
     <feat name="Reflex" value="Yes" upos="PRON">2181</feat><!-- se -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="28">
-    <dep name="acl">5</dep>
-    <dep name="advcl">3</dep>
+  <deps unique="29">
+    <dep name="acl">6</dep>
+    <dep name="advcl">5</dep>
     <dep name="advmod">2064</dep>
-    <dep name="amod">10489</dep>
+    <dep name="amod">10490</dep>
     <dep name="appos">6</dep>
     <dep name="aux">1198</dep>
-    <dep name="case">25556</dep>
-    <dep name="cc">4411</dep>
-    <dep name="ccomp">6171</dep>
+    <dep name="case">25539</dep>
+    <dep name="cc">4410</dep>
+    <dep name="ccomp">6170</dep>
     <dep name="compound">147</dep>
-    <dep name="conj">3792</dep>
+    <dep name="conj">3798</dep>
     <dep name="cop">1540</dep>
     <dep name="dep">2380</dep>
     <dep name="det">23774</dep>
@@ -69,14 +69,15 @@
     <dep name="iobj">562</dep>
     <dep name="list">3</dep>
     <dep name="mark">1504</dep>
-    <dep name="nmod">16422</dep>
+    <dep name="nmod">16421</dep>
     <dep name="nsubj">6518</dep>
-    <dep name="nummod">536</dep>
+    <dep name="nummod">543</dep>
     <dep name="obj">7368</dep>
-    <dep name="obl">6255</dep>
+    <dep name="obl">6258</dep>
+    <dep name="orphan">1</dep>
     <dep name="parataxis">2</dep>
     <dep name="punct">13316</dep>
     <dep name="root">3993</dep>
-    <dep name="xcomp">653</dep>
+    <dep name="xcomp">652</dep>
   </deps>
 </treebank>
