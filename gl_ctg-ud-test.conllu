@@ -3218,9 +3218,9 @@
 16	)	)	PUNCT	Fpt	_	15	punct	_	Treeler:f
 17	e	e	CCONJ	CC	_	20	cc	_	Treeler:coord
 18-19	ós	_	_	_	_	_	_	_	_
-18	a	a	ADP	SPS00	_	12	case	_	Treeler:sp
-19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-20	HBsAx	hbsax	PROPN	NP00000	_	12	case	_	SpaceAfter=No|Treeler:sn
+18	a	a	ADP	SPS00	_	20	case	_	Treeler:sp
+19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
+20	HBsAx	hbsax	PROPN	NP00000	_	12	conj	_	SpaceAfter=No|Treeler:sn
 21	(	(	PUNCT	Fpa	_	22	punct	_	SpaceAfter=No|Treeler:f
 22	-	_	PUNCT	Fg	_	24	punct	_	SpaceAfter=No|Treeler:f
 23	)	)	PUNCT	Fpt	_	22	punct	_	Treeler:f
@@ -16683,10 +16683,10 @@
 32	insuficiencia	insuficiencia	NOUN	NCFS000	_	30	conj	_	Treeler:grup.nom
 33	cardiaca	cardiaca	VERB	VMIP3S0	_	30	ccomp	_	SpaceAfter=No|Treeler:S
 34	)	)	PUNCT	Fpt	_	30	punct	_	Treeler:f
-35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
-36	de	de	ADP	SPS00	_	37	case	_	Treeler:sn
-37	125/75	125/75	NUM	Z	_	28	nmod	_	Treeler:sn
-38	mmHg	mmhg	PROPN	NP00000	_	37	case	_	Treeler:sn
+35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
+36	de	de	ADP	SPS00	_	38	case	_	Treeler:sn
+37	125/75	125/75	NUM	Z	_	38	nummod	_	Treeler:sn
+38	mmHg	mmhg	PROPN	NP00000	_	28	nmod	_	Treeler:sn
 39	(	(	PUNCT	Fpa	_	40	punct	_	SpaceAfter=No|Treeler:f
 40	insuficiencia	insuficiencia	NOUN	NCFS000	_	37	nmod	_	Treeler:sn
 41	renal	renal	ADJ	AQ0CS0	_	40	amod	_	Treeler:s.a
@@ -21791,9 +21791,9 @@
 27	o	o	DET	DA0MS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
 28	dito	dito	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
 29	ou	ou	CCONJ	CC	_	31	cc	_	Treeler:coord
-30	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
-31	si	si	PRON	PP3CNO00	_	25	case	_	Treeler:sn
-32	mesmos	mesmo	DET	DI0MP0	PronType=Ind	25	nmod	_	SpaceAfter=No|Treeler:sn
+30	en	en	ADP	SPS00	_	31	case	_	Treeler:sp
+31	si	si	PRON	PP3CNO00	_	28	conj	_	Treeler:sn
+32	mesmos	mesmo	DET	DI0MP0	PronType=Ind	31	nmod	_	SpaceAfter=No|Treeler:sn
 33	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = test-543

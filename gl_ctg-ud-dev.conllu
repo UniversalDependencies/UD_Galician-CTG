@@ -8001,12 +8001,12 @@
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13	taxa	taxa	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
-14	será	ser	AUX	VSIF3S0	_	3	cop	_	Treeler:sentence
-15	de	de	ADP	SPS00	_	3	case	_	Treeler:atr
-16	2,00	2,00	NUM	Z	_	3	case	_	Treeler:sn
-17	E	e	CCONJ	CC	_	19	cc	_	Treeler:coord
-18	por	por	ADP	SPS00	_	3	case	_	Treeler:sp
-19	pasaxeiro	pasaxeiro	NOUN	NCMS000	_	3	case	_	Treeler:sn
+14	será	ser	AUX	VSIF3S0	_	17	cop	_	Treeler:sentence
+15	de	de	ADP	SPS00	_	17	case	_	Treeler:atr
+16	2,00	2,00	NUM	Z	_	17	nummod	_	Treeler:sn
+17	E	e	NOUN	NCMS000	_	3	advcl	_	Treeler:coord
+18	por	por	ADP	SPS00	_	19	case	_	Treeler:sp
+19	pasaxeiro	pasaxeiro	NOUN	NCMS000	_	17	nmod	_	Treeler:sn
 20	e	e	CCONJ	CC	_	21	cc	_	Treeler:coord
 21	día	día	NOUN	NCMS000	_	19	conj	_	Treeler:grup.nom
 22	ou	ou	CCONJ	CC	_	23	cc	_	Treeler:coord
@@ -8015,7 +8015,7 @@
 25	estadía	estadía	NOUN	NCFS000	_	23	nmod	_	Treeler:sn
 26	en	en	ADP	SPS00	_	27	case	_	Treeler:sp
 27	porto	porto	NOUN	NCMS000	_	25	nmod	_	SpaceAfter=No|Treeler:sn
-28	.	.	PUNCT	Fp	_	15	punct	_	Treeler:f
+28	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = dev-199
 # text = Tamén é moi importante coida-la situación legal do enfermo que progresivamente non vai ser capaz de atende-los seus asuntos, así haberá que consulta-lo tema cun avogado.
@@ -8280,27 +8280,27 @@
 10	2002/2003	2002/2003	NUM	Z	_	9	nmod	_	SpaceAfter=No|Treeler:sn
 11	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-13	ratio	ratio	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
+13	ratio	ratio	NOUN	NCMS000	_	20	nsubj	_	Treeler:suj
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	alumnos	alumno	NOUN	NCMP000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
-16	/	/	PUNCT	Fh	_	13	punct	_	SpaceAfter=No|Treeler:f
-17	unidade	unidade	NOUN	NCFS000	_	3	nsubj	_	Treeler:suj
-18	foi	ser	AUX	VSIS3S0	_	3	cop	_	Treeler:sentence
-19	de	de	ADP	SPS00	_	3	case	_	Treeler:atr
-20	22,15	22,15	NUM	Z	_	3	case	_	Treeler:sn
+16	/	/	PUNCT	Fh	_	17	punct	_	SpaceAfter=No|Treeler:f
+17	unidade	unidade	NOUN	NCFS000	_	15	nmod	_	Treeler:suj
+18	foi	ser	AUX	VSIS3S0	_	20	cop	_	Treeler:sentence
+19	de	de	ADP	SPS00	_	20	case	_	Treeler:atr
+20	22,15	22,15	NUM	Z	_	3	advcl	_	Treeler:sn
 21-22	nos	_	_	_	_	_	_	_	_
 21	en	en	ADP	SPS00	_	23	case	_	Treeler:sp
 22	os	o	DET	DA0MP0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
-23	centros	centro	NOUN	NCMP000	_	3	nmod	_	Treeler:sn
+23	centros	centro	NOUN	NCMP000	_	20	obl	_	Treeler:sn
 24	públicos	público	ADJ	AQ0MP0	_	23	amod	_	Treeler:s.a
 25	e	e	CCONJ	CC	_	27	cc	_	Treeler:coord
-26	de	de	ADP	SPS00	_	3	case	_	Treeler:sp
-27	26,15	26,15	NUM	Z	_	3	case	_	Treeler:sn
+26	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
+27	26,15	26,15	NUM	Z	_	20	conj	_	Treeler:sn
 28-29	nos	_	_	_	_	_	_	_	_
 28	en	en	ADP	SPS00	_	30	case	_	Treeler:sp
 29	os	o	DET	DA0MP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-30	privados	privado	ADJ	AQ0MP0	_	3	nmod	_	SpaceAfter=No|Treeler:sn
-31	.	.	PUNCT	Fp	_	19	punct	_	Treeler:f
+30	privados	privado	ADJ	AQ0MP0	_	27	orphan	_	SpaceAfter=No|Treeler:sn
+31	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
 # sent_id = dev-206
 # text = Os países co grao de especialización máis importante son Irlanda (alimentación e en industrias intensivas en capital humano), Holanda (industrias intensivas en capital físico e humano), Dinamarca (industria alimentaria), e Portugal e Grecia (industrias intensivas en traballo).
@@ -29391,9 +29391,9 @@
 27	8	8	NUM	Z	_	23	conj	_	SpaceAfter=No|Treeler:sn
 28	%	%	SYM	Ft	_	27	nmod	_	Treeler:sn
 29-30	nos	_	_	_	_	_	_	_	_
-29	en	en	ADP	SPS00	_	19	case	_	Treeler:sp
-30	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-31	adultos	adulto	ADJ	AQ0MP0	_	19	case	_	SpaceAfter=No|Treeler:sn
+29	en	en	ADP	SPS00	_	31	case	_	Treeler:sp
+30	os	o	DET	DA0MP0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
+31	adultos	adulto	ADJ	AQ0MP0	_	19	nmod	_	SpaceAfter=No|Treeler:sn
 32	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
 33	e	e	CCONJ	CC	_	35	cc	_	Treeler:coord
 34	o	o	DET	DA0MS0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
@@ -31124,11 +31124,11 @@
 14	capacidade	capacidade	NOUN	NCFS000	_	11	nmod	_	Treeler:sn
 15	productiva	productiva	ADJ	AQ0FS0	_	14	amod	_	Treeler:s.a
 16	galega	galego	ADJ	AQ0FS0	_	14	amod	_	Treeler:s.a
-17	era	ser	AUX	VSII1S0	_	3	cop	_	Treeler:sentence
+17	era	ser	AUX	VSII1S0	_	21	cop	_	Treeler:sentence
 18-19	do	_	_	_	_	_	_	_	_
-18	de	de	ADP	SPS00	_	3	case	_	Treeler:atr
-19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-20	81,6	81,6	PROPN	NP00000	_	3	case	_	SpaceAfter=No|Treeler:sn
+18	de	de	ADP	SPS00	_	21	case	_	Treeler:atr
+19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
+20	81,6	81,6	NUM	NP00000	_	21	nummod	_	SpaceAfter=No|Treeler:sn
 21	%	%	SYM	Ft	_	23	nmod	_	SpaceAfter=No|Treeler:f
 22	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 23	porcentaxe	porcentaxe	NOUN	NCFS000	_	3	nmod	_	Treeler:sn
