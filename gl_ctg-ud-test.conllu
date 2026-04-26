@@ -213,7 +213,7 @@
 19	máis	máis	ADV	RG	_	20	advmod	_	Treeler:spec
 20	próximo	próximo	ADJ	AQ0MS0	_	18	amod	_	Treeler:s.a
 21	a	a	ADP	SPS00	_	22	case	_	Treeler:cc
-22	ela	el	PRON	PP3FS000	_	16	obl	_	SpaceAfter=No|Treeler:sn
+22	ela	el	PRON	PP3FS000	PronType=Prs	16	obl	_	SpaceAfter=No|Treeler:sn
 23	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
 # sent_id = test-6
@@ -705,7 +705,7 @@
 39	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	40	det	_	Treeler:spec
 40-41	delas	_	_	_	_	_	_	_	_
 40	de	de	ADP	SPS00	_	37	nmod	_	Treeler:sn
-41	elas	el	PRON	PP3FP000	_	40	nmod	_	ToDo=nmod|Treeler:sn
+41	elas	el	PRON	PP3FP000	PronType=Prs	40	nmod	_	ToDo=nmod|Treeler:sn
 42	para	para	ADP	SPS00	_	43	case	_	Treeler:cc
 43	aprobar	aprobar	VERB	VMN0000	_	23	ccomp	_	Treeler:S
 44	o	o	DET	DA0MS0	Definite=Def|PronType=Art	45	det	_	Treeler:spec
@@ -1814,7 +1814,7 @@
 16	indicios	indicio	NOUN	NCMP000	_	20	nsubj	_	Treeler:suj
 17-18	delas	_	_	_	_	_	_	_	_
 17	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
-18	elas	el	PRON	PP3FP000	_	19	nmod	_	Treeler:sn
+18	elas	el	PRON	PP3FP000	PronType=Prs	19	nmod	_	Treeler:sn
 19	derivados	derivado	NOUN	NCMP000	_	16	nmod	_	Treeler:sn
 20	revelan	revelar	VERB	VMIP3P0	_	7	ccomp	_	Treeler:S
 21	que	que	SCONJ	CS	_	25	mark	_	Treeler:conj
@@ -1891,7 +1891,7 @@
 14	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 15-16	nel	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
-16	el	el	PRON	PP3MS000	_	17	obl	_	Treeler:sn
+16	el	el	PRON	PP3MS000	PronType=Prs	17	obl	_	Treeler:sn
 17	teñen	ter	VERB	VMIP3P0	_	3	ccomp	_	Treeler:S
 18	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	19	det	_	Treeler:spec
 19	posición	posición	NOUN	NCFS000	_	17	obj	_	Treeler:cd
@@ -4587,7 +4587,7 @@
 19	representación	representación	NOUN	NCFS000	_	17	obj	_	Treeler:cd
 20	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 21	todas	todo	DET	DI0FP0	PronType=Tot	22	det	_	Treeler:spec
-22	elas	el	PRON	PP3FP000	_	19	nmod	_	SpaceAfter=No|Treeler:sn
+22	elas	el	PRON	PP3FP000	PronType=Prs	19	nmod	_	SpaceAfter=No|Treeler:sn
 23	.	.	PUNCT	Fp	_	11	punct	_	Treeler:f
 
 # sent_id = test-116
@@ -5993,7 +5993,7 @@
 10	importante	importante	ADJ	AQ0CS0	_	8	dep	_	Treeler:grup.a
 11-12	deles	_	_	_	_	_	_	_	SpaceAfter=No
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
-12	eles	el	PRON	PP3MP000	_	8	nmod	_	ToDo=nmod|Treeler:sn
+12	eles	el	PRON	PP3MP000	PronType=Prs	8	nmod	_	ToDo=nmod|Treeler:sn
 13	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 14-15	atópase	_	_	_	_	_	_	_	_
 14	atopa	atopar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -6452,7 +6452,7 @@
 21	catro	catro	NOUN	NCMS000	_	24	obl	_	Treeler:sn
 22-23	deles	_	_	_	_	_	_	_	_
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
-23	eles	el	PRON	PP3MP000	_	21	nmod	_	Treeler:sn
+23	eles	el	PRON	PP3MP000	PronType=Prs	21	nmod	_	Treeler:sn
 24	figuran	figurar	VERB	VMIP3P0	_	5	ccomp	_	Treeler:S
 25	antecedentes	antecedente	NOUN	NCMP000	_	24	nsubj	_	Treeler:suj
 26	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
@@ -7604,7 +7604,7 @@
 2	partir	partir	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 3-4	deles	_	_	_	_	_	_	_	SpaceAfter=No
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:cc
-4	eles	el	PRON	PP3MP000	_	2	obl	_	Treeler:sn
+4	eles	el	PRON	PP3MP000	PronType=Prs	2	obl	_	Treeler:sn
 5	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 6	os	o	DET	DA0MP0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
 7	avogados	avogado	NOUN	NCMP000	_	9	nsubj	_	Treeler:suj
@@ -7621,7 +7621,7 @@
 17	e	e	CCONJ	CC	_	15	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 18	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 19	entre	entre	ADP	SPS00	_	20	case	_	Treeler:sp
-20	eles	el	PRON	PP3MP000	_	23	nmod	_	SpaceAfter=No|Treeler:sn
+20	eles	el	PRON	PP3MP000	PronType=Prs	23	nmod	_	SpaceAfter=No|Treeler:sn
 21	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 22	os	o	DET	DA0MP0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
 23	dereitos	dereito	NOUN	NCMP000	_	11	nmod	_	Treeler:sn
@@ -7865,7 +7865,7 @@
 8	investigadores	investigador	NOUN	NCMP000	_	13	nsubj	_	Treeler:suj
 9	vinculados	vincular	VERB	VMP00PM	_	8	ccomp	_	Treeler:S
 10	a	a	ADP	SPS00	_	9	iobj	_	Treeler:ci
-11	elas	el	PRON	PP3FP000	_	10	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
+11	elas	el	PRON	PP3FP000	PronType=Prs	10	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 12	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 13	falan	falar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 14-15	da	_	_	_	_	_	_	_	_
@@ -8473,7 +8473,7 @@
 42	finalidade	finalidade	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
 43-44	delas	_	_	_	_	_	_	_	SpaceAfter=No
 43	de	de	ADP	SPS00	_	44	case	_	Treeler:sp
-44	elas	el	PRON	PP3FP000	_	42	nmod	_	Treeler:sn
+44	elas	el	PRON	PP3FP000	PronType=Prs	42	nmod	_	Treeler:sn
 45	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
 
 # sent_id = test-212
@@ -10819,7 +10819,7 @@
 # sent_id = test-272
 # text = Todos eles contemplan medidas, nalgúns casos coincidentes, e o nivel de posta en práctica dos cales non é doado determinar debido á falta de avaliación e seguimento sistemático.
 1	Todos	todo	DET	DI0MP0	PronType=Tot	2	det	_	Treeler:spec
-2	eles	el	PRON	PP3MP000	_	3	nsubj	_	Treeler:suj
+2	eles	el	PRON	PP3MP000	PronType=Prs	3	nsubj	_	Treeler:suj
 3	contemplan	contemplar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 4	medidas	medida	NOUN	NCFP000	_	3	obj	_	SpaceAfter=No|Treeler:cd
 5	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
@@ -11493,7 +11493,7 @@
 1	Algúns	algún	DET	DI0MP0	_	4	det	_	Treeler:spec
 2-3	deles	_	_	_	_	_	_	_	_
 2	de	de	ADP	SPS00	_	3	case	_	Treeler:creg
-3	eles	el	PRON	PP3MP000	_	4	obl	_	Treeler:sn
+3	eles	el	PRON	PP3MP000	PronType=Prs	4	obl	_	Treeler:sn
 4	orixinan	orixinar	VERB	VMIP3P0	_	0	root	_	SpaceAfter=No|Treeler:sentence
 5	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 6	ademais	ademais	ADV	RG	_	4	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
@@ -12141,7 +12141,7 @@
 # sent_id = test-306
 # text = Para el (1865, pp. 14, 20, 34, 40-42), a verdadeira historia de Galicia principia co asentamento dos celtas, "padres y generadores de una población que lleva todavía impresa en el rostro las señales inequívocas de la raza á que pertenece".
 1	Para	para	ADP	SPS00	_	21	dep	_	Treeler:ao
-2	el	el	PRON	PP3MS000	_	1	nmod	_	ToDo=nmod|Treeler:sn
+2	el	el	PRON	PP3MS000	PronType=Prs	1	nmod	_	ToDo=nmod|Treeler:sn
 3	(	(	PUNCT	Fpa	_	4	punct	_	SpaceAfter=No|Treeler:f
 4	1865	1865	NUM	Z	Foreign=Yes	1	flat	_	SpaceAfter=No|Treeler:inc
 5	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
@@ -12182,7 +12182,7 @@
 38	todavía	todavía	NOUN	NCFS000	_	37	obj	_	Treeler:cd
 39	impresa	impreso	ADJ	AQ0FS0	_	38	amod	_	Treeler:s.a
 40	en	en	ADP	SPS00	_	42	case	_	Treeler:cc
-41	el	el	PRON	PP3MS000	_	42	nmod	_	Treeler:sn
+41	el	el	PRON	PP3MS000	PronType=Prs	42	nmod	_	Treeler:sn
 42	rostro	rostro	NOUN	NCMS000	_	37	obl	_	Treeler:sn
 43	las	la	NOUN	NCFP000	_	42	amod	_	Treeler:s.a
 44	señales	señales	NOUN	NCMP000	_	43	amod	_	Treeler:s.a
@@ -12265,7 +12265,7 @@
 # sent_id = test-309
 # text = Entre eles temos: ~ Postos de hospital de día: considéranse como tales aqueles destinados á atención de pacientes de xeito simultáneo na área de hospital de día (tanto os terapéuticos, como os de convalecencia)
 1	Entre	entre	ADP	SPS00	_	2	case	_	Treeler:cc
-2	eles	el	PRON	PP3MP000	_	3	obl	_	Treeler:sn
+2	eles	el	PRON	PP3MP000	PronType=Prs	3	obl	_	Treeler:sn
 3	temos	ter	VERB	VMIP1P0	_	0	root	_	SpaceAfter=No|Treeler:sentence
 4	:	:	PUNCT	Fd	_	6	punct	_	Treeler:f
 5	~	~	PUNCT	Fz	_	6	punct	_	Treeler:f
@@ -12880,7 +12880,7 @@
 # sent_id = test-325
 # text = Para eles os mortos non valen o mesmo, os únicos asasinos son os soldados israelís mentres que da outra beira só hai combatentes pola liberdade e a paz.
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
-2	eles	el	PRON	PP3MP000	_	6	obl	_	Treeler:sn
+2	eles	el	PRON	PP3MP000	PronType=Prs	6	obl	_	Treeler:sn
 3	os	o	DET	DA0MP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	mortos	morto	NOUN	NCMP000	_	6	nsubj	_	Treeler:suj
 5	non	non	PART	RN	_	6	advmod	_	Treeler:mod
@@ -13277,7 +13277,7 @@
 9	moitas	moito	DET	DI0FP0	_	10	det	_	Treeler:spec
 10-11	delas	_	_	_	_	_	_	_	_
 10	de	de	ADP	SPS00	Foreign=Yes	6	flat	_	Treeler:inc
-11	elas	el	PRON	PP3FP000	_	10	nmod	_	ToDo=nmod|Treeler:sn
+11	elas	el	PRON	PP3FP000	PronType=Prs	10	nmod	_	ToDo=nmod|Treeler:sn
 12	de	de	ADP	SPS00	_	10	nmod	_	ToDo=nmod|Treeler:sn
 13	orixe	orixe	NOUN	NCFS000	_	12	nmod	_	ToDo=nmod|Treeler:sn
 14	mediterránea	mediterráneo	ADJ	AQ0FS0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
@@ -14988,7 +14988,7 @@
 
 # sent_id = test-376
 # text = El itinerario formativo a recomendar a los promotores de los proyectos podrá constar de una combinación de actividades formativas, utilización de herramientas metodológicas y tutorías personales.
-1	El	el	PRON	PP3MS000	_	2	det	_	Treeler:spec
+1	El	el	PRON	PP3MS000	PronType=Prs	2	det	_	Treeler:spec
 2	itinerario	itinerario	NOUN	NCMS000	_	12	nsubj	_	Treeler:suj
 3	formativo	formativo	ADJ	AQ0MS0	_	2	amod	_	Treeler:s.a
 4	a	a	ADP	SPS00	_	5	case	_	Treeler:sp
@@ -15081,7 +15081,7 @@
 12	dispoñer	dispoñer	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 13-14	deles	_	_	_	_	_	_	_	_
 13	de	de	ADP	SPS00	_	14	case	_	Treeler:cc
-14	eles	el	PRON	PP3MP000	_	12	obl	_	Treeler:sn
+14	eles	el	PRON	PP3MP000	PronType=Prs	12	obl	_	Treeler:sn
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
 16	breve	breve	ADJ	AQ0CS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 17	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
@@ -15534,7 +15534,7 @@
 24	que	que	PRON	PR0CN000	PronType=Rel	27	nsubj	_	Treeler:suj
 25-26	del	_	_	_	_	_	_	_	_
 25	de	de	ADP	SPS00	_	26	case	_	Treeler:creg
-26	el	el	PRON	PP3MS000	_	27	obl	_	Treeler:sn
+26	el	el	PRON	PP3MS000	PronType=Prs	27	obl	_	Treeler:sn
 27	dependen	depender	VERB	VMIP3P0	_	23	ccomp	_	SpaceAfter=No|Treeler:S
 28	.	.	PUNCT	Fp	_	10	punct	_	Treeler:f
 
@@ -15626,7 +15626,7 @@
 33	nacionais	nacional	ADJ	AQ0CP0	_	32	amod	_	Treeler:s.a
 34	que	que	SCONJ	CS	_	38	mark	_	Treeler:conj
 35	a	o	DET	DA0FS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
-36	el	el	PRON	PP3MS000	_	38	nsubj	_	Treeler:suj
+36	el	el	PRON	PP3MS000	PronType=Prs	38	nsubj	_	Treeler:suj
 37	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	38	obj	_	Treeler:cd
 38	sumaron	sumar	VERB	VMIS3P0	_	24	ccomp	_	SpaceAfter=No|Treeler:S
 39	.	.	PUNCT	Fp	_	21	punct	_	Treeler:f
@@ -16453,7 +16453,7 @@
 # sent_id = test-412
 # text = Todos eles foron responsábeis da lesa culpa de opinar mais alá da comodidade, quizais mais alá da corrente e, sen dúbida, mais alá da prudencia.
 1	Todos	todo	DET	DI0MP0	PronType=Tot	2	det	_	Treeler:spec
-2	eles	el	PRON	PP3MP000	_	4	nsubj	_	Treeler:suj
+2	eles	el	PRON	PP3MP000	PronType=Prs	4	nsubj	_	Treeler:suj
 3	foron	ser	AUX	VSIS3P0	_	4	cop	_	Treeler:sentence
 4	responsábeis	responsábel	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
 5-6	da	_	_	_	_	_	_	_	_
@@ -18858,7 +18858,7 @@
 
 # sent_id = test-469
 # text = Eles, nunha mostra de anciáns norteamericanos maiores de 80 anos, determinaron que eran a enfermidade coronaria, a diabete, a necesidade de axuda na elaboración de comidas e a limitación física os principais factores que condicionaban a posibilidade dun ingreso hospitalario.
-1	Eles	el	PRON	PP3MP000	_	14	nsubj	_	SpaceAfter=No|Treeler:suj
+1	Eles	el	PRON	PP3MP000	PronType=Prs	14	nsubj	_	SpaceAfter=No|Treeler:suj
 2	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 3-4	nunha	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
@@ -19039,7 +19039,7 @@
 6	máis	máis	ADV	RG	_	7	advmod	_	Treeler:spec
 7	relevante	relevante	ADJ	AQ0CS0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 8	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
-9	El	el	PRON	PP3MS000	_	10	det	_	Treeler:spec
+9	El	el	PRON	PP3MS000	PronType=Prs	10	det	_	Treeler:spec
 10	regionalismo	regionalismo	NOUN	NCMS000	_	4	nmod	_	SpaceAfter=No|Treeler:sn
 11	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 12	publicada	publicar	VERB	VMP00SF	_	4	ccomp	_	Treeler:S
@@ -19063,7 +19063,7 @@
 29	o	o	DET	DA0MS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	xornal	xornal	NOUN	NCMS000	_	25	obl	_	Treeler:sn
 31	compostelán	compostelán	ADJ	AQ0MS0	_	30	amod	_	Treeler:s.a
-32	El	el	PRON	PP3MS000	_	25	obj	_	Treeler:cd
+32	El	el	PRON	PP3MS000	PronType=Prs	25	obj	_	Treeler:cd
 33	Alcance	alcanzar	VERB	VMSP1S0	_	25	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 34	,	,	PUNCT	Fc	_	36	punct	_	Treeler:f
 35	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
@@ -21512,7 +21512,7 @@
 # sent_id = test-535
 # text = Todas elas empezaron facendo ladrillos, algunhas tamén tellas para a construción e, máis tarde, foron diversificando a oferta.
 1	Todas	todo	DET	DI0FP0	PronType=Tot	2	det	_	Treeler:spec
-2	elas	el	PRON	PP3FP000	_	4	nsubj	_	Treeler:suj
+2	elas	el	PRON	PP3FP000	PronType=Prs	4	nsubj	_	Treeler:suj
 3	empezaron	empezar	VERB	VMIS3P0	_	4	compound	_	Treeler:v
 4	facendo	facer	VERB	VMG0000	_	0	root	_	Treeler:sentence
 5	ladrillos	ladrillo	NOUN	NCMP000	_	4	obj	_	SpaceAfter=No|Treeler:cd
@@ -21774,7 +21774,7 @@
 12	demostrar	demostrar	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 13	o	o	DET	DA0MS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 14	que	que	PRON	PR0CN000	PronType=Rel	16	nsubj	_	Treeler:suj
-15	eles	el	PRON	PP3MP000	_	16	nsubj	_	Treeler:suj
+15	eles	el	PRON	PP3MP000	PronType=Prs	16	nsubj	_	Treeler:suj
 16	cren	crer	VERB	VMIP3P0	_	12	ccomp	_	Treeler:S
 17	estatus	estatus	NOUN	NCCN000	_	16	obj	_	Treeler:cd
 18	e	e	CCONJ	CC	_	17	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -21977,7 +21977,7 @@
 3	sentido	sentido	NOUN	NCMS000	_	18	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	cuando	cuando	VERB	VMG0000	_	18	case	_	ToDo=case-upos|Treeler:cc
-6	el	el	PRON	PP3MS000	_	18	obj	_	Treeler:cd
+6	el	el	PRON	PP3MS000	PronType=Prs	18	obj	_	Treeler:cd
 7	Estado	estado	NOUN	NCMS000	_	18	obj	_	Treeler:cd
 8	ha	haber	VERB	VMIP3S0	_	18	case	_	ToDo=case-upos|Treeler:cc
 9	pretendido	pretender	VERB	VMP00SM	_	18	xcomp	_	Treeler:cpred
@@ -21998,14 +21998,14 @@
 24	y	y	NOUN	NCMS000	_	22	amod	_	Treeler:s.a
 25	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
 26	que	que	PRON	PR0CN000	PronType=Rel	18	obl	_	Treeler:sn
-27	el	el	PRON	PP3MS000	_	26	nmod	_	Treeler:sn
+27	el	el	PRON	PP3MS000	PronType=Prs	26	nmod	_	Treeler:sn
 28	funcionamiento	funcionamiento	NOUN	NCMS000	_	27	nmod	_	Treeler:sn
 29-30	del	_	_	_	_	_	_	_	_
 29	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
-30	el	el	PRON	PP3MS000	_	31	nmod	_	Treeler:sn
+30	el	el	PRON	PP3MS000	PronType=Prs	31	nmod	_	Treeler:sn
 31	mercado	mercado	NOUN	NCMS000	_	28	nmod	_	Treeler:sn
 32	es	e	NOUN	NCMP000	_	31	amod	_	Treeler:s.a
-33	el	el	PRON	PP3MS000	_	35	det	_	Treeler:spec
+33	el	el	PRON	PP3MS000	PronType=Prs	35	det	_	Treeler:spec
 34	mejor	mejor	ADJ	AQ0CS0	_	35	amod	_	Treeler:s.a
 35	garante	garante	NOUN	NCFS000	_	28	nmod	_	Treeler:sn
 36	de	de	ADP	SPS00	_	37	case	_	Treeler:sp
@@ -22263,7 +22263,7 @@
 13	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 14	sinalando	sinalar	VERB	VMG0000	_	8	ccomp	_	Treeler:S
 15	entre	entre	ADP	SPS00	_	16	case	_	Treeler:cc
-16	eles	el	PRON	PP3MP000	_	14	obl	_	SpaceAfter=No|Treeler:sn
+16	eles	el	PRON	PP3MP000	PronType=Prs	14	obl	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 18	ademais	ademais	ADV	RG	_	14	case	_	ToDo=case-upos|Treeler:cc
 19-20	da	_	_	_	_	_	_	_	_
@@ -23080,7 +23080,7 @@
 2	sexa	ser	AUX	VSSP1S0	_	3	cop	_	Treeler:S
 3	cómodo	cómodo	ADJ	AQ0MS0	_	15	ccomp	_	Treeler:atr
 4	para	para	ADP	SPS00	_	5	case	_	Treeler:sp
-5	ela	el	PRON	PP3FS000	_	3	obl	_	SpaceAfter=No|Treeler:sn
+5	ela	el	PRON	PP3FS000	PronType=Prs	3	obl	_	SpaceAfter=No|Treeler:sn
 6	;	;	PUNCT	Fx	_	3	punct	_	Treeler:f
 7	Ademais	ademais	ADV	RG	_	15	case	_	ToDo=case-upos|Treeler:cc
 8-9	da	_	_	_	_	_	_	_	_
@@ -23745,7 +23745,7 @@
 33	Galicia	galicia	PROPN	NP00000	_	31	nmod	_	Treeler:sn
 34	exercerá	exercer	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 35	sobre	sobre	ADP	SPS00	_	36	case	_	Treeler:cc
-36	eles	el	PRON	PP3MP000	_	34	obl	_	Treeler:sn
+36	eles	el	PRON	PP3MP000	PronType=Prs	34	obl	_	Treeler:sn
 37	as	o	DET	DA0FP0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
 38	facultades	facultade	NOUN	NCFP000	_	34	obj	_	Treeler:cd
 39	previstas	prever	VERB	VMP00PF	_	38	ccomp	_	Treeler:S
@@ -25494,7 +25494,7 @@
 35	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	34	det	_	Treeler:d
 36-37	delas	_	_	_	_	_	_	_	SpaceAfter=No
 36	de	de	ADP	SPS00	_	37	case	_	Treeler:creg
-37	elas	el	PRON	PP3FP000	_	33	obl	_	Treeler:sn
+37	elas	el	PRON	PP3FP000	PronType=Prs	33	obl	_	Treeler:sn
 38	.	.	PUNCT	Fp	_	14	punct	_	Treeler:f
 
 # sent_id = test-629
@@ -25659,7 +25659,7 @@
 24	común	común	ADJ	AQ0CS0	_	23	amod	_	Treeler:s.a
 25	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
 26	todas	todo	DET	DI0FP0	PronType=Tot	27	det	_	Treeler:spec
-27	elas	el	PRON	PP3FP000	_	23	nmod	_	Treeler:sn
+27	elas	el	PRON	PP3FP000	PronType=Prs	23	nmod	_	Treeler:sn
 28	a	a	ADP	SPS00	_	29	case	_	Treeler:cc
 29	partir	partir	VERB	VMN0000	_	21	ccomp	_	Treeler:S
 30-31	dun	_	_	_	_	_	_	_	_
@@ -26361,7 +26361,7 @@
 34	desembocan	desembocar	VERB	VMIP3P0	_	31	ccomp	_	Treeler:S
 35-36	nela	_	_	_	_	_	_	_	SpaceAfter=No
 35	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
-36	ela	el	PRON	PP3FS000	_	34	obl	_	Treeler:sn
+36	ela	el	PRON	PP3FS000	PronType=Prs	34	obl	_	Treeler:sn
 37	.	.	PUNCT	Fp	_	20	punct	_	Treeler:f
 
 # sent_id = test-652
@@ -28779,7 +28779,7 @@
 30	un	un	PRON	PI0MS000	_	27	nmod	_	ToDo=nmod|Treeler:sn
 31-32	deles	_	_	_	_	_	_	_	_
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
-32	eles	el	PRON	PP3MP000	_	30	nmod	_	Treeler:sn
+32	eles	el	PRON	PP3MP000	PronType=Prs	30	nmod	_	Treeler:sn
 33	e	e	CCONJ	CC	_	27	cc	_	ToDo=cc-without-conj|Treeler:coord
 34	independente	independente	ADJ	AQ0CS0	_	27	dep	_	Treeler:grup.a
 35-36	da	_	_	_	_	_	_	_	_
@@ -29137,7 +29137,7 @@
 # text = Nel vemos que si o número de parados alcanzaba xa entón ó 19,1% por cento da poboación galega en idade de traballar, no caso das mulleres ascendía ó 24,4% por cento do total, sendo o dos homes 9 puntos menos.
 1-2	Nel	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	2	case	_	Treeler:cc
-2	el	el	PRON	PP3MS000	_	3	obl	_	Treeler:sn
+2	el	el	PRON	PP3MS000	PronType=Prs	3	obl	_	Treeler:sn
 3	vemos	ver	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 4	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
 5	si	si	ADV	RG	_	7	advmod	_	Treeler:sadv
@@ -29573,7 +29573,7 @@
 35	liguas	liguas	NOUN	NCFP000	_	33	obj	_	Treeler:cd
 36	inintelixibles	inintelixible	ADJ	AQ0CP0	_	35	amod	_	Treeler:s.a
 37	entre	entre	ADP	SPS00	_	38	case	_	Treeler:sp
-38	elas	el	PRON	PP3FP000	_	35	nmod	_	SpaceAfter=No|Treeler:sn
+38	elas	el	PRON	PP3FP000	PronType=Prs	35	nmod	_	SpaceAfter=No|Treeler:sn
 39	,	,	PUNCT	Fc	_	40	punct	_	Treeler:f
 40	polo	polo	NOUN	NCMS000	_	35	nmod	_	Treeler:sn
 41	que	que	PRON	PR0CN000	PronType=Rel	42	nsubj	_	Treeler:suj
@@ -32117,7 +32117,7 @@
 38	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	39	det	_	Treeler:spec
 39-40	deles	_	_	_	_	_	_	_	SpaceAfter=No
 39	de	de	ADP	SPS00	_	30	obl	_	Treeler:sn
-40	eles	el	PRON	PP3MP000	_	39	nmod	_	ToDo=nmod|Treeler:sn
+40	eles	el	PRON	PP3MP000	PronType=Prs	39	nmod	_	ToDo=nmod|Treeler:sn
 41	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
 # sent_id = test-793
@@ -33631,7 +33631,7 @@
 # sent_id = test-833
 # text = Entre eles podemos salientar as investigacións de Rojo (1979), Rodríguez Neira e Rubal Rodríguez (1987), Rubal Rodríguez (1992), Seminario de Sociolingüística da RAG (1995) e Monteagudo e Bouzada (2002).
 1	Entre	entre	ADP	SPS00	_	2	case	_	Treeler:cc
-2	eles	el	PRON	PP3MP000	_	4	obl	_	Treeler:sn
+2	eles	el	PRON	PP3MP000	PronType=Prs	4	obl	_	Treeler:sn
 3	podemos	poder	AUX	VMIP1P0	_	4	aux	_	Treeler:v
 4	salientar	salientar	VERB	VMN0000	_	0	root	_	Treeler:sentence
 5	as	o	DET	DA0FP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
