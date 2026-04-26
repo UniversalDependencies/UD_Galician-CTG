@@ -41,7 +41,7 @@
     <feat name="Poss" value="Yes" upos="DET">915</feat><!-- súa, seu, seus, súas, nosa, noso, nosos, nosas, meu, teu -->
     <feat name="PronType" value="Art" upos="DET">20226</feat><!-- o, a, os, as, un, unha, unhas -->
     <feat name="PronType" value="Dem" upos="DET,PRON">1295</feat><!-- este, esta, estes, estas, isto, ese, aqueles, iso, esa, aquelas -->
-    <feat name="PronType" value="Ind" upos="DET">683</feat><!-- outros, mesmo, outra, outras, outro, calquera, mesma, algún, algunhas, algunha -->
+    <feat name="PronType" value="Ind" upos="DET">905</feat><!-- outros, mesmo, outra, outras, outro, calquera, algúns, mesma, uns, moitas -->
     <feat name="PronType" value="Int" upos="DET">5</feat><!-- qué -->
     <feat name="PronType" value="Prs" upos="DET,PRON">3866</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
     <feat name="PronType" value="Rel" upos="DET,PRON">2756</feat><!-- que, como, cando, onde, cal, canto, quen, cales, cantos -->
