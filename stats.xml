@@ -33,11 +33,12 @@
     <tag name="VERB">11780</tag><!-- ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="4">
+  <feats unique="5">
     <feat name="Definite" value="Def" upos="DET">18187</feat><!-- o, a, os, as -->
+    <feat name="Definite" value="Ind" upos="DET">2039</feat><!-- un, unha, unhas -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SYM,VERB">169</feat><!-- táboa, de, +, 1, 10, 20, 23, 70, Capítulo, cadro -->
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
-    <feat name="PronType" value="Art" upos="DET">18187</feat><!-- o, a, os, as -->
+    <feat name="PronType" value="Art" upos="DET">20226</feat><!-- o, a, os, as, un, unha, unhas -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="29">
