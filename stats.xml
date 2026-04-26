@@ -33,15 +33,16 @@
     <tag name="VERB">11780</tag><!-- ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="11">
+  <feats unique="12">
     <feat name="Definite" value="Def" upos="DET">18187</feat><!-- o, a, os, as -->
     <feat name="Definite" value="Ind" upos="DET">2039</feat><!-- un, unha, unhas -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SYM,VERB">169</feat><!-- táboa, de, +, 1, 10, 20, 23, 70, Capítulo, cadro -->
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
+    <feat name="Poss" value="Yes" upos="DET">915</feat><!-- súa, seu, seus, súas, nosa, noso, nosos, nosas, meu, teu -->
     <feat name="PronType" value="Art" upos="DET">20226</feat><!-- o, a, os, as, un, unha, unhas -->
     <feat name="PronType" value="Dem" upos="DET,PRON">1295</feat><!-- este, esta, estes, estas, isto, ese, aqueles, iso, esa, aquelas -->
     <feat name="PronType" value="Ind" upos="DET">683</feat><!-- outros, mesmo, outra, outras, outro, calquera, mesma, algún, algunhas, algunha -->
-    <feat name="PronType" value="Prs" upos="PRON">2951</feat><!-- se, o, os, lle, me, nos, lles, eles, a, el -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">3866</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
     <feat name="PronType" value="Rel" upos="DET,PRON">2502</feat><!-- que, como, cal, quen, cales -->
     <feat name="PronType" value="Tot" upos="DET">464</feat><!-- cada, todo, todos, todas, toda -->
     <feat name="Reflex" value="Yes" upos="PRON">2181</feat><!-- se -->

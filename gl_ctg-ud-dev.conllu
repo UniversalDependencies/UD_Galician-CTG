@@ -505,7 +505,7 @@
 24-25	co	_	_	_	_	_	_	_	_
 24	con	con	ADP	SPS00	_	27	case	_	Treeler:cc
 25	o	o	DET	DA0MS0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
-26	seu	seu	DET	DP3MS0	_	27	det	_	Treeler:spec
+26	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	27	det	_	Treeler:spec
 27	amigo	amigo	NOUN	NCMS000	_	19	obl	_	Treeler:sn
 28	antes	antes	ADV	RG	_	19	case	_	ToDo=case-upos|Treeler:cc
 29	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
@@ -516,7 +516,7 @@
 33-34	no	_	_	_	_	_	_	_	_
 33	en	en	ADP	SPS00	_	36	case	_	Treeler:cc
 34	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
-35	seu	seu	DET	DP3MS0	_	36	det	_	Treeler:spec
+35	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	36	det	_	Treeler:spec
 36	disco	disco	NOUN	NCMS000	_	30	obl	_	SpaceAfter=No|Treeler:sn
 37	,	,	PUNCT	Fc	_	38	punct	_	Treeler:f
 38-39	converténdoa	_	_	_	_	_	_	_	_
@@ -729,7 +729,7 @@
 37	certo	certo	DET	DI0MS0	PronType=Ind	38	det	_	Treeler:spec
 38	grao	grao	NOUN	NCMS000	_	26	obl	_	Treeler:sn
 39	a	o	DET	DA0FS0	Definite=Def|PronType=Art	41	det	_	Treeler:spec
-40	nosa	noso	DET	DP1FSP	_	41	det	_	Treeler:spec
+40	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	41	det	_	Treeler:spec
 41	relación	relación	NOUN	NCFS000	_	26	obj	_	Treeler:cd
 42-43	coas	_	_	_	_	_	_	_	_
 42	con	con	ADP	SPS00	_	44	case	_	Treeler:sp
@@ -909,7 +909,7 @@
 14	sobre	sobre	ADP	SPS00	_	18	case	_	Treeler:sp
 15	todo	todo	DET	DI0MS0	PronType=Tot	16	det	_	Treeler:d
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	súa	seu	DET	DP3FS0	_	18	det	_	Treeler:spec
+17	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	incidencia	incidencia	NOUN	NCFS000	_	1	nmod	_	ToDo=nmod|Treeler:sn
 19-20	na	_	_	_	_	_	_	_	_
 19	en	en	ADP	SPS00	_	21	case	_	Treeler:sp
@@ -1140,7 +1140,7 @@
 30	osíxeno	osíxeno	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
 31	para	para	ADP	SPS00	_	34	case	_	Treeler:sp
 32	o	o	DET	DA0MS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
-33	seu	seu	DET	DP3MS0	_	34	det	_	Treeler:spec
+33	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	34	det	_	Treeler:spec
 34	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	30	nmod	_	SpaceAfter=No|Treeler:sn
 35	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 36	indicador	indicador	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
@@ -1225,7 +1225,7 @@
 24-25	do	_	_	_	_	_	_	_	_
 24	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
 25	o	o	DET	DA0MS0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
-26	seu	seu	DET	DP3MS0	_	27	det	_	Treeler:spec
+26	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	27	det	_	Treeler:spec
 27	provedor	provedor	NOUN	NCMS000	_	23	nmod	_	SpaceAfter=No|Treeler:sn
 28	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -1707,7 +1707,7 @@
 16	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	17	obj	_	Treeler:cd
 17	rexa	rexer	VERB	VMSP3S0	_	4	ccomp	_	Treeler:S
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	súa	seu	DET	DP3FS0	_	20	det	_	Treeler:spec
+19	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	20	det	_	Treeler:spec
 20	realización	realización	NOUN	NCFS000	_	17	obj	_	Treeler:cd
 21	orixinarán	orixinar	VERB	VMIF3P0	_	0	root	_	Treeler:sentence
 22	responsabilidades	responsabilidade	NOUN	NCFP000	_	21	obj	_	Treeler:cd
@@ -1768,7 +1768,7 @@
 2-3	ao	_	_	_	_	_	_	_	_
 2	a	a	ADP	SPS00	_	5	case	_	Treeler:sp
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-4	seu	seu	DET	DP3MS0	_	5	det	_	Treeler:spec
+4	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	5	det	_	Treeler:spec
 5	esforzo	esforzo	NOUN	NCMS000	_	1	nmod	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
 7	decenas	decena	NOUN	NCFP000	_	1	dep	_	Treeler:grup.nom
@@ -1812,7 +1812,7 @@
 2	PEIT	peit	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
 3	estrutura	estruturar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	os	o	DET	DA0MP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
-5	seus	seu	DET	DP3MP0	_	6	det	_	Treeler:spec
+5	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	6	det	_	Treeler:spec
 6	obxectivos	obxectivo	NOUN	NCMP000	_	3	obj	_	Treeler:cd
 7	en	en	ADP	SPS00	_	8	case	_	Treeler:sp
 8	catro	catro	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
@@ -2110,7 +2110,7 @@
 # sent_id = dev-51
 # text = O noso lecer perténcelles: a maioría das películas que presenciamos, os discos que consumimos, os media que contemplamos e os libros que lemos son propiedade dun reducido grupo de multinacionais alleas a todo tipo de control político ou social.
 1	O	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-2	noso	noso	DET	DP1MSP	_	3	det	_	Treeler:spec
+2	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	3	det	_	Treeler:spec
 3	lecer	lecer	NOUN	NCMS000	_	4	nsubj	_	Treeler:suj
 4-5	perténcelles	_	_	_	_	_	_	_	SpaceAfter=No
 4	pertence	pertencer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -3074,7 +3074,7 @@
 17-18	aos	_	_	_	_	_	_	_	_
 17	a	a	ADP	SPS00	_	16	obj	_	Treeler:cd
 18	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	seus	seu	DET	DP3MP0	_	20	det	_	Treeler:spec
+19	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	20	det	_	Treeler:spec
 20	familiares	familiar	ADJ	AQ0CP0	_	17	nmod	_	ToDo=nmod|Treeler:sn
 21	(	(	PUNCT	Fpa	_	22	punct	_	SpaceAfter=No|Treeler:f
 22	p=0,009	p=0,009	NUM	Z	_	20	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
@@ -3195,7 +3195,7 @@
 6	parece	parecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 7	conveniente	conveniente	ADJ	AQ0CS0	_	6	xcomp	_	Treeler:atr
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-9	súa	seu	DET	DP3FS0	_	10	det	_	Treeler:spec
+9	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	10	det	_	Treeler:spec
 10	constitución	constitución	NOUN	NCFS000	_	6	obj	_	Treeler:cd
 11-12	co	_	_	_	_	_	_	_	_
 11	con	con	ADP	SPS00	_	13	case	_	Treeler:sp
@@ -3234,7 +3234,7 @@
 1-2	Nas	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	4	case	_	Treeler:cc
 2	as	o	DET	DA0FP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	súas	seu	DET	DP3FP0	_	2	det	_	Treeler:d
+3	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	2	det	_	Treeler:d
 4	disposicións	disposición	NOUN	NCFP000	_	11	obl	_	Treeler:sn
 5	adicionais	adicional	ADJ	AQ0CP0	_	4	amod	_	Treeler:s.a
 6	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -3249,7 +3249,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	18	case	_	Treeler:creg
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	súa	seu	DET	DP3FS0	_	18	det	_	Treeler:spec
+17	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	entrada	entrada	NOUN	NCFS000	_	14	obl	_	Treeler:sn
 19	en	en	ADP	SPS00	_	20	case	_	Treeler:sp
 20	vigor	vigor	NOUN	NCMS000	_	18	nmod	_	Treeler:sn
@@ -3341,7 +3341,7 @@
 32	para	para	ADP	SPS00	_	33	case	_	Treeler:sp
 33	manter	manter	VERB	VMN0000	_	4	ccomp	_	Treeler:S
 34	o	o	DET	DA0MS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
-35	seu	seu	DET	DP3MS0	_	37	det	_	Treeler:spec
+35	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	37	det	_	Treeler:spec
 36	actual	actual	ADJ	AQ0CS0	_	37	amod	_	Treeler:s.a
 37	status	status	NOUN	NCMP000	_	33	obj	_	Treeler:cd
 38-39	no	_	_	_	_	_	_	_	_
@@ -3624,7 +3624,7 @@
 34-35	ao	_	_	_	_	_	_	_	_
 34	a	a	ADP	SPS00	_	33	obj	_	Treeler:cd
 35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
-36	seu	seu	DET	DP3MS0	_	37	det	_	Treeler:spec
+36	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	37	det	_	Treeler:spec
 37	arredor	arredor	NOUN	NCMS000	_	34	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 38	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
@@ -3662,7 +3662,7 @@
 1-2	Pola	_	_	_	_	_	_	_	_
 1	Por	por	ADP	SPS00	_	4	case	_	Treeler:cc
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	súa	seu	DET	DP3FS0	_	4	det	_	Treeler:spec
+3	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	parte	parte	NOUN	NCCS000	_	13	obl	_	SpaceAfter=No|Treeler:sn
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 6	López	lópez	PROPN	NP00000	_	13	nsubj	_	Treeler:suj
@@ -3853,7 +3853,7 @@
 30-31	do	_	_	_	_	_	_	_	_
 30	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	noso	noso	DET	DP1MSP	_	33	det	_	Treeler:spec
+32	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	tempo	tempo	NOUN	NCMS000	_	28	nmod	_	Treeler:sn
 34	e	e	CCONJ	CC	_	33	cc	_	ToDo=cc-without-conj|Treeler:coord
 35-36	dos	_	_	_	_	_	_	_	_
@@ -4292,7 +4292,7 @@
 # text = Cando o seu caso o precise, vostede será remitido polo seu médico de familia ou pediatra ó Servizo de Oftalmoloxía.
 1	Cando	cando	ADV	RG	_	4	advmod	_	Treeler:sadv
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	seu	seu	DET	DP3MS0	_	4	det	_	Treeler:spec
+3	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	caso	caso	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 5	o	o	PRON	PP3MSA00	PronType=Prs	6	obj	_	Treeler:cd
 6	precise	precisar	VERB	VMSP1S0	_	10	dep	_	SpaceAfter=No|Treeler:ao
@@ -4303,7 +4303,7 @@
 11-12	polo	_	_	_	_	_	_	_	_
 11	por	por	ADP	SPS00	_	14	case	_	Treeler:cag
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	seu	seu	DET	DP3MS0	_	14	det	_	Treeler:spec
+13	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	14	det	_	Treeler:spec
 14	médico	médico	NOUN	NCMS000	_	10	obl	_	Treeler:sn
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	familia	familia	NOUN	NCFS000	_	14	nmod	_	Treeler:sn
@@ -4520,7 +4520,7 @@
 5	entrega	entrega	NOUN	NCFS000	_	2	nmod	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 7	coa	coar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	data	data	NOUN	NCFS000	_	7	obj	_	Treeler:cd
 10	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	cantidade	cantidade	NOUN	NCFS000	_	9	dep	_	SpaceAfter=No|Treeler:grup.nom
@@ -5077,7 +5077,7 @@
 40-41	da	_	_	_	_	_	_	_	_
 40	de	de	ADP	SPS00	_	43	case	_	Treeler:sp
 41	a	o	DET	DA0FS0	Definite=Def|PronType=Art	43	det	_	Treeler:spec
-42	súa	seu	DET	DP3FS0	_	43	det	_	Treeler:spec
+42	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	43	det	_	Treeler:spec
 43	posición	posición	NOUN	NCFS000	_	39	nmod	_	Treeler:sn
 44	de	de	ADP	SPS00	_	45	case	_	Treeler:sp
 45	poder	poder	VERB	VMN0000	_	43	ccomp	_	SpaceAfter=No|Treeler:S
@@ -5269,7 +5269,7 @@
 9	está	estar	AUX	VMIP3S0	_	10	cop	_	Treeler:ao
 10	recomendada	recomendar	VERB	VMP00SF	_	17	dep	_	Treeler:atr
 11	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-12	súa	seu	DET	DP3FS0	_	13	det	_	Treeler:spec
+12	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 13	administración	administración	NOUN	NCFS000	_	10	nsubj	_	Treeler:suj
 14	sistemática	sistemático	ADJ	AQ0FS0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
@@ -5722,12 +5722,12 @@
 15	para	para	ADP	SPS00	_	16	case	_	Treeler:cc
 16	minguar	minguar	VERB	VMN0000	_	14	ccomp	_	Treeler:S
 17	á	á	NOUN	NCFS000	_	16	obj	_	Treeler:cd
-18	súa	seu	DET	DP3FS0	_	19	det	_	Treeler:spec
+18	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	19	det	_	Treeler:spec
 19	poboación	poboación	NOUN	NCFS000	_	16	obj	_	Treeler:cd
 20	e	e	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
 21	impedir	impedir	VERB	VMN0000	_	16	ccomp	_	Treeler:S
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
-23	seu	seu	DET	DP3MS0	_	24	det	_	Treeler:spec
+23	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	24	det	_	Treeler:spec
 24	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	21	obj	_	Treeler:cd
 25	económico	económico	ADJ	AQ0MS0	_	24	amod	_	Treeler:s.a
 26	e	e	CCONJ	CC	_	25	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -5919,7 +5919,7 @@
 5-6	na	_	_	_	_	_	_	_	_
 5	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 6	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-7	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+7	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 8	gran	gran	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
 9	maioría	maioría	NOUN	NCFS000	_	3	obl	_	SpaceAfter=No|Treeler:sn
 10	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
@@ -6040,7 +6040,7 @@
 20-21	na	_	_	_	_	_	_	_	_
 20	en	en	ADP	SPS00	_	23	case	_	Treeler:cc
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
-22	súa	seu	DET	DP3FS0	_	23	det	_	Treeler:spec
+22	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	23	det	_	Treeler:spec
 23	incorporación	incorporación	NOUN	NCFS000	_	17	obl	_	Treeler:sn
 24	social	social	ADJ	AQ0CS0	_	23	amod	_	SpaceAfter=No|Treeler:s.a
 25	,	,	PUNCT	Fc	_	28	punct	_	Treeler:f
@@ -6060,7 +6060,7 @@
 39-40	da	_	_	_	_	_	_	_	_
 39	de	de	ADP	SPS00	_	42	case	_	Treeler:creg
 40	a	o	DET	DA0FS0	Definite=Def|PronType=Art	42	det	_	Treeler:spec
-41	súa	seu	DET	DP3FS0	_	42	det	_	Treeler:spec
+41	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	42	det	_	Treeler:spec
 42	problemática	problemática	NOUN	NCFS000	_	38	obl	_	Treeler:sn
 43	xudicial	xudicial	ADJ	AQ0CS0	_	42	amod	_	SpaceAfter=No|Treeler:s.a
 44	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
@@ -6329,7 +6329,7 @@
 28-29	ó	_	_	_	_	_	_	_	_
 28	a	a	ADP	SPS00	_	31	case	_	Treeler:creg
 29	o	o	DET	DA0MS0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
-30	seu	seu	DET	DP3MS0	_	31	det	_	Treeler:spec
+30	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	31	det	_	Treeler:spec
 31	rol	rol	NOUN	NCMS000	_	27	obl	_	Treeler:sn
 32-33	na	_	_	_	_	_	_	_	_
 32	en	en	ADP	SPS00	_	34	case	_	Treeler:sp
@@ -6843,7 +6843,7 @@
 21-22	nas	_	_	_	_	_	_	_	_
 21	en	en	ADP	SPS00	_	24	case	_	Treeler:cc
 22	as	o	DET	DA0FP0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
-23	súas	seu	DET	DP3FP0	_	22	det	_	Treeler:d
+23	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	22	det	_	Treeler:d
 24	etapas	etapa	NOUN	NCFP000	_	13	obl	_	Treeler:sn
 25	máis	máis	ADV	RG	_	26	advmod	_	Treeler:spec
 26	iniciais	inicial	ADJ	AQ0CP0	_	24	amod	_	SpaceAfter=No|Treeler:s.a
@@ -6892,7 +6892,7 @@
 36-37	na	_	_	_	_	_	_	_	_
 36	en	en	ADP	SPS00	_	39	case	_	Treeler:cc
 37	a	o	DET	DA0FS0	Definite=Def|PronType=Art	39	det	_	Treeler:spec
-38	nosa	noso	DET	DP1FSP	_	39	det	_	Treeler:spec
+38	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	39	det	_	Treeler:spec
 39	economía	economía	NOUN	NCFS000	_	34	obl	_	SpaceAfter=No|Treeler:sn
 40	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -6987,7 +6987,7 @@
 16	o	o	DET	DA0MS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
 17	que	que	SCONJ	CS	_	21	mark	_	Treeler:conj
 18	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	nosos	noso	DET	DP1MPP	_	20	det	_	Treeler:spec
+19	nosos	noso	DET	DP1MPP	Poss=Yes|PronType=Prs	20	det	_	Treeler:spec
 20	mozos	mozo	NOUN	NCMP000	_	21	nsubj	_	Treeler:suj
 21	constrúen	construír	VERB	VMIP3P0	_	11	nsubj	_	Treeler:suj
 22-23	na	_	_	_	_	_	_	_	_
@@ -6995,7 +6995,7 @@
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
 24	actualidade	actualidade	NOUN	NCFS000	_	21	obl	_	Treeler:sn
 25	as	o	DET	DA0FP0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
-26	súas	seu	DET	DP3FP0	_	27	det	_	Treeler:spec
+26	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	27	det	_	Treeler:spec
 27	identidades	identidade	NOUN	NCFP000	_	21	obj	_	SpaceAfter=No|Treeler:cd
 28	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -7004,7 +7004,7 @@
 1-2	No	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	4	case	_	Treeler:cc
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	seu	seu	DET	DP3MS0	_	4	det	_	Treeler:spec
+3	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	título	título	NOUN	NCMS000	_	6	obl	_	Treeler:sn
 5	primeiro	primeiro	ADJ	AO0MS0	_	4	amod	_	Treeler:s.a
 6	establece	establecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -7137,7 +7137,7 @@
 29	inmigrante	inmigrante	ADJ	AQ0CS0	_	27	amod	_	Treeler:s.a
 30	e	e	CCONJ	CC	_	27	cc	_	ToDo=cc-without-conj|Treeler:coord
 31	as	o	DET	DA0FP0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	súas	seu	DET	DP3FP0	_	33	det	_	Treeler:spec
+32	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	institucións	institución	NOUN	NCFP000	_	27	nmod	_	Treeler:sn
 34-35	no	_	_	_	_	_	_	_	_
 34	en	en	ADP	SPS00	_	36	case	_	Treeler:sp
@@ -7295,7 +7295,7 @@
 29	,	,	PUNCT	Fc	_	30	punct	_	Treeler:f
 30	e	e	CCONJ	CC	_	2	cc	_	ToDo=cc-without-conj|Treeler:coord
 31	a	o	DET	DA0FS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	súa	seu	DET	DP3FS0	_	33	det	_	Treeler:spec
+32	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	normativa	normativa	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 34	de	de	ADP	SPS00	_	35	case	_	Treeler:sp
 35	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	33	nmod	_	SpaceAfter=No|Treeler:sn
@@ -7488,7 +7488,7 @@
 18	sector	sector	NOUN	NCMS000	_	15	nmod	_	Treeler:sn
 19	segundo	segundo	ADP	SPS00	_	22	case	_	Treeler:cc
 20	o	o	DET	DA0MS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	seu	seu	DET	DP3MS0	_	22	det	_	Treeler:spec
+21	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	volume	volume	NOUN	NCMS000	_	13	obl	_	Treeler:sn
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 24	facturación	facturación	NOUN	NCFS000	_	22	nmod	_	SpaceAfter=No|Treeler:sn
@@ -7929,7 +7929,7 @@
 16-17	das	_	_	_	_	_	_	_	_
 16	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 17	as	o	DET	DA0FP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-18	súas	seu	DET	DP3FP0	_	19	det	_	Treeler:spec
+18	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	19	det	_	Treeler:spec
 19	necesidades	necesidade	NOUN	NCFP000	_	14	nmod	_	SpaceAfter=No|Treeler:sn
 20	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 21	producindo	producir	VERB	VMG0000	_	9	case	_	ToDo=case-upos|Treeler:cc
@@ -8042,7 +8042,7 @@
 19-20	atende-los	_	_	_	_	_	_	_	_
 19	atender	atender	VERB	VMN0000	_	17	ccomp	_	Treeler:S
 20	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	seus	seu	DET	DP3MP0	_	22	det	_	Treeler:spec
+21	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	asuntos	asunto	NOUN	NCMP000	_	19	obj	_	SpaceAfter=No|Treeler:cd
 23	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 24	así	así	ADV	RG	_	27	case	_	Treeler:cc
@@ -8082,7 +8082,7 @@
 19-20	pola	_	_	_	_	_	_	_	_
 19	por	por	ADP	SPS00	_	22	case	_	Treeler:cc
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	súa	seu	DET	DP3FS0	_	22	det	_	Treeler:spec
+21	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	política	política	NOUN	NCFS000	_	16	obl	_	Treeler:sn
 23	pero	pero	CCONJ	CC	_	16	cc	_	ToDo=cc-without-conj|Treeler:coord
 24	que	que	PRON	PR0CN000	PronType=Rel	25	nsubj	_	Treeler:suj
@@ -8096,7 +8096,7 @@
 31-32	do	_	_	_	_	_	_	_	_
 31	de	de	ADP	SPS00	_	34	case	_	Treeler:sp
 32	o	o	DET	DA0MS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
-33	seu	seu	DET	DP3MS0	_	34	det	_	Treeler:spec
+33	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	34	det	_	Treeler:spec
 34	programa	programa	NOUN	NCMS000	_	30	nmod	_	SpaceAfter=No|Treeler:sn
 35	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
 
@@ -8205,7 +8205,7 @@
 8	deciden	decidir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 9	desenvolver	desenvolver	VERB	VMN0000	_	8	obj	_	Treeler:cd
 10	o	o	DET	DA0MS0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-11	seu	seu	DET	DP3MS0	_	12	det	_	Treeler:spec
+11	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	12	det	_	Treeler:spec
 12	ciclo	ciclo	NOUN	NCMS000	_	9	obj	_	Treeler:cd
 13	migratorio	migratorio	ADJ	AQ0MS0	_	12	amod	_	Treeler:s.a
 14	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -8223,7 +8223,7 @@
 25	medida	medida	NOUN	NCFS000	_	26	obl	_	Treeler:sn
 26	facilita	facilitar	VERB	VMIP3S0	_	18	ccomp	_	Treeler:S
 27	a	o	DET	DA0FS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-28	súa	seu	DET	DP3FS0	_	29	det	_	Treeler:spec
+28	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	29	det	_	Treeler:spec
 29	regularización	regularización	NOUN	NCFS000	_	26	obj	_	Treeler:cd
 30	xurídica	xurídico	ADJ	AQ0FS0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
 31	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
@@ -8467,7 +8467,7 @@
 22-23	polos	_	_	_	_	_	_	_	_
 22	por	por	ADP	SPS00	_	26	case	_	Treeler:cag
 23	os	o	DET	DA0MP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-24	seus	seu	DET	DP3MP0	_	26	det	_	Treeler:spec
+24	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	26	det	_	Treeler:spec
 25	respectivos	respectivo	ADJ	AQ0MP0	_	26	amod	_	Treeler:s.a
 26	titores	titor	NOUN	NCMP000	_	21	obl	_	SpaceAfter=No|Treeler:sn
 27	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
@@ -8493,7 +8493,7 @@
 16	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 17	dependendo	depender	VERB	VMG0000	_	13	case	_	ToDo=case-upos|Treeler:cc
 18	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	seu	seu	DET	DP3MS0	_	20	det	_	Treeler:spec
+19	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	20	det	_	Treeler:spec
 20	uso	uso	NOUN	NCMS000	_	13	obj	_	Treeler:cd
 21-22	da	_	_	_	_	_	_	_	_
 21	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
@@ -9083,7 +9083,7 @@
 3	lado	lado	NOUN	NCMS000	_	9	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
-6	súa	seu	DET	DP3FS0	_	7	det	_	Treeler:spec
+6	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	7	det	_	Treeler:spec
 7	incineración	incineración	NOUN	NCFS000	_	9	nsubj	_	Treeler:suj
 8	incontrolada	incontrolado	ADJ	AQ0FS0	_	7	amod	_	Treeler:s.a
 9	dá	dar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -9167,7 +9167,7 @@
 1-2	No	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	4	case	_	Treeler:cc
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	seu	seu	DET	DP3MS0	_	4	det	_	Treeler:spec
+3	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	defecto	defecto	NOUN	NCMS000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 6-7	entenderase	_	_	_	_	_	_	_	_
@@ -9538,7 +9538,7 @@
 22	atípicos	atípico	ADJ	AQ0MP0	_	21	amod	_	Treeler:s.a
 23	dado	dar	VERB	VMP00SM	_	19	ccomp	_	Treeler:S
 24	o	o	DET	DA0MS0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
-25	seu	seu	DET	DP3MS0	_	27	det	_	Treeler:spec
+25	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	27	det	_	Treeler:spec
 26	elevado	elevado	ADJ	AQ0MS0	_	27	amod	_	Treeler:s.a
 27	nivel	nivel	NOUN	NCMS000	_	23	obj	_	Treeler:cd
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
@@ -9751,7 +9751,7 @@
 15	1995	1995	NUM	Z	_	13	nmod	_	Treeler:sn
 16	e	e	CCONJ	CC	_	2	cc	_	ToDo=cc-without-conj|Treeler:coord
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-18	súa	seu	DET	DP3FS0	_	19	det	_	Treeler:spec
+18	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	19	det	_	Treeler:spec
 19	normativa	normativa	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 20	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 21	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	19	nmod	_	Treeler:sn
@@ -9859,7 +9859,7 @@
 15-16	no	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
 16	o	o	DET	DA0MS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	seu	seu	DET	DP3MS0	_	18	det	_	Treeler:spec
+17	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	conxunto	conxunto	NOUN	NCMS000	_	10	obl	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 20	mentres	mentres	ADV	RG	_	10	case	_	ToDo=case-upos|Treeler:cc
@@ -9925,7 +9925,7 @@
 8	tuberculose	tuberculose	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
 9	e	e	CCONJ	CC	_	2	cc	_	ToDo=cc-without-conj|Treeler:coord
 10	o	o	DET	DA0MS0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-11	seu	seu	DET	DP3MS0	_	12	det	_	Treeler:spec
+11	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	12	det	_	Treeler:spec
 12	tratamento	tratamento	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 13	precoz	precoz	ADJ	AQ0CS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
@@ -9992,7 +9992,7 @@
 33	para	para	ADP	SPS00	_	34	case	_	Treeler:sp
 34	aumentar	aumentar	VERB	VMN0000	_	32	ccomp	_	Treeler:S
 35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
-36	seu	seu	DET	DP3MS0	_	37	det	_	Treeler:spec
+36	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	37	det	_	Treeler:spec
 37	rendemento	rendemento	NOUN	NCMS000	_	34	obj	_	Treeler:cd
 38	ecolóxico	ecolóxico	ADJ	AQ0MS0	_	37	amod	_	SpaceAfter=No|Treeler:s.a
 39	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
@@ -10081,7 +10081,7 @@
 19	anciáns	ancián	NOUN	NCMP000	_	17	nmod	_	ToDo=nmod|Treeler:sn
 20	e	e	CCONJ	CC	_	19	cc	_	ToDo=cc-without-conj|Treeler:coord
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
-22	súa	seu	DET	DP3FS0	_	23	det	_	Treeler:spec
+22	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	23	det	_	Treeler:spec
 23	forma	forma	NOUN	NCFS000	_	19	nmod	_	Treeler:sn
 24	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 25-26	afronta-los	_	_	_	_	_	_	_	_
@@ -10114,7 +10114,7 @@
 14-15	na	_	_	_	_	_	_	_	_
 14	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
-16	súa	seu	DET	DP3FS0	_	17	det	_	Treeler:spec
+16	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	17	det	_	Treeler:spec
 17	zona	zona	NOUN	NCFS000	_	22	obl	_	Treeler:sn
 18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 19	influencia	influencia	NOUN	NCFS000	_	17	nmod	_	SpaceAfter=No|Treeler:sn
@@ -10212,7 +10212,7 @@
 26	que	que	PRON	PR0CN000	PronType=Rel	27	nsubj	_	Treeler:suj
 27	apoian	apoiar	VERB	VMIP3P0	_	24	ccomp	_	Treeler:S
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	súa	seu	DET	DP3FS0	_	30	det	_	Treeler:spec
+29	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	inclusión	inclusión	NOUN	NCFS000	_	27	obj	_	Treeler:cd
 31-32	neste	_	_	_	_	_	_	_	_
 31	en	en	ADP	SPS00	_	33	case	_	Treeler:sp
@@ -10247,7 +10247,7 @@
 23-24	pola	_	_	_	_	_	_	_	_
 23	por	por	ADP	SPS00	_	26	case	_	Treeler:cc
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	súa	seu	DET	DP3FS0	_	26	det	_	Treeler:spec
+25	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	26	det	_	Treeler:spec
 26	conta	conta	NOUN	NCFS000	_	22	obl	_	Treeler:sn
 27	nin	nin	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord
 28	tome	tomar	VERB	VMSP1S0	_	22	ccomp	_	Treeler:S
@@ -10257,7 +10257,7 @@
 32	pero	pero	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord
 33	informe	informe	NOUN	NCMS000	_	22	ccomp	_	Treeler:S
 34	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
-35	seu	seu	DET	DP3MS0	_	36	det	_	Treeler:spec
+35	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	36	det	_	Treeler:spec
 36	médico	médico	NOUN	NCMS000	_	33	nmod	_	Treeler:sn
 37-38	do	_	_	_	_	_	_	_	_
 37	de	de	ADP	SPS00	_	39	case	_	Treeler:sp
@@ -10391,7 +10391,7 @@
 31	Vigo	vigo	PROPN	NP00000	_	27	nmod	_	Treeler:sn
 32	desenvolveu	desenvolver	VERB	VMIS3S0	_	23	nsubj	_	Treeler:suj
 33	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
-34	seu	seu	DET	DP3MS0	_	36	det	_	Treeler:spec
+34	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	36	det	_	Treeler:spec
 35	propio	propio	DET	DI0MS0	_	34	det	_	Treeler:d
 36	plan	plan	NOUN	NCMS000	_	32	obj	_	Treeler:cd
 37	estratéxico	estratéxico	ADJ	AQ0MS0	_	36	amod	_	SpaceAfter=No|Treeler:s.a
@@ -10620,7 +10620,7 @@
 14	chama	chamar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 15	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	dep	_	Treeler:morfema.pronominal
 16	o	o	DET	DA0MS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-17	seu	seu	DET	DP3MS0	_	19	det	_	Treeler:spec
+17	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	19	det	_	Treeler:spec
 18	lado	lado	NOUN	NCMS000	_	19	amod	_	Treeler:s.a
 19	frío	frío	NOUN	NCMS000	_	14	obj	_	SpaceAfter=No|Treeler:cd
 20	;	;	PUNCT	Fx	_	29	punct	_	Treeler:f
@@ -10632,7 +10632,7 @@
 25	dereita	dereita	NOUN	NCFS000	_	22	nmod	_	Treeler:sn
 26	é	ser	AUX	VSIP3S0	_	29	cop	_	Treeler:S
 27	o	o	DET	DA0MS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-28	seu	seu	DET	DP3MS0	_	29	det	_	Treeler:spec
+28	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	29	det	_	Treeler:spec
 29	lado	lado	NOUN	NCMS000	_	14	ccomp	_	Treeler:atr
 30	cálido	cálido	ADJ	AQ0MS0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
 31	.	.	PUNCT	Fp	_	14	punct	_	Treeler:f
@@ -10718,7 +10718,7 @@
 23-24	ao	_	_	_	_	_	_	_	_
 23	a	a	ADP	SPS00	_	22	obj	_	Treeler:cd
 24	o	o	DET	DA0MS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	seu	seu	DET	DP3MS0	_	26	det	_	Treeler:spec
+25	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	26	det	_	Treeler:spec
 26	fin	fin	NOUN	NCFS000	_	23	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 27	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
 
@@ -10947,7 +10947,7 @@
 41-42	coas	_	_	_	_	_	_	_	_
 41	con	con	ADP	SPS00	_	45	case	_	Treeler:cc
 42	as	o	DET	DA0FP0	Definite=Def|PronType=Art	45	det	_	Treeler:spec
-43	súas	seu	DET	DP3FP0	_	45	det	_	Treeler:spec
+43	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	45	det	_	Treeler:spec
 44	respectivas	respectivo	ADJ	AQ0FP0	_	45	amod	_	Treeler:s.a
 45	terrazas	terraza	NOUN	NCFP000	_	39	obl	_	Treeler:sn
 46	fluvioglaciares	fluvioglaciares	ADJ	AQ0CP0	_	45	amod	_	SpaceAfter=No|Treeler:s.a
@@ -10976,7 +10976,7 @@
 18	beneficios	beneficio	NOUN	NCMP000	_	16	dep	_	Treeler:grup.nom
 19	segundo	segundo	ADP	SPS00	_	22	case	_	Treeler:cc
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	súa	seu	DET	DP3FS0	_	22	det	_	Treeler:spec
+21	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	distancia	distancia	NOUN	NCFS000	_	14	obl	_	Treeler:sn
 23-24	no	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
@@ -11033,7 +11033,7 @@
 1	Para	para	ADP	SPS00	_	2	case	_	Treeler:cc
 2	conquistar	conquistar	VERB	VMN0000	_	10	ccomp	_	Treeler:S
 3	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-4	nosa	noso	DET	DP1FSP	_	5	det	_	Treeler:spec
+4	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	5	det	_	Treeler:spec
 5	liberdade	liberdade	NOUN	NCFS000	_	2	obj	_	Treeler:cd
 6	económica	económico	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 7	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -11050,7 +11050,7 @@
 18	Gandhi	gandhi	PROPN	NP00000	_	16	nmod	_	SpaceAfter=No|Treeler:sn
 19	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 20	ás	á	NOUN	NCFP000	_	18	nmod	_	Treeler:sn
-21	súas	seu	DET	DP3FP0	_	22	det	_	Treeler:spec
+21	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	ideas	idea	NOUN	NCFP000	_	18	nmod	_	Treeler:sn
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 24	autogoberno	autogoberno	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
@@ -11067,7 +11067,7 @@
 3-4	da	_	_	_	_	_	_	_	_
 3	de	de	ADP	SPS00	_	6	case	_	Treeler:cc
 4	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
-5	súa	seu	DET	DP3FS0	_	6	det	_	Treeler:spec
+5	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	6	det	_	Treeler:spec
 6	constitución	constitución	NOUN	NCFS000	_	2	obl	_	SpaceAfter=No|Treeler:sn
 7	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 8	SOGAMA	sogama	NOUN	NCFS000	_	10	obl	_	Treeler:sn
@@ -11120,7 +11120,7 @@
 22-23	no	_	_	_	_	_	_	_	_
 22	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
 23	o	o	DET	DA0MS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	seu	seu	DET	DP3MS0	_	25	det	_	Treeler:spec
+24	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	25	det	_	Treeler:spec
 25	punto	punto	NOUN	NCMS000	_	21	obl	_	Treeler:sn
 26	oitavo	oitavar	VERB	VMIP1S0	_	21	ccomp	_	Treeler:S
 27	que	que	SCONJ	CS	_	35	mark	_	Treeler:conj
@@ -11575,7 +11575,7 @@
 27	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 28	que	que	SCONJ	CS	_	8	mark	_	Treeler:conj
 29	as	o	DET	DA0FP0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
-30	súas	seu	DET	DP3FP0	_	29	det	_	Treeler:d
+30	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	29	det	_	Treeler:d
 31	carencias	carencia	NOUN	NCFP000	_	8	nsubj	_	Treeler:suj
 32	impulsaron	impulsar	VERB	VMIS3P0	_	8	case	_	ToDo=case-upos|Treeler:cc
 33	a	o	DET	DA0FS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
@@ -12476,7 +12476,7 @@
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	evolución	evolución	NOUN	NCFS000	_	4	obl	_	Treeler:sn
 10	morfolóxica	morfolóxico	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
 11	pasada	pasado	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
@@ -12486,7 +12486,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	súa	seu	DET	DP3FS0	_	18	det	_	Treeler:spec
+17	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	posición	posición	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
 19	latitudinal	latitudinal	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
 20	e	e	CCONJ	CC	_	4	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -12700,7 +12700,7 @@
 7-8	na	_	_	_	_	_	_	_	_
 7	en	en	ADP	SPS00	_	19	case	_	Treeler:cc
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-9	súa	seu	DET	DP3FS0	_	10	det	_	Treeler:spec
+9	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	10	det	_	Treeler:spec
 10	elaboración	elaboración	NOUN	NCFS000	_	19	nsubj	_	Treeler:suj
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
@@ -12897,7 +12897,7 @@
 43-44	da	_	_	_	_	_	_	_	_
 43	de	de	ADP	SPS00	_	46	case	_	Treeler:sp
 44	a	o	DET	DA0FS0	Definite=Def|PronType=Art	46	det	_	Treeler:spec
-45	súa	seu	DET	DP3FS0	_	46	det	_	Treeler:spec
+45	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	46	det	_	Treeler:spec
 46	calidade	calidade	NOUN	NCFS000	_	42	nmod	_	SpaceAfter=No|Treeler:sn
 47	.	.	PUNCT	Fp	_	20	punct	_	Treeler:f
 
@@ -12932,7 +12932,7 @@
 25	será	ser	AUX	VSIF3S0	_	26	cop	_	Treeler:S
 26	difícil	difícil	ADJ	AQ0CS0	_	18	ccomp	_	Treeler:atr
 27	a	o	DET	DA0FS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-28	súa	seu	DET	DP3FS0	_	29	det	_	Treeler:spec
+28	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	29	det	_	Treeler:spec
 29	execución	execución	NOUN	NCFS000	_	26	nsubj	_	SpaceAfter=No|Treeler:suj
 30	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 31	agás	agás	ADP	SPS00	_	34	case	_	Treeler:cc
@@ -12954,7 +12954,7 @@
 # sent_id = dev-316
 # text = A súa primeira intención é ser enfermeira pero os postos están xa cubertos e ela está disposta a ir á fronte.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-2	súa	seu	DET	DP3FS0	_	4	det	_	Treeler:spec
+2	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 3	primeira	primeiro	ADJ	AO0FS0	_	4	amod	_	Treeler:s.a
 4	intención	intención	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 5	é	ser	AUX	VSIP3S0	_	7	cop	_	Treeler:sentence
@@ -13129,7 +13129,7 @@
 14-15	resolve-los	_	_	_	_	_	_	_	_
 14	resolver	resolver	VERB	VMN0000	_	18	dep	_	Treeler:infinitiu
 15	os	o	DET	DA0MP0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
-16	seus	seu	DET	DP3MP0	_	17	det	_	Treeler:spec
+16	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	17	det	_	Treeler:spec
 17	problemas	problema	NOUN	NCMP000	_	14	obj	_	Treeler:cd
 18-19	limitándose	_	_	_	_	_	_	_	_
 18	limitando	limitar	VERB	VMG0000	_	7	ccomp	_	Treeler:S
@@ -13297,7 +13297,7 @@
 19	e	e	CCONJ	CC	_	18	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	ampliando	ampliar	VERB	VMG0000	_	18	ccomp	_	Treeler:S
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
-22	súa	seu	DET	DP3FS0	_	23	det	_	Treeler:spec
+22	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	23	det	_	Treeler:spec
 23	influencia	influencia	NOUN	NCFS000	_	20	obj	_	Treeler:cd
 24-25	na	_	_	_	_	_	_	_	_
 24	en	en	ADP	SPS00	_	27	case	_	Treeler:cc
@@ -13393,7 +13393,7 @@
 33	deben	deber	AUX	VMIP3P0	_	34	aux	_	Treeler:v
 34	encontrar	encontrar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
 35	a	o	DET	DA0FS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
-36	súa	seu	DET	DP3FS0	_	37	det	_	Treeler:spec
+36	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	37	det	_	Treeler:spec
 37	plasmación	plasmación	NOUN	NCFS000	_	34	obj	_	Treeler:cd
 38-39	na	_	_	_	_	_	_	_	_
 38	en	en	ADP	SPS00	_	40	case	_	Treeler:cc
@@ -13765,7 +13765,7 @@
 31-32	dos	_	_	_	_	_	_	_	_
 31	de	de	ADP	SPS00	_	34	case	_	Treeler:cc
 32	os	o	DET	DA0MP0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
-33	seus	seu	DET	DP3MP0	_	34	det	_	Treeler:spec
+33	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	34	det	_	Treeler:spec
 34	resultados	resultado	NOUN	NCMP000	_	30	obl	_	SpaceAfter=No|Treeler:sn
 35	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -13934,7 +13934,7 @@
 11-12	do	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	seu	seu	DET	DP3MS0	_	14	det	_	Treeler:spec
+13	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	14	det	_	Treeler:spec
 14	Pleno	pleno	NOUN	NCMS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 16	as	o	DET	DA0FP0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -14001,7 +14001,7 @@
 25	cales	cal	PRON	PR0CP000	PronType=Rel	29	nsubj	_	Treeler:suj
 26	son	ser	AUX	VSIP1S0	_	29	cop	_	Treeler:S
 27	os	o	DET	DA0MP0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-28	seus	seu	DET	DP3MP0	_	29	det	_	Treeler:spec
+28	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	29	det	_	Treeler:spec
 29	límites	límite	NOUN	NCMP000	_	21	ccomp	_	SpaceAfter=No|Treeler:atr
 30	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
@@ -14033,7 +14033,7 @@
 21	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 22	sendo	ser	AUX	VSG0000	_	25	cop	_	Treeler:sn
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	súa	seu	DET	DP3FS0	_	25	det	_	Treeler:spec
+24	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	25	det	_	Treeler:spec
 25	abordaxe	abordaxe	NOUN	NCFS000	_	20	nmod	_	ToDo=nmod|Treeler:atr
 26	multidisciplinar	multidisciplinar	ADJ	AQ0FS0	_	25	amod	_	SpaceAfter=No|Treeler:s.a
 27	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
@@ -14201,7 +14201,7 @@
 24	modo	modo	NOUN	NCMS000	_	22	obl	_	Treeler:sn
 25	duradeiro	duradeiro	ADJ	AQ0MS0	_	24	amod	_	Treeler:s.a
 26	o	o	DET	DA0MS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
-27	seu	seu	DET	DP3MS0	_	28	det	_	Treeler:spec
+27	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	28	det	_	Treeler:spec
 28	patrimonio	patrimonio	NOUN	NCMS000	_	21	obj	_	Treeler:cd
 29-30	á	_	_	_	_	_	_	_	_
 29	a	a	ADP	SPS00	_	31	case	_	Treeler:sp
@@ -14228,7 +14228,7 @@
 8-9	do	_	_	_	_	_	_	_	_
 8	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
 9	o	o	DET	DA0MS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
-10	seu	seu	DET	DP3MS0	_	11	det	_	Treeler:spec
+10	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	11	det	_	Treeler:spec
 11	uso	uso	NOUN	NCMS000	_	3	obl	_	Treeler:sn
 12-13	evítase	_	_	_	_	_	_	_	_
 12	evita	evitar	VERB	VMIP3S0	_	3	ccomp	_	Treeler:S
@@ -14253,7 +14253,7 @@
 31	auga	auga	NOUN	NCFS000	_	26	nmod	_	Treeler:sn
 32	para	para	ADP	SPS00	_	35	case	_	Treeler:cc
 33	o	o	DET	DA0MS0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
-34	seu	seu	DET	DP3MS0	_	35	det	_	Treeler:spec
+34	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	35	det	_	Treeler:spec
 35	arrastre	arrastre	NOUN	NCMS000	_	21	obl	_	SpaceAfter=No|Treeler:sn
 36	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
 
@@ -14642,7 +14642,7 @@
 21	célula	célula	NOUN	NCFS000	_	17	obl	_	Treeler:sn
 22	ata	ata	ADP	SPS00	_	25	case	_	Treeler:cc
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	súa	seu	DET	DP3FS0	_	25	det	_	Treeler:spec
+24	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	25	det	_	Treeler:spec
 25	destrucción	destrucción	NOUN	NCFS000	_	17	obl	_	Treeler:sn
 26	e	e	CCONJ	CC	_	25	cc	_	ToDo=cc-without-conj|Treeler:coord
 27	posterior	posterior	ADJ	AQ0CS0	_	28	amod	_	Treeler:s.a
@@ -14855,7 +14855,7 @@
 9	empresa	empresa	NOUN	NCFS000	_	6	obl	_	SpaceAfter=No|Treeler:sn
 10	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 11	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-12	seu	seu	DET	DP3MS0	_	13	det	_	Treeler:spec
+12	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 13	crecemento	crecemento	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
 14	sostible	sostible	ADJ	AQ0CS0	_	13	amod	_	Treeler:s.a
 15	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -15388,17 +15388,17 @@
 25-26	da	_	_	_	_	_	_	_	_
 25	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
 26	a	o	DET	DA0FS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
-27	nosa	noso	DET	DP1FSP	_	28	det	_	Treeler:spec
+27	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	28	det	_	Treeler:spec
 28	flota	flota	NOUN	NCFS000	_	24	nmod	_	Treeler:sn
 29	ás	á	NOUN	NCFP000	_	28	nmod	_	Treeler:sn
-30	nosas	noso	DET	DP1FPP	_	31	det	_	Treeler:spec
+30	nosas	noso	DET	DP1FPP	Poss=Yes|PronType=Prs	31	det	_	Treeler:spec
 31	posibilidades	posibilidade	NOUN	NCFP000	_	35	obj	_	Treeler:cd
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 33	pesca	pesca	NOUN	NCFS000	_	31	nmod	_	SpaceAfter=No|Treeler:sn
 34	,	,	PUNCT	Fc	_	31	punct	_	Treeler:f
 35	evitando	evitar	VERB	VMG0000	_	22	ccomp	_	Treeler:S
 36	a	o	DET	DA0FS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
-37	súa	seu	DET	DP3FS0	_	38	det	_	Treeler:spec
+37	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	38	det	_	Treeler:spec
 38	infrautilización	infrautilización	NOUN	NCFS000	_	35	obj	_	Treeler:cd
 39	ou	ou	CCONJ	CC	_	38	cc	_	ToDo=cc-without-conj|Treeler:coord
 40	sobredimensión	sobredimensión	NOUN	NCFS000	_	38	dep	_	SpaceAfter=No|Treeler:grup.nom
@@ -15407,7 +15407,7 @@
 # sent_id = dev-373
 # text = A súa incorporación á vida económica e social ofrece innumerables vantaxes, como a mellora da eficiencia empresarial, o incremento das posibilidades de elección dos usuarios e a aparición de novas fontes de emprego.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-2	súa	seu	DET	DP3FS0	_	3	det	_	Treeler:spec
+2	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	3	det	_	Treeler:spec
 3	incorporación	incorporación	NOUN	NCFS000	_	10	nsubj	_	Treeler:suj
 4-5	á	_	_	_	_	_	_	_	_
 4	a	a	ADP	SPS00	_	6	case	_	Treeler:sp
@@ -15519,7 +15519,7 @@
 35-36	na	_	_	_	_	_	_	_	_
 35	en	en	ADP	SPS00	_	38	case	_	Treeler:sp
 36	a	o	DET	DA0FS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
-37	súa	seu	DET	DP3FS0	_	38	det	_	Treeler:spec
+37	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	38	det	_	Treeler:spec
 38	normativa	normativa	NOUN	NCFS000	_	34	nmod	_	Treeler:sn
 39	específica	específico	ADJ	AQ0FS0	_	38	amod	_	SpaceAfter=No|Treeler:s.a
 40	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
@@ -15766,13 +15766,13 @@
 9-10	dos	_	_	_	_	_	_	_	_
 9	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 10	os	o	DET	DA0MP0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-11	seus	seu	DET	DP3MP0	_	13	det	_	Treeler:spec
+11	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 12	maiores	maior	ADJ	AQ0CP0	_	13	amod	_	Treeler:s.a
 13	andaluces	andaluz	NOUN	NCMP000	_	7	nmod	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 15	ou	ou	CCONJ	CC	_	18	cc	_	Treeler:coord
 16	os	o	DET	DA0MP0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	nosos	noso	DET	DP1MPP	_	18	det	_	Treeler:spec
+17	nosos	noso	DET	DP1MPP	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	prexuízos	prexuízo	NOUN	NCMP000	_	21	nsubj	_	Treeler:suj
 19	que	que	PRON	PR0CN000	PronType=Rel	21	nsubj	_	Treeler:suj
 20	poderían	poder	AUX	VMIC3P0	_	21	aux	_	Treeler:v
@@ -15781,7 +15781,7 @@
 23	esa	ese	DET	DD0FS0	PronType=Dem	24	det	_	Treeler:spec
 24	orixe	orixe	NOUN	NCFS000	_	21	obl	_	Treeler:sn
 25	a	o	DET	DA0FS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
-26	súa	seu	DET	DP3FS0	_	28	det	_	Treeler:spec
+26	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	28	det	_	Treeler:spec
 27	escasa	escaso	ADJ	AQ0FS0	_	28	amod	_	Treeler:s.a
 28	producción	producción	NOUN	NCFS000	_	21	obj	_	Treeler:cd
 29	total	total	ADJ	AQ0CS0	_	28	amod	_	SpaceAfter=No|Treeler:s.a
@@ -15806,7 +15806,7 @@
 15	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
 16	fume	fumar	VERB	VMSP1S0	_	13	ccomp	_	Treeler:S
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-18	súa	seu	DET	DP3FS0	_	20	det	_	Treeler:spec
+18	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	20	det	_	Treeler:spec
 19	mellor	mellor	ADJ	AQ0CS0	_	20	amod	_	Treeler:s.a
 20	amizade	amizade	NOUN	NCFS000	_	16	obj	_	Treeler:cd
 21	(	(	PUNCT	Fpa	_	23	punct	_	SpaceAfter=No|Treeler:f
@@ -15825,7 +15825,7 @@
 34	%	%	SYM	Ft	_	16	nmod	_	Treeler:f
 35	e	e	CCONJ	CC	_	30	cc	_	ToDo=cc-without-conj|Treeler:coord
 36	o	o	DET	DA0MS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
-37	seu	seu	DET	DP3MS0	_	38	det	_	Treeler:spec
+37	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	38	det	_	Treeler:spec
 38	IC	ic	PROPN	NP00000	_	16	ccomp	_	Treeler:S
 39	95	95	NUM	Z	_	38	nmod	_	SpaceAfter=No|Treeler:sn
 40	%	%	SYM	Ft	_	39	obj	_	Treeler:cd
@@ -15846,7 +15846,7 @@
 6	local	local	ADJ	AQ0CS0	_	5	amod	_	Treeler:s.a
 7	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-9	súa	seu	DET	DP3FS0	_	10	det	_	Treeler:spec
+9	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	10	det	_	Treeler:spec
 10	vantaxe	vantaxe	NOUN	NCFS000	_	13	nsubj	_	Treeler:suj
 11	é	ser	AUX	VSIP3S0	_	13	cop	_	Treeler:S
 12	que	que	SCONJ	CS	_	13	mark	_	Treeler:conj
@@ -15924,7 +15924,7 @@
 8	que	que	PRON	PR0CN000	PronType=Rel	9	obj	_	Treeler:cd
 9	presentan	presentar	VERB	VMIP3P0	_	3	ccomp	_	Treeler:S
 10	as	o	DET	DA0FP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-11	súas	seu	DET	DP3FP0	_	12	det	_	Treeler:spec
+11	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	12	det	_	Treeler:spec
 12	follas	folla	NOUN	NCFP000	_	9	obj	_	Treeler:cd
 13-14	co	_	_	_	_	_	_	_	_
 13	con	con	ADP	SPS00	_	15	case	_	Treeler:cc
@@ -16104,7 +16104,7 @@
 22-23	aos	_	_	_	_	_	_	_	_
 22	a	a	ADP	SPS00	_	21	obj	_	Treeler:cd
 23	os	o	DET	DA0MP0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	seus	seu	DET	DP3MP0	_	25	det	_	Treeler:spec
+24	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	25	det	_	Treeler:spec
 25	inimigos	inimigo	NOUN	NCMP000	_	22	nmod	_	ToDo=nmod|Treeler:sn
 26	en	en	ADP	SPS00	_	27	case	_	Treeler:cc
 27	guerra	guerra	NOUN	NCFS000	_	21	obl	_	SpaceAfter=No|Treeler:sn
@@ -16275,7 +16275,7 @@
 1-2	Pola	_	_	_	_	_	_	_	_
 1	Por	por	ADP	SPS00	_	4	case	_	Treeler:cc
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	súa	seu	DET	DP3FS0	_	4	det	_	Treeler:spec
+3	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	banda	banda	NOUN	NCFS000	_	11	obl	_	SpaceAfter=No|Treeler:sn
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 6	o	o	DET	DA0MS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
@@ -16537,7 +16537,7 @@
 33	prezos	prezo	NOUN	NCMP000	_	34	nsubj	_	Treeler:suj
 34	aceleraron	acelerar	VERB	VMIS3P0	_	16	ccomp	_	Treeler:S
 35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	37	det	_	Treeler:spec
-36	seu	seu	DET	DP3MS0	_	37	det	_	Treeler:spec
+36	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	37	det	_	Treeler:spec
 37	crecemento	crecemento	NOUN	NCMS000	_	34	obj	_	Treeler:cd
 38	deica	deica	ADP	SPS00	_	39	case	_	Treeler:cc
 39	agosto	agosto	NOUN	NCMS000	_	34	obl	_	SpaceAfter=No|Treeler:sn
@@ -16617,7 +16617,7 @@
 27-28	das	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 28	as	o	DET	DA0FP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	súas	seu	DET	DP3FP0	_	30	det	_	Treeler:spec
+29	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	carteiras	carteira	NOUN	NCFP000	_	26	nmod	_	Treeler:sn
 31	fronte	fronte	NOUN	NCFS000	_	30	amod	_	Treeler:s.a
 32	ás	á	NOUN	NCFP000	_	30	amod	_	Treeler:s.a
@@ -16832,7 +16832,7 @@
 17	España	españa	PROPN	NP00000	_	15	dep	_	Treeler:grup.nom
 18	inician	iniciar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 19	as	o	DET	DA0FP0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
-20	súas	seu	DET	DP3FP0	_	19	det	_	Treeler:d
+20	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	19	det	_	Treeler:d
 21	investigacións	investigación	NOUN	NCFP000	_	18	obj	_	SpaceAfter=No|Treeler:cd
 22	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 23	tomando	tomar	VERB	VMG0000	_	18	case	_	ToDo=case-upos|Treeler:cc
@@ -17042,7 +17042,7 @@
 # sent_id = dev-413
 # text = A súa maior operación de marketing tivo lugar entre 1994 e 1995 entre compradores de ordenadores e de revistas especializadas de miles de disquetes que servían gratuitamente as dez primeiras de servizo.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-2	súa	seu	DET	DP3FS0	_	4	det	_	Treeler:spec
+2	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 3	maior	maior	ADJ	AQ0CS0	_	4	amod	_	Treeler:s.a
 4	operación	operación	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
@@ -17219,7 +17219,7 @@
 18	botellas	botella	NOUN	NCFP000	_	16	nmod	_	Treeler:sn
 19	e	e	CCONJ	CC	_	5	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	seus	seu	DET	DP3MP0	_	22	det	_	Treeler:spec
+21	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	accesorios	accesorio	NOUN	NCMP000	_	5	nmod	_	SpaceAfter=No|Treeler:sn
 23	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -17426,7 +17426,7 @@
 38	cal	cal	PRON	PR0CS000	PronType=Rel	35	nmod	_	Treeler:sn
 39	teña	ter	VERB	VMSP1S0	_	31	ccomp	_	Treeler:S
 40	a	o	DET	DA0FS0	Definite=Def|PronType=Art	42	det	_	Treeler:spec
-41	súa	seu	DET	DP3FS0	_	42	det	_	Treeler:spec
+41	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	42	det	_	Treeler:spec
 42	sede	sede	NOUN	NCFS000	_	39	obj	_	Treeler:cd
 43	o	o	DET	DA0MS0	Definite=Def|PronType=Art	44	det	_	Treeler:spec
 44	órgano	órgano	NOUN	NCMS000	_	39	obj	_	Treeler:cd
@@ -17997,7 +17997,7 @@
 33-34	da	_	_	_	_	_	_	_	_
 33	de	de	ADP	SPS00	_	36	case	_	Treeler:sp
 34	a	o	DET	DA0FS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
-35	nosa	noso	DET	DP1FSP	_	36	det	_	Treeler:spec
+35	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	36	det	_	Treeler:spec
 36	comunidade	comunidade	NOUN	NCFS000	_	32	nmod	_	Treeler:sn
 37	autónoma	autónomo	ADJ	AQ0FS0	_	36	amod	_	SpaceAfter=No|Treeler:s.a
 38	.	.	PUNCT	Fp	_	23	punct	_	Treeler:f
@@ -18094,7 +18094,7 @@
 18	transeúntes	transeúnte	NOUN	NCMP000	_	16	nmod	_	ToDo=nmod|Treeler:sn
 19	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	súa	seu	DET	DP3FS0	_	22	det	_	Treeler:spec
+21	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	ira	ira	NOUN	NCFS000	_	23	nsubj	_	Treeler:suj
 23-24	descárgase	_	_	_	_	_	_	_	_
 23	descarga	descargar	VERB	VMIP3S0	_	15	ccomp	_	Treeler:S
@@ -18171,7 +18171,7 @@
 23-24	co	_	_	_	_	_	_	_	_
 23	con	con	ADP	SPS00	_	26	case	_	Treeler:sp
 24	o	o	DET	DA0MS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	noso	noso	DET	DP1MSP	_	26	det	_	Treeler:spec
+25	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	26	det	_	Treeler:spec
 26	axudante	axudante	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
 27	e	e	CCONJ	CC	_	22	cc	_	ToDo=cc-without-conj|Treeler:coord
 28	sen	sen	ADP	SPS00	_	29	case	_	Treeler:cc
@@ -18435,7 +18435,7 @@
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:cc
 20	relevo	relevo	NOUN	NCMS000	_	18	obl	_	Treeler:sn
 21	a	o	DET	DA0FS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
-22	súa	seu	DET	DP3FS0	_	23	det	_	Treeler:spec
+22	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	23	det	_	Treeler:spec
 23	intención	intención	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 24	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 25	protexer	protexer	VERB	VMN0000	_	23	ccomp	_	Treeler:S
@@ -18498,7 +18498,7 @@
 35	de	de	ADP	SPS00	_	36	case	_	Treeler:sp
 36	recuperar	recuperar	VERB	VMN0000	_	34	ccomp	_	Treeler:S
 37	a	o	DET	DA0FS0	Definite=Def|PronType=Art	39	det	_	Treeler:spec
-38	súa	seu	DET	DP3FS0	_	39	det	_	Treeler:spec
+38	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	39	det	_	Treeler:spec
 39	enerxía	enerxía	NOUN	NCFS000	_	36	obj	_	Treeler:cd
 40	para	para	ADP	SPS00	_	41	case	_	Treeler:cc
 41	prequentar	prequentar	VERB	VMN0000	_	36	ccomp	_	Treeler:S
@@ -18945,7 +18945,7 @@
 21-22	da	_	_	_	_	_	_	_	_
 21	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 22	a	o	DET	DA0FS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
-23	nosa	noso	DET	DP1FSP	_	24	det	_	Treeler:spec
+23	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	24	det	_	Treeler:spec
 24	sociedade	sociedade	NOUN	NCFS000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 25	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
 26	colectivos	colectivo	NOUN	NCMP000	_	24	nmod	_	Treeler:sn
@@ -19183,7 +19183,7 @@
 26	situando	situar	VERB	VMG0000	_	18	case	_	ToDo=case-upos|Treeler:cc
 27	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	18	dep	_	Treeler:morfema.pronominal
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	súa	seu	DET	DP3FS0	_	30	det	_	Treeler:spec
+29	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	taxa	taxa	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 31	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
 32	crecemento	crecemento	NOUN	NCMS000	_	30	nmod	_	Treeler:sn
@@ -19392,7 +19392,7 @@
 9	estacional	estacional	ADJ	AQ0CS0	_	8	amod	_	SpaceAfter=No|Treeler:s.a
 10	:	:	PUNCT	Fd	_	15	punct	_	Treeler:f
 11	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-12	súa	seu	DET	DP3FS0	_	13	det	_	Treeler:spec
+12	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 13	incidencia	incidencia	NOUN	NCFS000	_	15	nsubj	_	Treeler:suj
 14	é	ser	AUX	VSIP3S0	_	15	cop	_	Treeler:S
 15	maior	maior	ADJ	AQ0CS0	_	8	ccomp	_	Treeler:atr
@@ -19604,7 +19604,7 @@
 4	risco	risco	NOUN	NCMS000	_	2	nmod	_	ToDo=nmod|Treeler:sn
 5	para	para	ADP	SPS00	_	8	case	_	Treeler:sp
 6	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
-7	súa	seu	DET	DP3FS0	_	8	det	_	Treeler:spec
+7	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	8	det	_	Treeler:spec
 8	aparición	aparición	NOUN	NCFS000	_	2	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 9	:	:	PUNCT	Fd	_	11	punct	_	Treeler:f
 10	a	o	DET	DA0FS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
@@ -19845,7 +19845,7 @@
 23-24	na	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	súa	seu	DET	DP3FS0	_	24	det	_	Treeler:d
+25	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	24	det	_	Treeler:d
 26	maioría	maioría	NOUN	NCFS000	_	18	obl	_	Treeler:sn
 27	e	e	CCONJ	CC	_	13	cc	_	ToDo=cc-without-conj|Treeler:coord
 28	non	non	PART	RN	_	29	advmod	_	Treeler:mod
@@ -19863,7 +19863,7 @@
 # sent_id = dev-485
 # text = A súa aplicación e a idade dos casos fixeron necesarias ata 120 intervencións na comunidade (aquelas que van máis alá de quen convive co enfermo ).
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-2	súa	seu	DET	DP3FS0	_	3	det	_	Treeler:spec
+2	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	3	det	_	Treeler:spec
 3	aplicación	aplicación	NOUN	NCFS000	_	10	nsubj	_	Treeler:suj
 4	e	e	CCONJ	CC	_	3	cc	_	ToDo=cc-without-conj|Treeler:coord
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -20285,7 +20285,7 @@
 1-2	Da	_	_	_	_	_	_	_	_
 1	De	de	ADP	SPS00	_	4	case	_	Treeler:cc
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	súa	seu	DET	DP3FS0	_	4	det	_	Treeler:spec
+3	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	experiencia	experiencia	NOUN	NCFS000	_	5	obl	_	Treeler:sn
 5	aprendín	aprender	VERB	VMIS1S0	_	0	root	_	Treeler:sentence
 6	que	que	SCONJ	CS	_	8	mark	_	Treeler:conj
@@ -20405,7 +20405,7 @@
 5	terreo	terreo	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
 6	condiciona	condicionar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	viabilidade	viabilidade	NOUN	NCFS000	_	6	obj	_	Treeler:cd
 10	para	para	ADP	SPS00	_	12	case	_	Treeler:sp
 11	os	o	DET	DA0MP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
@@ -20475,7 +20475,7 @@
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	vertedura	vertedura	NOUN	NCFS000	_	1	obl	_	Treeler:sn
 10-11	ó	_	_	_	_	_	_	_	_
 10	a	a	ADP	SPS00	_	15	iobj	_	Treeler:ci
@@ -20562,7 +20562,7 @@
 7	falecidas	falecer	VERB	VMP00PF	_	6	ccomp	_	SpaceAfter=No|Treeler:S
 8	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 9	o	o	DET	DA0MS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
-10	seu	seu	DET	DP3MS0	_	11	det	_	Treeler:spec
+10	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	11	det	_	Treeler:spec
 11	número	número	NOUN	NCMS000	_	12	nsubj	_	Treeler:suj
 12	ascendeu	ascender	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
 13-14	no	_	_	_	_	_	_	_	_
@@ -20957,7 +20957,7 @@
 12	Consello	consello	NOUN	NCMS000	_	13	nsubj	_	Treeler:suj
 13	declare	declarar	VERB	VMSP1S0	_	9	nsubj	_	Treeler:suj
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-15	súa	seu	DET	DP3FS0	_	16	det	_	Treeler:spec
+15	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	16	det	_	Treeler:spec
 16	opinión	opinión	NOUN	NCFS000	_	13	obj	_	Treeler:cd
 17	máis	máis	ADV	RG	_	18	advmod	_	Treeler:spec
 18	clara	claro	ADJ	AQ0FS0	_	16	amod	_	Treeler:s.a
@@ -21136,7 +21136,7 @@
 7	iraquí	iraquí	ADJ	AQ0CS0	_	6	amod	_	Treeler:s.a
 8	baixo	baixo	ADP	SPS00	_	11	case	_	Treeler:cc
 9	os	o	DET	DA0MP0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
-10	seus	seu	DET	DP3MP0	_	11	det	_	Treeler:spec
+10	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	11	det	_	Treeler:spec
 11	parámetros	parámetro	NOUN	NCMP000	_	4	obl	_	Treeler:sn
 12	triunfalistas	triunfalista	ADJ	AQ0CP0	_	11	amod	_	Treeler:s.a
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
@@ -21172,7 +21172,7 @@
 12-13	na	_	_	_	_	_	_	_	_
 12	en	en	ADP	SPS00	_	15	case	_	Treeler:cc
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-14	súa	seu	DET	DP3FS0	_	15	det	_	Treeler:spec
+14	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	15	det	_	Treeler:spec
 15	capacidade	capacidade	NOUN	NCFS000	_	11	obl	_	Treeler:sn
 16	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 17	reducir	reducir	VERB	VMN0000	_	15	ccomp	_	Treeler:S
@@ -21644,12 +21644,12 @@
 22-23	da	_	_	_	_	_	_	_	_
 22	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	súa	seu	DET	DP3FS0	_	25	det	_	Treeler:spec
+24	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	25	det	_	Treeler:spec
 25	eficiencia	eficiencia	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
 26-27	na	_	_	_	_	_	_	_	_
 26	en	en	ADP	SPS00	_	29	case	_	Treeler:sp
 27	a	o	DET	DA0FS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-28	súa	seu	DET	DP3FS0	_	29	det	_	Treeler:spec
+28	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	29	det	_	Treeler:spec
 29	parcela	parcela	NOUN	NCFS000	_	25	nmod	_	Treeler:sn
 30-31	na	_	_	_	_	_	_	_	_
 30	en	en	ADP	SPS00	_	32	case	_	Treeler:sp
@@ -22117,7 +22117,7 @@
 30-31	do	_	_	_	_	_	_	_	_
 30	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	seu	seu	DET	DP3MS0	_	33	det	_	Treeler:spec
+32	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	centro	centro	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
 34	e	e	CCONJ	CC	_	26	cc	_	ToDo=cc-without-conj|Treeler:coord
 35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
@@ -22135,7 +22135,7 @@
 46-47	na	_	_	_	_	_	_	_	_
 46	en	en	ADP	SPS00	_	49	case	_	Treeler:cc
 47	a	o	DET	DA0FS0	Definite=Def|PronType=Art	49	det	_	Treeler:spec
-48	súa	seu	DET	DP3FS0	_	49	det	_	Treeler:spec
+48	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	49	det	_	Treeler:spec
 49	aplicación	aplicación	NOUN	NCFS000	_	45	obl	_	SpaceAfter=No|Treeler:sn
 50	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
@@ -22295,7 +22295,7 @@
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	7	case	_	Treeler:cc
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
-6	meu	meu	DET	DP1MSS	_	7	det	_	Treeler:spec
+6	meu	meu	DET	DP1MSS	Poss=Yes|PronType=Prs	7	det	_	Treeler:spec
 7	día	día	NOUN	NCMS000	_	3	obl	_	Treeler:sn
 8	a	a	ADP	SPS00	_	9	case	_	Treeler:sp
 9	día	día	NOUN	NCMS000	_	7	nmod	_	Treeler:sn
@@ -22332,7 +22332,7 @@
 8	1881	1881	NUM	Z	_	12	nummod	_	Treeler:spec
 9	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 10	as	o	DET	DA0FP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-11	súas	seu	DET	DP3FP0	_	12	det	_	Treeler:spec
+11	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	12	det	_	Treeler:spec
 12	reformas	reforma	NOUN	NCFP000	_	6	nmod	_	SpaceAfter=No|Treeler:sn
 13	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
@@ -22768,7 +22768,7 @@
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
 7	cuantificar	cuantificar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
 8	os	o	DET	DA0MP0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-9	seus	seu	DET	DP3MP0	_	10	det	_	Treeler:spec
+9	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	10	det	_	Treeler:spec
 10	efectos	efecto	NOUN	NCMP000	_	12	nsubj	_	Treeler:suj
 11	non	non	PART	RN	_	12	advmod	_	Treeler:mod
 12	ofrecen	ofrecer	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
@@ -22799,7 +22799,7 @@
 12-13	á	_	_	_	_	_	_	_	_
 12	a	a	ADP	SPS00	_	11	iobj	_	Treeler:ci
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-14	súa	seu	DET	DP3FS0	_	15	det	_	Treeler:spec
+14	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	15	det	_	Treeler:spec
 15	deterioración	deterioración	NOUN	NCFS000	_	4	nsubj	_	Treeler:suj
 16	cognitiva	cognitivo	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
 17	non	non	PART	RN	_	4	advmod	_	Treeler:mod
@@ -23263,7 +23263,7 @@
 26	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	27	obj	_	Treeler:cd
 27	observa	observar	VERB	VMIP3S0	_	12	ccomp	_	Treeler:S
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	súa	seu	DET	DP3FS0	_	30	det	_	Treeler:spec
+29	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	evolución	evolución	NOUN	NCFS000	_	27	nsubj	_	Treeler:suj
 31-32	no	_	_	_	_	_	_	_	_
 31	en	en	ADP	SPS00	_	33	case	_	Treeler:sp
@@ -23919,7 +23919,7 @@
 20	Unidos	unido	ADJ	AQ0MP0	_	19	amod	_	Treeler:s.a
 21	e	e	CCONJ	CC	_	17	cc	_	ToDo=cc-without-conj|Treeler:coord
 22	a	o	DET	DA0FS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
-23	súa	seu	DET	DP3FS0	_	24	det	_	Treeler:spec
+23	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	24	det	_	Treeler:spec
 24	comparación	comparación	NOUN	NCFS000	_	17	nmod	_	Treeler:sn
 25	con	con	ADP	SPS00	_	26	case	_	Treeler:sp
 26	España	españa	PROPN	NP00000	_	24	nmod	_	SpaceAfter=No|Treeler:sn
@@ -23928,7 +23928,7 @@
 # sent_id = dev-583
 # text = O noso minifundismo portuario só ten a excepción da Coruña, que nin chega a selo cando nos centramos nas decisivas cargas xerais (excluídos graneis líquidos e sólidos).
 1	O	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-2	noso	noso	DET	DP1MSP	_	3	det	_	Treeler:spec
+2	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	3	det	_	Treeler:spec
 3	minifundismo	minifundismo	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
 4	portuario	portuario	ADJ	AQ0MS0	_	3	amod	_	Treeler:s.a
 5	só	só	ADV	RG	_	6	case	_	Treeler:cc
@@ -24174,7 +24174,7 @@
 11-12	cos	_	_	_	_	_	_	_	_
 11	con	con	ADP	SPS00	_	14	case	_	Treeler:sp
 12	os	o	DET	DA0MP0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	seus	seu	DET	DP3MP0	_	14	det	_	Treeler:spec
+13	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	14	det	_	Treeler:spec
 14	planos	plano	NOUN	NCMP000	_	7	nmod	_	Treeler:sn
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	consumo	consumo	NOUN	NCMS000	_	14	nmod	_	Treeler:sn
@@ -24228,7 +24228,7 @@
 30-31	da	_	_	_	_	_	_	_	_
 30	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
 31	a	o	DET	DA0FS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	súa	seu	DET	DP3FS0	_	33	det	_	Treeler:spec
+32	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	recuperación	recuperación	NOUN	NCFS000	_	29	nmod	_	SpaceAfter=No|Treeler:sn
 34	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
@@ -24679,7 +24679,7 @@
 11-12	no	_	_	_	_	_	_	_	_
 11	en	en	ADP	SPS00	_	14	case	_	Treeler:sp
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	noso	noso	DET	DP1MSP	_	14	det	_	Treeler:spec
+13	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	14	det	_	Treeler:spec
 14	modelo	modelo	NOUN	NCCS000	_	9	nmod	_	SpaceAfter=No|Treeler:sn
 15	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 16	mediante	mediante	ADP	SPS00	_	18	case	_	Treeler:cc
@@ -24755,7 +24755,7 @@
 37	establecidas	establecer	VERB	VMP00PF	_	36	ccomp	_	Treeler:S
 38	e	e	CCONJ	CC	_	36	cc	_	ToDo=cc-without-conj|Treeler:coord
 39	a	o	DET	DA0FS0	Definite=Def|PronType=Art	41	det	_	Treeler:spec
-40	súa	seu	DET	DP3FS0	_	41	det	_	Treeler:spec
+40	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	41	det	_	Treeler:spec
 41	evolución	evolución	NOUN	NCFS000	_	36	nmod	_	Treeler:sn
 42	real	real	ADJ	AQ0CS0	_	41	amod	_	SpaceAfter=No|Treeler:s.a
 43	.	.	PUNCT	Fp	_	12	punct	_	Treeler:f
@@ -24846,7 +24846,7 @@
 14	prevé	prever	VERB	VMIP3S0	_	5	ccomp	_	Treeler:S
 15	que	que	SCONJ	CS	_	21	mark	_	Treeler:conj
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	súa	seu	DET	DP3FS0	_	18	det	_	Treeler:spec
+17	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	proxección	proxección	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 20	futuro	futuro	NOUN	NCMS000	_	18	nmod	_	Treeler:sn
@@ -25065,7 +25065,7 @@
 15-16	da	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-17	súa	seu	DET	DP3FS0	_	18	det	_	Treeler:spec
+17	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	concentración	concentración	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 19-20	no	_	_	_	_	_	_	_	_
 19	en	en	ADP	SPS00	_	21	case	_	Treeler:sp
@@ -25144,7 +25144,7 @@
 8-9	no	_	_	_	_	_	_	_	_
 8	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
 9	o	o	DET	DA0MS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
-10	seu	seu	DET	DP3MS0	_	11	det	_	Treeler:spec
+10	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	11	det	_	Treeler:spec
 11	artigo	artigo	NOUN	NCMS000	_	14	obl	_	Treeler:sn
 12	27.23º	27.23º	NUM	Z	_	11	nmod	_	SpaceAfter=No|Treeler:sn
 13	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
@@ -25191,7 +25191,7 @@
 19-20	do	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 20	o	o	DET	DA0MS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	seu	seu	DET	DP3MS0	_	22	det	_	Treeler:spec
+21	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	ordeamento	ordeamento	NOUN	NCMS000	_	18	nmod	_	ToDo=nmod|Treeler:sn
 23	xurídico	xurídico	ADJ	AQ0MS0	_	22	amod	_	Treeler:s.a
 24	a	a	ADP	SPS00	_	25	case	_	Treeler:sp
@@ -25367,7 +25367,7 @@
 21-22	do	_	_	_	_	_	_	_	_
 21	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
-23	seu	seu	DET	DP3MS0	_	24	det	_	Treeler:spec
+23	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	24	det	_	Treeler:spec
 24	ámbito	ámbito	NOUN	NCMS000	_	19	obl	_	Treeler:sn
 25	territorial	territorial	ADJ	AQ0CS0	_	24	amod	_	SpaceAfter=No|Treeler:s.a
 26	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
@@ -25537,11 +25537,11 @@
 11	metodoloxía	metodoloxía	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
 12	sobarda	sobarda	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 13	as	o	DET	DA0FP0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-14	nosas	noso	DET	DP1FPP	_	15	det	_	Treeler:spec
+14	nosas	noso	DET	DP1FPP	Poss=Yes|PronType=Prs	15	det	_	Treeler:spec
 15	posibilidades	posibilidade	NOUN	NCFP000	_	12	obj	_	Treeler:cd
 16	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 17	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-18	nosos	noso	DET	DP1MPP	_	19	det	_	Treeler:spec
+18	nosos	noso	DET	DP1MPP	Poss=Yes|PronType=Prs	19	det	_	Treeler:spec
 19	medios	medio	NOUN	NCMP000	_	15	nmod	_	SpaceAfter=No|Treeler:sn
 20	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 21	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
@@ -25621,7 +25621,7 @@
 1-2	No	_	_	_	_	_	_	_	_
 1	En	en	ADP	SPS00	_	4	case	_	Treeler:cc
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	meu	meu	DET	DP1MSS	_	4	det	_	Treeler:spec
+3	meu	meu	DET	DP1MSS	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	contorno	contorno	NOUN	NCMS000	_	30	obl	_	Treeler:sn
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 6	Karnataka	karnataka	PROPN	NP00000	_	4	nmod	_	SpaceAfter=No|Treeler:sn
@@ -25773,14 +25773,14 @@
 10	estado	estado	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
 11	exercerá	exercer	VERB	VMIF3S0	_	5	ccomp	_	Treeler:S
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	seu	seu	DET	DP3MS0	_	12	det	_	Treeler:d
+13	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	12	det	_	Treeler:d
 14	poder	poder	VERB	VMN0000	_	11	obj	_	Treeler:cd
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	mando	mando	NOUN	NCMS000	_	14	obl	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 18	_	_	PUNCT	Fz	_	22	punct	_	SpaceAfter=No|Treeler:f
 19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-20	seu	seu	DET	DP3MS0	_	22	det	_	Treeler:spec
+20	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 21	poder	poder	AUX	VMN0000	_	22	aux	_	Treeler:v
 22	originário	originário	NOUN	NCMS000	_	11	obj	_	Treeler:cd
 23	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
@@ -26130,7 +26130,7 @@
 9-10	dos	_	_	_	_	_	_	_	_
 9	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 10	os	o	DET	DA0MP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-11	seus	seu	DET	DP3MP0	_	12	det	_	Treeler:spec
+11	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	12	det	_	Treeler:spec
 12	bens	ben	NOUN	NCMP000	_	8	nmod	_	Treeler:sn
 13-14	polo	_	_	_	_	_	_	_	_
 13	por	por	ADP	SPS00	_	17	case	_	Treeler:sp
@@ -26802,7 +26802,7 @@
 29	o	o	DET	DA0MS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
 30	que	que	SCONJ	CS	_	34	mark	_	Treeler:conj
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	seu	seu	DET	DP3MS0	_	33	det	_	Treeler:spec
+32	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	efecto	efecto	NOUN	NCMS000	_	34	nsubj	_	Treeler:suj
 34	merece	merecer	VERB	VMIP3S0	_	10	ccomp	_	Treeler:S
 35	escasa	escaso	ADJ	AQ0FS0	_	36	amod	_	Treeler:s.a
@@ -27161,7 +27161,7 @@
 7-8	ao	_	_	_	_	_	_	_	_
 7	a	a	ADP	SPS00	_	10	case	_	Treeler:cc
 8	o	o	DET	DA0MS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-9	seu	seu	DET	DP3MS0	_	10	det	_	Treeler:spec
+9	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	10	det	_	Treeler:spec
 10	cargo	cargo	NOUN	NCMS000	_	3	obl	_	SpaceAfter=No|Treeler:sn
 11	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 12	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	13	det	_	Treeler:spec
@@ -27643,7 +27643,7 @@
 1-2	Pola	_	_	_	_	_	_	_	_
 1	Por	por	ADP	SPS00	_	5	case	_	Treeler:cc
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-3	súa	seu	DET	DP3FS0	_	5	det	_	Treeler:spec
+3	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	5	det	_	Treeler:spec
 4	propia	propio	DET	DI0FS0	_	3	det	_	Treeler:d
 5	natureza	natureza	NOUN	NCFS000	_	11	obl	_	SpaceAfter=No|Treeler:sn
 6	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
@@ -27858,7 +27858,7 @@
 5-6	mante-lo	_	_	_	_	_	_	_	_
 5	manter	manter	VERB	VMN0000	_	4	obj	_	Treeler:cd
 6	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
-7	seu	seu	DET	DP3MS0	_	8	det	_	Treeler:spec
+7	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	8	det	_	Treeler:spec
 8	desenvolvemento	desenvolvemento	NOUN	NCMS000	_	5	obj	_	Treeler:cd
 9	económico	económico	ADJ	AQ0MS0	_	8	amod	_	SpaceAfter=No|Treeler:s.a
 10	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
@@ -27941,7 +27941,7 @@
 37-38	dos	_	_	_	_	_	_	_	_
 37	de	de	ADP	SPS00	_	40	case	_	Treeler:sp
 38	os	o	DET	DA0MP0	Definite=Def|PronType=Art	40	det	_	Treeler:spec
-39	nosos	noso	DET	DP1MPP	_	40	det	_	Treeler:spec
+39	nosos	noso	DET	DP1MPP	Poss=Yes|PronType=Prs	40	det	_	Treeler:spec
 40	servizos	servizo	NOUN	NCMP000	_	35	nmod	_	SpaceAfter=No|Treeler:sn
 41	.	.	PUNCT	Fp	_	18	punct	_	Treeler:f
 
@@ -27954,7 +27954,7 @@
 4	ás	á	NOUN	NCFP000	_	11	obl	_	Treeler:sn
 5	bibliotecas	biblioteca	NOUN	NCFP000	_	11	nsubj	_	Treeler:suj
 6	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
-7	seu	seu	DET	DP3MS0	_	8	det	_	Treeler:spec
+7	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	8	det	_	Treeler:spec
 8	número	número	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
 9	debe	deber	AUX	VMIP3S0	_	11	aux	_	Treeler:v
 10	ser	ser	AUX	VSN0000	_	11	aux	_	Treeler:v
@@ -27980,7 +27980,7 @@
 29-30	no	_	_	_	_	_	_	_	_
 29	en	en	ADP	SPS00	_	32	case	_	Treeler:cc
 30	o	o	DET	DA0MS0	Definite=Def|PronType=Art	32	det	_	Treeler:spec
-31	seu	seu	DET	DP3MS0	_	32	det	_	Treeler:spec
+31	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	32	det	_	Treeler:spec
 32	emprego	emprego	NOUN	NCMS000	_	21	obl	_	SpaceAfter=No|Treeler:sn
 33	,	,	PUNCT	Fc	_	38	punct	_	Treeler:f
 34	así	así	ADV	RG	_	38	advmod	_	Treeler:sadv
@@ -28287,7 +28287,7 @@
 31	interior	interior	ADJ	AQ0CS0	_	30	amod	_	Treeler:s.a
 32	acadan	acadar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 33	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
-34	seu	seu	DET	DP3MS0	_	36	det	_	Treeler:spec
+34	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	36	det	_	Treeler:spec
 35	maior	maior	ADJ	AQ0CS0	_	36	amod	_	Treeler:s.a
 36	grao	grao	NOUN	NCMS000	_	32	obj	_	Treeler:cd
 37	de	de	ADP	SPS00	_	38	case	_	Treeler:sp
@@ -28591,7 +28591,7 @@
 12	marzo	marzo	NOUN	NCMS000	_	8	obj	_	SpaceAfter=No|Treeler:cd
 13	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-15	súa	seu	DET	DP3FS0	_	16	det	_	Treeler:spec
+15	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	16	det	_	Treeler:spec
 16	tónica	tónico	NOUN	NCFS000	_	18	nsubj	_	Treeler:suj
 17	foi	ser	AUX	VSIS3S0	_	18	cop	_	Treeler:S
 18	alcista	alcista	ADJ	AQ0CS0	_	8	ccomp	_	Treeler:atr
@@ -28687,7 +28687,7 @@
 11-12	dos	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 12	os	o	DET	DA0MP0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	nosos	noso	DET	DP1MPP	_	14	det	_	Treeler:spec
+13	nosos	noso	DET	DP1MPP	Poss=Yes|PronType=Prs	14	det	_	Treeler:spec
 14	pasos	paso	NOUN	NCMP000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -29211,7 +29211,7 @@
 7-8	pola	_	_	_	_	_	_	_	_
 7	por	por	ADP	SPS00	_	10	case	_	Treeler:cc
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-9	súa	seu	DET	DP3FS0	_	10	det	_	Treeler:spec
+9	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	10	det	_	Treeler:spec
 10	vez	vez	NOUN	NCFS000	_	3	obl	_	SpaceAfter=No|Treeler:sn
 11	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 12-13	desprégase	_	_	_	_	_	_	_	_
@@ -29250,7 +29250,7 @@
 13-14	á	_	_	_	_	_	_	_	_
 13	a	a	ADP	SPS00	_	11	iobj	_	Treeler:ci
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-15	nosa	noso	DET	DP1FSP	_	16	det	_	Treeler:spec
+15	nosa	noso	DET	DP1FSP	Poss=Yes|PronType=Prs	16	det	_	Treeler:spec
 16	intervención	intervención	NOUN	NCFS000	_	13	nmod	_	ToDo=nmod|Treeler:sn
 17	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
 18	tanto	tanto	ADV	RG	_	11	advmod	_	Treeler:sadv
@@ -29434,7 +29434,7 @@
 17-18	á	_	_	_	_	_	_	_	_
 17	a	a	ADP	SPS00	_	21	case	_	Treeler:creg
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
-19	súa	seu	DET	DP3FS0	_	21	det	_	Treeler:spec
+19	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	21	det	_	Treeler:spec
 20	privilexiada	privilexiado	ADJ	AQ0FS0	_	21	amod	_	Treeler:s.a
 21	posición	posición	NOUN	NCFS000	_	16	obl	_	SpaceAfter=No|Treeler:sn
 22	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
@@ -29510,7 +29510,7 @@
 18-19	da	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	15	nmod	_	ToDo=nmod|Treeler:sn
 19	a	o	DET	DA0FS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
-20	súa	seu	DET	DP3FS0	_	21	det	_	Treeler:spec
+20	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	21	det	_	Treeler:spec
 21	publicación	publicación	NOUN	NCFS000	_	18	nmod	_	ToDo=nmod|Treeler:sn
 22-23	no	_	_	_	_	_	_	_	_
 22	en	en	ADP	SPS00	_	24	case	_	Treeler:sp
@@ -29530,7 +29530,7 @@
 5	planificados	planificar	VERB	VMP00PM	_	2	ccomp	_	Treeler:S
 6	para	para	ADP	SPS00	_	9	case	_	Treeler:cc
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	consecución	consecución	NOUN	NCFS000	_	5	obl	_	Treeler:sn
 10	deberán	deber	AUX	VMIF3P0	_	12	aux	_	Treeler:v
 11	estar	estar	AUX	VMN0000	_	12	cop	_	Treeler:sentence
@@ -29847,7 +29847,7 @@
 21	e	e	CCONJ	CC	_	15	cc	_	ToDo=cc-without-conj|Treeler:coord
 22	afrontar	afrontar	VERB	VMN0000	_	15	ccomp	_	Treeler:S
 23	os	o	DET	DA0MP0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	seus	seu	DET	DP3MP0	_	25	det	_	Treeler:spec
+24	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	25	det	_	Treeler:spec
 25	retos	reto	NOUN	NCMP000	_	22	obj	_	SpaceAfter=No|Treeler:cd
 26	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 27	fomentar	fomentar	VERB	VMN0000	_	15	ccomp	_	Treeler:S
@@ -29938,7 +29938,7 @@
 10	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
 11	poñer	poñer	VERB	VMN0000	_	9	ccomp	_	Treeler:S
 12	os	o	DET	DA0MP0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-13	seus	seu	DET	DP3MP0	_	15	det	_	Treeler:spec
+13	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	15	det	_	Treeler:spec
 14	enormes	enorme	ADJ	AQ0CP0	_	15	amod	_	Treeler:s.a
 15	recursos	recurso	NOUN	NCMP000	_	11	obj	_	Treeler:cd
 16-17	ao	_	_	_	_	_	_	_	_
@@ -30053,7 +30053,7 @@
 20	el	el	PRON	PP3MS000	PronType=Prs	17	obl	_	SpaceAfter=No|Treeler:sn
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 22	coas	coar	VERB	VMIP2S0	_	5	ccomp	_	Treeler:S
-23	súas	seu	DET	DP3FP0	_	24	det	_	Treeler:spec
+23	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	24	det	_	Treeler:spec
 24	emocións	emoción	NOUN	NCFP000	_	22	obj	_	Treeler:cd
 25	e	e	CCONJ	CC	_	24	cc	_	ToDo=cc-without-conj|Treeler:coord
 26	sentimentos	sentimento	NOUN	NCMP000	_	24	dep	_	SpaceAfter=No|Treeler:grup.nom
@@ -30162,12 +30162,12 @@
 17	tanto	tanto	ADV	RG	_	18	cc	_	Treeler:coord
 18	contemplar	contemplar	VERB	VMN0000	_	16	obj	_	Treeler:cd
 19	a	o	DET	DA0FS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
-20	súa	seu	DET	DP3FS0	_	21	det	_	Treeler:spec
+20	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	21	det	_	Treeler:spec
 21	expresión	expresión	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 22	actual	actual	ADJ	AQ0CS0	_	21	amod	_	Treeler:s.a
 23	como	como	PRON	PR0CN000	PronType=Rel	18	obl	_	ToDo=cc-without-conj|Treeler:coord
 24	as	o	DET	DA0FP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	súas	seu	DET	DP3FP0	_	24	det	_	Treeler:d
+25	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	24	det	_	Treeler:d
 26	tendencias	tendencia	NOUN	NCFP000	_	18	obj	_	Treeler:cd
 27	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
 28	evolución	evolución	NOUN	NCFS000	_	26	nmod	_	Treeler:sn
@@ -30361,7 +30361,7 @@
 17	podería	poder	AUX	VMIC3S0	_	18	aux	_	Treeler:v
 18	reducir	reducir	VERB	VMN0000	_	4	ccomp	_	Treeler:S
 19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-20	seus	seu	DET	DP3MP0	_	22	det	_	Treeler:spec
+20	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 21	posibles	posible	ADJ	AQ0CP0	_	22	amod	_	Treeler:s.a
 22	froitos	froito	NOUN	NCMP000	_	18	obj	_	SpaceAfter=No|Treeler:cd
 23	.	.	PUNCT	Fp	_	4	punct	_	Treeler:f
@@ -30736,7 +30736,7 @@
 18	en	en	ADP	SPS00	_	19	case	_	Treeler:cc
 19	perigo	perigo	NOUN	NCMS000	_	17	obl	_	Treeler:sn
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	súa	seu	DET	DP3FS0	_	22	det	_	Treeler:spec
+21	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	vida	vida	NOUN	NCFS000	_	17	obj	_	SpaceAfter=No|Treeler:cd
 23	.	.	PUNCT	Fp	_	10	punct	_	Treeler:f
 
@@ -30855,7 +30855,7 @@
 22	a	o	DET	DA0FS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
 23	cabo	cabo	NOUN	NCMS000	_	21	obj	_	Treeler:cd
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-25	súa	seu	DET	DP3FS0	_	26	det	_	Treeler:spec
+25	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	26	det	_	Treeler:spec
 26	aprobación	aprobación	NOUN	NCFS000	_	21	obj	_	SpaceAfter=No|Treeler:cd
 27	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
 
@@ -31094,7 +31094,7 @@
 41-42	da	_	_	_	_	_	_	_	_
 41	de	de	ADP	SPS00	_	38	nmod	_	ToDo=nmod|Treeler:sn
 42	a	o	DET	DA0FS0	Definite=Def|PronType=Art	44	det	_	Treeler:spec
-43	súa	seu	DET	DP3FS0	_	44	det	_	Treeler:spec
+43	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	44	det	_	Treeler:spec
 44	tendencia	tendencia	NOUN	NCFS000	_	41	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 45	.	.	PUNCT	Fp	_	22	punct	_	Treeler:f
 
@@ -31448,7 +31448,7 @@
 12	artrite	artrite	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
 13	e	e	CCONJ	CC	_	8	cc	_	ToDo=cc-without-conj|Treeler:coord
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-15	súa	seu	DET	DP3FS0	_	16	det	_	Treeler:spec
+15	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	16	det	_	Treeler:spec
 16	enfermidade	enfermidade	NOUN	NCFS000	_	17	nsubj	_	Treeler:suj
 17-18	caracterízase	_	_	_	_	_	_	_	_
 17	caracteriza	caracterizar	VERB	VMIP3S0	_	8	ccomp	_	Treeler:S
@@ -31561,7 +31561,7 @@
 27	(	(	PUNCT	Fpa	_	28	punct	_	SpaceAfter=No|Treeler:f
 28	consulta	consulta	NOUN	NCFS000	_	26	nmod	_	Treeler:sn
 29	o	o	DET	DA0MS0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
-30	teu	teu	DET	DP2MSS	_	31	det	_	Treeler:spec
+30	teu	teu	DET	DP2MSS	Poss=Yes|PronType=Prs	31	det	_	Treeler:spec
 31	pediatra	pediatra	NOUN	NCFS000	_	28	nmod	_	SpaceAfter=No|Treeler:sn
 32	)	)	PUNCT	Fpt	_	28	punct	_	Treeler:f
 33	e	e	CCONJ	CC	_	21	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -31571,7 +31571,7 @@
 37-38	pola	_	_	_	_	_	_	_	_
 37	por	por	ADP	SPS00	_	40	case	_	Treeler:cc
 38	a	o	DET	DA0FS0	Definite=Def|PronType=Art	40	det	_	Treeler:spec
-39	túa	teu	DET	DP2FSS	_	40	det	_	Treeler:spec
+39	túa	teu	DET	DP2FSS	Poss=Yes|PronType=Prs	40	det	_	Treeler:spec
 40	conta	conta	NOUN	NCFS000	_	35	obl	_	SpaceAfter=No|Treeler:sn
 41	.	.	PUNCT	Fp	_	10	punct	_	Treeler:f
 
@@ -31735,7 +31735,7 @@
 4-5	no	_	_	_	_	_	_	_	_
 4	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
-6	seu	seu	DET	DP3MS0	_	7	det	_	Treeler:spec
+6	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	7	det	_	Treeler:spec
 7	día	día	NOUN	NCMS000	_	3	obl	_	Treeler:sn
 8	Julio	julio	NOUN	NCMS000	_	3	obj	_	Treeler:cd
 9	Caro	caro	ADJ	AQ0MS0	_	8	amod	_	Treeler:s.a
@@ -31756,7 +31756,7 @@
 23	"	"	PUNCT	Fe	_	22	punct	_	Treeler:f
 24	e	e	CCONJ	CC	_	20	cc	_	ToDo=cc-without-conj|Treeler:coord
 25	as	o	DET	DA0FP0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
-26	súas	seu	DET	DP3FP0	_	28	det	_	Treeler:spec
+26	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	28	det	_	Treeler:spec
 27	continuas	continuo	ADJ	AQ0FP0	_	28	amod	_	Treeler:s.a
 28	guerras	guerra	NOUN	NCFP000	_	20	nmod	_	Treeler:sn
 29	provocou	provocar	VERB	VMIS3S0	_	3	ccomp	_	Treeler:S
@@ -31784,7 +31784,7 @@
 4-5	no	_	_	_	_	_	_	_	_
 4	en	en	ADP	SPS00	_	8	case	_	Treeler:cc
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
-6	seu	seu	DET	DP3MS0	_	8	det	_	Treeler:spec
+6	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	8	det	_	Treeler:spec
 7	presente	presente	ADJ	AQ0CS0	_	8	amod	_	Treeler:s.a
 8	cidadáns	cidadán	NOUN	NCMP000	_	3	obl	_	Treeler:sn
 9	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
@@ -32082,7 +32082,7 @@
 30-31	no	_	_	_	_	_	_	_	_
 30	en	en	ADP	SPS00	_	33	case	_	Treeler:cc
 31	o	o	DET	DA0MS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-32	seu	seu	DET	DP3MS0	_	33	det	_	Treeler:spec
+32	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	33	det	_	Treeler:spec
 33	anexo	anexo	NOUN	NCMS000	_	29	obl	_	Treeler:sn
 34	I.	i.	PROPN	NP00000	_	33	nmod	_	Treeler:sn
 
@@ -32370,7 +32370,7 @@
 # sent_id = dev-796
 # text = As súas funcións, patrimonio e persoal serán asumidos a partir da entrada en vigor desta lei pola entidade pública empresarial "Consorcio de Compensación de Seguros".
 1	As	o	DET	DA0FP0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-2	súas	seu	DET	DP3FP0	_	1	det	_	Treeler:d
+2	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	1	det	_	Treeler:d
 3	funcións	función	NOUN	NCFP000	_	9	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	patrimonio	patrimonio	NOUN	NCMS000	_	9	case	_	ToDo=case-upos|Treeler:cc
@@ -32669,7 +32669,7 @@
 26-27	do	_	_	_	_	_	_	_	_
 26	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 27	o	o	DET	DA0MS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-28	seu	seu	DET	DP3MS0	_	29	det	_	Treeler:spec
+28	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	29	det	_	Treeler:spec
 29	papel	papel	NOUN	NCMS000	_	25	nmod	_	ToDo=nmod|Treeler:sn
 30	reivindicativo	reivindicativo	ADJ	AQ0MS0	_	29	amod	_	SpaceAfter=No|Treeler:s.a
 31	.	.	PUNCT	Fp	_	25	punct	_	Treeler:f
@@ -32678,7 +32678,7 @@
 # text = Lembra os seus anos infantís, dicindo: «Cando eu fun á escola non sabía aínda falar castelán; porque teño que dicirvos que son fillo dunha familia humildísima.
 1	Lembra	lembrar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 2	os	o	DET	DA0MP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-3	seus	seu	DET	DP3MP0	_	4	det	_	Treeler:spec
+3	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	4	det	_	Treeler:spec
 4	anos	ano	NOUN	NCMP000	_	1	obj	_	Treeler:cd
 5	infantís	infantil	ADJ	AQ0CP0	_	4	amod	_	SpaceAfter=No|Treeler:s.a
 6	,	,	PUNCT	Fc	_	7	punct	_	Treeler:f
@@ -32730,19 +32730,19 @@
 11	turistas	turista	NOUN	NCMP000	_	7	nmod	_	Treeler:sn
 12	visitan	visitar	VERB	VMIP3P0	_	4	case	_	ToDo=case-upos|Treeler:cc
 13	o	o	DET	DA0MS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-14	noso	noso	DET	DP1MSP	_	15	det	_	Treeler:spec
+14	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	15	det	_	Treeler:spec
 15	país	país	NOUN	NCMS000	_	4	obj	_	Treeler:cd
 16	para	para	ADP	SPS00	_	17	case	_	Treeler:cc
 17-18	pasa-las	_	_	_	_	_	_	_	_
 17	pasar	pasar	VERB	VMN0000	_	4	ccomp	_	Treeler:S
 18	as	o	DET	DA0FP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	súas	seu	DET	DP3FP0	_	18	det	_	Treeler:d
+19	súas	seu	DET	DP3FP0	Poss=Yes|PronType=Prs	18	det	_	Treeler:d
 20	vacacións	vacación	NOUN	NCFP000	_	17	obj	_	SpaceAfter=No|Treeler:cd
 21	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 22-23	na	_	_	_	_	_	_	_	_
 22	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
-24	súa	seu	DET	DP3FS0	_	23	det	_	Treeler:d
+24	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	23	det	_	Treeler:d
 25	totalidade	totalidade	NOUN	NCFS000	_	17	obl	_	Treeler:sn
 26	ou	ou	CCONJ	CC	_	25	cc	_	ToDo=cc-without-conj|Treeler:coord
 27	en	en	ADP	SPS00	_	28	case	_	Treeler:sp
@@ -32763,7 +32763,7 @@
 10-11	nos	_	_	_	_	_	_	_	_
 10	en	en	ADP	SPS00	_	13	case	_	Treeler:cc
 11	os	o	DET	DA0MP0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-12	seus	seu	DET	DP3MP0	_	13	det	_	Treeler:spec
+12	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 13	recursos	recurso	NOUN	NCMP000	_	7	obl	_	Treeler:sn
 14-15	ó	_	_	_	_	_	_	_	_
 14	a	a	ADP	SPS00	_	16	case	_	Treeler:sp
@@ -33137,7 +33137,7 @@
 19-20	da	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
-21	súa	seu	DET	DP3FS0	_	22	det	_	Treeler:spec
+21	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	22	det	_	Treeler:spec
 22	poboación	poboación	NOUN	NCFS000	_	17	nmod	_	Treeler:sn
 23-24	nos	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
@@ -33455,7 +33455,7 @@
 45	interese	interese	NOUN	NCMS000	_	38	nmod	_	Treeler:sn
 46	para	para	ADP	SPS00	_	49	case	_	Treeler:sp
 47	o	o	DET	DA0MS0	Definite=Def|PronType=Art	49	det	_	Treeler:spec
-48	noso	noso	DET	DP1MSP	_	49	det	_	Treeler:spec
+48	noso	noso	DET	DP1MSP	Poss=Yes|PronType=Prs	49	det	_	Treeler:spec
 49	país	país	NOUN	NCMS000	_	45	nmod	_	SpaceAfter=No|Treeler:sn
 50	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
 
@@ -33628,7 +33628,7 @@
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	diversidade	diversidade	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 10	cultural	cultural	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
 11	e	e	CCONJ	CC	_	10	cc	_	ToDo=cc-without-conj|Treeler:coord
@@ -33845,7 +33845,7 @@
 13	a	a	ADP	SPS00	_	14	case	_	Treeler:sp
 14	garantir	garantir	VERB	VMN0000	_	8	ccomp	_	Treeler:S
 15	o	o	DET	DA0MS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
-16	seu	seu	DET	DP3MS0	_	17	det	_	Treeler:spec
+16	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	17	det	_	Treeler:spec
 17	funcionamento	funcionamento	NOUN	NCMS000	_	14	obj	_	SpaceAfter=No|Treeler:cd
 18	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
@@ -33880,7 +33880,7 @@
 14-15	na	_	_	_	_	_	_	_	_
 14	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
-16	súa	seu	DET	DP3FS0	_	15	det	_	Treeler:d
+16	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	15	det	_	Treeler:d
 17	actividade	actividade	NOUN	NCFS000	_	13	obl	_	SpaceAfter=No|Treeler:sn
 18	:	:	PUNCT	Fd	_	19	punct	_	Treeler:f
 19-20	imparte	_	_	_	_	_	_	_	_
@@ -34087,7 +34087,7 @@
 6-7	da	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-8	súa	seu	DET	DP3FS0	_	9	det	_	Treeler:spec
+8	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	9	det	_	Treeler:spec
 9	superficie	superficie	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
 10	(	(	PUNCT	Fpa	_	11	punct	_	SpaceAfter=No|Treeler:f
 11	terras	terra	NOUN	NCFP000	_	9	nmod	_	Treeler:sn
@@ -34151,7 +34151,7 @@
 16-17	dos	_	_	_	_	_	_	_	_
 16	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 17	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-18	seus	seu	DET	DP3MP0	_	17	det	_	Treeler:d
+18	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	17	det	_	Treeler:d
 19	partícipes	partícipe	ADJ	AQ0CP0	_	14	nmod	_	Treeler:sn
 20	e	e	CCONJ	CC	_	7	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:coord
 21	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
@@ -34163,7 +34163,7 @@
 27-28	dos	_	_	_	_	_	_	_	_
 27	de	de	ADP	SPS00	_	30	case	_	Treeler:sp
 28	os	o	DET	DA0MP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	seus	seu	DET	DP3MP0	_	30	det	_	Treeler:spec
+29	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	beneficiarios	beneficiario	NOUN	NCMP000	_	25	nmod	_	Treeler:sn
 31	a	a	ADP	SPS00	_	33	case	_	Treeler:sp
 32	outros	outro	DET	DI0MP0	PronType=Ind	33	det	_	Treeler:spec
@@ -34290,7 +34290,7 @@
 11-12	da	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-13	súa	seu	DET	DP3FS0	_	14	det	_	Treeler:spec
+13	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	14	det	_	Treeler:spec
 14	demarcación	demarcación	NOUN	NCFS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 16-17	coas	_	_	_	_	_	_	_	_
@@ -34349,7 +34349,7 @@
 23	que	que	PRON	PR0CN000	PronType=Rel	24	nsubj	_	Treeler:suj
 24	fundamentase	fundamentar	VERB	VMSI3S0	_	21	ccomp	_	Treeler:S
 25	o	o	DET	DA0MS0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
-26	seu	seu	DET	DP3MS0	_	27	det	_	Treeler:spec
+26	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	27	det	_	Treeler:spec
 27	razoamento	razoamento	NOUN	NCMS000	_	24	obj	_	Treeler:cd
 28	en	en	ADP	SPS00	_	29	case	_	Treeler:cc
 29-31	termos	_	_	_	_	_	_	_	_
@@ -34544,7 +34544,7 @@
 10-11	polos	_	_	_	_	_	_	_	_
 10	por	por	ADP	SPS00	_	13	case	_	Treeler:cc
 11	os	o	DET	DA0MP0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-12	seus	seu	DET	DP3MP0	_	13	det	_	Treeler:spec
+12	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 13	efectos	efecto	NOUN	NCMP000	_	4	obl	_	Treeler:sn
 14	estéticos	estético	ADJ	AQ0MP0	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
@@ -34893,7 +34893,7 @@
 12	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
 13	familiares	familiar	ADJ	AQ0CP0	_	11	dep	_	Treeler:grup.nom
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-15	súa	seu	DET	DP3FS0	_	16	det	_	Treeler:spec
+15	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	16	det	_	Treeler:spec
 16	participación	participación	NOUN	NCFS000	_	11	nmod	_	Treeler:sn
 17-18	no	_	_	_	_	_	_	_	_
 17	en	en	ADP	SPS00	_	19	case	_	Treeler:sp
@@ -34908,7 +34908,7 @@
 26	cal	cal	PRON	PR0CS000	PronType=Rel	30	nsubj	_	Treeler:suj
 27	sería	ser	AUX	VSIC3S0	_	30	cop	_	Treeler:S
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	súa	seu	DET	DP3FS0	_	30	det	_	Treeler:spec
+29	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	decisión	decisión	NOUN	NCFS000	_	9	ccomp	_	SpaceAfter=No|Treeler:atr
 31	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 32	e	e	CCONJ	CC	_	30	cc	_	ToDo=cc-without-conj|Treeler:coord
