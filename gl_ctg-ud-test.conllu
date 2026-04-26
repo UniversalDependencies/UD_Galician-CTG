@@ -30697,9 +30697,9 @@
 9	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
 10	cultura	cultura	NOUN	NCFS000	_	8	nmod	_	SpaceAfter=No|Treeler:sn
 11	)	)	PUNCT	Fpt	_	8	punct	_	Treeler:f
-12	ou	ou	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Treeler:coord
+12	ou	ou	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Treeler:coord
 13	\	\	PUNCT	Fh	_	14	punct	_	SpaceAfter=No|Treeler:cc
-14	e	e	CCONJ	CC	_	16	conj	_	Treeler:coord
+14	e	e	CCONJ	CC	_	12	conj	_	Treeler:coord
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	aculturización	aculturización	NOUN	NCFS000	_	6	conj	_	ToDo=nmod|Treeler:sn
 17	(	(	PUNCT	Fpa	_	18	punct	_	SpaceAfter=No|Treeler:f
@@ -32593,8 +32593,8 @@
 33	enerxía	enerxía	NOUN	NCFS000	_	29	dep	_	SpaceAfter=No|Treeler:grup.nom
 34	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
 35	agricultura	agricultura	NOUN	NCFS000	_	29	dep	_	Treeler:grup.nom
-36	e	e	CCONJ	CC	_	37	cc	_	Treeler:coord
-37	mais	mais	CCONJ	CC	_	38	conj	_	Treeler:coord
+36	e	e	CCONJ	CC	_	38	cc	_	Treeler:coord
+37	mais	mais	CCONJ	CC	_	38	cc	_	Treeler:coord
 38	diversidade	diversidade	NOUN	NCFS000	_	29	conj	_	Treeler:grup.nom
 39	biolóxica	biolóxico	ADJ	AQ0FS0	_	38	amod	_	Treeler:s.a
 40	e	e	CCONJ	CC	_	41	cc	_	Treeler:coord
@@ -32621,9 +32621,9 @@
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 17	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
 18	aplicación	aplicación	NOUN	NCFS000	_	15	obj	_	Treeler:cd
-19	e	e	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Treeler:coord
+19	e	e	CCONJ	CC	_	22	cc	_	SpaceAfter=No|Treeler:coord
 20	/	/	PUNCT	Fh	_	21	punct	_	SpaceAfter=No|Treeler:f
-21	ou	ou	CCONJ	CC	_	22	conj	_	Treeler:coord
+21	ou	ou	CCONJ	CC	_	19	conj	_	Treeler:coord
 22	extensión	extensión	NOUN	NCFS000	_	12	conj	_	Treeler:S
 23	a	a	ADP	SPS00	_	25	case	_	Treeler:sp
 24	novos	novo	ADJ	AQ0MP0	_	25	amod	_	Treeler:s.a

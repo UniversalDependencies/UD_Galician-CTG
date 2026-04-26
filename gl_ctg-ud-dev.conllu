@@ -20882,9 +20882,9 @@
 34	as	o	DET	DA0FP0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
 35	augas	auga	NOUN	NCFP000	_	32	nmod	_	Treeler:sn
 36	superficiais	superficial	ADJ	AQ0CP0	_	35	amod	_	Treeler:s.a
-37	e	e	CCONJ	CC	_	39	cc	_	SpaceAfter=No|Treeler:coord
+37	e	e	CCONJ	CC	_	40	cc	_	SpaceAfter=No|Treeler:coord
 38	/	/	PUNCT	Fh	_	39	punct	_	SpaceAfter=No|Treeler:f
-39	ou	ou	CCONJ	CC	_	40	conj	_	Treeler:coord
+39	ou	ou	CCONJ	CC	_	37	conj	_	Treeler:coord
 40	subterráneas	subterráneo	ADJ	AQ0FP0	_	20	conj	_	SpaceAfter=No|Treeler:a
 41	.	.	PUNCT	Fp	_	20	punct	_	Treeler:f
 
@@ -26985,9 +26985,9 @@
 23	a	a	ADP	SPS00	_	22	obj	_	Treeler:cd
 24	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	25	det	_	Treeler:spec
 25	avaliación	avaliación	NOUN	NCFS000	_	23	nmod	_	ToDo=nmod|Treeler:sn
-26	e	e	CCONJ	CC	_	28	cc	_	SpaceAfter=No|Treeler:coord
+26	e	e	CCONJ	CC	_	29	cc	_	SpaceAfter=No|Treeler:coord
 27	/	/	PUNCT	Fh	_	28	punct	_	SpaceAfter=No|Treeler:grup.a
-28	ou	ou	CCONJ	CC	_	29	conj	_	Treeler:coord
+28	ou	ou	CCONJ	CC	_	26	conj	_	Treeler:coord
 29	diagnóstico	diagnóstico	NOUN	NCMS000	_	25	conj	_	Treeler:sn
 30-31	da	_	_	_	_	_	_	_	_
 30	de	de	ADP	SPS00	_	32	case	_	Treeler:sp
