@@ -539,7 +539,7 @@
 # text = Ponse tamén especial énfase na necesidade de coordinación das diferentes administracións na prevención e combate dos incendios.
 1-2	Ponse	_	_	_	_	_	_	_	_
 1	Pon	poñer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	nsubj	_	Treeler:suj
+2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	expl:pass	_	Treeler:suj
 3	tamén	tamén	ADV	RG	_	1	case	_	Treeler:cc
 4	especial	especial	ADJ	AQ0CS0	_	5	amod	_	Treeler:s.a
 5	énfase	énfase	NOUN	NCFS000	_	1	obj	_	Treeler:cd
@@ -1861,7 +1861,7 @@
 # text = Recoméndase especialmente unha atención prioritaria ao sector de servizos e, dentro del, ao turismo, polo impacto que esta actividade ten en determinadas zonas do mundo.
 1-2	Recoméndase	_	_	_	_	_	_	_	_
 1	Recomenda	recomendar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	nsubj	_	Treeler:suj
+2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	expl:pass	_	Treeler:suj
 3	especialmente	especial	ADV	RG	_	1	case	_	Treeler:cc
 4	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	5	det	_	Treeler:spec
 5	atención	atención	NOUN	NCFS000	_	1	nsubj	_	Treeler:suj
@@ -5378,7 +5378,7 @@
 
 # sent_id = dev-132
 # text = Se é necesario recorrer, por indicación profesional, á alimentación preparada, existen diferentes marcas comerciais que ofrecen fórmulas adaptadas, que garanten o fornecemento de nutrientes necesario.
-1	Se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	3	nsubj	_	Treeler:suj
+1	Se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	3	expl:pass	_	Treeler:suj
 2	é	ser	AUX	VSIP3S0	_	3	cop	_	Treeler:sentence
 3	necesario	necesario	ADJ	AQ0MS0	_	0	root	_	Treeler:atr
 4	recorrer	recorrer	VERB	VMN0000	_	3	nsubj	_	SpaceAfter=No|Treeler:suj
@@ -7238,7 +7238,7 @@
 4-5	valórase	_	_	_	_	_	_	_	_
 4	valora	valorar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 5	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	obj	_	Treeler:cd
-6	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	nsubj	_	Treeler:suj
+6	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	expl:pass	_	Treeler:suj
 7	os	o	DET	DA0MP0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	resultados	resultado	NOUN	NCMP000	_	4	obj	_	Treeler:cd
 9	son	ser	AUX	VSIP1S0	_	10	cop	_	Treeler:S
@@ -10985,7 +10985,7 @@
 26	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
 27-28	obtense	_	_	_	_	_	_	_	_
 27	obtén	obter	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-28	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	27	nsubj	_	Treeler:suj
+28	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	27	expl:pass	_	Treeler:suj
 29	o	o	DET	DA0MS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	valor	valor	NOUN	NCMS000	_	27	obj	_	Treeler:cd
 31	presente	presente	ADJ	AQ0CS0	_	30	amod	_	Treeler:s.a
@@ -12049,7 +12049,7 @@
 1	Finalmente	final	ADV	RG	_	2	case	_	Treeler:cc
 2-3	realizarase	_	_	_	_	_	_	_	_
 2	realizará	realizar	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
-3	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	2	nsubj	_	Treeler:suj
+3	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	2	expl:pass	_	Treeler:suj
 4	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	5	det	_	Treeler:spec
 5	avaliación	avaliación	NOUN	NCFS000	_	2	nsubj	_	Treeler:suj
 6	global	global	ADJ	AQ0CS0	_	5	amod	_	Treeler:s.a
@@ -12610,7 +12610,7 @@
 35	tanto	tanto	ADV	RG	_	36	cc	_	Treeler:coord
 36-37	faise	_	_	_	_	_	_	_	_
 36	fai	facer	VERB	VMIP3S0	_	22	ccomp	_	Treeler:S
-37	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	36	nsubj	_	Treeler:suj
+37	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	36	expl:pass	_	Treeler:suj
 38	necesario	necesario	ADJ	AQ0MS0	_	36	xcomp	_	Treeler:cpred
 39	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	41	det	_	Treeler:spec
 40	maior	maior	ADJ	AQ0CS0	_	41	amod	_	Treeler:s.a
@@ -14043,7 +14043,7 @@
 1	Clinicamente	clinicamente	ADV	RG	_	2	case	_	Treeler:cc
 2-3	caracterízase	_	_	_	_	_	_	_	_
 2	caracteriza	caracterizar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-3	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	2	nsubj	_	Treeler:suj
+3	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	2	expl:pass	_	Treeler:suj
 4-5	pola	_	_	_	_	_	_	_	_
 4	por	por	ADP	SPS00	_	6	case	_	Treeler:cag
 5	a	o	DET	DA0FS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -15157,7 +15157,7 @@
 13	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
 14-16	invitaráselles	_	_	_	_	_	_	_	_
 14	invitará	invitar	VERB	VMIF3S0	_	12	obj	_	Treeler:cd
-15	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	nsubj	_	Treeler:suj
+15	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	expl:pass	_	Treeler:suj
 16	lles	lle	PRON	PP3CPD00	PronType=Prs	15	iobj	_	Treeler:ci
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 18	que	que	PRON	PR0CN000	PronType=Rel	20	nsubj	_	Treeler:suj
@@ -15955,7 +15955,7 @@
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4-5	detállase	_	_	_	_	_	_	_	_
 4	detalla	detallar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-5	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	nsubj	_	Treeler:suj
+5	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	expl:pass	_	Treeler:suj
 6	a	o	DET	DA0FS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
 7	técnica	técnica	NOUN	NCFS000	_	4	obj	_	Treeler:cd
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
@@ -24136,7 +24136,7 @@
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 6-7	fóronse	_	_	_	_	_	_	_	_
 6	foron	ser	AUX	VSIS3P0	_	8	cop	_	Treeler:sentence
-7	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	8	nsubj	_	Treeler:suj
+7	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	8	expl:pass	_	Treeler:suj
 8	desenvolvendo	desenvolver	VERB	VMG0000	_	0	root	_	Treeler:atr
 9	granxas	granxa	NOUN	NCFP000	_	8	obj	_	Treeler:cd
 10	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
@@ -25319,7 +25319,7 @@
 5	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 6	instantáneo	instantáneo	ADJ	AQ0MS0	_	4	dep	_	Treeler:atr
 7	porque	porque	SCONJ	CS	_	6	mark	_	Treeler:conj
-8	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	6	nsubj	_	Treeler:suj
+8	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	6	expl:pass	_	Treeler:suj
 9	non	non	PART	RN	_	6	advmod	_	Treeler:mod
 10	é	ser	VERB	VSIP3S0	_	6	xcomp	_	Treeler:ao
 11	así	así	ADV	RG	_	14	case	_	Treeler:cc
@@ -25560,7 +25560,7 @@
 # text = Dáselle nova redacción ao punto 2 do artigo 7, que queda redactado nos seguintes termos: 2 Enténdese por solo de natureza urbana: a) O clasificado ou definido polo plan urbanístico como urbano, urbanizado ou equivalente.
 1-3	Dáselle	_	_	_	_	_	_	_	_
 1	Dá	dar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	nsubj	_	Treeler:suj
+2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	1	expl:pass	_	Treeler:suj
 3	lle	lle	PRON	PP3CSD00	PronType=Prs	1	nsubj	_	Treeler:suj
 4	nova	novo	ADJ	AQ0FS0	_	5	amod	_	Treeler:s.a
 5	redacción	redacción	NOUN	NCFS000	_	1	obj	_	Treeler:cd
@@ -31063,7 +31063,7 @@
 14	,	,	PUNCT	Fc	_	5	punct	_	Treeler:f
 15-16	compróbase	_	_	_	_	_	_	_	_
 15	comproba	comprobar	VERB	VMIP3S0	_	22	ccomp	_	Treeler:S
-16	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	15	nsubj	_	Treeler:suj
+16	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	15	expl:pass	_	Treeler:suj
 17	cómo	cómo	ADV	RG	_	15	case	_	Treeler:cc
 18	o	o	DET	DA0MS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	primeiro	primeiro	ADJ	AO0MS0	_	22	nsubj	_	Treeler:suj
