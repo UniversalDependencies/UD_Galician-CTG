@@ -56,7 +56,7 @@
     <dep name="amod">10490</dep>
     <dep name="appos">6</dep>
     <dep name="aux">1198</dep>
-    <dep name="case">24552</dep>
+    <dep name="case">24440</dep>
     <dep name="cc">4410</dep>
     <dep name="ccomp">6169</dep>
     <dep name="compound">147</dep>
@@ -69,7 +69,7 @@
     <dep name="iobj">562</dep>
     <dep name="list">3</dep>
     <dep name="mark">1504</dep>
-    <dep name="nmod">16422</dep>
+    <dep name="nmod">16534</dep>
     <dep name="nsubj">6517</dep>
     <dep name="nummod">542</dep>
     <dep name="obj">7366</dep>
