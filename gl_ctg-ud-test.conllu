@@ -863,7 +863,7 @@
 # sent_id = test-21
 # text = En ningún caso se procederá á asignación ou á renovación do nome ou enderezo sen que se efectuara previamente o pagamento da taxa.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	ningún	ningún	DET	DI0MS0	_	3	det	_	Treeler:spec
+2	ningún	ningún	DET	DI0MS0	PronType=Neg	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	5	obl	_	Treeler:sn
 4	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	5	obj	_	Treeler:cd
 5	procederá	proceder	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -1582,7 +1582,7 @@
 12	sen	sen	ADP	SPS00	_	23	case	_	Treeler:cc
 13	que	que	SCONJ	CS	_	23	mark	_	Treeler:conj
 14	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
-15	ningún	ningún	DET	DI0MS0	_	16	det	_	Treeler:spec
+15	ningún	ningún	DET	DI0MS0	PronType=Neg	16	det	_	Treeler:spec
 16	caso	caso	NOUN	NCMS000	_	23	obl	_	Treeler:sn
 17	o	o	DET	DA0MS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 18	tempo	tempo	NOUN	NCMS000	_	23	nsubj	_	Treeler:suj
@@ -1595,7 +1595,7 @@
 24	lugar	lugar	NOUN	NCMS000	_	23	obj	_	Treeler:cd
 25	a	a	ADP	SPS00	_	26	case	_	Treeler:ci
 26	suplemento	suplemento	NOUN	NCMS000	_	23	iobj	_	Treeler:sn
-27	ningún	ningún	DET	DI0MS0	_	32	det	_	Treeler:spec
+27	ningún	ningún	DET	DI0MS0	PronType=Neg	32	det	_	Treeler:spec
 28	porque	porque	SCONJ	CS	_	32	mark	_	Treeler:conj
 29	a	o	DET	DA0FS0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
 30	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	31	det	_	Treeler:spec
@@ -2169,7 +2169,7 @@
 # sent_id = test-56
 # text = En ningún caso se pronunciará o xuíz sobre a oposición do concursado sen que logo de audiencia do Ministerio Fiscal resolvese a cuestión de competencia promovida.
 1	En	en	ADP	SPS00	_	3	case	_	Treeler:cc
-2	ningún	ningún	DET	DI0MS0	_	3	det	_	Treeler:spec
+2	ningún	ningún	DET	DI0MS0	PronType=Neg	3	det	_	Treeler:spec
 3	caso	caso	NOUN	NCMS000	_	5	obl	_	Treeler:sn
 4	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	5	obj	_	Treeler:cd
 5	pronunciará	pronunciar	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -3757,7 +3757,7 @@
 16	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 17	proceso	proceso	NOUN	NCMS000	_	15	nmod	_	Treeler:sn
 18	sen	sen	ADP	SPS00	_	20	case	_	Treeler:sp
-19	ningún	ningún	DET	DI0MS0	_	20	det	_	Treeler:spec
+19	ningún	ningún	DET	DI0MS0	PronType=Neg	20	det	_	Treeler:spec
 20	tipo	tipo	NOUN	NCMS000	_	15	nmod	_	Treeler:sn
 21	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
 22	tratamento	tratamento	NOUN	NCMS000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
@@ -8058,7 +8058,7 @@
 # text = Non existe ningunha nova nos medios analizados no cal o debate se centre na nación ou en discusión teóricas sobre a mesma.
 1	Non	non	PART	RN	_	2	advmod	_	Treeler:mod
 2	existe	existir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-3	ningunha	ningún	DET	DI0FS0	_	4	det	_	Treeler:spec
+3	ningunha	ningún	DET	DI0FS0	PronType=Neg	4	det	_	Treeler:spec
 4	nova	novo	ADJ	AQ0FS0	_	2	nsubj	_	Treeler:suj
 5-6	nos	_	_	_	_	_	_	_	_
 5	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
@@ -8272,7 +8272,7 @@
 18	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	guías	guía	NOUN	NCCP000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 20	;	;	PUNCT	Fx	_	22	punct	_	Treeler:f
-21	ninguén	ninguén	PRON	PI0CN000	_	22	nsubj	_	Treeler:suj
+21	ninguén	ninguén	PRON	PI0CN000	PronType=Neg	22	nsubj	_	Treeler:suj
 22	quería	querer	VERB	VMII3S0	_	1	ccomp	_	Treeler:S
 23	perder	perder	VERB	VMN0000	_	22	obj	_	Treeler:cd
 24	a	o	DET	DA0FS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
@@ -11144,7 +11144,7 @@
 
 # sent_id = test-281
 # text = Nada máis coñecerse os resultados definitivos das eleccións, Quintana ofreceu unha rolda de prensa na que reclamou «un nuevo estatuto, un estatuto de nación» para Galiza.
-1	Nada	nada	PRON	PI0CN000	_	13	dep	_	Treeler:p
+1	Nada	nada	PRON	PI0CN000	PronType=Neg	13	dep	_	Treeler:p
 2	máis	máis	ADV	RG	_	13	advmod	_	Treeler:cc
 3-4	coñecerse	_	_	_	_	_	_	_	_
 3	coñecer	coñecer	VERB	VMN0000	_	13	ccomp	_	Treeler:S
@@ -12407,7 +12407,7 @@
 4	funcional	funcional	ADJ	AQ0CS0	_	6	obl	_	Treeler:sn
 5	non	non	PART	RN	_	6	advmod	_	Treeler:mod
 6	hai	haber	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-7	ningunha	ningún	DET	DI0FS0	_	8	det	_	Treeler:spec
+7	ningunha	ningún	DET	DI0FS0	PronType=Neg	8	det	_	Treeler:spec
 8	enfermidade	enfermidade	NOUN	NCFS000	_	6	obj	_	Treeler:cd
 9	orgánica	orgánico	ADJ	AQ0FS0	_	8	amod	_	Treeler:s.a
 10	que	que	PRON	PR0CN000	PronType=Rel	11	nsubj	_	Treeler:suj
@@ -30376,7 +30376,7 @@
 25	de	de	ADP	SPS00	_	26	case	_	Treeler:sp
 26	atraso	atraso	NOUN	NCMS000	_	24	nmod	_	Treeler:sn
 27	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
-28	ningún	ningún	DET	DI0MS0	_	29	det	_	Treeler:spec
+28	ningún	ningún	DET	DI0MS0	PronType=Neg	29	det	_	Treeler:spec
 29	tipo	tipo	NOUN	NCMS000	_	26	nmod	_	SpaceAfter=No|Treeler:sn
 30	,	,	PUNCT	Fc	_	31	punct	_	Treeler:f
 31	senón	senón	CCONJ	CC	_	33	cc	_	Treeler:coord
@@ -32321,7 +32321,7 @@
 16	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 17	non	non	PART	RN	_	18	advmod	_	Treeler:mod
 18	amosa	amosar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-19	ningunha	ningún	DET	DI0FS0	_	20	det	_	Treeler:spec
+19	ningunha	ningún	DET	DI0FS0	PronType=Neg	20	det	_	Treeler:spec
 20	característica	característica	NOUN	NCFS000	_	18	obj	_	Treeler:cd
 21	máis	máis	ADV	RG	_	22	advmod	_	Treeler:spec
 22	relevante	relevante	ADJ	AQ0CS0	_	20	amod	_	Treeler:s.a
@@ -33225,7 +33225,7 @@
 26	vitamínicos	vitamínico	ADJ	AQ0MP0	_	25	amod	_	Treeler:s.a
 27	non	non	PART	RN	_	28	advmod	_	Treeler:mod
 28	demostrou	demostrar	VERB	VMIS3S0	_	11	ccomp	_	Treeler:S
-29	ningunha	ningún	DET	DI0FS0	_	30	det	_	Treeler:spec
+29	ningunha	ningún	DET	DI0FS0	PronType=Neg	30	det	_	Treeler:spec
 30	utilidade	utilidade	NOUN	NCFS000	_	28	obj	_	Treeler:cd
 31	en	en	ADP	SPS00	_	32	case	_	Treeler:cc
 32	nenos	neno	NOUN	NCMP000	_	28	obl	_	Treeler:sn

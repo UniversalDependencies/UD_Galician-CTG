@@ -3282,7 +3282,7 @@
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	combustión	combustión	NOUN	NCFS000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
-18	ningunha	ningún	DET	DI0FS0	_	20	det	_	Treeler:spec
+18	ningunha	ningún	DET	DI0FS0	PronType=Neg	20	det	_	Treeler:spec
 19-20	delas	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sn
 20	elas	el	PRON	PP3FP000	PronType=Prs	16	nmod	_	Treeler:sn
@@ -17012,7 +17012,7 @@
 16	sen	sen	ADP	SPS00	_	8	ccomp	_	Treeler:S
 17	responder	responder	VERB	VMN0000	_	16	ccomp	_	Treeler:S
 18	a	a	ADP	SPS00	_	20	case	_	Treeler:creg
-19	ningunha	ningún	DET	DI0FS0	_	20	det	_	Treeler:spec
+19	ningunha	ningún	DET	DI0FS0	PronType=Neg	20	det	_	Treeler:spec
 20	proposta	proposta	NOUN	NCFS000	_	17	obl	_	Treeler:sn
 21	teórica	teórico	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
 22	de	de	ADP	SPS00	_	23	case	_	Treeler:sp
@@ -18260,7 +18260,7 @@
 
 # sent_id = dev-444
 # text = Ningún destes e outros proxectos múltiples das dúas dimensións en que se rexistra o complexo fenómeno da diversidade cultural pode deixarse de lado á hora de articular políticas locais inclusivas.
-1	Ningún	ningún	DET	DI0MS0	_	2	det	_	Treeler:spec
+1	Ningún	ningún	DET	DI0MS0	PronType=Neg	2	det	_	Treeler:spec
 2	destes	dar	VERB	VMIS2P0	_	0	root	_	Treeler:sentence
 3	e	e	CCONJ	CC	_	5	cc	_	Treeler:coord
 4	outros	outro	DET	DI0MP0	PronType=Ind	5	det	_	Treeler:spec
@@ -18824,7 +18824,7 @@
 2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	iobj	_	Treeler:ci
 3	non	non	PART	RN	_	4	advmod	_	Treeler:mod
 4	utilizar	utilizar	VERB	VMN0000	_	1	nsubj	_	Treeler:suj
-5	ningún	ningún	DET	DI0MS0	_	6	det	_	Treeler:spec
+5	ningún	ningún	DET	DI0MS0	PronType=Neg	6	det	_	Treeler:spec
 6	obxecto	obxecto	NOUN	NCMS000	_	4	obj	_	Treeler:cd
 7	punzante	punzante	ADJ	AQ0CS0	_	6	amod	_	Treeler:s.a
 8	para	para	ADP	SPS00	_	9	case	_	Treeler:cc
@@ -24151,7 +24151,7 @@
 19	e	e	CCONJ	CC	_	21	cc	_	Treeler:coord
 20	non	non	PART	RN	_	21	advmod	_	Treeler:mod
 21	teñen	ter	VERB	VMIP3P0	_	16	conj	_	Treeler:S
-22	ningunha	ningún	DET	DI0FS0	_	23	det	_	Treeler:spec
+22	ningunha	ningún	DET	DI0FS0	PronType=Neg	23	det	_	Treeler:spec
 23	vinculación	vinculación	NOUN	NCFS000	_	21	obj	_	Treeler:cd
 24-25	á	_	_	_	_	_	_	_	_
 24	a	a	ADP	SPS00	_	26	case	_	Treeler:ci
@@ -26513,7 +26513,7 @@
 9	placebo	placebo	NOUN	NCMS000	_	6	nsubj	_	SpaceAfter=No|Treeler:suj
 10	,	,	PUNCT	Fc	_	11	punct	_	Treeler:f
 11	ou	ou	CCONJ	CC	_	13	cc	_	Treeler:coord
-12	ningún	ningún	DET	DI0MS0	_	13	det	_	Treeler:spec
+12	ningún	ningún	DET	DI0MS0	PronType=Neg	13	det	_	Treeler:spec
 13	tratamento	tratamento	NOUN	NCMS000	_	9	conj	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 15	en	en	ADP	SPS00	_	16	case	_	Treeler:cc
@@ -27107,7 +27107,7 @@
 26	detectou	detectar	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
 27	en	en	ADP	SPS00	_	28	case	_	Treeler:cc
 28	2005	2005	NUM	Z	_	26	obl	_	Treeler:sn
-29	ningún	ningún	DET	DI0MS0	_	31	det	_	Treeler:spec
+29	ningún	ningún	DET	DI0MS0	PronType=Neg	31	det	_	Treeler:spec
 30	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	31	det	_	Treeler:d
 31	caso	caso	NOUN	NCMS000	_	26	obj	_	Treeler:cd
 32	de	de	ADP	SPS00	_	33	case	_	Treeler:sp
