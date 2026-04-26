@@ -1177,7 +1177,7 @@
 16-17	no	_	_	_	_	_	_	_	_
 16	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
 17	o	o	DET	DA0MS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-18	cal	cal	PRON	PR0CS000	_	20	obl	_	Treeler:sn
+18	cal	cal	PRON	PR0CS000	PronType=Rel	20	obl	_	Treeler:sn
 19	poderán	poder	AUX	VMIF3P0	_	20	aux	_	Treeler:v
 20	solicitar	solicitar	VERB	VMN0000	_	28	ccomp	_	Treeler:S
 21	assoramento	assoramento	NOUN	NCMS000	_	20	obj	_	Treeler:cd
@@ -5334,7 +5334,7 @@
 23	distribución	distribución	NOUN	NCFS000	_	21	nmod	_	SpaceAfter=No|Treeler:sn
 24	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
 25	o	o	DET	DA0MS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-26	cal	cal	PRON	PR0CS000	_	27	nsubj	_	Treeler:suj
+26	cal	cal	PRON	PR0CS000	PronType=Rel	27	nsubj	_	Treeler:suj
 27	tivo	ter	VERB	VMIS3S0	_	18	ccomp	_	Treeler:S
 28	basicamente	basicamente	ADV	RG	_	27	case	_	Treeler:cc
 29	dúas	dous	NOUN	NCFP000	_	27	obj	_	Treeler:cd
@@ -9127,7 +9127,7 @@
 10	ferrocarril	ferrocarril	NOUN	NCMS000	_	8	nmod	_	SpaceAfter=No|Treeler:sn
 11	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-13	cal	cal	PRON	PR0CS000	_	21	nsubj	_	SpaceAfter=No|Treeler:suj
+13	cal	cal	PRON	PR0CS000	PronType=Rel	21	nsubj	_	SpaceAfter=No|Treeler:suj
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15-16	na	_	_	_	_	_	_	_	_
 15	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
@@ -10800,7 +10800,7 @@
 17-18	do	_	_	_	_	_	_	_	_
 17	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 18	o	o	DET	DA0MS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-19	cal	cal	PRON	PR0CS000	_	16	nmod	_	Treeler:sn
+19	cal	cal	PRON	PR0CS000	PronType=Rel	16	nmod	_	Treeler:sn
 20	tamén	tamén	ADV	RG	_	22	case	_	Treeler:cc
 21	se	se	PRON	PP3CN000	_	22	obj	_	Treeler:cd
 22	implicou	implicar	VERB	VMIS3S0	_	16	ccomp	_	Treeler:S
@@ -13998,7 +13998,7 @@
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
 23	tumor	tumor	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
 24	e	e	CCONJ	CC	_	21	cc	_	ToDo=cc-without-conj|Treeler:coord
-25	cales	cal	PRON	PR0CP000	_	29	nsubj	_	Treeler:suj
+25	cales	cal	PRON	PR0CP000	PronType=Rel	29	nsubj	_	Treeler:suj
 26	son	ser	AUX	VSIP1S0	_	29	cop	_	Treeler:S
 27	os	o	DET	DA0MP0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
 28	seus	seu	DET	DP3MP0	_	29	det	_	Treeler:spec
@@ -14279,7 +14279,7 @@
 17	aldeas	aldea	NOUN	NCFP000	_	13	nmod	_	SpaceAfter=No|Treeler:sn
 18	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-20	cal	cal	PRON	PR0CS000	_	22	nsubj	_	Treeler:suj
+20	cal	cal	PRON	PR0CS000	PronType=Rel	22	nsubj	_	Treeler:suj
 21	me	me	PRON	PP1CS000	_	22	iobj	_	Treeler:ci
 22	fixo	facer	VERB	VMIS3S0	_	13	ccomp	_	Treeler:S
 23	sentir	sentir	VERB	VMN0000	_	22	obj	_	Treeler:cd
@@ -17423,7 +17423,7 @@
 36-37	da	_	_	_	_	_	_	_	_
 36	de	de	ADP	SPS00	_	38	case	_	Treeler:sp
 37	a	o	DET	DA0FS0	Definite=Def|PronType=Art	38	det	_	Treeler:spec
-38	cal	cal	PRON	PR0CS000	_	35	nmod	_	Treeler:sn
+38	cal	cal	PRON	PR0CS000	PronType=Rel	35	nmod	_	Treeler:sn
 39	teña	ter	VERB	VMSP1S0	_	31	ccomp	_	Treeler:S
 40	a	o	DET	DA0FS0	Definite=Def|PronType=Art	42	det	_	Treeler:spec
 41	súa	seu	DET	DP3FS0	_	42	det	_	Treeler:spec
@@ -18364,7 +18364,7 @@
 27-28	na	_	_	_	_	_	_	_	_
 27	en	en	ADP	SPS00	_	29	case	_	Treeler:cc
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
-29	cal	cal	PRON	PR0CS000	_	31	dep	_	Treeler:relatiu
+29	cal	cal	PRON	PR0CS000	PronType=Rel	31	dep	_	Treeler:relatiu
 30	debe	deber	AUX	VMIP3S0	_	31	aux	_	Treeler:v
 31	participar	participar	VERB	VMN0000	_	22	ccomp	_	Treeler:S
 32	fundamentalmente	fundamental	ADV	RG	_	34	advmod	_	Treeler:sadv
@@ -25906,7 +25906,7 @@
 10	ou	ou	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	Inglaterra	inglaterra	PROPN	NP00000	_	9	dep	_	SpaceAfter=No|Treeler:grup.nom
 12	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
-13	cal	cal	PRON	PR0CS000	_	16	nsubj	_	Treeler:suj
+13	cal	cal	PRON	PR0CS000	PronType=Rel	16	nsubj	_	Treeler:suj
 14	destes	dar	VERB	VMIS2P0	_	16	nsubj	_	Treeler:suj
 15	se	se	PRON	PP3CN000	_	16	obj	_	Treeler:cd
 16	achega	achegar	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
@@ -34862,7 +34862,7 @@
 13-14	das	_	_	_	_	_	_	_	_
 13	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 14	as	o	DET	DA0FP0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-15	cales	cal	PRON	PR0CP000	_	12	nmod	_	Treeler:sn
+15	cales	cal	PRON	PR0CP000	PronType=Rel	12	nmod	_	Treeler:sn
 16	é	ser	AUX	VSIP3S0	_	18	cop	_	Treeler:S
 17	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 18	de	de	ADP	SPS00	_	6	ccomp	_	Treeler:atr
@@ -34905,7 +34905,7 @@
 23	%	%	SYM	Ft	_	30	nsubj	_	Treeler:suj
 24	dubida	dubidar	VERB	VMIP3S0	_	30	nsubj	_	Treeler:suj
 25	sobre	sobre	ADP	SPS00	_	24	case	_	Treeler:cc
-26	cal	cal	PRON	PR0CS000	_	30	nsubj	_	Treeler:suj
+26	cal	cal	PRON	PR0CS000	PronType=Rel	30	nsubj	_	Treeler:suj
 27	sería	ser	AUX	VSIC3S0	_	30	cop	_	Treeler:S
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 29	súa	seu	DET	DP3FS0	_	30	det	_	Treeler:spec

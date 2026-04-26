@@ -8068,7 +8068,7 @@
 9-10	no	_	_	_	_	_	_	_	_
 9	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
 10	o	o	DET	DA0MS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
-11	cal	cal	PRON	PR0CS000	_	8	obl	_	Treeler:sn
+11	cal	cal	PRON	PR0CS000	PronType=Rel	8	obl	_	Treeler:sn
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13	debate	debate	NOUN	NCMS000	_	15	nsubj	_	Treeler:suj
 14	se	se	PRON	PP3CN000	_	15	obj	_	Treeler:cd
@@ -10839,7 +10839,7 @@
 18-19	dos	_	_	_	_	_	_	_	_
 18	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-20	cales	cal	PRON	PR0CP000	_	17	nmod	_	Treeler:sn
+20	cales	cal	PRON	PR0CP000	PronType=Rel	17	nmod	_	Treeler:sn
 21	non	non	PART	RN	_	23	advmod	_	Treeler:mod
 22	é	ser	AUX	VSIP3S0	_	23	cop	_	Treeler:S
 23	doado	doado	ADJ	AQ0MS0	_	3	ccomp	_	Treeler:atr
@@ -16188,7 +16188,7 @@
 13	especies	especie	NOUN	NCFP000	_	11	nmod	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 15	o	o	DET	DA0MS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-16	cal	cal	PRON	PR0CS000	_	17	nsubj	_	Treeler:suj
+16	cal	cal	PRON	PR0CS000	PronType=Rel	17	nsubj	_	Treeler:suj
 17	redundaría	redundar	VERB	VMIC3S0	_	11	ccomp	_	Treeler:S
 18-19	nun	_	_	_	_	_	_	_	_
 18	en	en	ADP	SPS00	_	20	case	_	Treeler:cc
@@ -18043,7 +18043,7 @@
 17	instalación	instalación	NOUN	NCFS000	_	15	nmod	_	SpaceAfter=No|Treeler:sn
 18	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 19	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-20	cal	cal	PRON	PR0CS000	_	21	nsubj	_	Treeler:suj
+20	cal	cal	PRON	PR0CS000	PronType=Rel	21	nsubj	_	Treeler:suj
 21	permitirá	permitir	VERB	VMIF3S0	_	17	ccomp	_	Treeler:S
 22-23	calcula-las	_	_	_	_	_	_	_	_
 22	calcular	calcular	VERB	VMN0000	_	21	obj	_	Treeler:cd
@@ -19181,7 +19181,7 @@
 25	UE	ue	PROPN	NP00000	_	22	nmod	_	SpaceAfter=No|ToDo=nmod|Treeler:sn
 26	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 27	a	o	DET	DA0FS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
-28	cal	cal	PRON	PR0CS000	_	29	nsubj	_	Treeler:suj
+28	cal	cal	PRON	PR0CS000	PronType=Rel	29	nsubj	_	Treeler:suj
 29	deu	dar	VERB	VMIS3S0	_	25	ccomp	_	Treeler:S
 30	prioridade	prioridade	NOUN	NCFS000	_	29	obj	_	Treeler:cd
 31-32	aos	_	_	_	_	_	_	_	_
@@ -20350,7 +20350,7 @@
 21-22	no	_	_	_	_	_	_	_	_
 21	en	en	ADP	SPS00	_	23	case	_	Treeler:cc
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
-23	cal	cal	PRON	PR0CS000	_	25	dep	_	Treeler:relatiu
+23	cal	cal	PRON	PR0CS000	PronType=Rel	25	dep	_	Treeler:relatiu
 24	se	se	PRON	PP3CN000	_	25	obj	_	Treeler:cd
 25	alcanzara	alcanzar	VERB	VMIM1S0	_	15	ccomp	_	Treeler:S
 26	o	o	DET	DA0MS0	Definite=Def|PronType=Art	27	det	_	Treeler:spec
@@ -22331,7 +22331,7 @@
 24-25	dos	_	_	_	_	_	_	_	_
 24	de	de	ADP	SPS00	_	26	case	_	Treeler:creg
 25	os	o	DET	DA0MP0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
-26	cales	cal	PRON	PR0CP000	_	27	obl	_	Treeler:sn
+26	cales	cal	PRON	PR0CP000	PronType=Rel	27	obl	_	Treeler:sn
 27	dependerá	depender	VERB	VMIF3S0	_	16	ccomp	_	Treeler:S
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 29	futura	futuro	ADJ	AQ0FS0	_	30	amod	_	Treeler:s.a
@@ -25746,7 +25746,7 @@
 4	as	o	DET	DA0FP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 5	columnas	columna	NOUN	NCFP000	_	6	nsubj	_	Treeler:suj
 6	expresan	expresar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-7	cales	cal	PRON	PR0CP000	_	10	nsubj	_	Treeler:suj
+7	cales	cal	PRON	PR0CP000	PronType=Rel	10	nsubj	_	Treeler:suj
 8	son	ser	AUX	VSIP1S0	_	10	cop	_	Treeler:cd
 9	os	o	DET	DA0MP0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
 10	inputs	inputs	PROPN	NP00000	_	6	obj	_	Treeler:atr
@@ -26043,7 +26043,7 @@
 33-34	do	_	_	_	_	_	_	_	_
 33	de	de	ADP	SPS00	_	35	case	_	Treeler:sp
 34	o	o	DET	DA0MS0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
-35	cal	cal	PRON	PR0CS000	_	32	nmod	_	Treeler:sn
+35	cal	cal	PRON	PR0CS000	PronType=Rel	32	nmod	_	Treeler:sn
 36	se	se	PRON	PP3CN000	_	37	obj	_	Treeler:cd
 37	cifra	cifrar	VERB	VMIP3S0	_	32	ccomp	_	Treeler:S
 38-39	nas	_	_	_	_	_	_	_	_
@@ -27094,7 +27094,7 @@
 13	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
 14	INE	inar	VERB	VMM03S0	_	11	ccomp	_	Treeler:S
 15	por	por	ADP	SPS00	_	16	case	_	Treeler:cc
-16	cal	cal	PRON	PR0CS000	_	14	obl	_	Treeler:sn
+16	cal	cal	PRON	PR0CS000	PronType=Rel	14	obl	_	Treeler:sn
 17	é	ser	AUX	VSIP3S0	_	19	cop	_	Treeler:cd
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	contía	contía	NOUN	NCFS000	_	14	obj	_	Treeler:atr
