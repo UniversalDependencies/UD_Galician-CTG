@@ -21215,7 +21215,7 @@
 10	as	o	DET	DA0FP0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
 11	medias	media	NOUN	NCFP000	_	21	nsubj	_	Treeler:suj
 12	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-13	ambas	ambos	DET	DI0FP0	_	15	det	_	Treeler:d
+13	ambas	ambos	DET	DI0FP0	PronType=Tot	15	det	_	Treeler:d
 14	as	o	DET	DA0FP0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
 15	dúas	dous	NOUN	NCFP000	_	11	nmod	_	Treeler:sn
 16	variables	variable	ADJ	AQ0CP0	_	15	amod	_	Treeler:s.a
@@ -22741,7 +22741,7 @@
 18	que	que	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
 19	manteñen	manter	VERB	VMIP3P0	_	17	ccomp	_	Treeler:S
 20-21	entrámbolos	_	_	_	_	_	_	_	_
-20	entrambos	entrambos	DET	DI0MP0	_	22	det	_	Treeler:d
+20	entrambos	entrambos	DET	DI0MP0	PronType=Tot	22	det	_	Treeler:d
 21	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 22	dous	dous	NOUN	NCMP000	_	19	nsubj	_	Treeler:suj
 23-24	na	_	_	_	_	_	_	_	_
@@ -26155,7 +26155,7 @@
 
 # sent_id = dev-640
 # text = Ambos diagnósticos na orde mencionada correspóndense cos dous principais motivos de ingreso ao longo de todos e cada un dos anos da serie analizada (1998-2003).
-1	Ambos	ambos	DET	DI0MP0	_	2	det	_	Treeler:spec
+1	Ambos	ambos	DET	DI0MP0	PronType=Tot	2	det	_	Treeler:spec
 2	diagnósticos	diagnóstico	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
 3-4	na	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	5	case	_	Treeler:sp
@@ -28492,7 +28492,7 @@
 12	permiso	permiso	NOUN	NCMS000	_	9	obl	_	SpaceAfter=No|Treeler:sn
 13	,	,	PUNCT	Fc	_	17	punct	_	Treeler:f
 14	non	non	PART	RN	Polarity=Neg	17	advmod	_	Treeler:neg
-15	ambos	ambos	DET	DI0MP0	_	17	det	_	Treeler:d
+15	ambos	ambos	DET	DI0MP0	PronType=Tot	17	det	_	Treeler:d
 16	os	o	DET	DA0MP0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
 17	dous	dous	NOUN	NCMP000	_	9	obl	_	Treeler:sn
 18	simultaneamente	simultaneamente	ADV	RG	_	9	advmod	_	SpaceAfter=No|Treeler:cc
@@ -30489,7 +30489,7 @@
 # text = En ámbolos dous casos, a medida que h aumenta a varianza aproxímase a cero e, polo tanto, máis cerca se atopa o modelo do prior asociado a.
 1	En	en	ADP	SPS00	_	4	case	_	Treeler:cc
 2-3	ámbolos	_	_	_	_	_	_	_	_
-2	ambos	ambos	DET	DI0MP0	_	4	det	_	Treeler:d
+2	ambos	ambos	DET	DI0MP0	PronType=Tot	4	det	_	Treeler:d
 3	os	o	DET	DA0MP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	dous	dous	NOUN	NCMP000	_	14	obl	_	Treeler:sn
 5	casos	caso	NOUN	NCMP000	_	4	amod	_	SpaceAfter=No|Treeler:s.a
@@ -33273,7 +33273,7 @@
 7	relevancia	relevancia	NOUN	NCFS000	_	4	obj	_	Treeler:cd
 8	internacional	internacional	ADJ	AQ0CS0	_	7	amod	_	Treeler:s.a
 9	que	que	SCONJ	CS	_	4	mark	_	Treeler:conj
-10	ambos	ambos	DET	DI0MP0	_	12	det	_	Treeler:d
+10	ambos	ambos	DET	DI0MP0	PronType=Tot	12	det	_	Treeler:d
 11	os	o	DET	DA0MP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
 12	dous	dous	NOUN	NCMP000	_	4	nsubj	_	Treeler:suj
 13	capítulos	capítulo	NOUN	NCMP000	_	12	amod	_	Treeler:s.a
