@@ -1806,7 +1806,7 @@
 9-10	da	_	_	_	_	_	_	_	_
 9	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 10	a	o	DET	DA0FS0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-11	miña	meu	DET	DP1FSS	_	12	det	_	Treeler:spec
+11	miña	meu	DET	DP1FSS	Poss=Yes|PronType=Prs	12	det	_	Treeler:spec
 12	mitoloxía	mitoloxía	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
 13	persoal	persoal	ADJ	AQ0CS0	_	12	amod	_	SpaceAfter=No|Treeler:s.a
 14	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
@@ -10888,7 +10888,7 @@
 27-28	coa	_	_	_	_	_	_	_	_
 27	con	con	ADP	SPS00	_	30	case	_	Treeler:cc
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
-29	miña	meu	DET	DP1FSS	_	30	det	_	Treeler:spec
+29	miña	meu	DET	DP1FSS	Poss=Yes|PronType=Prs	30	det	_	Treeler:spec
 30	renda	renda	NOUN	NCFS000	_	26	obl	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
 32	vou	ir	AUX	VMIP1S0	_	33	aux	_	Treeler:v
@@ -21364,7 +21364,7 @@
 10-11	da	_	_	_	_	_	_	_	_
 10	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 11	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-12	miña	meu	DET	DP1FSS	_	13	det	_	Treeler:spec
+12	miña	meu	DET	DP1FSS	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 13	mai	mai	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
 14	para	para	ADP	SPS00	_	17	case	_	Treeler:cc
 15	que	que	SCONJ	CS	_	17	mark	_	Treeler:conj

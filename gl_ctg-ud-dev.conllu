@@ -31629,7 +31629,7 @@
 16	ainda	ainda	ADV	RG	_	15	case	_	Treeler:cc
 17	que	que	SCONJ	CS	_	15	mark	_	Treeler:conj
 18	as	o	DET	DA0FP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	miñas	meu	DET	DP1FPS	_	20	det	_	Treeler:spec
+19	miñas	meu	DET	DP1FPS	Poss=Yes|PronType=Prs	20	det	_	Treeler:spec
 20	amigas	amigo	NOUN	NCFP000	_	15	nsubj	_	Treeler:suj
 21	lles	lle	PRON	PP3CPD00	PronType=Prs	15	iobj	_	Treeler:ci
 22	pareza	parecer	VERB	VMSP1S0	_	15	advcl	_	Treeler:cc
