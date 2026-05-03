@@ -189,18 +189,18 @@
 # sent_id = dev-6
 # text = As situacións de pobreza severa -nas que as persoas viven á marxe da sociedade ou están apartadas completamente das normas sociais convencionaisacumúlanse frecuentemente sobre os grupos e persoas de maior risco, dando orixe a situacións de auténtica polipatoloxía social.
 1	As	o	DET	DA0FP0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	situacións	situación	NOUN	NCFP000	_	12	nsubj	_	Treeler:suj
+2	situacións	situación	NOUN	NCFP000	_	0	root	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	pobreza	pobreza	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 5	severa	severo	ADJ	AQ0FS0	_	4	amod	_	Treeler:s.a
 6-7	-n	_	_	_	_	_	_	_	SpaceAfter=No
-6	_	_	PUNCT	Fg	_	2	punct	_	Treeler:f
+6	_	_	PUNCT	Fg	_	12	punct	_	Treeler:f
 7	en	en	ADP	SPS00	_	12	case	_	Treeler:cc
 8	as	o	DET	DA0FP0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
 9	que	que	SCONJ	CS	_	12	mark	_	Treeler:conj
 10	as	o	DET	DA0FP0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
 11	persoas	persoa	NOUN	NCFP000	_	12	nsubj	_	Treeler:suj
-12	viven	vivir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
+12	viven	vivir	VERB	VMIP3P0	_	2	acl:relcl	_	Treeler:sentence
 13-14	á	_	_	_	_	_	_	_	_
 13	a	a	ADP	SPS00	_	15	case	_	Treeler:cd
 14	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
@@ -3753,7 +3753,7 @@
 10	actividades	actividade	NOUN	NCFP000	_	8	obj	_	SpaceAfter=No|Treeler:cd
 11	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 12	mais	mais	CCONJ	CC	_	31	cc	_	Treeler:coord
-13	falla	falla	NOUN	NCFS000	_	31	nsubj	_	Treeler:suj
+13	falla	falla	NOUN	NCFS000	_	4	conj	_	Treeler:suj
 14	seriedade	seriedade	NOUN	NCFS000	_	13	amod	_	SpaceAfter=No|Treeler:s.a
 15	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 16	vontade	vontade	NOUN	NCFS000	_	14	dep	_	SpaceAfter=No|Treeler:grup.nom
@@ -3771,7 +3771,7 @@
 28	isto	isto	PRON	PD0CN000	PronType=Dem	31	nsubj	_	Treeler:suj
 29	xa	xa	ADV	RG	_	31	case	_	Treeler:cc
 30	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	31	xcomp	_	Treeler:atr
-31	pareza	parecer	VERB	VMSP1S0	_	4	conj	_	Treeler:S
+31	pareza	parecer	VERB	VMSP1S0	_	13	acl:relcl	_	Treeler:S
 32	a	a	ADP	SPS00	_	34	case	_	Treeler:cc
 33	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	34	det	_	Treeler:spec
 34	artigo	artigo	NOUN	NCMS000	_	31	obl	_	Treeler:sn
@@ -4751,7 +4751,7 @@
 9	funcional	funcional	ADJ	AQ0CS0	_	7	conj	_	Treeler:grup.a
 10	como	como	PRON	PR0CN000	PronType=Rel	20	obl	_	Treeler:cc
 11	a	o	DET	DA0FS0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
-12	dimensión	dimensión	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
+12	dimensión	dimensión	NOUN	NCFS000	_	6	ccomp	_	Treeler:suj
 13	solidaria	solidario	ADJ	AQ0FS0	_	12	amod	_	Treeler:s.a
 14-15	desa	_	_	_	_	_	_	_	_
 14	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
@@ -4760,7 +4760,7 @@
 17	que	que	PRON	PR0CN000	PronType=Rel	20	nsubj	_	Treeler:suj
 18	despois	despois	ADV	RG	_	20	case	_	Treeler:cc
 19	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	20	obj	_	Treeler:cd
-20	proxecta	proxectar	VERB	VMIP3S0	_	6	ccomp	_	Treeler:S
+20	proxecta	proxectar	VERB	VMIP3S0	_	12	acl:relcl	_	Treeler:S
 21	sobre	sobre	ADP	SPS00	_	24	case	_	Treeler:cc
 22	toda	todo	DET	DI0FS0	PronType=Tot	24	det	_	Treeler:d
 23	a	o	DET	DA0FS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
@@ -8147,7 +8147,7 @@
 
 # sent_id = dev-202
 # text = Resaltar, tamén, que, en contra do que se podería esperar a taxa de alumnos/as por computador é sensiblemente maior nos centros privados (12,9) que nos centros públicos (9,9).
-1	Resaltar	resaltar	VERB	VMN0000	_	14	nsubj	_	SpaceAfter=No|Treeler:suj
+1	Resaltar	resaltar	VERB	VMN0000	_	0	root	_	SpaceAfter=No|Treeler:suj
 2	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 3	tamén	tamén	ADV	RG	_	14	advmod	_	SpaceAfter=No|Treeler:cc
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
@@ -8161,7 +8161,7 @@
 11	que	que	PRON	PR0CN000	PronType=Rel	8	dep	_	Treeler:relatiu
 12	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	iobj	_	Treeler:ci
 13	podería	poder	AUX	VMIC3S0	_	14	aux	_	Treeler:v
-14	esperar	esperar	VERB	VMN0000	_	0	root	_	Treeler:sentence
+14	esperar	esperar	VERB	VMN0000	_	1	acl:relcl	_	Treeler:sentence
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	taxa	taxa	NOUN	NCFS000	_	14	obj	_	Treeler:cd
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
@@ -8614,7 +8614,7 @@
 # sent_id = dev-213
 # text = Esta redución conseguese bloqueando fisicamente a apertura da billa, mediante un sistema que mestura aire coa auga que a billa bota a través dunha válvula que limita a presión de saída da agua.
 1	Esta	este	DET	DD0FS0	PronType=Dem	2	det	_	Treeler:spec
-2	redución	redución	NOUN	NCFS000	_	24	nsubj	_	Treeler:suj
+2	redución	redución	NOUN	NCFS000	_	0	root	_	Treeler:suj
 3	conseguese	conseguese	VERB	VMSI3S0	_	24	compound	_	Treeler:v
 4	bloqueando	bloquear	VERB	VMG0000	_	24	advcl	_	Treeler:cc
 5	fisicamente	fisicamente	ADV	RG	_	24	case	_	Treeler:cc
@@ -8638,7 +8638,7 @@
 21	que	que	SCONJ	CS	_	24	mark	_	Treeler:conj
 22	a	o	DET	DA0FS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
 23	billa	billa	NOUN	NCFS000	_	24	nsubj	_	Treeler:suj
-24	bota	botar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
+24	bota	botar	VERB	VMIP3S0	_	2	acl:relcl	_	Treeler:sentence
 25	a	o	DET	DA0FS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
 26	través	través	NOUN	NCMS000	_	24	obj	_	Treeler:cd
 27-28	dunha	_	_	_	_	_	_	_	_
@@ -12020,11 +12020,11 @@
 4	posible	posible	ADJ	AQ0CS0	_	10	ccomp	_	SpaceAfter=No|Treeler:atr
 5	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 6	estes	este	DET	DD0MP0	PronType=Dem	7	det	_	Treeler:spec
-7	indicadores	indicador	NOUN	NCMP000	_	10	nsubj	_	Treeler:suj
+7	indicadores	indicador	NOUN	NCMP000	_	0	root	_	Treeler:suj
 8	teñen	ter	AUX	VMIP3P0	_	10	aux	_	Treeler:v
 9	que	que	SCONJ	CS	_	10	mark	_	Treeler:c
 10-11	medirse	_	_	_	_	_	_	_	_
-10	medir	medir	VERB	VMN0000	_	0	root	_	Treeler:sentence
+10	medir	medir	VERB	VMN0000	_	7	acl:relcl	_	Treeler:sentence
 11	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	10	dep	_	Treeler:morfema.pronominal
 12	segundo	segundo	ADP	SPS00	_	14	case	_	Treeler:cc
 13	uns	un	DET	DI0MP0	PronType=Ind	14	det	_	Treeler:spec
@@ -15563,11 +15563,11 @@
 # sent_id = dev-377
 # text = E posto que estes capitais entran masivamente, a acumulación de reservas impón unha política de esterilización custosa en termos de xuros para incitar a compra de títulos da banca central emitidos para esta ocasión.
 1	E	e	CCONJ	CC	_	6	cc	_	Treeler:coord
-2	posto	posto	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
+2	posto	posto	NOUN	NCMS000	_	0	root	_	Treeler:suj
 3	que	que	SCONJ	CS	_	6	mark	_	Treeler:conj
 4	estes	este	DET	DD0MP0	PronType=Dem	5	det	_	Treeler:spec
 5	capitais	capital	NOUN	NCFP000	_	6	nsubj	_	Treeler:suj
-6	entran	entrar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
+6	entran	entrar	VERB	VMIP3P0	_	2	acl:relcl	_	Treeler:sentence
 7	masivamente	masivamente	ADV	RG	_	6	case	_	SpaceAfter=No|Treeler:cc
 8	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
 9	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
@@ -15769,14 +15769,14 @@
 11	seus	seu	DET	DP3MP0	Poss=Yes|PronType=Prs	13	det	_	Treeler:spec
 12	maiores	maior	ADJ	AQ0CP0	_	13	amod	_	Treeler:s.a
 13	andaluces	andaluz	NOUN	NCMP000	_	3	nmod	_	SpaceAfter=No|Treeler:sn
-14	,	,	PUNCT	Fc	_	21	punct	_	Treeler:f
+14	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 15	ou	ou	CCONJ	CC	_	18	cc	_	Treeler:coord
 16	os	o	DET	DA0MP0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 17	nosos	noso	DET	DP1MPP	Poss=Yes|PronType=Prs	18	det	_	Treeler:spec
-18	prexuízos	prexuízo	NOUN	NCMP000	_	21	nsubj	_	Treeler:suj
+18	prexuízos	prexuízo	NOUN	NCMP000	_	13	ccomp	_	Treeler:suj
 19	que	que	PRON	PR0CN000	PronType=Rel	21	nsubj	_	Treeler:suj
 20	poderían	poder	AUX	VMIC3P0	_	21	aux	_	Treeler:v
-21	atribuír	atribuír	VERB	VMN0000	_	13	ccomp	_	Treeler:S
+21	atribuír	atribuír	VERB	VMN0000	_	18	acl:relcl	_	Treeler:S
 22	a	a	ADP	SPS00	_	24	case	_	Treeler:cc
 23	esa	ese	DET	DD0FS0	PronType=Dem	24	det	_	Treeler:spec
 24	orixe	orixe	NOUN	NCFS000	_	21	obl	_	Treeler:sn
@@ -23987,7 +23987,7 @@
 17	tan	tan	ADV	RG	_	19	advmod	_	Treeler:spec
 18	facilmente	facilmente	ADV	RG	_	17	advmod	_	Treeler:r
 19	localizable	localizable	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
-20	como	como	PRON	PR0CN000	PronType=Rel	29	nsubj	_	Treeler:suj
+20	como	como	PRON	PR0CN000	PronType=Rel	16	ccomp	_	Treeler:suj
 21-22	no	_	_	_	_	_	_	_	_
 21	en	en	ADP	SPS00	_	23	case	_	Treeler:cc
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
@@ -23998,7 +23998,7 @@
 26	actividades	actividade	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
 27	que	que	PRON	PR0CN000	PronType=Rel	29	nsubj	_	Treeler:suj
 28	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	29	obj	_	Treeler:cd
-29	levan	levar	VERB	VMIP3P0	_	16	ccomp	_	Treeler:S
+29	levan	levar	VERB	VMIP3P0	_	20	acl:relcl	_	Treeler:S
 30	a	o	DET	DA0FS0	Definite=Def|PronType=Art	31	det	_	Treeler:spec
 31	cabo	cabo	NOUN	NCMS000	_	29	obj	_	Treeler:cd
 32-33	no	_	_	_	_	_	_	_	_
@@ -27040,14 +27040,14 @@
 # sent_id = dev-662
 # text = As notificacións nas que estes medicamentos figuran como sospeitosos de producir a RAM foron 111, o que supón un 20% das notificacións totais do 2001.
 1	As	o	DET	DA0FP0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	notificacións	notificación	NOUN	NCFP000	_	8	nsubj	_	Treeler:suj
+2	notificacións	notificación	NOUN	NCFP000	_	0	root	_	Treeler:suj
 3-4	nas	_	_	_	_	_	_	_	_
 3	en	en	ADP	SPS00	_	2	case	_	Treeler:sp
 4	as	o	DET	DA0FP0	Definite=Def|PronType=Art	2	dep	_	Treeler:infinitiu
 5	que	que	SCONJ	CS	_	8	mark	_	Treeler:conj
 6	estes	este	DET	DD0MP0	PronType=Dem	7	det	_	Treeler:spec
 7	medicamentos	medicamento	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
-8	figuran	figurar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
+8	figuran	figurar	VERB	VMIP3P0	_	2	acl:relcl	_	Treeler:sentence
 9	como	como	PRON	PR0CN000	PronType=Rel	8	nsubj	_	Treeler:suj
 10	sospeitosos	sospeitoso	ADJ	AQ0MP0	_	8	xcomp	_	Treeler:cpred
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
@@ -28266,14 +28266,14 @@
 12	básicas	básico	ADJ	AQ0FP0	_	10	amod	_	SpaceAfter=No|Treeler:s.a
 13	:	:	PUNCT	Fd	_	4	punct	_	Treeler:f
 14	as	o	DET	DA0FP0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-15	depresións	depresión	NOUN	NCFP000	_	32	nsubj	_	Treeler:suj
+15	depresións	depresión	NOUN	NCFP000	_	0	root	_	Treeler:suj
 16	tectónicas	tectónico	ADJ	AQ0FP0	_	15	amod	_	SpaceAfter=No|Treeler:s.a
 17	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 18	e	e	CCONJ	CC	_	20	cc	_	Treeler:coord
 19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	vales	val	NOUN	NCMP000	_	15	conj	_	Treeler:sn
 21	fluviais	fluvial	ADJ	AQ0CP0	_	20	amod	_	SpaceAfter=No|Treeler:s.a
-22	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
+22	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 23	que	que	PRON	PR0CN000	PronType=Rel	32	nsubj	_	Treeler:suj
 24-25	no	_	_	_	_	_	_	_	_
 24	en	en	ADP	SPS00	_	26	case	_	Treeler:cc
@@ -28285,7 +28285,7 @@
 29	a	o	DET	DA0FS0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	Galicia	galicia	PROPN	NP00000	_	26	nmod	_	Treeler:sn
 31	interior	interior	ADJ	AQ0CS0	_	30	amod	_	Treeler:s.a
-32	acadan	acadar	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
+32	acadan	acadar	VERB	VMIP3P0	_	15	acl:relcl	_	Treeler:sentence
 33	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
 34	seu	seu	DET	DP3MS0	Poss=Yes|PronType=Prs	36	det	_	Treeler:spec
 35	maior	maior	ADJ	AQ0CS0	_	36	amod	_	Treeler:s.a
@@ -30794,7 +30794,7 @@
 5	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	4	dep	_	Treeler:morfema.pronominal
 6	como	como	PRON	PR0CN000	PronType=Rel	19	obl	_	Treeler:cc
 7	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	8	det	_	Treeler:spec
-8	debilidade	debilidade	NOUN	NCFS000	_	19	nsubj	_	Treeler:suj
+8	debilidade	debilidade	NOUN	NCFS000	_	4	ccomp	_	Treeler:suj
 9	a	a	ADP	SPS00	_	10	case	_	Treeler:sp
 10	falta	falta	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
 11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
@@ -30805,7 +30805,7 @@
 16	especializada	especializar	VERB	VMP00SF	_	13	ccomp	_	Treeler:S
 17	que	que	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
 18	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	19	obj	_	Treeler:cd
-19	adapte	adaptar	VERB	VMSP1S0	_	4	ccomp	_	Treeler:S
+19	adapte	adaptar	VERB	VMSP1S0	_	8	acl:relcl	_	Treeler:S
 20-21	ós	_	_	_	_	_	_	_	_
 20	a	a	ADP	SPS00	_	22	case	_	Treeler:cd
 21	os	o	DET	DA0MP0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
@@ -31324,11 +31324,11 @@
 35	situación	situación	NOUN	NCFS000	_	22	obl	_	Treeler:sn
 36	de	de	ADP	SPS00	_	37	case	_	Treeler:sp
 37	desemprego	desemprego	NOUN	NCMS000	_	35	nmod	_	Treeler:sn
-38	como	como	PRON	PR0CN000	PronType=Rel	42	nsubj	_	Treeler:suj
+38	como	como	PRON	PR0CN000	PronType=Rel	37	ccomp	_	Treeler:suj
 39	para	para	ADP	SPS00	_	42	case	_	Treeler:cc
 40	os	o	DET	DA0MP0	Definite=Def|PronType=Art	42	det	_	Treeler:spec
 41	que	que	PRON	PR0CN000	PronType=Rel	42	nsubj	_	Treeler:suj
-42	estaban	estar	VERB	VMII3P0	_	37	ccomp	_	Treeler:S
+42	estaban	estar	VERB	VMII3P0	_	38	acl:relcl	_	Treeler:S
 43	en	en	ADP	SPS00	_	44	case	_	Treeler:cc
 44	situación	situación	NOUN	NCFS000	_	42	obl	_	Treeler:sn
 45	de	de	ADP	SPS00	_	46	case	_	Treeler:sp
@@ -31864,13 +31864,13 @@
 11	definidas	definido	ADJ	AQ0FP0	_	6	amod	_	Treeler:s.a
 12	como	como	PRON	PR0CN000	PronType=Rel	20	obl	_	Treeler:cc
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-14	porcentaxe	porcentaxe	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
+14	porcentaxe	porcentaxe	NOUN	NCFS000	_	6	ccomp	_	Treeler:suj
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	conviventes	conviventes	ADJ	AQ0CP0	_	14	amod	_	Treeler:s.a
 17	susceptibles	susceptible	ADJ	AQ0CP0	_	16	amod	_	Treeler:s.a
 18	que	que	PRON	PR0CN000	PronType=Rel	20	nsubj	_	Treeler:suj
 19	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	20	obj	_	Treeler:cd
-20	infectan	infectar	VERB	VMIP3P0	_	6	ccomp	_	Treeler:S
+20	infectan	infectar	VERB	VMIP3P0	_	14	acl:relcl	_	Treeler:S
 21	a	a	ADP	SPS00	_	22	case	_	Treeler:creg
 22	partir	partir	VERB	VMN0000	_	20	ccomp	_	Treeler:S
 23-24	dun	_	_	_	_	_	_	_	_
