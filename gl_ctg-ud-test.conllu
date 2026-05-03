@@ -10219,7 +10219,7 @@
 6	nunca	nunca	ADV	RG	_	3	ccomp	_	Treeler:S
 7	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	8	det	_	Treeler:spec
 8	goberno	goberno	NOUN	NCMS000	_	3	obj	_	Treeler:cd
-9	que	que	PRON	PR0CN000	PronType=Rel	10	nsubj	_	Treeler:suj
+9	que	que	SCONJ	CS	_	10	mark	_	Treeler:suj
 10	teña	ter	VERB	VMSP1S0	_	8	ccomp	_	Treeler:S
 11-12	á	_	_	_	_	_	_	_	_
 11	a	a	ADP	SPS00	_	13	case	_	Treeler:cd

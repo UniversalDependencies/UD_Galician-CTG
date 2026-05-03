@@ -25,10 +25,10 @@
     <tag name="NOUN">31965</tag><!-- ano, caso, á, empresa, parte, dous, valor, lei, número, muller -->
     <tag name="NUM">2364</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
     <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
-    <tag name="PRON">5912</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
+    <tag name="PRON">5908</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
     <tag name="PROPN">1903</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
     <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
-    <tag name="SCONJ">1606</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
+    <tag name="SCONJ">1610</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
     <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
     <tag name="VERB">11780</tag><!-- ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir -->
   </tags>
@@ -45,14 +45,14 @@
     <feat name="PronType" value="Int" upos="DET">5</feat><!-- qué -->
     <feat name="PronType" value="Neg" upos="DET,PRON">47</feat><!-- ningún, ningunha, nada, ninguén -->
     <feat name="PronType" value="Prs" upos="DET,PRON">3903</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">2763</feat><!-- que, como, cando, onde, cal, canto, quen, cales, cantas, cantos -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">2759</feat><!-- que, como, cando, onde, cal, canto, quen, cales, cantas, cantos -->
     <feat name="PronType" value="Tot" upos="DET">491</feat><!-- cada, todo, todos, todas, toda, ambos, ambas, entrambos -->
     <feat name="Reflex" value="Yes" upos="PRON">2192</feat><!-- se, si, consigo -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="31">
     <dep name="acl">7</dep>
-    <dep name="acl:relcl">46</dep>
+    <dep name="acl:relcl">48</dep>
     <dep name="advcl">449</dep>
     <dep name="advmod">2607</dep>
     <dep name="amod">10490</dep>
@@ -71,9 +71,9 @@
     <dep name="flat">172</dep>
     <dep name="iobj">562</dep>
     <dep name="list">3</dep>
-    <dep name="mark">1566</dep>
+    <dep name="mark">1570</dep>
     <dep name="nmod">16580</dep>
-    <dep name="nsubj">6325</dep>
+    <dep name="nsubj">6319</dep>
     <dep name="nummod">542</dep>
     <dep name="obj">7366</dep>
     <dep name="obl">6291</dep>

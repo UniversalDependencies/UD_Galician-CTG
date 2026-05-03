@@ -456,7 +456,7 @@
 29	as	o	DET	DA0FP0	Definite=Def|PronType=Art	30	det	_	Treeler:spec
 30	mulleres	muller	NOUN	NCFP000	_	27	nmod	_	SpaceAfter=No|Treeler:sn
 31	,	,	PUNCT	Fc	_	33	punct	_	Treeler:f
-32	que	que	PRON	PR0CN000	PronType=Rel	33	nsubj	_	Treeler:suj
+32	que	que	SCONJ	CS	_	33	mark	_	Treeler:suj
 33	sufrimos	sufrir	VERB	VMIP1P0	_	30	ccomp	_	Treeler:S
 34	maior	maior	ADJ	AQ0CS0	_	35	amod	_	Treeler:s.a
 35	discriminación	discriminación	NOUN	NCFS000	_	33	obj	_	Treeler:cd
@@ -3641,7 +3641,7 @@
 8	,	,	PUNCT	Fc	_	14	punct	_	Treeler:f
 9	de	de	ADP	SPS00	_	10	case	_	Treeler:cc
 10	forma	forma	NOUN	NCFS000	_	14	obl	_	Treeler:sn
-11	que	que	PRON	PR0CN000	PronType=Rel	12	nsubj	_	Treeler:suj
+11	que	que	SCONJ	CS	_	12	mark	_	Treeler:suj
 12	exista	existir	VERB	VMSP1S0	_	10	ccomp	_	Treeler:S
 13	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	12	nsubj	_	Treeler:suj
 14	reparto	repartir	VERB	VMIP1S0	_	5	ccomp	_	Treeler:S
