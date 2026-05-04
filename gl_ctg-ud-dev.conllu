@@ -11835,8 +11835,8 @@
 14	LPRL	lprl	PROPN	NP00000	_	10	nmod	_	Treeler:sn
 15	os	o	DET	DA0MP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 16	poderes	poder	AUX	VMN02S0	_	19	aux	_	Treeler:v
-17	de	de	ADP	SPS00	_	19	case	_	Treeler:creg
-18	que	que	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
+17	de	de	ADP	SPS00	_	18	case	_	Treeler:creg
+18	que	que	PRON	PR0CN000	PronType=Rel	19	obl	_	Treeler:suj
 19	dispoñen	dispoñer	VERB	VMIP3P0	_	10	ccomp	_	Treeler:S
 20	os	o	DET	DA0MP0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
 21	Delegados	delegado	NOUN	NCMP000	_	19	nsubj	_	Treeler:suj
@@ -14751,7 +14751,7 @@
 34	a	o	DET	DA0FS0	Definite=Def|PronType=Art	35	det	_	Treeler:spec
 35	medida	medida	NOUN	NCFS000	_	26	obl	_	Treeler:sn
 36	en	en	ADP	SPS00	_	37	case	_	Treeler:cc
-37	que	que	PRON	PR0CN000	PronType=Rel	39	dep	_	Treeler:relatiu
+37	que	que	PRON	PR0CN000	PronType=Rel	39	obl	_	Treeler:relatiu
 38	pode	poder	AUX	VMIP3S0	_	39	aux	_	Treeler:v
 39	afectar	afectar	VERB	VMN0000	_	35	ccomp	_	Treeler:S
 40-41	á	_	_	_	_	_	_	_	_
@@ -16502,7 +16502,7 @@
 1	A	a	ADP	SPS00	_	2	case	_	Treeler:cc
 2	pesar	pesar	VERB	VMN0000	_	16	ccomp	_	Treeler:S
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:creg
-4	que	que	PRON	PR0CN000	PronType=Rel	2	dep	_	Treeler:relatiu
+4	que	que	PRON	PR0CN000	PronType=Rel	2	obl	_	Treeler:relatiu
 5	nos	nos	PRON	PP1CP000	PronType=Prs	2	dep	_	Treeler:morfema.pronominal
 6	meses	mes	NOUN	NCMP000	_	2	obj	_	Treeler:cd
 7-8	do	_	_	_	_	_	_	_	_
@@ -18272,7 +18272,7 @@
 9	dúas	dous	NOUN	NCFP000	_	5	nmod	_	Treeler:sn
 10	dimensións	dimensión	NOUN	NCFP000	_	9	amod	_	Treeler:s.a
 11	en	en	ADP	SPS00	_	12	case	_	Treeler:cc
-12	que	que	PRON	PR0CN000	PronType=Rel	14	dep	_	Treeler:relatiu
+12	que	que	PRON	PR0CN000	PronType=Rel	14	obl	_	Treeler:relatiu
 13	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	14	obj	_	Treeler:cd
 14	rexistra	rexistrar	VERB	VMIP3S0	_	10	ccomp	_	Treeler:S
 15	o	o	DET	DA0MS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -30156,8 +30156,8 @@
 11	en	en	ADP	SPS00	_	13	case	_	Treeler:sp
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
 13	sentido	sentido	NOUN	NCMS000	_	10	nmod	_	Treeler:sn
-14	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
-15	que	que	PRON	PR0CN000	PronType=Rel	16	nsubj	_	Treeler:suj
+14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
+15	que	que	PRON	PR0CN000	PronType=Rel	16	obl	_	Treeler:suj
 16	permiten	permitir	VERB	VMIP3P0	_	13	ccomp	_	Treeler:S
 17	tanto	tanto	ADV	RG	_	18	cc	_	Treeler:coord
 18	contemplar	contemplar	VERB	VMN0000	_	16	obj	_	Treeler:cd
@@ -33153,8 +33153,8 @@
 3	presenta	presentar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 4	a	o	DET	DA0FS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 5	vantaxe	vantaxe	NOUN	NCFS000	_	3	obj	_	Treeler:cd
-6	de	de	ADP	SPS00	_	8	case	_	Treeler:creg
-7	que	que	PRON	PR0CN000	PronType=Rel	8	nsubj	_	Treeler:suj
+6	de	de	ADP	SPS00	_	7	case	_	Treeler:creg
+7	que	que	PRON	PR0CN000	PronType=Rel	8	obl	_	Treeler:suj
 8	asegura	asegurar	VERB	VMIP3S0	_	5	ccomp	_	Treeler:S
 9	que	que	SCONJ	CS	_	25	mark	_	Treeler:conj
 10	as	o	DET	DA0FP0	Definite=Def|PronType=Art	11	det	_	Treeler:spec

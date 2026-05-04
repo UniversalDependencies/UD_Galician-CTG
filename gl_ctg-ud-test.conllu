@@ -8429,8 +8429,8 @@
 2	todas	todo	DET	DI0FP0	PronType=Tot	4	det	_	Treeler:d
 3	as	o	DET	DA0FP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
 4	transferencias	transferencia	NOUN	NCFP000	_	12	obl	_	Treeler:sn
-5	a	a	ADP	SPS00	_	8	case	_	Treeler:creg
-6	que	que	PRON	PR0CN000	PronType=Rel	8	nsubj	_	Treeler:suj
+5	a	a	ADP	SPS00	_	6	case	_	Treeler:creg
+6	que	que	PRON	PR0CN000	PronType=Rel	8	obl	_	Treeler:suj
 7	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	8	obj	_	Treeler:cd
 8	refire	referir	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
 9	este	este	DET	DD0MS0	PronType=Dem	10	det	_	Treeler:spec
@@ -22608,8 +22608,8 @@
 7	suxire	suxerir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	a	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
 9	idea	idea	NOUN	NCFS000	_	7	obj	_	Treeler:cd
-10	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
-11	que	que	PRON	PR0CN000	PronType=Rel	12	nsubj	_	Treeler:suj
+10	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
+11	que	que	PRON	PR0CN000	PronType=Rel	12	obl	_	Treeler:suj
 12	existen	existir	VERB	VMIP3P0	_	9	ccomp	_	Treeler:S
 13	diferenzas	diferenza	NOUN	NCFP000	_	12	nsubj	_	Treeler:suj
 14	por	por	ADP	SPS00	_	15	case	_	Treeler:sp
@@ -23894,8 +23894,8 @@
 13	fin	fin	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	determinar	determinar	VERB	VMN0000	_	13	ccomp	_	Treeler:S
-16	en	en	ADP	SPS00	_	18	case	_	Treeler:cc
-17	que	que	PRON	PR0CN000	PronType=Rel	18	dep	_	Treeler:relatiu
+16	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
+17	que	que	PRON	PR0CN000	PronType=Rel	18	nmod	_	Treeler:relatiu
 18	medida	medida	NOUN	NCFS000	_	15	obl	_	Treeler:sn
 19	os	o	DET	DA0MP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	impostos	imposto	NOUN	NCMP000	_	15	obj	_	Treeler:cd
@@ -26017,8 +26017,8 @@
 9	e	e	CCONJ	CC	_	11	cc	_	Treeler:coord
 10	a	o	DET	DA0FS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
 11	flexibilidade	flexibilidade	NOUN	NCFS000	_	2	conj	_	Treeler:sn
-12	de	de	ADP	SPS00	_	16	case	_	Treeler:creg
-13	que	que	PRON	PR0CN000	PronType=Rel	16	nsubj	_	Treeler:suj
+12	de	de	ADP	SPS00	_	13	case	_	Treeler:creg
+13	que	que	PRON	PR0CN000	PronType=Rel	16	obl	_	Treeler:suj
 14	debe	deber	AUX	VMIP3S0	_	16	aux	_	Treeler:v
 15	estar	estar	AUX	VMN0000	_	16	cop	_	Treeler:S
 16	dotado	dotar	VERB	VMP00SM	_	11	ccomp	_	Treeler:atr

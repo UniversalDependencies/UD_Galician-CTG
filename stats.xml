@@ -65,7 +65,7 @@
     <dep name="conj">3798</dep>
     <dep name="cop">1540</dep>
     <dep name="csubj:outer">6</dep>
-    <dep name="dep">2378</dep>
+    <dep name="dep">2372</dep>
     <dep name="det">23774</dep>
     <dep name="discourse">1</dep>
     <dep name="expl:pass">68</dep>
@@ -73,12 +73,12 @@
     <dep name="iobj">562</dep>
     <dep name="list">3</dep>
     <dep name="mark">1575</dep>
-    <dep name="nmod">16590</dep>
-    <dep name="nsubj">6025</dep>
+    <dep name="nmod">16591</dep>
+    <dep name="nsubj">6012</dep>
     <dep name="nsubj:outer">104</dep>
     <dep name="nummod">542</dep>
-    <dep name="obj">7366</dep>
-    <dep name="obl">6413</dep>
+    <dep name="obj">7365</dep>
+    <dep name="obl">6432</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">2</dep>
     <dep name="punct">13316</dep>
