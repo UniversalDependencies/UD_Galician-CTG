@@ -73,7 +73,7 @@
     <dep name="list">3</dep>
     <dep name="mark">1570</dep>
     <dep name="nmod">16590</dep>
-    <dep name="nsubj">6187</dep>
+    <dep name="nsubj">6140</dep>
     <dep name="nummod">542</dep>
     <dep name="obj">7366</dep>
     <dep name="obl">6413</dep>
@@ -81,6 +81,6 @@
     <dep name="parataxis">2</dep>
     <dep name="punct">13316</dep>
     <dep name="root">3993</dep>
-    <dep name="xcomp">652</dep>
+    <dep name="xcomp">699</dep>
   </deps>
 </treebank>

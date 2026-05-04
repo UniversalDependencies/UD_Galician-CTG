@@ -1045,7 +1045,7 @@
 24	realmente	real	ADV	RG	_	27	case	_	Treeler:cc
 25	a	o	PRON	PP3FSA00	PronType=Prs	27	obj	_	Treeler:cd
 26	está	estar	AUX	VMIP3S0	_	27	aux	_	Treeler:v
-27	deixando	deixar	VERB	VMG0000	_	21	nsubj	_	Treeler:suj
+27	deixando	deixar	VERB	VMG0000	_	21	xcomp	_	Treeler:suj
 28	sen	sen	ADP	SPS00	_	29	case	_	Treeler:cc
 29	voz	voz	NOUN	NCFS000	_	27	obl	_	SpaceAfter=No|Treeler:sn
 30	,	,	PUNCT	Fc	_	35	punct	_	Treeler:f
@@ -7898,7 +7898,7 @@
 4	é	ser	AUX	VSIP3S0	_	16	cop	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
 6	eses	ese	DET	DD0MP0	PronType=Dem	7	det	_	Treeler:spec
-7	fillos	fillo	NOUN	NCMP000	_	16	nsubj	_	SpaceAfter=No|Treeler:suj
+7	fillos	fillo	NOUN	NCMP000	_	16	xcomp	_	SpaceAfter=No|Treeler:suj
 8	,	,	PUNCT	Fc	_	10	punct	_	Treeler:f
 9	unha	un	DET	DI0FS0	Definite=Ind|PronType=Art	10	det	_	Treeler:spec
 10	vez	vez	NOUN	NCFS000	_	7	nmod	_	Treeler:sn
@@ -8434,7 +8434,7 @@
 7	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	8	obj	_	Treeler:cd
 8	refire	referir	VERB	VMIP3S0	_	4	ccomp	_	Treeler:S
 9	este	este	DET	DD0MS0	PronType=Dem	10	det	_	Treeler:spec
-10	artigo	artigo	NOUN	NCMS000	_	8	nsubj	_	SpaceAfter=No|Treeler:suj
+10	artigo	artigo	NOUN	NCMS000	_	8	xcomp	_	SpaceAfter=No|Treeler:suj
 11	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 12-14	remitiráselles	_	_	_	_	_	_	_	_
 12	remitirá	remitir	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
@@ -9368,7 +9368,7 @@
 25	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	26	obj	_	Treeler:cd
 26	refire	referir	VERB	VMIP3S0	_	17	obj	_	Treeler:cd
 27	a	o	DET	DA0FS0	Definite=Def|PronType=Art	28	det	_	Treeler:spec
-28	tratamento	tratamento	NOUN	NCMS000	_	26	nsubj	_	Treeler:suj
+28	tratamento	tratamento	NOUN	NCMS000	_	26	xcomp	_	Treeler:suj
 29	con	con	ADP	SPS00	_	30	case	_	Treeler:sp
 30	metadona	metadona	NOUN	NCFS000	_	28	nmod	_	Treeler:sn
 31	(	(	PUNCT	Fpa	_	32	punct	_	SpaceAfter=No|Treeler:f
@@ -17209,7 +17209,7 @@
 5	é	ser	AUX	VSIP3S0	_	6	cop	_	Treeler:cc
 6	importante	importante	ADJ	AQ0CS0	_	7	amod	_	Treeler:atr
 7	aparece	aparecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-8	sangue	sangue	NOUN	NCMS000	_	7	nsubj	_	Treeler:suj
+8	sangue	sangue	NOUN	NCMS000	_	7	xcomp	_	Treeler:suj
 9	e	e	CCONJ	CC	_	10	cc	_	Treeler:coord
 10	proteínas	proteína	NOUN	NCFP000	_	8	conj	_	Treeler:grup.nom
 11-12	nos	_	_	_	_	_	_	_	_
@@ -24726,7 +24726,7 @@
 16	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	17	obj	_	Treeler:cd
 17	refire	referir	VERB	VMIP3S0	_	12	ccomp	_	Treeler:S
 18	o	o	DET	DA0MS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
-19	número	número	NOUN	NCMS000	_	17	nsubj	_	Treeler:suj
+19	número	número	NOUN	NCMS000	_	17	xcomp	_	Treeler:suj
 20	seguinte	seguinte	ADJ	AQ0CS0	_	19	amod	_	SpaceAfter=No|Treeler:s.a
 21	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
 22	o	o	DET	DA0MS0	Definite=Def|PronType=Art	23	det	_	Treeler:spec
@@ -25376,7 +25376,7 @@
 15	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
 16	parece	parecer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 17	conveniente	conveniente	ADJ	AQ0CS0	_	16	xcomp	_	Treeler:atr
-18	incluír	incluír	VERB	VMN0000	_	16	nsubj	_	Treeler:suj
+18	incluír	incluír	VERB	VMN0000	_	16	xcomp	_	Treeler:suj
 19-20	no	_	_	_	_	_	_	_	_
 19	en	en	ADP	SPS00	_	21	case	_	Treeler:cc
 20	o	o	DET	DA0MS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
@@ -28703,7 +28703,7 @@
 5	refiren	referir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 6	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	5	dep	_	Treeler:morfema.pronominal
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
-8	aumentos	aumento	NOUN	NCMP000	_	5	nsubj	_	Treeler:suj
+8	aumentos	aumento	NOUN	NCMP000	_	5	xcomp	_	Treeler:suj
 9-10	da	_	_	_	_	_	_	_	_
 9	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
 10	a	o	DET	DA0FS0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
@@ -28961,7 +28961,7 @@
 20	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	21	obj	_	Treeler:cd
 21	empreguen	empregar	VERB	VMSP3P0	_	7	ccomp	_	Treeler:S
 22	como	como	PRON	PR0CN000	PronType=Rel	23	dep	_	Treeler:relatiu
-23	materias	materia	NOUN	NCFP000	_	21	nsubj	_	Treeler:suj
+23	materias	materia	NOUN	NCFP000	_	21	xcomp	_	Treeler:suj
 24	primas	primo	ADJ	AQ0FP0	_	23	amod	_	Treeler:s.a
 25	e	e	CCONJ	CC	_	26	cc	_	Treeler:coord
 26	non	non	PART	RN	_	21	conj	_	Treeler:S
