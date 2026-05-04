@@ -50,7 +50,7 @@
     <feat name="Reflex" value="Yes" upos="PRON">2192</feat><!-- se, si, consigo -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="31">
+  <deps unique="33">
     <dep name="acl">7</dep>
     <dep name="acl:relcl">48</dep>
     <dep name="advcl">449</dep>
@@ -64,6 +64,7 @@
     <dep name="compound">147</dep>
     <dep name="conj">3798</dep>
     <dep name="cop">1540</dep>
+    <dep name="csubj:outer">6</dep>
     <dep name="dep">2378</dep>
     <dep name="det">23774</dep>
     <dep name="discourse">1</dep>
@@ -73,7 +74,8 @@
     <dep name="list">3</dep>
     <dep name="mark">1575</dep>
     <dep name="nmod">16590</dep>
-    <dep name="nsubj">6135</dep>
+    <dep name="nsubj">6025</dep>
+    <dep name="nsubj:outer">104</dep>
     <dep name="nummod">542</dep>
     <dep name="obj">7366</dep>
     <dep name="obl">6413</dep>

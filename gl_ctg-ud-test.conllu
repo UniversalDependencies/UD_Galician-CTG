@@ -837,7 +837,7 @@
 # sent_id = test-20
 # text = Un plano que concibe principalmente a auga como un recurso productivo e non como un activo ecosocial non é un plano sustentábel.
 1	Un	un	DET	DI0MS0	Definite=Ind|PronType=Art	2	det	_	Treeler:spec
-2	plano	plano	NOUN	NCMS000	_	21	nsubj	_	Treeler:suj
+2	plano	plano	NOUN	NCMS000	_	21	nsubj:outer	_	Treeler:suj
 3	que	que	PRON	PR0CN000	PronType=Rel	4	nsubj	_	Treeler:suj
 4	concibe	concibir	VERB	VMIP3S0	_	2	ccomp	_	Treeler:S
 5	principalmente	principal	ADV	RG	_	4	case	_	Treeler:cc
@@ -2444,7 +2444,7 @@
 29	anticipo	anticipo	NOUN	NCMS000	_	25	nmod	_	Treeler:sn
 30	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 31	fondos	fondo	NOUN	NCMP000	_	29	nmod	_	Treeler:sn
-32	que	que	PRON	PR0CN000	PronType=Rel	37	nsubj	_	SpaceAfter=No|Treeler:suj
+32	que	que	PRON	PR0CN000	PronType=Rel	37	nsubj:outer	_	SpaceAfter=No|Treeler:suj
 33	,	,	PUNCT	Fc	_	32	punct	_	Treeler:f
 34	se	se	SCONJ	CS	_	37	mark	_	Treeler:conj
 35	é	ser	AUX	VSIP3S0	_	37	cop	_	Treeler:S
@@ -3516,7 +3516,7 @@
 10	activa	activo	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
 11	diaria	diario	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	15	det	_	Treeler:spec
-13	que	que	PRON	PR0CN000	PronType=Rel	15	nsubj	_	Treeler:suj
+13	que	que	PRON	PR0CN000	PronType=Rel	15	nsubj:outer	_	Treeler:suj
 14	estivo	estar	AUX	VMIS3S0	_	15	cop	_	Treeler:S
 15	sometida	someter	VERB	VMP00SF	_	9	ccomp	_	Treeler:cpred
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -4708,7 +4708,7 @@
 2	ocasións	ocasión	NOUN	NCFP000	_	16	nmod	_	SpaceAfter=No|Treeler:sn
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	as	o	DET	DA0FP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-5	actividades	actividade	NOUN	NCFP000	_	16	nsubj	_	Treeler:suj
+5	actividades	actividade	NOUN	NCFP000	_	16	nsubj:outer	_	Treeler:suj
 6	levadas	levar	VERB	VMP00PF	_	5	ccomp	_	Treeler:S
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	cabo	cabo	NOUN	NCMS000	_	16	nsubj	_	Treeler:suj
@@ -5777,7 +5777,7 @@
 7	evidencia	evidenciar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 8	que	que	SCONJ	CS	_	20	mark	_	Treeler:conj
 9	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-10	dispersión	dispersión	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
+10	dispersión	dispersión	NOUN	NCFS000	_	20	nsubj:outer	_	Treeler:suj
 11	relativa	relativo	ADJ	AQ0FS0	_	10	amod	_	Treeler:s.a
 12-13	no	_	_	_	_	_	_	_	_
 12	en	en	ADP	SPS00	_	14	case	_	Treeler:sp
@@ -6250,7 +6250,7 @@
 3	perspectiva	perspectiva	NOUN	NCFS000	_	12	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	outra	outro	DET	DI0FS0	PronType=Ind	6	det	_	Treeler:spec
-6	liña	liña	NOUN	NCFS000	_	12	nsubj	_	Treeler:suj
+6	liña	liña	NOUN	NCFS000	_	12	nsubj:outer	_	Treeler:suj
 7	argumental	argumental	ADJ	AQ0CS0	_	6	amod	_	Treeler:s.a
 8	é	ser	AUX	VSIP3S0	_	12	cop	_	Treeler:sentence
 9	a	o	DET	DA0FS0	Definite=Def|PronType=Art	12	det	_	Treeler:spec
@@ -9807,7 +9807,7 @@
 # sent_id = test-247
 # text = As datas de validez e caducidade, e, polo tanto, nas que se pode realizar o transporte, son as que figuran no documento de notificación.
 1	As	o	DET	DA0FP0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	datas	data	NOUN	NCFP000	_	26	nsubj	_	Treeler:suj
+2	datas	data	NOUN	NCFP000	_	26	nsubj:outer	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	validez	validez	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 5	e	e	CCONJ	CC	_	6	cc	_	Treeler:coord
@@ -10831,7 +10831,7 @@
 10	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
 11	e	e	CCONJ	CC	_	23	cc	_	Treeler:coord
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-13	nivel	nivel	NOUN	NCMS000	_	23	nsubj	_	Treeler:suj
+13	nivel	nivel	NOUN	NCMS000	_	23	nsubj:outer	_	Treeler:suj
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	posta	posta	NOUN	NCFS000	_	13	nmod	_	Treeler:sn
 16	en	en	ADP	SPS00	_	17	case	_	Treeler:sp
@@ -11186,7 +11186,7 @@
 # text = Cando a empresa estea obrigada á realización dunha auditoría externa, os interventores poden ser eximidos da presentación do informe de censura de contas.
 1	Cando	cando	PRON	PR0CN000	PronType=Rel	5	obl	_	Treeler:cc
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-3	empresa	empresa	NOUN	NCFS000	_	5	nsubj	_	Treeler:suj
+3	empresa	empresa	NOUN	NCFS000	_	5	nsubj:outer	_	Treeler:suj
 4	estea	estar	AUX	VMSP1S0	_	5	cop	_	Treeler:sentence
 5	obrigada	obrigar	VERB	VMP00SF	_	0	root	_	Treeler:atr
 6-7	á	_	_	_	_	_	_	_	_
@@ -12986,7 +12986,7 @@
 # sent_id = test-328
 # text = O consumo de produtos animais pode ser entendíbel, ora que outra cousa é a experimentación, os amoreamentos e transportes vexatorios, a escravitude salvaxe e os sufrimentos a que son sometidos milleiros de seres polas producións intensivas desta porcallada de sociedade de consumo.
 1	O	o	DET	DA0MS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	consumo	consumo	NOUN	NCMS000	_	8	nsubj	_	Treeler:suj
+2	consumo	consumo	NOUN	NCMS000	_	8	nsubj:outer	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	produtos	produto	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
 5	animais	animal	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
@@ -15788,7 +15788,7 @@
 1	Considerando	considerar	VERB	VMG0000	_	10	dep	_	Treeler:gerundi
 2	que	que	SCONJ	CS	_	10	mark	_	Treeler:conj
 3	os	o	DET	DA0MP0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-4	meses	mes	NOUN	NCMP000	_	10	nsubj	_	Treeler:suj
+4	meses	mes	NOUN	NCMP000	_	10	nsubj:outer	_	Treeler:suj
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 6	inverno	inverno	NOUN	NCMS000	_	4	nmod	_	Treeler:sn
 7	son	ser	AUX	VSIP1S0	_	10	cop	_	Treeler:sentence
@@ -20473,7 +20473,7 @@
 # text = Cando o coñecemento, as habilidades e as capacidades non poden ser valoradas no mercado externo de forma rápida, o desenvolvemento dun mercado interno é a alternativa adecuada.
 1	Cando	cando	PRON	PR0CN000	PronType=Rel	30	nmod	_	Treeler:cc
 2	o	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-3	coñecemento	coñecemento	NOUN	NCMS000	_	30	nsubj	_	SpaceAfter=No|Treeler:suj
+3	coñecemento	coñecemento	NOUN	NCMS000	_	30	nsubj:outer	_	SpaceAfter=No|Treeler:suj
 4	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 5	as	o	DET	DA0FP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	habilidades	habilidade	NOUN	NCFP000	_	3	nmod	_	Treeler:sn
@@ -23158,7 +23158,7 @@
 4	consideramos	considerar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 5	que	que	SCONJ	CS	_	16	mark	_	Treeler:conj
 6	o	o	DET	DA0MS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
-7	volume	volume	NOUN	NCMS000	_	16	nsubj	_	Treeler:suj
+7	volume	volume	NOUN	NCMS000	_	16	nsubj:outer	_	Treeler:suj
 8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 9	vendas	venda	NOUN	NCFP000	_	7	nmod	_	Treeler:sn
 10	e	e	CCONJ	CC	_	7	cc	_	Treeler:coord
@@ -26393,7 +26393,7 @@
 24	tecnolóxica	tecnolóxico	ADJ	AQ0FS0	_	23	amod	_	SpaceAfter=No|Treeler:s.a
 25	,	,	PUNCT	Fc	_	26	punct	_	Treeler:f
 26	mentras	mentras	NOUN	NCFP000	_	23	nmod	_	Treeler:sn
-27	que	que	PRON	PR0CN000	PronType=Rel	32	nsubj	_	Treeler:suj
+27	que	que	PRON	PR0CN000	PronType=Rel	32	nsubj:outer	_	Treeler:suj
 28	outros	outro	DET	DI0MP0	PronType=Ind	29	det	_	Treeler:spec
 29	produtos	produto	NOUN	NCMP000	_	32	nsubj	_	Treeler:suj
 30	están	estar	AUX	VMIP3P0	_	32	cop	_	Treeler:S
@@ -27353,7 +27353,7 @@
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sn
 16	curso	curso	NOUN	NCMS000	_	12	nmod	_	SpaceAfter=No|Treeler:sn
 17	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
-18	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
+18	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj:outer	_	Treeler:suj
 19	é	ser	AUX	VSIP3S0	_	22	cop	_	Treeler:S
 20	o	o	DET	DA0MS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 21	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
@@ -28080,7 +28080,7 @@
 3	contra	contra	NOUN	NCFS000	_	14	obl	_	SpaceAfter=No|Treeler:sn
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
-6	porto	porto	NOUN	NCMS000	_	14	nsubj	_	Treeler:suj
+6	porto	porto	NOUN	NCMS000	_	14	nsubj:outer	_	Treeler:suj
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 8	A	o	DET	DA0FS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
 9	Coruña	coruña	PROPN	NP00000	_	6	nmod	_	Treeler:sn
@@ -29983,7 +29983,7 @@
 # sent_id = test-739
 # text = As clasificacións acordadas serán revisables a pedimento dos interesados ou de oficio pola Administración en canto deixen de ser actuais as bases tomadas para establecelas.
 1	As	o	DET	DA0FP0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	clasificacións	clasificación	NOUN	NCFP000	_	5	nsubj	_	Treeler:suj
+2	clasificacións	clasificación	NOUN	NCFP000	_	5	nsubj:outer	_	Treeler:suj
 3	acordadas	acordar	VERB	VMP00PF	_	2	ccomp	_	Treeler:S
 4	serán	ser	AUX	VSIF3P0	_	5	cop	_	Treeler:sentence
 5	revisables	revisable	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
@@ -32605,7 +32605,7 @@
 # text = A súa organización, viabilidade de aplicación e custos son os factores condicionantes que determinarán a súa aplicación e/ou extensión a novos territorios con potencialidade suficiente.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 2	súa	seu	DET	DP3FS0	Poss=Yes|PronType=Prs	3	det	_	Treeler:spec
-3	organización	organización	NOUN	NCFS000	_	12	nsubj	_	SpaceAfter=No|Treeler:suj
+3	organización	organización	NOUN	NCFS000	_	12	nsubj:outer	_	SpaceAfter=No|Treeler:suj
 4	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
 5	viabilidade	viabilidade	NOUN	NCFS000	_	12	nsubj	_	Treeler:suj
 6	de	de	ADP	SPS00	_	7	case	_	Treeler:sp
@@ -33787,7 +33787,7 @@
 11	administracións	administración	NOUN	NCFP000	_	9	conj	_	Treeler:grup.nom
 12	públicas	público	ADJ	AQ0FP0	_	11	amod	_	Treeler:s.a
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-14	porcentaxe	porcentaxe	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
+14	porcentaxe	porcentaxe	NOUN	NCFS000	_	20	nsubj:outer	_	Treeler:suj
 15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
 16	galegos	galego	NOUN	NCMP000	_	14	nmod	_	Treeler:sn
 17	é	ser	AUX	VSIP3S0	_	20	cop	_	Treeler:sentence

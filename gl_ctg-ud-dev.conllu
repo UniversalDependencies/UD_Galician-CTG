@@ -2652,7 +2652,7 @@
 # sent_id = dev-63
 # text = O obxectivo para os vehículos fóra de uso é que a xestión de todos eles se realice de forma controlada e autorizada.
 1	O	o	DET	DA0MS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	obxectivo	obxectivo	NOUN	NCMS000	_	17	nsubj	_	Treeler:suj
+2	obxectivo	obxectivo	NOUN	NCMS000	_	17	nsubj:outer	_	Treeler:suj
 3	para	para	ADP	SPS00	_	5	case	_	Treeler:sp
 4	os	o	DET	DA0MP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 5	vehículos	vehículo	NOUN	NCMP000	_	2	nmod	_	Treeler:sn
@@ -3017,7 +3017,7 @@
 
 # sent_id = dev-73
 # text = Actuacións tendentes a mellorar esta situación, especialmente a reforestación e a forestación, poden ser fundamentais para a evolución do clima a escala global e a medio prazo en dous aspectos:
-1	Actuacións	actuación	NOUN	NCFP000	_	17	nsubj	_	Treeler:suj
+1	Actuacións	actuación	NOUN	NCFP000	_	17	nsubj:outer	_	Treeler:suj
 2	tendentes	tendente	ADJ	AQ0CP0	_	1	amod	_	Treeler:s.a
 3	a	a	ADP	SPS00	_	4	case	_	Treeler:sp
 4	mellorar	mellorar	VERB	VMN0000	_	1	ccomp	_	Treeler:S
@@ -4980,7 +4980,7 @@
 
 # sent_id = dev-122
 # text = Complexo da madeira: esta industria está integrada pola silvicultura, explotación forestal, e o conxunto de actividades da cadea de transformación da madeira (desde o serrado ata industrias da madeira como carpinterías).
-1	Complexo	complexo	NOUN	NCMS000	_	9	nsubj	_	Treeler:suj
+1	Complexo	complexo	NOUN	NCMS000	_	9	nsubj:outer	_	Treeler:suj
 2-3	da	_	_	_	_	_	_	_	_
 2	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 3	a	o	DET	DA0FS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
@@ -5172,7 +5172,7 @@
 # sent_id = dev-126
 # text = O persoal que traballe en dúas quendas, cando a coincidencia entre a xornada de traballo e o período nocturno sexa igual ou inferior a unha hora.
 1	O	o	DET	DA0MS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	persoal	persoal	NOUN	NCMS000	_	22	nsubj	_	Treeler:suj
+2	persoal	persoal	NOUN	NCMS000	_	22	nsubj:outer	_	Treeler:suj
 3	que	que	PRON	PR0CN000	PronType=Rel	4	nsubj	_	Treeler:suj
 4	traballe	traballar	VERB	VMSP3S0	_	2	ccomp	_	Treeler:S
 5	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
@@ -6639,7 +6639,7 @@
 15	permanente	permanente	ADJ	AQ0CS0	_	14	amod	_	SpaceAfter=No|Treeler:s.a
 16	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 17	o	o	DET	DA0MS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
-18	domicilio	domicilio	NOUN	NCMS000	_	22	nsubj	_	Treeler:suj
+18	domicilio	domicilio	NOUN	NCMS000	_	22	nsubj:outer	_	Treeler:suj
 19	será	ser	AUX	VSIF3S0	_	22	cop	_	Treeler:S
 20	o	o	DET	DA0MS0	Definite=Def|PronType=Art	22	det	_	Treeler:spec
 21	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
@@ -7771,7 +7771,7 @@
 2	xeral	xeral	ADJ	AQ0CS0	_	8	amod	_	SpaceAfter=No|Treeler:s.a
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	o	o	DET	DA0MS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-5	efecto	efecto	NOUN	NCMS000	_	8	nsubj	_	Treeler:suj
+5	efecto	efecto	NOUN	NCMS000	_	8	nsubj:outer	_	Treeler:suj
 6	intersectorial	intersectorial	ADJ	AQ0CS0	_	5	amod	_	Treeler:s.a
 7	é	ser	AUX	VSIP3S0	_	8	cop	_	Treeler:sentence
 8	negativo	negativo	ADJ	AQ0MS0	_	0	root	_	Treeler:atr
@@ -8476,7 +8476,7 @@
 # text = Case poderiamos afirmar hoxe que a diversidade dos recursos turísticos é ilimitada en xeral, dependendo o seu uso da capacidade imaxinativa dos axentes económicos para crearen productos atractivos e motivaren así os desprazamentos e consumos.
 1	Case	case	ADV	RG	_	3	case	_	Treeler:cc
 2	poderiamos	poder	AUX	VMIC1P0	_	3	aux	_	Treeler:v
-3	afirmar	afirmar	VERB	VMN0000	_	13	nsubj	_	Treeler:suj
+3	afirmar	afirmar	VERB	VMN0000	_	13	csubj:outer	_	Treeler:suj
 4	hoxe	hoxe	ADV	RG	_	3	case	_	Treeler:cc
 5	que	que	SCONJ	CS	_	13	mark	_	Treeler:conj
 6	a	o	DET	DA0FS0	Definite=Def|PronType=Art	7	det	_	Treeler:spec
@@ -9058,7 +9058,7 @@
 17	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 18	temos	ter	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 19	que	que	SCONJ	CS	_	34	mark	_	Treeler:conj
-20	tomar	tomar	VERB	VMN0000	_	34	nsubj	_	Treeler:suj
+20	tomar	tomar	VERB	VMN0000	_	34	csubj:outer	_	Treeler:suj
 21	contacto	contacto	NOUN	NCMS000	_	20	obj	_	Treeler:cd
 22-23	cos	_	_	_	_	_	_	_	_
 22	con	con	ADP	SPS00	_	24	case	_	Treeler:sp
@@ -9175,7 +9175,7 @@
 7	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	6	dep	_	Treeler:morfema.pronominal
 8	que	que	SCONJ	CS	_	17	mark	_	Treeler:conj
 9	a	o	DET	DA0FS0	Definite=Def|PronType=Art	10	det	_	Treeler:spec
-10	categoría	categoría	NOUN	NCFS000	_	17	nsubj	_	Treeler:suj
+10	categoría	categoría	NOUN	NCFS000	_	17	nsubj:outer	_	Treeler:suj
 11-12	do	_	_	_	_	_	_	_	_
 11	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
@@ -12584,7 +12584,7 @@
 11	a	a	ADP	SPS00	_	13	case	_	Treeler:ci
 12	mesma	mesmo	DET	DI0FS0	PronType=Ind	13	det	_	Treeler:spec
 13	protección	protección	NOUN	NCFS000	_	10	iobj	_	Treeler:sn
-14	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj	_	Treeler:suj
+14	que	que	PRON	PR0CN000	PronType=Rel	22	nsubj:outer	_	Treeler:suj
 15-16	ó	_	_	_	_	_	_	_	_
 15	a	a	ADP	SPS00	_	17	case	_	Treeler:ci
 16	o	o	DET	DA0MS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -12748,7 +12748,7 @@
 # sent_id = dev-312
 # text = Algunhas preguntas orientadoras para abordar esta revisión poderían ser: ¿Existe identificación do alumnado co centro?, ¿e do profesorado e outros membros da comunidade?, ¿podemos explicarnos por que?...
 1	Algunhas	algún	DET	DI0FP0	PronType=Ind	2	det	_	Treeler:spec
-2	preguntas	pregunta	NOUN	NCFP000	_	12	nsubj	_	Treeler:suj
+2	preguntas	pregunta	NOUN	NCFP000	_	12	nsubj:outer	_	Treeler:suj
 3	orientadoras	orientador	ADJ	AQ0FP0	_	2	amod	_	Treeler:s.a
 4	para	para	ADP	SPS00	_	5	case	_	Treeler:sp
 5	abordar	abordar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
@@ -14882,7 +14882,7 @@
 # text = Tanto a dirección como o persoal están obrigados a facilitar as tarefas e a cooperar coa comisión paritaria para o mellor desenvolvemento da mesma.
 1	Tanto	tanto	ADV	RG	_	3	cc	_	Treeler:coord
 2	a	o	DET	DA0FS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
-3	dirección	dirección	NOUN	NCFS000	_	8	nsubj	_	Treeler:suj
+3	dirección	dirección	NOUN	NCFS000	_	8	nsubj:outer	_	Treeler:suj
 4	como	como	PRON	PR0CN000	PronType=Rel	8	obj	_	Treeler:cd
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
 6	persoal	persoal	NOUN	NCMS000	_	8	nsubj	_	Treeler:suj
@@ -15079,7 +15079,7 @@
 11	garantías	garantía	NOUN	NCFP000	_	8	nmod	_	Treeler:sn
 12	atinxirá	atinxir	VERB	VMIF3S0	_	0	root	_	Treeler:sentence
 13	aquelas	aquel	DET	DD0FP0	PronType=Dem	12	obj	_	Treeler:cd
-14	que	que	PRON	PR0CN000	PronType=Rel	25	nsubj	_	SpaceAfter=No|Treeler:suj
+14	que	que	PRON	PR0CN000	PronType=Rel	25	nsubj:outer	_	SpaceAfter=No|Treeler:suj
 15	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 16	prestadas	prestar	VERB	VMP00PF	_	25	nsubj	_	Treeler:suj
 17	de	de	ADP	SPS00	_	18	case	_	Treeler:cc
@@ -20844,7 +20844,7 @@
 # sent_id = dev-509
 # text = A lixiviabilidade total, o contido de contaminantes dos residuos e a ecotoxicidade do lixiviado deberán ser insignificantes, e en particular non deberán supoñer un risco para a calidade das augas superficiais e/ou subterráneas.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	lixiviabilidade	lixiviabilidade	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
+2	lixiviabilidade	lixiviabilidade	NOUN	NCFS000	_	20	nsubj:outer	_	Treeler:suj
 3	total	total	ADJ	AQ0CS0	_	2	amod	_	SpaceAfter=No|Treeler:s.a
 4	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -21027,7 +21027,7 @@
 
 # sent_id = dev-514
 # text = Consumo de produtos As boas prácticas que se deben ter en conta na xestión de consumo de produtos son as seguintes [28, 29, 30]: - Atender ao criterio ambiental no aprovisionamento, mediante a elección de materiais, produtos e subministradores con certificación ambiental.
-1	Consumo	consumo	NOUN	NCMS000	_	22	nsubj	_	Treeler:suj
+1	Consumo	consumo	NOUN	NCMS000	_	22	nsubj:outer	_	Treeler:suj
 2	de	de	ADP	SPS00	_	3	case	_	Treeler:sp
 3	produtos	produto	NOUN	NCMP000	_	1	nmod	_	Treeler:sn
 4	As	o	DET	DA0FP0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -21347,7 +21347,7 @@
 # sent_id = dev-521
 # text = Como resultado, nas condicións actuais, a biostaxia, o formación de solos estables, sería a consecuencia lóxica en todo o territorio e, polo tanto, a erosión debería ser mínima.
 1	Como	como	PRON	PR0CN000	PronType=Rel	20	nmod	_	Treeler:suj
-2	resultado	resultado	NOUN	NCMS000	_	20	nsubj	_	SpaceAfter=No|Treeler:suj
+2	resultado	resultado	NOUN	NCMS000	_	20	nsubj:outer	_	SpaceAfter=No|Treeler:suj
 3	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
 4-5	nas	_	_	_	_	_	_	_	_
 4	en	en	ADP	SPS00	_	6	case	_	Treeler:sp
@@ -23062,7 +23062,7 @@
 # sent_id = dev-562
 # text = A modo de exemplo, nun sistema que posúa cinco evaporadores traballando 3.000 horas/ano cunha capa de xeo de 0,87 mm, o aforro potencial é de aproximadamente 100.000 kWh/ano.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	modo	modo	NOUN	NCMS000	_	34	nsubj	_	Treeler:suj
+2	modo	modo	NOUN	NCMS000	_	34	nsubj:outer	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	exemplo	exemplo	NOUN	NCMS000	_	2	nmod	_	SpaceAfter=No|Treeler:sn
 5	,	,	PUNCT	Fc	_	8	punct	_	Treeler:f
@@ -23666,7 +23666,7 @@
 # sent_id = dev-576
 # text = A decembro de 2002, e tendo en conta os datos de ONUSIDA e a OMS, a situación é de 42 millóns de persoas afectadas polo VIH/Sida no mundo.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	decembro	decembro	NOUN	NCMS000	_	23	nsubj	_	Treeler:suj
+2	decembro	decembro	NOUN	NCMS000	_	23	nsubj:outer	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	2002	2002	NUM	Z	_	2	nmod	_	SpaceAfter=No|Treeler:sn
 5	,	,	PUNCT	Fc	_	6	punct	_	Treeler:f
@@ -25724,7 +25724,7 @@
 10	claro	claro	ADJ	AQ0MS0	_	2	ccomp	_	Treeler:atr
 11	que	que	SCONJ	CS	_	19	mark	_	Treeler:conj
 12	o	o	DET	DA0MS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
-13	home	home	NOUN	NCMS000	_	19	nsubj	_	Treeler:suj
+13	home	home	NOUN	NCMS000	_	19	nsubj:outer	_	Treeler:suj
 14	deixou	deixar	AUX	VMIS3S0	_	19	aux	_	Treeler:v
 15	de	de	ADP	SPS00	_	19	case	_	Treeler:s
 16	ser	ser	AUX	VSN0000	_	19	cop	_	Treeler:sentence
@@ -26547,7 +26547,7 @@
 1	En	en	ADP	SPS00	_	2	case	_	Treeler:cc
 2	2005	2005	NUM	Z	_	10	obl	_	Treeler:sn
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-4	porto	porto	NOUN	NCMS000	_	10	nsubj	_	Treeler:suj
+4	porto	porto	NOUN	NCMS000	_	10	nsubj:outer	_	Treeler:suj
 5	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 6	Cariño	cariño	NOUN	NCMS000	_	4	nmod	_	Treeler:sn
 7	foi	ser	AUX	VSIS3S0	_	10	cop	_	Treeler:sentence
@@ -26918,7 +26918,7 @@
 1	Así	así	ADV	RG	_	14	cc	_	SpaceAfter=No|Treeler:et
 2	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	4	det	_	Treeler:spec
-4	consumo	consumo	NOUN	NCMS000	_	15	nsubj	_	Treeler:suj
+4	consumo	consumo	NOUN	NCMS000	_	15	nsubj:outer	_	Treeler:suj
 5	medio	medio	ADJ	AQ0MS0	_	4	amod	_	Treeler:s.a
 6	diario	diario	NOUN	NCMS000	_	15	nsubj	_	Treeler:suj
 7	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
@@ -28675,7 +28675,7 @@
 # sent_id = dev-704
 # text = A liberdade elemental de andar, de elixir o rumo dos nosos pasos, a liberdade para ir ao encontro dos outros é o fundamento da vida en común.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	liberdade	liberdade	NOUN	NCFS000	_	28	nsubj	_	Treeler:suj
+2	liberdade	liberdade	NOUN	NCFS000	_	28	nsubj:outer	_	Treeler:suj
 3	elemental	elemental	ADJ	AQ0CS0	_	2	amod	_	Treeler:s.a
 4	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
 5	andar	andar	VERB	VMN0000	_	2	ccomp	_	SpaceAfter=No|Treeler:S
@@ -29781,7 +29781,7 @@
 # text = As enormes posibilidades do monte en Galicia como recurso productor de primeiro orde son evidentes e así foi e é recoñecido polos expertos nos distintos gobernos estatais ou autonómicos desde o século XIX.
 1	As	o	DET	DA0FP0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 2	enormes	enorme	ADJ	AQ0CP0	_	3	amod	_	Treeler:s.a
-3	posibilidades	posibilidade	NOUN	NCFP000	_	16	nsubj	_	Treeler:suj
+3	posibilidades	posibilidade	NOUN	NCFP000	_	16	nsubj:outer	_	Treeler:suj
 4-5	do	_	_	_	_	_	_	_	_
 4	de	de	ADP	SPS00	_	6	case	_	Treeler:sp
 5	o	o	DET	DA0MS0	Definite=Def|PronType=Art	6	det	_	Treeler:spec
@@ -30239,7 +30239,7 @@
 25	propia	propio	DET	DI0FS0	PronType=Ind	26	det	_	Treeler:d
 26	explotación	explotación	NOUN	NCFS000	_	19	conj	_	Treeler:sn
 27	e	e	CCONJ	CC	_	30	cc	_	Treeler:coord
-28	que	que	PRON	PR0CN000	PronType=Rel	30	nsubj	_	Treeler:suj
+28	que	que	PRON	PR0CN000	PronType=Rel	30	nsubj:outer	_	Treeler:suj
 29	é	ser	AUX	VSIP3S0	_	30	cop	_	Treeler:S
 30	necesario	necesario	ADJ	AQ0MS0	_	9	conj	_	Treeler:atr
 31	que	que	SCONJ	CS	_	33	mark	_	Treeler:conj
@@ -30414,7 +30414,7 @@
 6	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	5	dep	_	Treeler:morfema.pronominal
 7	que	que	SCONJ	CS	_	14	mark	_	Treeler:conj
 8	o	o	DET	DA0MS0	Definite=Def|PronType=Art	9	det	_	Treeler:spec
-9	imposto	imposto	NOUN	NCMS000	_	14	nsubj	_	Treeler:suj
+9	imposto	imposto	NOUN	NCMS000	_	14	nsubj:outer	_	Treeler:suj
 10	xeral	xeral	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
 11	indirecto	indirecto	ADJ	AQ0MS0	_	12	amod	_	Treeler:s.a
 12	canario	canario	NOUN	NCMS000	_	14	nsubj	_	Treeler:suj
@@ -31050,7 +31050,7 @@
 2	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	22	obj	_	Treeler:cd
 3	comparan	comparar	VERB	VMIP3P0	_	22	advcl	_	Treeler:cc
 4	o	o	DET	DA0MS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
-5	ciclo	ciclo	NOUN	NCMS000	_	22	nsubj	_	Treeler:suj
+5	ciclo	ciclo	NOUN	NCMS000	_	22	nsubj:outer	_	Treeler:suj
 6-7	do	_	_	_	_	_	_	_	_
 6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 7	o	o	DET	DA0MS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
@@ -31252,7 +31252,7 @@
 # sent_id = dev-769
 # text = O resultado é que se producen efectos de segmentación na estructura social que teñen que ver coa situación na estructura productiva.
 1	O	o	DET	DA0MS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	resultado	resultado	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
+2	resultado	resultado	NOUN	NCMS000	_	6	nsubj:outer	_	Treeler:suj
 3	é	ser	AUX	VSIP3S0	_	6	cop	_	Treeler:sentence
 4	que	que	SCONJ	CS	_	6	mark	_	Treeler:conj
 5	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	6	obj	_	Treeler:cd
@@ -33575,7 +33575,7 @@
 # sent_id = dev-827
 # text = A disposición adicional única do Real decreto 27/2003, do 10 de xaneiro, sobre obrigas de información aos tomadores dos plans de previsión asegurados, que pasa a ser a disposición adicional terceira.
 1	A	o	DET	DA0FS0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	disposición	disposición	NOUN	NCFS000	_	36	nsubj	_	Treeler:suj
+2	disposición	disposición	NOUN	NCFS000	_	36	nsubj:outer	_	Treeler:suj
 3	adicional	adicional	ADJ	AQ0CS0	_	2	amod	_	Treeler:s.a
 4	única	único	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
 5-6	do	_	_	_	_	_	_	_	_
@@ -34410,7 +34410,7 @@
 31	rendíbel	rendíbel	ADJ	AQ0CS0	_	24	obj	_	Treeler:atr
 32	que	que	SCONJ	CS	_	48	mark	_	Treeler:conj
 33	a	o	DET	DA0FS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
-34	empresa	empresa	NOUN	NCFS000	_	48	nsubj	_	Treeler:suj
+34	empresa	empresa	NOUN	NCFS000	_	48	nsubj:outer	_	Treeler:suj
 35	B	b	NOUN	NCMS000	_	34	amod	_	SpaceAfter=No|Treeler:s.a
 36	,	,	PUNCT	Fc	_	34	punct	_	Treeler:f
 37	xa	xa	ADV	RG	_	48	advmod	_	Treeler:cc
