@@ -13135,7 +13135,7 @@
 19	selado	selar	VERB	VMP00SM	_	17	ccomp	_	SpaceAfter=No|Treeler:S
 20	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 21	xa	xa	ADV	RG	_	25	case	_	Treeler:cc
-22	que	que	PRON	PR0CN000	PronType=Rel	25	nsubj	_	Treeler:suj
+22	que	que	SCONJ	CS	_	25	mark	_	Treeler:suj
 23	las	la	NOUN	NCFP000	_	25	nsubj	_	Treeler:suj
 24	reixas	reixa	NOUN	NCFP000	_	23	amod	_	Treeler:s.a
 25	ofrecen	ofrecer	VERB	VMIP3P0	_	17	ccomp	_	Treeler:S

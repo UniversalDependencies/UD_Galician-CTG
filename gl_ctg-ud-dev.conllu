@@ -2085,7 +2085,7 @@
 23	cotizacións	cotización	NOUN	NCFP000	_	20	nmod	_	SpaceAfter=No|Treeler:sn
 24	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 25	dado	dar	VERB	VMP00SM	_	28	advcl	_	Treeler:cc
-26	que	que	PRON	PR0CN000	PronType=Rel	28	nsubj	_	Treeler:suj
+26	que	que	SCONJ	CS	_	28	mark	_	Treeler:suj
 27	estas	este	DET	DD0FP0	PronType=Dem	28	nsubj	_	Treeler:suj
 28	dependen	depender	VERB	VMIP3P0	_	23	ccomp	_	Treeler:S
 29-30	doutros	_	_	_	_	_	_	_	_
@@ -3418,7 +3418,7 @@
 18	positivo	positivo	ADJ	AQ0MS0	_	17	amod	_	SpaceAfter=No|Treeler:s.a
 19	,	,	PUNCT	Fc	_	29	punct	_	Treeler:f
 20	xa	xa	ADV	RG	_	29	case	_	Treeler:cc
-21	que	que	PRON	PR0CN000	PronType=Rel	29	nsubj	_	Treeler:suj
+21	que	que	SCONJ	CS	_	29	mark	_	Treeler:suj
 22	incrementos	incremento	NOUN	NCMP000	_	29	nsubj	_	Treeler:suj
 23-24	no	_	_	_	_	_	_	_	_
 23	en	en	ADP	SPS00	_	25	case	_	Treeler:sp
@@ -3917,7 +3917,7 @@
 # sent_id = dev-95
 # text = Dado que son as áreas urbanas as que teñen cada vez un maior peso na estructura demográfica, a importancia do modelo tradicional pasa a ser cada vez máis cativa.
 1	Dado	dar	VERB	VMP00SM	_	0	root	_	Treeler:sentence
-2	que	que	PRON	PR0CN000	PronType=Rel	5	nsubj	_	Treeler:suj
+2	que	que	SCONJ	CS	_	5	mark	_	Treeler:suj
 3	son	ser	AUX	VSIP1S0	_	5	cop	_	Treeler:S
 4	as	o	DET	DA0FP0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 5	áreas	área	NOUN	NCFP000	_	1	ccomp	_	Treeler:atr
