@@ -1676,11 +1676,11 @@
 28	o	o	DET	DA0MS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
 29	reblandecemento	reblandecemento	NOUN	NCMS000	_	20	conj	_	Treeler:sn
 30	cerebrais	cerebral	ADJ	AQ0CP0	_	29	amod	_	Treeler:s.a
-31	e	e	CCONJ	CC	_	15	cc	_	Treeler:coord
+31	e	e	CCONJ	CC	_	34	cc	_	Treeler:coord
 32-33	na	_	_	_	_	_	_	_	_
 32	en	en	ADP	SPS00	_	34	case	_	Treeler:sp
 33	a	o	DET	DA0FS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
-34	demencia	demencia	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
+34	demencia	demencia	NOUN	NCFS000	_	15	conj	_	Treeler:sn
 35	paralítica	paralítico	ADJ	AQ0FS0	_	34	amod	_	SpaceAfter=No|Treeler:s.a
 36	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
@@ -2713,7 +2713,7 @@
 # sent_id = dev-65
 # text = Os certificados de clase 2 CA emitidos pola Fábrica Nacional de Moeda e Timbre-Real Casa da Moeda serán válidos a efectos de presentación de solicitudes.
 1	Os	o	DET	DA0MP0	Definite=Def|PronType=Art	2	det	_	Treeler:spec
-2	certificados	certificado	NOUN	NCMP000	_	21	nsubj	_	Treeler:suj
+2	certificados	certificado	NOUN	NCMP000	_	21	nsubj:outer	_	Treeler:suj
 3	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
 4	clase	clase	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 5	2	2	NUM	Z	_	4	amod	_	Treeler:s.a
@@ -2726,9 +2726,9 @@
 11	Nacional	nacional	ADJ	AQ0CS0	_	10	amod	_	Treeler:s.a
 12	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
 13	Moeda	moeda	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
-14	e	e	CCONJ	CC	_	2	cc	_	Treeler:coord
+14	e	e	CCONJ	CC	_	16	cc	_	Treeler:coord
 15	Timbre-Real	timbre-real	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
-16	Casa	casa	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
+16	Casa	casa	NOUN	NCFS000	_	2	conj	_	Treeler:suj
 17-18	da	_	_	_	_	_	_	_	_
 17	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
 18	a	o	DET	DA0FS0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
@@ -5536,8 +5536,8 @@
 24	o	o	DET	DA0MS0	Definite=Def|PronType=Art	25	det	_	Treeler:spec
 25	leite	leite	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
 26	líquido	líquido	ADJ	AQ0MS0	_	25	amod	_	Treeler:s.a
-27	ou	ou	CCONJ	CC	_	20	cc	_	Treeler:coord
-28	como	como	PRON	PR0CN000	PronType=Rel	16	ccomp	_	Treeler:S
+27	ou	ou	CCONJ	CC	_	28	cc	_	Treeler:coord
+28	como	como	PRON	PR0CN000	PronType=Rel	20	conj	_	Treeler:S
 29	materia	materia	NOUN	NCFS000	_	28	nmod	_	Treeler:sn
 30	prima	primo	ADJ	AQ0FS0	_	29	amod	_	Treeler:s.a
 31-32	na	_	_	_	_	_	_	_	_
@@ -10709,12 +10709,12 @@
 14	por	por	ADP	SPS00	_	16	case	_	Treeler:sp
 15	as	o	DET	DA0FP0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	mulleres	muller	NOUN	NCFP000	_	4	obl	_	Treeler:sn
-17	e	e	CCONJ	CC	_	4	cc	_	Treeler:coord
+17	e	e	CCONJ	CC	_	22	cc	_	Treeler:coord
 18	para	para	ADP	SPS00	_	20	case	_	Treeler:cc
 19	as	o	DET	DA0FP0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
 20	mulleres	muller	NOUN	NCFP000	_	22	obl	_	Treeler:sn
 21	debe	deber	AUX	VMIP3S0	_	22	aux	_	Treeler:v
-22	chegar	chegar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
+22	chegar	chegar	VERB	VMN0000	_	4	conj	_	Treeler:S
 23-24	ao	_	_	_	_	_	_	_	_
 23	a	a	ADP	SPS00	_	26	case	_	Treeler:cd
 24	o	o	DET	DA0MS0	Definite=Def|PronType=Art	26	det	_	Treeler:spec
@@ -12351,8 +12351,8 @@
 22	de	de	ADP	SPS00	_	24	case	_	Treeler:sp
 23	o	o	DET	DA0MS0	Definite=Def|PronType=Art	24	det	_	Treeler:spec
 24	océano	océano	NOUN	NCMS000	_	21	nmod	_	Treeler:sn
-25	e	e	CCONJ	CC	_	16	cc	_	Treeler:coord
-26	caracterizado	caracterizar	VERB	VMP00SM	_	15	ccomp	_	Treeler:S
+25	e	e	CCONJ	CC	_	26	cc	_	Treeler:coord
+26	caracterizado	caracterizar	VERB	VMP00SM	_	16	conj	_	Treeler:S
 27-28	pola	_	_	_	_	_	_	_	_
 27	por	por	ADP	SPS00	_	29	case	_	Treeler:cag
 28	a	o	DET	DA0FS0	Definite=Def|PronType=Art	29	det	_	Treeler:spec
@@ -13247,9 +13247,9 @@
 15	a	o	DET	DA0FS0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
 16	mediastino	mediastino	NOUN	NCMS000	_	22	nsubj	_	Treeler:suj
 17	adxacente	adxacente	ADJ	AQ0CS0	_	16	amod	_	Treeler:s.a
-18	e	e	CCONJ	CC	_	16	cc	_	Treeler:coord
+18	e	e	CCONJ	CC	_	20	cc	_	Treeler:coord
 19	a	o	DET	DA0FS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-20	dose	dose	NOUN	NCFS000	_	22	nsubj	_	Treeler:suj
+20	dose	dose	NOUN	NCFS000	_	16	conj	_	Treeler:suj
 21	recomendada	recomendar	VERB	VMP00SF	_	20	ccomp	_	Treeler:S
 22	oscila	oscilar	VERB	VMIP3S0	_	3	ccomp	_	Treeler:S
 23	entre	entre	ADP	SPS00	_	26	case	_	Treeler:cc
@@ -14536,9 +14536,9 @@
 20	por	por	ADP	SPS00	_	24	case	_	Treeler:sp
 21	esa	ese	DET	DD0FS0	PronType=Dem	24	det	_	Treeler:spec
 22	longa	longo	ADJ	AQ0FS0	_	24	amod	_	Treeler:s.a
-23	e	e	CCONJ	CC	_	22	cc	_	Treeler:coord
+23	e	e	CCONJ	CC	_	25	cc	_	Treeler:coord
 24	parideira	parideira	NOUN	NCFS000	_	13	nmod	_	Treeler:sn
-25	vida	vida	NOUN	NCFS000	_	24	amod	_	Treeler:s.a
+25	vida	vida	NOUN	NCFS000	_	22	conj	_	Treeler:s.a
 26	de	de	ADP	SPS00	_	27	case	_	Treeler:sp
 27	exilios	exilio	NOUN	NCMP000	_	24	nmod	_	Treeler:sn
 28	e	e	CCONJ	CC	_	30	cc	_	Treeler:coord
@@ -16059,11 +16059,11 @@
 48	en	en	ADP	SPS00	_	50	case	_	Treeler:sp
 49	os	o	DET	DA0MP0	Definite=Def|PronType=Art	50	det	_	Treeler:spec
 50	homes	home	NOUN	NCMP000	_	44	nmod	_	Treeler:sn
-51	e	e	CCONJ	CC	_	50	cc	_	Treeler:coord
+51	e	e	CCONJ	CC	_	54	cc	_	Treeler:coord
 52-53	do	_	_	_	_	_	_	_	_
 52	de	de	ADP	SPS00	_	54	case	_	Treeler:sp
 53	o	o	DET	DA0MS0	Definite=Def|PronType=Art	54	det	_	Treeler:spec
-54	20	20	NUM	Z	_	44	nmod	_	Treeler:sn
+54	20	20	NUM	Z	_	50	conj	_	Treeler:sn
 55	(	(	PUNCT	Fpa	_	56	punct	_	SpaceAfter=No|Treeler:f
 56	2.718	2.718	NUM	Z	_	54	nmod	_	SpaceAfter=No|Treeler:sn
 57	)	)	PUNCT	Fpt	_	56	punct	_	Treeler:f
@@ -17323,9 +17323,9 @@
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 20	Explotación	explotación	NOUN	NCFS000	_	17	nmod	_	Treeler:sn
 21	similar	similar	ADJ	AQ0CS0	_	20	amod	_	Treeler:s.a
-22	ou	ou	CCONJ	CC	_	20	cc	_	Treeler:coord
+22	ou	ou	CCONJ	CC	_	24	cc	_	Treeler:coord
 23	incluso	incluso	ADV	RG	_	24	advmod	_	Treeler:sadv
-24	maís	maís	NOUN	NCMS000	_	17	nmod	_	Treeler:sn
+24	maís	maís	NOUN	NCMS000	_	20	conj	_	Treeler:sn
 25	elevado	elevado	ADJ	AQ0MS0	_	24	amod	_	Treeler:s.a
 26-27	ao	_	_	_	_	_	_	_	_
 26	a	a	ADP	SPS00	_	30	case	_	Treeler:sp
@@ -17774,9 +17774,9 @@
 28	de	de	ADP	SPS00	_	29	case	_	Treeler:sp
 29	sesión	sesión	NOUN	NCFS000	_	27	nmod	_	Treeler:sn
 30	secreta	secreto	ADJ	AQ0FS0	_	29	amod	_	Treeler:s.a
-31	ou	ou	CCONJ	CC	_	25	cc	_	Treeler:coord
+31	ou	ou	CCONJ	CC	_	33	cc	_	Treeler:coord
 32	a	o	DET	DA0FS0	Definite=Def|PronType=Art	33	det	_	Treeler:spec
-33	aplicación	aplicación	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
+33	aplicación	aplicación	NOUN	NCFS000	_	25	conj	_	Treeler:sn
 34-35	do	_	_	_	_	_	_	_	_
 34	de	de	ADP	SPS00	_	36	case	_	Treeler:sp
 35	o	o	DET	DA0MS0	Definite=Def|PronType=Art	36	det	_	Treeler:spec
@@ -20855,9 +20855,9 @@
 9	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
 10	os	o	DET	DA0MP0	Definite=Def|PronType=Art	11	det	_	Treeler:spec
 11	residuos	residuo	NOUN	NCMP000	_	6	nmod	_	Treeler:sn
-12	e	e	CCONJ	CC	_	2	cc	_	Treeler:coord
+12	e	e	CCONJ	CC	_	14	cc	_	Treeler:coord
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
-14	ecotoxicidade	ecotoxicidade	NOUN	NCFS000	_	20	nsubj	_	Treeler:suj
+14	ecotoxicidade	ecotoxicidade	NOUN	NCFS000	_	2	conj	_	Treeler:suj
 15-16	do	_	_	_	_	_	_	_	_
 15	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
 16	o	o	DET	DA0MS0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
@@ -22390,10 +22390,10 @@
 12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 13	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
 14	euro	euro	NOUN	NCMS000	_	2	nmod	_	Treeler:sn
-15	e	e	CCONJ	CC	_	2	cc	_	Treeler:coord
+15	e	e	CCONJ	CC	_	18	cc	_	Treeler:coord
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 17	consecuente	consecuente	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
-18	unificación	unificación	NOUN	NCFS000	_	21	nsubj	_	Treeler:suj
+18	unificación	unificación	NOUN	NCFS000	_	2	conj	_	Treeler:suj
 19	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
 20	prezos	prezo	NOUN	NCMP000	_	18	nmod	_	Treeler:sn
 21	fai	facer	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
@@ -23650,9 +23650,9 @@
 16	reaccións	reacción	NOUN	NCFP000	_	8	nmod	_	Treeler:sn
 17	dermatolóxicas	dermatolóxicas	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
 18	alérxicas	alérxico	ADJ	AQ0FP0	_	16	amod	_	Treeler:s.a
-19	e	e	CCONJ	CC	_	8	cc	_	Treeler:coord
+19	e	e	CCONJ	CC	_	21	cc	_	Treeler:coord
 20	5	5	NUM	Z	_	21	nummod	_	Treeler:spec
-21	reaccións	reacción	NOUN	NCFP000	_	4	nmod	_	Treeler:sn
+21	reaccións	reacción	NOUN	NCFP000	_	8	conj	_	Treeler:sn
 22	febrís	febril	ADJ	AQ0CP0	_	21	amod	_	SpaceAfter=No|Treeler:s.a
 23	,	,	PUNCT	Fc	_	25	punct	_	Treeler:f
 24	todas	todo	DET	DI0FP0	PronType=Tot	25	det	_	Treeler:spec
@@ -29458,8 +29458,8 @@
 13	crenzas	crenza	NOUN	NCFP000	_	31	nmod	_	SpaceAfter=No|Treeler:cc
 14	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 15	os	o	DET	DA0MP0	Definite=Def|PronType=Art	16	det	_	Treeler:spec
-16	estereotipos	estereotipo	NOUN	NCMP000	_	31	nmod	_	Treeler:sn
-17	e	e	CCONJ	CC	_	13	cc	_	Treeler:coord
+16	estereotipos	estereotipo	NOUN	NCMP000	_	13	conj	_	Treeler:sn
+17	e	e	CCONJ	CC	_	16	cc	_	Treeler:coord
 18	as	o	DET	DA0FP0	Definite=Def|PronType=Art	19	det	_	Treeler:spec
 19	actitudes	actitude	NOUN	NCFP000	_	31	nmod	_	Treeler:sn
 20	que	que	PRON	PR0CN000	PronType=Rel	24	obj	_	Treeler:cd
@@ -29865,9 +29865,9 @@
 38	,	,	PUNCT	Fc	_	39	punct	_	Treeler:f
 39	criando	criar	VERB	VMG0000	_	37	ccomp	_	Treeler:S
 40	fillos	fillo	NOUN	NCMP000	_	39	obj	_	Treeler:cd
-41	e	e	CCONJ	CC	_	37	cc	_	Treeler:coord
+41	e	e	CCONJ	CC	_	43	cc	_	Treeler:coord
 42	sendo	ser	AUX	VSG0000	_	43	cop	_	Treeler:S
-43	imitadas	imitado	ADJ	AQ0FP0	_	33	ccomp	_	SpaceAfter=No|Treeler:atr
+43	imitadas	imitado	ADJ	AQ0FP0	_	37	conj	_	SpaceAfter=No|Treeler:atr
 44	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
 # sent_id = dev-734
@@ -34190,10 +34190,10 @@
 12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 13	o	o	DET	DA0MS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
 14	seguimento	seguimento	NOUN	NCMS000	_	11	nmod	_	Treeler:sn
-15	e	e	CCONJ	CC	_	7	cc	_	Treeler:coord
+15	e	e	CCONJ	CC	_	18	cc	_	Treeler:coord
 16	a	o	DET	DA0FS0	Definite=Def|PronType=Art	18	det	_	Treeler:spec
 17	simple	simple	ADJ	AQ0CS0	_	18	amod	_	Treeler:s.a
-18	observación	observación	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
+18	observación	observación	NOUN	NCFS000	_	7	conj	_	Treeler:sn
 19-20	da	_	_	_	_	_	_	_	_
 19	de	de	ADP	SPS00	_	21	case	_	Treeler:sp
 20	a	o	DET	DA0FS0	Definite=Def|PronType=Art	21	det	_	Treeler:spec
