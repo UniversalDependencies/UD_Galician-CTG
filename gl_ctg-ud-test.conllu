@@ -32516,7 +32516,7 @@
 14	recollen	recoller	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 15	as	o	DET	DA0FP0	Definite=Def|PronType=Art	17	det	_	Treeler:spec
 16	seguintes	seguinte	ADJ	AQ0CP0	_	17	amod	_	Treeler:s.a
-17	consideracións	consideración	NOUN	NCFP000	_	14	nsubj	_	Treeler:suj
+17	consideracións	consideración	NOUN	NCFP000	_	14	obj	_	Treeler:suj
 18	dirixidas	dirixir	VERB	VMP00PF	_	17	ccomp	_	Treeler:S
 19	a	a	ADP	SPS00	_	20	case	_	Treeler:creg
 20	obter	obter	VERB	VMN0000	_	18	ccomp	_	Treeler:S
