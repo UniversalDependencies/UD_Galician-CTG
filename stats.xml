@@ -10,82 +10,84 @@
     <dev><sentences>860</sentences><tokens>27009</tokens><words>29825</words><fused>2802</fused></dev>
     <test><sentences>861</sentences><tokens>27074</tokens><words>29790</words><fused>2704</fused></test>
   </size>
-  <lemmas unique="10536" /><!-- o, de, ,, en, ., e, que, a, se, un, ser, por, con, para, este -->
+  <lemmas unique="10533" /><!-- o, de, ,, en, ., e, que, a, se, un, ser, por, con, para, este -->
   <forms unique="16137" /><!-- de, a, o, ,, en, ., e, que, os, se, as, por, un, unha, con -->
   <fusions unique="1211" /><!-- do, da, no, dos, na, das, á, ao, nos, ó, polo, nas, co, pola, ás -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">11429</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
-    <tag name="ADP">23459</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
-    <tag name="ADV">3350</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
+    <tag name="ADJ">11430</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
+    <tag name="ADP">23463</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
+    <tag name="ADV">3349</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
     <tag name="AUX">2738</tag><!-- ser, poder, estar, deber, haber, ter, ir, seguir, deixar, vir -->
-    <tag name="CCONJ">4268</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
-    <tag name="DET">24192</tag><!-- o, un, este, seu, outro, todo, as, mesmo, cada, algún -->
+    <tag name="CCONJ">4269</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
+    <tag name="DET">24199</tag><!-- o, un, este, seu, outro, todo, as, mesmo, cada, algún -->
     <tag name="INTJ">8</tag><!-- epa, ea, ó -->
-    <tag name="NOUN">31680</tag><!-- ano, caso, empresa, parte, dous, valor, lei, número, muller, traballo -->
+    <tag name="NOUN">31676</tag><!-- ano, caso, empresa, parte, dous, valor, lei, número, muller, traballo -->
     <tag name="NUM">2364</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
-    <tag name="PART">689</tag><!-- non, senon, föhn, ln, on -->
-    <tag name="PRON">5903</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
-    <tag name="PROPN">1903</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
+    <tag name="PART">688</tag><!-- non, senon, föhn, ln -->
+    <tag name="PRON">5901</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
+    <tag name="PROPN">1899</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
     <tag name="PUNCT">13316</tag><!-- ,, ., ), (, :, ", _, ;, /, ... -->
     <tag name="SCONJ">1615</tag><!-- que, como, se, porque, coma, pois, ca, mentres, malia, cando -->
     <tag name="SYM">428</tag><!-- %, =, +, _, &, <, > -->
-    <tag name="VERB">11780</tag><!-- ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir -->
+    <tag name="VERB">11779</tag><!-- ter, facer, realizar, establecer, presentar, dar, producir, considerar, ser, permitir -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="17">
-    <feat name="Definite" value="Def" upos="DET">18472</feat><!-- a, o, os, as -->
+  <feats unique="18">
+    <feat name="Definite" value="Def" upos="DET">18475</feat><!-- a, o, os, as, la, los -->
     <feat name="Definite" value="Ind" upos="DET">2039</feat><!-- un, unha, unhas -->
-    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,DET,NOUN,NUM,PART,PRON,PROPN,SYM,VERB">169</feat><!-- táboa, de, +, 1, 10, 20, 23, 70, Capítulo, cadro -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,SYM,VERB">234</feat><!-- de, táboa, la, +, 1, 10, 20, 23, 70, Capítulo -->
     <feat name="Gender" value="Fem" upos="DET">285</feat><!-- as, a -->
     <feat name="Number" value="Plur" upos="DET">167</feat><!-- as -->
     <feat name="Number" value="Sing" upos="DET">118</feat><!-- a -->
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
     <feat name="Poss" value="Yes" upos="DET">923</feat><!-- súa, seu, seus, súas, nosa, noso, nosos, nosas, meu, miña -->
-    <feat name="PronType" value="Art" upos="DET">20511</feat><!-- a, o, os, as, un, unha, unhas -->
+    <feat name="PronType" value="Art" upos="DET">20518</feat><!-- a, o, os, as, un, unha, unhas, la, el, los -->
     <feat name="PronType" value="Dem" upos="DET,PRON">1380</feat><!-- este, esta, estes, estas, isto, ese, aqueles, iso, tal, esa -->
     <feat name="PronType" value="Ind" upos="DET,PRON">1004</feat><!-- outros, mesmo, outra, outras, outro, calquera, algúns, mesma, uns, moitas -->
     <feat name="PronType" value="Int" upos="DET">5</feat><!-- qué -->
     <feat name="PronType" value="Neg" upos="DET,PRON">47</feat><!-- ningún, ningunha, nada, ninguén -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">3903</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">3901</feat><!-- se, súa, seu, seus, o, súas, os, lle, me, nos -->
     <feat name="PronType" value="Rel" upos="DET,PRON">2754</feat><!-- que, como, cando, onde, cal, canto, quen, cales, cantas, cantos -->
     <feat name="PronType" value="Tot" upos="DET">491</feat><!-- cada, todo, todos, todas, toda, ambos, ambas, entrambos -->
     <feat name="Reflex" value="Yes" upos="PRON">2192</feat><!-- se, si, consigo -->
+    <feat name="Typo" value="Yes" upos="NOUN">1</feat><!-- te-rra -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="33">
-    <dep name="acl">7</dep>
-    <dep name="acl:relcl">48</dep>
-    <dep name="advcl">449</dep>
-    <dep name="advmod">2606</dep>
-    <dep name="amod">10337</dep>
-    <dep name="appos">6</dep>
+  <deps unique="34">
+    <dep name="acl">13</dep>
+    <dep name="acl:relcl">57</dep>
+    <dep name="advcl">662</dep>
+    <dep name="advmod">2607</dep>
+    <dep name="amod">10334</dep>
+    <dep name="appos">13</dep>
     <dep name="aux">1198</dep>
-    <dep name="case">24659</dep>
-    <dep name="cc">4410</dep>
-    <dep name="ccomp">6144</dep>
-    <dep name="compound">147</dep>
-    <dep name="conj">3835</dep>
+    <dep name="case">24649</dep>
+    <dep name="cc">4408</dep>
+    <dep name="ccomp">6056</dep>
+    <dep name="compound">148</dep>
+    <dep name="conj">3842</dep>
     <dep name="cop">1540</dep>
+    <dep name="csubj">2</dep>
     <dep name="csubj:outer">6</dep>
-    <dep name="dep">2356</dep>
-    <dep name="det">24055</dep>
-    <dep name="discourse">1</dep>
+    <dep name="dep">2305</dep>
+    <dep name="det">24058</dep>
+    <dep name="discourse">5</dep>
     <dep name="expl:pass">68</dep>
-    <dep name="flat">171</dep>
-    <dep name="iobj">562</dep>
+    <dep name="flat">177</dep>
+    <dep name="iobj">559</dep>
     <dep name="list">3</dep>
-    <dep name="mark">1575</dep>
-    <dep name="nmod">16555</dep>
-    <dep name="nsubj">5965</dep>
-    <dep name="nsubj:outer">107</dep>
-    <dep name="nummod">540</dep>
-    <dep name="obj">7242</dep>
-    <dep name="obl">6528</dep>
+    <dep name="mark">1587</dep>
+    <dep name="nmod">16811</dep>
+    <dep name="nsubj">5815</dep>
+    <dep name="nsubj:outer">110</dep>
+    <dep name="nummod">541</dep>
+    <dep name="obj">7117</dep>
+    <dep name="obl">6452</dep>
     <dep name="orphan">1</dep>
-    <dep name="parataxis">2</dep>
+    <dep name="parataxis">4</dep>
     <dep name="punct">13316</dep>
     <dep name="root">3993</dep>
-    <dep name="xcomp">690</dep>
+    <dep name="xcomp">665</dep>
   </deps>
 </treebank>
