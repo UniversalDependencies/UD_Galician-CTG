@@ -4327,7 +4327,7 @@
 
 # sent_id = dev-106
 # text = IV O título III da lei contén diversas medidas que afectan o persoal ó servicio das administracións públicas e do sector público estatal.
-1	IV	iv	PROPN	NP00000	_	8	nsubj	_	Treeler:suj
+1	IV	iv	PROPN	NP00000	_	8	discourse	_	Treeler:suj
 2	O	o	DET	DA0MS0	Definite=Def|PronType=Art	3	det	_	Treeler:spec
 3	título	título	NOUN	NCMS000	_	8	nsubj	_	Treeler:suj
 4	III	iii	NUM	Z	_	3	nmod	_	Treeler:sn
