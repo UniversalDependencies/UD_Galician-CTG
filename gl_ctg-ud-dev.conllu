@@ -10379,7 +10379,7 @@
 33	a	o	DET	DA0FS0	Definite=Def|PronType=Art	34	det	_	Treeler:spec
 34	perda	perda	NOUN	NCFS000	_	25	obl	_	Treeler:sn
 35	nutrientes	nutriente	ADJ	AQ0CP0	_	34	amod	_	Treeler:s.a
-36	que	que	PRON	PR0CN000	PronType=Rel	37	nsubj	_	Treeler:suj
+36	que	que	PRON	PR0CN000	PronType=Rel	37	obj	_	Treeler:suj
 37	conlevan	conlevan	VERB	VMIP3P0	_	34	ccomp	_	Treeler:S
 38	estas	este	DET	DD0FP0	PronType=Dem	39	det	_	Treeler:spec
 39	prácticas	práctica	NOUN	NCFP000	_	37	nsubj	_	SpaceAfter=No|Treeler:suj
@@ -12248,7 +12248,7 @@
 30	de	de	ADP	SPS00	_	31	case	_	Treeler:sp
 31	calidade	calidade	NOUN	NCFS000	_	29	nmod	_	Treeler:sn
 32	ambiental	ambiental	ADJ	AQ0CS0	_	31	amod	_	Treeler:s.a
-33	que	que	PRON	PR0CN000	PronType=Rel	35	nsubj	_	Treeler:suj
+33	que	que	PRON	PR0CN000	PronType=Rel	35	obj	_	Treeler:suj
 34	elas	el	PRON	PP3FP000	PronType=Prs	35	nsubj	_	Treeler:suj
 35	permiten	permitir	VERB	VMIP3P0	_	25	ccomp	_	SpaceAfter=No|Treeler:S
 36	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
@@ -13350,7 +13350,7 @@
 3	o	o	DET	DA0MS0	Definite=Def|PronType=Art	5	det	_	Treeler:spec
 4	longo	longo	ADJ	AQ0MS0	_	5	amod	_	Treeler:s.a
 5	período	período	NOUN	NCMS000	_	1	obl	_	Treeler:sn
-6	que	que	PRON	PR0CN000	PronType=Rel	7	nsubj	_	Treeler:suj
+6	que	que	PRON	PR0CN000	PronType=Rel	7	obj	_	Treeler:suj
 7	cobre	cubrir	VERB	VMIP3S0	_	5	ccomp	_	Treeler:S
 8	este	este	DET	DD0MS0	PronType=Dem	9	det	_	Treeler:spec
 9	Plan	plan	NOUN	NCMS000	_	7	nsubj	_	SpaceAfter=No|Treeler:suj
@@ -25945,7 +25945,7 @@
 14	positivos	positivo	ADJ	AQ0MP0	_	13	amod	_	Treeler:s.a
 15	sobre	sobre	ADP	SPS00	_	13	case	_	Treeler:sp
 16	aqueles	aquel	DET	DD0MP0	PronType=Dem	19	det	_	Treeler:spec
-17	que	que	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
+17	que	que	PRON	PR0CN000	PronType=Rel	19	obl	_	Treeler:suj
 18	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	19	obj	_	Treeler:cd
 19	emborcan	emborcar	VERB	VMIP3P0	_	13	ccomp	_	Treeler:S
 20-21	no	_	_	_	_	_	_	_	_
@@ -27136,7 +27136,7 @@
 16	111	111	NUM	Z	_	12	ccomp	_	SpaceAfter=No|Treeler:atr
 17	,	,	PUNCT	Fc	_	20	punct	_	Treeler:f
 18	o	o	DET	DA0MS0	Definite=Def|PronType=Art	20	det	_	Treeler:spec
-19	que	que	PRON	PR0CN000	PronType=Rel	20	nsubj	_	Treeler:suj
+19	que	que	PRON	PR0CN000	PronType=Rel	20	obj	_	Treeler:suj
 20	supón	supor	VERB	VMIP3P0	_	16	ccomp	_	Treeler:S
 21	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	22	det	_	Treeler:spec
 22	20	20	NUM	Z	_	20	nsubj	_	SpaceAfter=No|Treeler:suj
@@ -30584,7 +30584,7 @@
 6	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
 7	a	o	DET	DA0FS0	Definite=Def|PronType=Art	8	det	_	Treeler:spec
 8	medida	medida	NOUN	NCFS000	_	14	nsubj	_	Treeler:suj
-9	que	que	PRON	PR0CN000	PronType=Rel	11	nsubj	_	Treeler:suj
+9	que	que	PRON	PR0CN000	PronType=Rel	11	obl	_	Treeler:suj
 10	h	h	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
 11	aumenta	aumentar	VERB	VMIP3S0	_	8	ccomp	_	Treeler:S
 12	a	o	DET	DA0FS0	Definite=Def|PronType=Art	13	det	_	Treeler:spec
@@ -31509,7 +31509,7 @@
 20	enfermidade	enfermidade	NOUN	NCFS000	_	18	nmod	_	SpaceAfter=No|Treeler:sn
 21	,	,	PUNCT	Fc	_	22	punct	_	Treeler:f
 22	polo	polo	NOUN	NCMS000	_	20	dep	_	Treeler:grup.nom
-23	que	que	PRON	PR0CN000	PronType=Rel	26	nsubj	_	Treeler:suj
+23	que	que	PRON	PR0CN000	PronType=Rel	26	obl	_	Treeler:suj
 24	tamén	tamén	ADV	RG	_	26	case	_	Treeler:cc
 25	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	26	obj	_	Treeler:cd
 26	denominan	denominar	VERB	VMIP3P0	_	22	ccomp	_	Treeler:S
@@ -33623,7 +33623,7 @@
 7	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
 8	2004	2004	NUM	Z	_	9	nummod	_	Treeler:spec
 9	pola	pola	NOUN	NCFS000	_	6	nmod	_	Treeler:sn
-10	que	que	PRON	PR0CN000	PronType=Rel	12	nsubj	_	Treeler:suj
+10	que	que	PRON	PR0CN000	PronType=Rel	12	obl	_	Treeler:suj
 11	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	12	obj	_	Treeler:cd
 12	resolve	resolver	VERB	VMIP3S0	_	1	ccomp	_	Treeler:S
 13	a	o	DET	DA0FS0	Definite=Def|PronType=Art	14	det	_	Treeler:spec
@@ -33869,7 +33869,7 @@
 13	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
 14	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
 15	forma	forma	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
-16	que	que	PRON	PR0CN000	PronType=Rel	19	nsubj	_	Treeler:suj
+16	que	que	PRON	PR0CN000	PronType=Rel	19	obl	_	Treeler:suj
 17	alturas	altura	NOUN	NCFP000	_	19	nsubj	_	Treeler:suj
 18	maiores	maior	ADJ	AQ0CP0	_	17	amod	_	Treeler:s.a
 19	implican	implicar	VERB	VMIP3P0	_	12	ccomp	_	Treeler:S

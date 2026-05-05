@@ -16,14 +16,14 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">11430</tag><!-- maior, novo, galego, social, xeral, público, seguinte, económico, primeiro, medio -->
-    <tag name="ADP">23463</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
+    <tag name="ADP">23464</tag><!-- de, en, a, por, con, para, entre, sobre, sen, ata -->
     <tag name="ADV">3349</tag><!-- máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais -->
     <tag name="AUX">2738</tag><!-- ser, poder, estar, deber, haber, ter, ir, seguir, deixar, vir -->
     <tag name="CCONJ">4269</tag><!-- e, ou, pero, senón, nin, mais, et, quer, como, emporiso -->
-    <tag name="DET">24199</tag><!-- o, un, este, seu, outro, todo, as, mesmo, cada, algún -->
+    <tag name="DET">24198</tag><!-- o, un, este, seu, outro, todo, as, mesmo, cada, algún -->
     <tag name="INTJ">8</tag><!-- epa, ea, ó -->
-    <tag name="NOUN">31676</tag><!-- ano, caso, empresa, parte, dous, valor, lei, número, muller, traballo -->
-    <tag name="NUM">2364</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
+    <tag name="NOUN">31672</tag><!-- ano, caso, empresa, parte, dous, valor, lei, número, muller, traballo -->
+    <tag name="NUM">2368</tag><!-- 2, 1, 5, 3, 2003, 20, 2005, 2002, 2004, 10 -->
     <tag name="PART">688</tag><!-- non, senon, föhn, ln -->
     <tag name="PRON">5901</tag><!-- se, que, como, o, el, lle, cando, onde, me, nos -->
     <tag name="PROPN">1899</tag><!-- galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet -->
@@ -34,7 +34,7 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="18">
-    <feat name="Definite" value="Def" upos="DET">18475</feat><!-- a, o, os, as, la, los -->
+    <feat name="Definite" value="Def" upos="DET">18474</feat><!-- a, o, os, as, la, los -->
     <feat name="Definite" value="Ind" upos="DET">2039</feat><!-- un, unha, unhas -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,SYM,VERB">234</feat><!-- de, táboa, la, +, 1, 10, 20, 23, 70, Capítulo -->
     <feat name="Gender" value="Fem" upos="DET">285</feat><!-- as, a -->
@@ -42,7 +42,7 @@
     <feat name="Number" value="Sing" upos="DET">118</feat><!-- a -->
     <feat name="Polarity" value="Neg" upos="PART">120</feat><!-- non -->
     <feat name="Poss" value="Yes" upos="DET">923</feat><!-- súa, seu, seus, súas, nosa, noso, nosos, nosas, meu, miña -->
-    <feat name="PronType" value="Art" upos="DET">20518</feat><!-- a, o, os, as, un, unha, unhas, la, el, los -->
+    <feat name="PronType" value="Art" upos="DET">20517</feat><!-- a, o, os, as, un, unha, unhas, la, el, los -->
     <feat name="PronType" value="Dem" upos="DET,PRON">1380</feat><!-- este, esta, estes, estas, isto, ese, aqueles, iso, tal, esa -->
     <feat name="PronType" value="Ind" upos="DET,PRON">1004</feat><!-- outros, mesmo, outra, outras, outro, calquera, algúns, mesma, uns, moitas -->
     <feat name="PronType" value="Int" upos="DET">5</feat><!-- qué -->
@@ -55,39 +55,39 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="34">
-    <dep name="acl">13</dep>
+    <dep name="acl">15</dep>
     <dep name="acl:relcl">57</dep>
-    <dep name="advcl">717</dep>
-    <dep name="advmod">2607</dep>
-    <dep name="amod">10334</dep>
-    <dep name="appos">14</dep>
+    <dep name="advcl">722</dep>
+    <dep name="advmod">2609</dep>
+    <dep name="amod">10335</dep>
+    <dep name="appos">15</dep>
     <dep name="aux">1198</dep>
     <dep name="case">24649</dep>
-    <dep name="cc">4408</dep>
-    <dep name="ccomp">6011</dep>
-    <dep name="compound">148</dep>
-    <dep name="conj">3844</dep>
+    <dep name="cc">4407</dep>
+    <dep name="ccomp">6007</dep>
+    <dep name="compound">146</dep>
+    <dep name="conj">3851</dep>
     <dep name="cop">1540</dep>
     <dep name="csubj">2</dep>
     <dep name="csubj:outer">6</dep>
     <dep name="dep">2304</dep>
     <dep name="det">24058</dep>
-    <dep name="discourse">5</dep>
+    <dep name="discourse">6</dep>
     <dep name="expl:pass">68</dep>
-    <dep name="flat">177</dep>
-    <dep name="iobj">559</dep>
+    <dep name="flat">178</dep>
+    <dep name="iobj">558</dep>
     <dep name="list">3</dep>
     <dep name="mark">1587</dep>
-    <dep name="nmod">16809</dep>
-    <dep name="nsubj">5811</dep>
+    <dep name="nmod">16808</dep>
+    <dep name="nsubj">5708</dep>
     <dep name="nsubj:outer">110</dep>
-    <dep name="nummod">541</dep>
-    <dep name="obj">7111</dep>
-    <dep name="obl">6452</dep>
+    <dep name="nummod">542</dep>
+    <dep name="obj">7154</dep>
+    <dep name="obl">6495</dep>
     <dep name="orphan">1</dep>
-    <dep name="parataxis">4</dep>
+    <dep name="parataxis">5</dep>
     <dep name="punct">13316</dep>
     <dep name="root">3993</dep>
-    <dep name="xcomp">665</dep>
+    <dep name="xcomp">669</dep>
   </deps>
 </treebank>
