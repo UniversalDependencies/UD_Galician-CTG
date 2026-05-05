@@ -34021,7 +34021,7 @@
 4	adolescentes	adolescente	NOUN	NCMP000	_	2	conj	_	Treeler:grup.nom
 5	non	non	PART	RN	_	6	advmod	_	Treeler:mod
 6	existe	existir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-7	non	non	PART	RN	_	6	mark	_	Treeler:suj
+7	non	non	PART	RN	_	6	advmod	_	Treeler:suj
 8	obstante	obstante	ADJ	AQ0CS0	_	7	dep	_	Treeler:cpred
 9	un	un	DET	DI0MS0	Definite=Ind|PronType=Art	10	det	_	Treeler:spec
 10	consenso	consenso	NOUN	NCMS000	_	6	nsubj	_	Treeler:suj
