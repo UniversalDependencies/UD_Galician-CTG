@@ -25983,7 +25983,7 @@
 9	Suecia	suecia	PROPN	NP00000	_	7	conj	_	Treeler:suj
 10	ou	ou	CCONJ	CC	_	11	cc	_	Treeler:coord
 11	Inglaterra	inglaterra	PROPN	NP00000	_	7	conj	_	SpaceAfter=No|Treeler:grup.nom
-12	,	,	PUNCT	Fc	_	9	punct	_	Treeler:f
+12	,	,	PUNCT	Fc	_	16	punct	_	Treeler:f
 13	cal	cal	PRON	PR0CS000	PronType=Rel	16	nsubj	_	Treeler:suj
 14	destes	dar	VERB	VMIS2P0	_	13	nmod	_	Treeler:suj
 15	se	se	PRON	PP3CN000	PronType=Prs|Reflex=Yes	16	obj	_	Treeler:cd
@@ -27095,7 +27095,7 @@
 12	(	(	PUNCT	Fpa	_	13	punct	_	Treeler:f
 13	Pombo	pombo	NOUN	NCMS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 14	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
-15	A.	a.	PROPN	NP00000	_	22	appos	_	Treeler:suj
+15	A.	a.	PROPN	NP00000	_	13	appos	_	Treeler:suj
 16	A.	a.	PROPN	NP00000	_	15	flat	_	SpaceAfter=No|Treeler:suj
 17	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
 18	1999	1999	NUM	Z	_	13	appos	_	SpaceAfter=No|Treeler:sn
