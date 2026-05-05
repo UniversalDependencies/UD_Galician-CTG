@@ -27777,7 +27777,7 @@
 21	,	,	PUNCT	Fc	_	23	punct	_	Treeler:f
 22	esta	este	DET	DD0FS0	PronType=Dem	23	det	_	Treeler:spec
 23	ría	ría	NOUN	NCFS000	_	26	nsubj	_	Treeler:suj
-24	xa	xa	ADV	RG	_	26	advmo	_	Treeler:cc
+24	xa	xa	ADV	RG	_	26	advmod	_	Treeler:cc
 25	é	ser	AUX	VSIP3S0	_	26	aux	_	Treeler:v
 26	considerada	considerar	VERB	VMP00SF	_	13	advcl	_	Treeler:cc
 27	como	como	PRON	PR0CN000	PronType=Rel	28	nmod	_	Treeler:cpred
