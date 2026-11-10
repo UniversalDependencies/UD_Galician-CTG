@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Galician-CTG:
-commit 7b618e9e052212e4347e693243e790ba0d11a123
-Merge: f3c80f7 b7d520d
+commit 574219fccc24b437f5f3b62f2a7e75be4dcd0214
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 12:45:16 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'gl_ctg'
 Language code (from CoNLL-U file name) = 'gl'
